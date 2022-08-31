@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "content/_index.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -129,5 +129,8 @@
     "collapsed": true
   },
   "active": "1a52ab31a4c5c2e5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/notes/Music.md",
+    "content/_index.md"
+  ]
 }
