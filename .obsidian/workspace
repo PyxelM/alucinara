@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/music.md",
+            "file": "content/Languages/Proto-Morellic.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/music.md",
+                "file": "content/Languages/Proto-Morellic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/music.md",
+                "file": "content/Languages/Proto-Morellic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/music.md"
+                "file": "content/Languages/Proto-Morellic.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "97f05c920767361a",
   "lastOpenFiles": [
-    "static/icon.png",
+    "content/music/music.md",
     "content/_index.md",
-    "content/notes/realms/realms.md",
-    "content/notes/music.md",
+    "content/private/private-note.md",
+    "content/realms/realms.md",
+    "content/templates/post.md",
+    "tags/location.md",
+    "static/icon.png",
     "CODE_OF_CONDUCT.md",
     "screenshot.png",
-    "README.md",
-    "content/notes/post.md",
-    "content/templates/post.md",
-    "quartz/notes/music.md"
+    "README.md"
   ]
 }
