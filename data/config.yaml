@@ -1,4 +1,4 @@
-name: Mylo Hodges
+name: Mylo J. Hodges
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,13 +11,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/PyxelM/alucinara
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Documentation for Mylo Hodges' book, Alucinara.
+  Documentation for Mylo J. Hodges' book, Alucinara.
 page_title:
-  "🍄 Alucinara"
+  "Alucinara"
 links:
   - link_name: Youtube
     link: https://www.youtube.com/channel/UC-83oShBjl-0oR57dzvza2g
