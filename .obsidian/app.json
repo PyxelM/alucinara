@@ -4,5 +4,6 @@
   "spellcheck": true,
   "showLineNumber": true,
   "newLinkFormat": "absolute",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "static"
 }
