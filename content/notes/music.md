@@ -1,5 +1,8 @@
 ---
 title: Music
+tags:
+- music
+- stories
 ---
 
 ## Music of Alucinara
