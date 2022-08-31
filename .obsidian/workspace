@@ -11,7 +11,7 @@
           "state": {
             "file": "content/_index.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -130,12 +130,12 @@
   },
   "active": "97f05c920767361a",
   "lastOpenFiles": [
-    "static/icon.png",
-    "content/_index.md",
     "content/notes/music.md",
-    "content/notes/Untitled.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
+    "content/_index.md",
+    "static/icon.png",
+    "content/notes/Untitled.md",
     "quartz/notes/music.md",
     "content/private/private-note.md",
     "content/templates/post.md",
