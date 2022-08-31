@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/Realms/realms.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Realms/realms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Realms/realms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Realms/realms.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "97f05c920767361a",
+  "active": "5960c51bb07a38a4",
   "lastOpenFiles": [
     "content/notes/music.md",
-    "README.md",
-    "CODE_OF_CONDUCT.md",
-    "content/_index.md",
+    "content/notes/Realms/realms.md",
     "static/icon.png",
-    "content/notes/Untitled.md",
-    "quartz/notes/music.md",
-    "content/private/private-note.md",
+    "CODE_OF_CONDUCT.md",
+    "screenshot.png",
+    "README.md",
+    "content/_index.md",
+    "content/notes/post.md",
     "content/templates/post.md",
-    "screenshot.png"
+    "quartz/notes/music.md"
   ]
 }
