@@ -2,4 +2,4 @@ Alucinara is a book I have been working on since its conception in November of 2
 
 ## Links:
 - [Music](notes/music.md)
-- [Realms](content/notes/realms/realms.md)
+- [Realms](notes/realms/realms.md)

@@ -15,9 +15,9 @@ GitHubLink: https://github.com/PyxelM/alucinara
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Documentation for Mylo J. Hodges' book, Alucinara.
+  Alucinara is a book created by Pyxel, or, Mylo Hodges. book.pyxelm.xyz is the documentation of this book, and thus features articles about the many locations, characters, foods, languages, and realms of this book's universe.
 page_title:
-  "Alucinara"
+  "🍄 Alucinara"
 links:
   - link_name: Youtube
     link: https://www.youtube.com/channel/UC-83oShBjl-0oR57dzvza2g
