@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/music.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/music.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/music.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/music.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "97f05c920767361a",
   "lastOpenFiles": [
-    "content/notes/Untitled.md",
     "content/notes/music.md",
     "content/_index.md",
+    "content/notes/Untitled.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
     "quartz/notes/music.md",
