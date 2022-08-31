@@ -3,4 +3,4 @@
 Baby Meadow is a book I have been working on since its conception in November of 2021 in a creative writing mock-test.
 
 ### Index:
-[Music](obsidian://open?vault=quartz&file=content%2Fnotes%2FMusic)
+[[Music]]

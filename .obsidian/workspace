@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "content/_index.md",
-            "mode": "preview",
+            "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -131,6 +132,9 @@
   "active": "1a52ab31a4c5c2e5",
   "lastOpenFiles": [
     "content/notes/Music.md",
+    "screenshot.png",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
     "content/_index.md"
   ]
 }
