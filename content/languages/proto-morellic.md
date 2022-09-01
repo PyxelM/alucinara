@@ -1,5 +1,5 @@
 ---
-title: "Proto Morellic"
+title: "Proto-Morellic"
 tags:
 - languages
 - history
@@ -12,7 +12,7 @@ Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken 7,000 years
 (C)(S)V(V)(C)
 
 #### Consonants
-Consonants|Labial|Alveolar|PostAlveolar|Palatal|Velar
+Consonants|Labial|Alveolar|Post Alveolar|Palatal|Velar
 ---|---|---|---|---|---
 Nasal|m|n|||ŋ
 Plosive|p b|t d||c̠ ɟ̠|k g

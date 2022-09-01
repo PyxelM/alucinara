@@ -1,5 +1,5 @@
 ---
-title: "Proto Snixian"
+title: "Proto-Snixian"
 tags:
 - languages
 - history
@@ -15,7 +15,7 @@ Proto-Snixian `Proto-Snixian: /t͡ʃé:sòn épā:ɫìç/` was spoken 8,500
 Penultimate Stress
 
 #### Consonants
-Consonants|Labial|Alveolar|PostAlveolar|Palatal|Velar
+Consonants|Labial|Alveolar|Post Alveolar|Palatal|Velar
 ---|---|---|---|---|---
 Nasal|m|n||ɲ|ŋ
 Plosive|p b|t d||c ɟ|k g
