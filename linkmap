@@ -1,9 +1,10 @@
-/languages/proto-morellic/index.{html} /languages/proto-morellic/
-/languages/proto-snixian/index.{html} /languages/proto-snixian/
-/realms/0th-realm/index.{html} /realms/0th-realm/
-/realms/realms/index.{html} /realms/realms/
 /index.html /
-/music/music/index.{html} /music/music/
+/languages/languages/index.{html} /languages/languages/
+/languages/morellic/proto-morellic/index.{html} /languages/morellic/proto-morellic/
 /realms/-3rd-realm/index.{html} /realms/-3rd-realm/
-/realms/2nd-realm/index.{html} /realms/2nd-realm/
+/realms/0th-realm/index.{html} /realms/0th-realm/
 /realms/infra-essence/index.{html} /realms/infra-essence/
+/realms/realms/index.{html} /realms/realms/
+/languages/snixian/proto-snixian/index.{html} /languages/snixian/proto-snixian/
+/music/music/index.{html} /music/music/
+/realms/2nd-realm/index.{html} /realms/2nd-realm/
