@@ -13,4 +13,4 @@ Thirrist Plants start out as 1 of 3 seeds contained in the centre of a Thirrist 
 
 Beginning as orange-yellow flowers, once pollinated, these flowers grow into green fruits. While the three seeds grow, the fruits will take advantage of [Alucinara Magic](alucinara/alucinarium.md) in order to stun with a sudden flash of light and stop enemies from eating, defecating and spreading the seeds before they are ready to grow.
 
-Once ready, however, the fruits' colour will change as carotene floods the skin. Not ony does this make the fruits more nutritious, benefiting the seed that will be spread with the nutrients from its flesh, but it also alerts herbivores that the seeds are ready to eat and ultimately spread.
+Once ready, however, the fruits' colour will change as carotene floods the skin. Not ony does this make the fruits more nutritious, benefiting the seed that will be spread with the nutrients from its flesh, but it also alerts herbivores that the seeds are ready to eat and ultimately spread.$ rm -rf /usr/local/go && tar -C /usr/local -xzf go1.19.linux-amd64.tar.gz
