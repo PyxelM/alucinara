@@ -5,7 +5,7 @@ tags:
 - history
 - morellic
 ---
-Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken 7,000 years before the present, by the Cervina-Rohitan peoples.
+Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken in 7,000YA, by the Cervina-Rohitan peoples.
 
 # Phonology
 ## Syllable Structure
