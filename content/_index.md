@@ -11,4 +11,4 @@ Press [here](https://www.pyxelm.xyz/) in order to return to the main website.
 - [Music](music/music.md)
 - [Realms](realms/realms.md)
 - [Locations](tags/locations)
-- [Languages](tags/languages)
+- [Languages](languages/languages.md)
