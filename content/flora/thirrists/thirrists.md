@@ -6,7 +6,7 @@ tags:
 - flora
 ---
 
-Thirrists are small tri-segmented citrus fruits of the realm of [2°e](realms/2nd-realm.md).
+Thirrists are small tri-segmented citrus fruits of the realm of [2°e](locations/2nd-realm/2nd-realm.md).
 
 # Growth
 Thirrist Plants start out as 1 of 3 seeds contained in the centre of a Thirrist fruit and, once in the ground, begin to germinate - eventually becoming short, wide trees.

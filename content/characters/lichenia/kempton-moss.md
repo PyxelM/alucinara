@@ -9,7 +9,7 @@ Kempton Moss, born in 65[YA](timeline/years-ago.md), was notably the founder of 
 
 He amassed a great following and, in 45 YA, founded the Afortuitites - a group dedicated to urging the discontinued use of [Alucinara Magic](alucinara/alucinarium.md).
 
-When their movement caused *no* change, however, Kempton decided to do drastic things - he would remove his own [Fortuitary Gland](fauna/biology/fortuitary-gland.md), urge his followers to do similarly, and subsequently exodus to the siberian forests of [0°e](realms/0th-realm.md) with his group, founding the settlement of [Lichenia](cultures/lichenian/lichenia.md).
+When their movement caused *no* change, however, Kempton decided to do drastic things - he would remove his own [Fortuitary Gland](fauna/biology/fortuitary-gland.md), urge his followers to do similarly, and subsequently exodus to the siberian forests of [0°e](locations/0th-realm.md) with his group, founding the settlement of [Lichenia](cultures/lichenian/lichenia.md).
 
 This was not without opposition, however - it was decreed that if any afortuitite were to return to Morelland, they would [have their tails removed](cultures/morellic/tail-removal.md) - a humiliating disfigurement.
 
