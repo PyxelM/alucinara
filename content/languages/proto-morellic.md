@@ -36,11 +36,12 @@ Low||ä|
 - **Octal** counting system
 
 ## Descendants
- - Old Sarvaran
-	 - Sarvaran
+- Proto-Morellic `/s̠äˈbʱä.z̠ɛç̠/`
+	 - Old Sarvaran
+	 - Sarvaran `/sɑˈʋɑ́.ɾa/`
 		 - Old Stonechild
-			 - Stonechild Imperial
+			 - Stonechild Imperial `/sɑˈʋɑ́/`
 				 - Old Morellic
 					 - Modern Morellic
-- Old Krsan
-- Old Ettrian
+	- Old Krsan
+	- Old Ettrian
