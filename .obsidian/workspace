@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/Languages/Proto-Morellic.md",
+            "file": "content/private/private-note.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Languages/Proto-Morellic.md",
+                "file": "content/private/private-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Languages/Proto-Morellic.md",
+                "file": "content/private/private-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Languages/Proto-Morellic.md"
+                "file": "content/private/private-note.md"
               }
             }
           }
@@ -130,15 +131,15 @@
   },
   "active": "97f05c920767361a",
   "lastOpenFiles": [
-    "content/music/music.md",
+    "content/languages/proto-Morellic.md",
     "content/_index.md",
-    "content/private/private-note.md",
     "content/realms/realms.md",
+    "content/private/private-note.md",
     "content/templates/post.md",
+    "content/music/Untitled.md",
+    "content/music/music.md",
+    "content/notes/Untitled.md",
     "tags/location.md",
-    "static/icon.png",
-    "CODE_OF_CONDUCT.md",
-    "screenshot.png",
-    "README.md"
+    "static/icon.png"
   ]
 }
