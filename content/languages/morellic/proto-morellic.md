@@ -7,11 +7,14 @@ tags:
 ---
 Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken 7,000 years before the present, by the Cervina-Rohitan peoples.
 
-## Phonology
-#### Syllable Structure
+# Phonology
+## Syllable Structure
 (C)(S)V(V)(C)
 
-#### Consonants
+## Features
+Penultimate Stress
+
+### Consonants
 Consonants|Labial|Alveolar|Post Alveolar|Palatal|Velar
 ---|---|---|---|---|---
 Nasal|m|n|||ŋ
@@ -20,7 +23,7 @@ Plosive (breathy)|bʱ|dʱ||ɟ̠ʱ|gʱ
 Fricative|f v|s̠ z̠|ʃ ʒ|ç|x ɣ
 Sonorant|w|l r||j|
 
-#### Vowels
+### Vowels
 Vowel|Front|Central|Back
 ---|---|---|---
 High|i||u

@@ -4,5 +4,5 @@ tags:
 - locations
 - realms
 ---
-## The 2nd Realm
+# The 2nd Realm
 2°e, the 2nd [ultra-essent](realms/infra-essence.md) realm,

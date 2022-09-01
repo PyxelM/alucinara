@@ -7,14 +7,14 @@ tags:
 ---
 Proto-Snixian `Proto-Snixian: /t͡ʃé:sòn épā:ɫìç/` was spoken 8,500 years before the present, by the Proto-Snixian peoples.
 
-## Phonology
-#### Syllable Structure
+# Phonology
+## Syllable Structure
 (C)V(C)
 
-#### Features
+## Features
 Penultimate Stress
 
-#### Consonants
+### Consonants
 Consonants|Labial|Alveolar|Post Alveolar|Palatal|Velar
 ---|---|---|---|---|---
 Nasal|m|n||ɲ|ŋ
@@ -24,7 +24,7 @@ Fricative|ɸ β|s z ɬ|ʃ ʒ|ç ʝ|x ɣ
 Sonorant|w|l ɾ||j|
 Blends|dβ|sn|||
 
-#### Vowels
+### Vowels
 Vowel|Front|Central|Back
 ---|---|---|---
 High|í ì ī||

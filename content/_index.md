@@ -10,5 +10,5 @@ Press [here](https://www.pyxelm.xyz/) in order to return to the main website.
 ## Links:
 - [Music](music/music.md)
 - [Realms](realms/realms.md)
-- [Locations](tags/locations)
 - [Languages](languages/languages.md)
+- [Food](food/food.md)
