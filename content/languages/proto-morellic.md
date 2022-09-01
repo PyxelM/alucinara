@@ -38,10 +38,10 @@ Low||ä|
 ## Descendants
 - Proto-Morellic `/s̠äˈbʱä.z̠ɛç̠/`
 	 - Old Sarvaran
-	 - Sarvaran `/sɑˈʋɑ́.ɾa/`
-		 - Old Stonechild
-			 - Stonechild Imperial `/sɑˈʋɑ́/`
-				 - Old Morellic
-					 - Modern Morellic
+		 - Sarvaran `/sɑˈʋɑ́.ɾa/`
+			 - Old Stonechild
+				 - Stonechild Imperial `/sɑˈʋɑ́/`
+					 - Old Morellic
+						 - Modern Morellic
 	- Old Krsan
 	- Old Ettrian
