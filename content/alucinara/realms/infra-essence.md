@@ -21,11 +21,15 @@ Realm-hopping (Formally referred to as [Essential Shift](alucinara/realms/essent
 ---
 # Names
 ## Infra-Essence
-[Proto-Morellic](languages/morellic/proto-morellic.md): *Feuantali* `/fɛ.wänˈtä.li/` 
-[Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Fawęltálla* `/fa.wẽlˈtá.ɬa/` 
+[Proto-Morellic](languages/morellic/proto-morellic.md): *Feuantali* `/fɛ.wänˈtä.li/`
+
+[Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Fawęltálla* `/fa.wẽlˈtá.ɬa/`
+
 [Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *Fawętlá* `/fa.wẽˈt͡ɬá/`
 
 ## Ultra-Essence
-[Proto-Morellic](languages/morellic/proto-morellic.md): *Toiantali* `/tɔ.jänˈtä.li/` 
-[Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Twozhęltálla* `/tʷɔ.ʒẽlˈtá.ɬa/` 
+[Proto-Morellic](languages/morellic/proto-morellic.md): *Toiantali* `/tɔ.jänˈtä.li/`
+
+[Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Twozhęltálla* `/tʷɔ.ʒẽlˈtá.ɬa/
+
 [Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *Twozhętlá* `/tʷo.ʒẽˈt͡ɬá/`
