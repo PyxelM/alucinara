@@ -21,7 +21,7 @@ Nasal|m|n|||ŋ
 Plosive|p b|t d||c̠ ɟ̠|k g
 Plosive (breathy)|bʱ|dʱ||ɟ̠ʱ|gʱ
 Fricative|f v|s̠ z̠|ʃ ʒ|ç|x ɣ
-Sonorant|w|l r||j|
+Sonorant||l r||j|w
 
 ### Vowels
 Vowel|Front|Central|Back
@@ -39,12 +39,12 @@ Low||ä|
 - **Octal** counting system
 
 ## Descendants
-- Proto-Morellic `/s̠äˈbʱä.z̠ɛç̠/`
+- [Proto-Morellic](languages/morellic/proto-morellic.md) `/s̠äˈbʱä.z̠ɛç̠/`
 	 - Old Sarvaran
-		 - Sarvaran `/sɑˈʋɑ́.ɾa/`
+		 - [Sarvaran](languages/morellic/sarvaran/sarvaran.md) `/sɑˈʋɑ́.ɾa/`
 			 - Old Stonechild
-				 - Stonechild Imperial `/sɑˈʋɑ́/`
+				 - [Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md) `/sɑˈʋɑ́/`
 					 - Old Morellic
-						 - Modern Morellic
+						 - [Modern Morellic](languages/morellic/sarvaran/stonechild-imperial/modern-morellic/modern-morellic.md)
 	- Old Krsan
 	- Old Ettrian

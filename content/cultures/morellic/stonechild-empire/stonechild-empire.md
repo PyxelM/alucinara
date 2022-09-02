@@ -8,4 +8,4 @@ tags:
 ---
 
 # Language
-The lingua franca of the Empire of the Petrified Child was [Stonechild Imperial](languages/morellic/stonechild-imperial/stonechild-imperial.md).
+The lingua franca of the Empire of the Petrified Child was [Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md).

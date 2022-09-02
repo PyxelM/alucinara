@@ -9,7 +9,7 @@ Phantasmarrhoea is an illness caused by prolonged or sudden exposure to Alucinar
 
 # Symptoms
 Symptoms of Phantasmarrhoea include;
-- Alucinarium crystals growing on skin
+- [Alucinarium crystals](alucinara/alucinarium.md) growing on skin
 - Irritability / Violence
 - Psychosis
 - Hallucinations

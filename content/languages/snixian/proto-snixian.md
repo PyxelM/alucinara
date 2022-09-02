@@ -21,7 +21,7 @@ Nasal|m|n||ɲ|ŋ
 Plosive|p b|t d||c ɟ|k g
 Plosive (affricate)||t͡s d͡z|t͡ʃ d͡ʒ||
 Fricative|ɸ β|s z ɬ|ʃ ʒ|ç ʝ|x ɣ
-Sonorant|w|l ɾ||j|
+Sonorant||l ɾ||j|w
 Blends|dβ|sn|||
 
 ### Vowels

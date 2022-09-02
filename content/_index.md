@@ -9,7 +9,7 @@ Press [here](https://www.pyxelm.xyz/) in order to return to the main website.
 
 ## Links:
 - [Music](music/music.md)
-- [Realms](locations/realms.md)
+- [Realms](alucinara/realms/realms.md)
 - [Locations](tags/locations)
 - [Languages](tags/languages)
-- [Food](food/food.md)
+- [Characters](tags/characters)
