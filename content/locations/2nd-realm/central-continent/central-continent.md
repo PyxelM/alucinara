@@ -14,4 +14,4 @@ The central continent of [2°e](locations/2nd-realm/2nd-realm.md) is home to [Sn
 
 [Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Epahtäýra* `/e.paxˈtɑ́ý̯.ɾa/`
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): *Ebätaí* `/e.bɑ.ˈtáí̯/`
+[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *Ebätaí* `/e.bɑ.ˈtáí̯/`

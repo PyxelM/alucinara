@@ -11,4 +11,4 @@ tags:
 
 [Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Fýra Edrą́da* `/ˈfý.ɾa eˈdɾã́.da/`
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): *Fý Eját* `/ˈfý eˈd̠͡ʒát/`
+[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *Fý Eját* `/ˈfý eˈd̠͡ʒát/`

@@ -18,4 +18,4 @@ Alucinarium is used by many organisms for many reasons. Some plant and animal sp
 
 [Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Ellohkį́dä* `/e.ɬɔxˈkĩ́.dɑ/`
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): *Edho'ít* `/e.ðo.ˈʔít/`
+[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *Edho'ít* `/e.ðo.ˈʔít/`

@@ -11,4 +11,4 @@ tags:
 
 [Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Nö́pla Zhýra Edrą́da* `/ˈnǿ.pla ˈʒý.ɾa eˈdɾã́.da/`
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): *Nḯpla Zhý Eját* `/ˈnɪ́.pla ˈʒý eˈd̠͡ʒát/`
+[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *Nḯpla Zhý Eját* `/ˈnɪ́.pla ˈʒý eˈd̠͡ʒát/`

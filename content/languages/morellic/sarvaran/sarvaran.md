@@ -5,11 +5,11 @@ tags:
 - history
 - morellic
 ---
-Sarvaran `Sarvaran: /sɑˈʋɑ́.ɾa/` was spoken in 5,500YA, by the [Sarvaran Civilisation](cultures/morellic/sarvara/sarvara.md). It descended from [Proto-Morellic](languages/morellic/proto-morellic.md) and so is part of the [Morellic Language Family](languages/morellic/morellic-family.md).
+Sarvaran `Sarvaran: /sɑˈʋɑ́.ɾa/` was spoken in 6,500YA, by the [Sarvaran Civilisation](cultures/morellic/sarvara/sarvara.md). It descended from [Proto-Morellic](languages/morellic/proto-morellic.md) and so is part of the [Morellic Language Family](languages/morellic/morellic-family.md).
 
 # Phonology
 ## Syllable Structure
-(C)(L)(V)(V)(C)(C)
+(C)(L)V(V)(C)(C)
 
 ### Consonants
 Consonants|Labial|Alveolar|Post Alveolar|Velar

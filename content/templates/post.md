@@ -10,4 +10,4 @@ tags:
 
 [Sarvaran](languages/morellic/sarvaran/sarvaran.md): ** `//`
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): ** `//`
+[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): ** `//`

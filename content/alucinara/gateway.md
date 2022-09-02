@@ -14,4 +14,4 @@ Alucinara Gateways are often created by depositing Alucinarium onto a location, 
 
 [Sarvaran](languages/morellic/sarvaran/sarvaran.md): *kllęboęnyí* `/kɬẽ.bɔẽ̯ˈnýí̯/`
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): *lęboęnyí* `/lẽ.boẽ̯ˈnýí̯/`
+[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *lęboęnyí* `/lẽ.boẽ̯ˈnýí̯/`
