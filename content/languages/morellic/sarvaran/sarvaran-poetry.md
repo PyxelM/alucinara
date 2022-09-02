@@ -9,11 +9,16 @@ tags:
 # Prosody
 Poetry in Sarvaran commonly follows a Quantitative-Accentual-Syllabic structure, being grouped into segments of 6 syllables.
 
-`[Long Vowel -Stress A]` 
-`[Short Vowel +Stress B]` 
-`[Short Vowel -Stress C]` 
-`[Long Vowel +Stress A]` 
-`[Short Vowel -Stress D]` 
+`[Long Vowel -Stress A]`
+
+`[Short Vowel +Stress B]`
+
+`[Short Vowel -Stress C]`
+
+`[Long Vowel +Stress A]`
+
+`[Short Vowel -Stress D]`
+
 `[Short Vowel +Stress E]` 
 
 This means that each segment follows an ABCADE rhyming structure, requiring the 1st and 4th syllable to rhyme while all other syllables do not have to rhyme; in addition, the 1st and 4th syllables are required to have long vowels. The 2nd, 4th, and 6th syllables are required to be stressed.
@@ -22,14 +27,14 @@ This means that each segment follows an ABCADE rhyming structure, requiring the 
 "I wish to be *the tree*, but the petrified child will not allow it."
 
 ## Nonpoetic: 
-íhdwo lédwo swýra *swýbes epazhódez* sé swý feóldwo swýba arryýzha azhódes
+íhdwo lédwo swýra *swýbes epazhódes* sé swý feóldwo swýba arryýzha azhódes
 
 /ˈíx.dʷɔ ˈlé.dʷɔ ˈsʷý.ɾa ˈsʷỹ́.bes e.paˈʒɔ̃́.des ˈsé ˈsʷý ˈféɔ̯̃́l.dʷɔ ˈsʷỹ́.bɑ ɑ.ˈɾːýː.ʒɑ a.ˈʒɔ̃́.des/
 
 `hope.VOL.NPST be.VOL.NPST 1.SG.NOM DEF.SG.ACC tree.SG.ACC but NEG allow.VOL.NPST DEF.SG.NOM steyha.SG.NOM 3.SG.ACC`
 
 ## Poetic
-**naa** íh.dwo le**é**.dwo swý|ra**a** swý.bes **eé**.pa.zhó|da**a**s sé sw**y** feól.dwo swý|ba**a** **á**rr**y**. zh**aá** a.zhó|da**a**s
+**naa** íhdwo le**é**dwo swýra**a** *swýbes **eé**pazhóda**a**s* sé sw**y** feóldwo swýba**a** **á**rr**y** zh**aá** azhóda**a**s
 
 /**naː** ˈíx.dʷɔ ˈlé**ː**.dʷɔ ˈsʷý|ɾa**ː** ˈsʷỹ́.bes **ˈ**e**ː**.paˈʒɔ̃́|da**ː**s ˈsé sʷ**y** ˈféɔ̯̃́l.dʷɔ ˈsʷỹ́|b**aː** **ˈ**ɑ.ɾː**y**ˈʒɑ**ː** aˈʒɔ̃́|da**ː**s/
 
