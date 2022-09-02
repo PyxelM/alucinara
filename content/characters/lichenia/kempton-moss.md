@@ -17,6 +17,6 @@ It was at Lichenia that [Fungula Moss](characters/lichenia/fungula-moss.md), the
 
 ---
 # Names
-[Proto-Morellic](languages/morellic/proto-morellic.md): *Kemtoni* `/kɛm.tɔ.ni/
+[Proto-Morellic](languages/morellic/proto-morellic.md): *Kemtoni* `/kɛm.tɔ.ni/`
 [Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Kǫ̈mtǫde* `/kø̃m.ˈtõ.de/`
 [Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): *'ǫ̈twot* `/ʔø̃.ˈtʷót/`

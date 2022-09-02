@@ -14,6 +14,6 @@ The colour of Alucinarium is debated, as it changes in hue when executing differ
 Alucinarium is used by many organisms for many reasons. Some plant and animal species have evolved to use it in order to stun predators with a bright flash of light when disturbed, and some [infra-essent](alucinara/realms/infra-essence.md) entities have evolved to use it in order to pull prey into their grasp by altering gravitational energy.
 
 # Names
-[Proto-Morellic](languages/morellic/proto-morellic.md): *Aluhkinar* `/ä.luç̠ˈki.när/
+[Proto-Morellic](languages/morellic/proto-morellic.md): *Aluhkinar* `/ä.luç̠ˈki.när/`
 [Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Ellohkį́dä* `/e.ɬɔxˈkĩ́.dɑ/`
 [Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): *Edho'ít* `/e.ðo.ˈʔít/`
