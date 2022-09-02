@@ -14,3 +14,9 @@ When their movement caused *no* change, however, Kempton decided to do drastic t
 This was not without opposition, however - it was decreed that if any afortuitite were to return to Morelland, they would [have their tails removed](cultures/morellic/tail-removal.md) - a humiliating disfigurement.
 
 It was at Lichenia that [Fungula Moss](characters/lichenia/fungula-moss.md), the daughter of Kempton and [Florifera Moss](characters/lichenia/florifera-moss.md), was born.
+
+---
+# Names
+[Proto-Morellic](languages/morellic/proto-morellic.md): *Kemtoni* `/kɛm.tɔ.ni/
+[Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Kǫ̈mtǫde* `/kø̃m.ˈtõ.de/`
+[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): *'ǫ̈twot* `/ʔø̃.ˈtʷót/`
