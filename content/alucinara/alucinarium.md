@@ -15,5 +15,7 @@ Alucinarium is used by many organisms for many reasons. Some plant and animal sp
 
 # Names
 [Proto-Morellic](languages/morellic/proto-morellic.md): *Aluhkinar* `/ä.luç̠ˈki.när/`
+
 [Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Ellohkį́dä* `/e.ɬɔxˈkĩ́.dɑ/`
+
 [Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonehild-imperial.md): *Edho'ít* `/e.ðo.ˈʔít/`

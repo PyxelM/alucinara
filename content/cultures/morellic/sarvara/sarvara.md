@@ -10,7 +10,7 @@ The Sarvaran Civilisation existed around 7,000YA, and spoke [Sarvaran](languages
 
 # Notable People
 ## Hastini the Elephant
-Hastini the Elephant `Sarvaran: Hestį́da /xesˈtĩ́.da/`was a Sarvaran general who was known to wear a copper elephant mask over his mouth. This amplified his voice, and led to the depiction that he was taller than his compatriots and even had the head of an elephant himself, although these were exaggerations or erroneous.
+Hastini the Elephant `Sarvaran: Hestį́da /xesˈtĩ́.da/` was a Sarvaran general who was known to wear a copper elephant mask over his mouth. This amplified his voice, and led to the depiction that he was taller than his compatriots and even had the head of an elephant himself, although these were exaggerations or erroneous.
 
 ## Dhanakai the Sabre-toothed
 Dhanakai the Sabre-toothed `Sarvaran: Zędákea /zẽˈdá.kea̯/` was a Sarvaran king regarded as a despot. He was known to glue the mouths of dissidents shut with the naturally occurring adhesive of the [Silkvine Plant](flora/silkvine/silkvine.md) and leave them to starve.

@@ -1,12 +1,10 @@
 ---
-title: "Infra-essence"
+title: "Infra-essence and Ultra-Essence"
 tags:
 - phenomena
 - realms
 - alucinara
 ---
-
-# Infra-essence and Ultra-essence
 Infra-essence and Ultra-essence are the names given to the phenomena of places, objects, and entities existing within the many [realms](alucinara/realms/realms.md) of [Alucinara](/_index.md).
 
 ## Terminology
