@@ -22,6 +22,7 @@ Plosive|p b|t d||c̠ ɟ̠|k g
 Plosive (breathy)|bʱ|dʱ||ɟ̠ʱ|gʱ
 Fricative|f v|s̠ z̠|ʃ ʒ|ç̠|x ɣ
 Sonorant||l r||j|w
+
 *Palatal consonants are allophones of velars in coda position.*
 
 ### Vowels
