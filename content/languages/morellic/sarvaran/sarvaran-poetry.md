@@ -19,10 +19,10 @@ Poetry in Sarvaran commonly follows a Quantitative-Accentual-Syllabic structure,
 This means that each segment follows an ABCADE rhyming structure, requiring the 1st and 4th syllable to rhyme while all other syllables do not have to rhyme; in addition, the 1st and 4th syllables are required to have long vowels. The 2nd, 4th, and 6th syllables are required to be stressed.
 
 # Example
-"I wish to be the tree, but the petrified child will not allow it."
+"I wish to be *the tree*, but the petrified child will not allow it."
 
 ## Nonpoetic: 
-íhdwo lédwo swýra swýbes epazhódez sé swý feóldwo swýba arryýzha azhódes
+íhdwo lédwo swýra *swýbes epazhódez* sé swý feóldwo swýba arryýzha azhódes
 
 /ˈíx.dʷɔ ˈlé.dʷɔ ˈsʷý.ɾa ˈsʷỹ́.bes e.paˈʒɔ̃́.des ˈsé ˈsʷý ˈféɔ̯̃́l.dʷɔ ˈsʷỹ́.bɑ ɑ.ˈɾːýː.ʒɑ a.ˈʒɔ̃́.des/
 
