@@ -1,7 +1,6 @@
 ---
 title: "Infra-essence and Ultra-Essence"
 tags:
-- phenomena
 - realms
 - alucinara
 ---
@@ -16,20 +15,20 @@ Infra-essent phenomena tend to be more dangerous than Ultra-essent phenomena, al
 It is not known for sure why the universe was divided into the seemingly infinite amount of realms but, in the [Ancient Morellic Religion](cultures/morellic/religions/amr.md), it was believed that the Great Tree caused this division as part of its divine plan to create, and was subsequently populated by the Great Tree's children.
 
 ## Use
-Realm-hopping (Formally referred to as [Essential Shift](alucinara/realms/essential-shift.md)) is the name given to the action of moving between realms. This is achieved through the use of an [Alucinara Gateway](alucinara/gateway.md). Essential Shift is also a symptom of [Phantasmarrhoea](illnesses/phantasmarrhoea.md).
+Realm-hopping (Formally referred to as [Essential Shift](alucinara/realms/essential-shift.md)) is the name given to the action of moving between realms. This is achieved through the use of an [Alucinara Gateway](alucinara/realms/gateway.md). Essential Shift is also a symptom of [Phantasmarrhoea](illnesses/phantasmarrhoea.md).
 
 ---
 # Names
 ## Infra-Essence
-[Proto-Morellic](languages/morellic/proto-morellic.md): *Feuantali* `/fɛ.wänˈtä.li/`
+Proto-Morellic: *Feuantali* `/fɛ.wänˈtä.li/`
 
-[Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Fawęltálla* `/fa.wẽlˈtá.ɬa/`
+Sarvaran: *Fawęltálla* `/fa.wẽlˈtá.ɬa/`
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *Fawętlá* `/fa.wẽˈt͡ɬá/`
+Stonechild Imperial: *Fawętlá* `/fa.wẽˈt͡ɬá/`
 
 ## Ultra-Essence
-[Proto-Morellic](languages/morellic/proto-morellic.md): *Toiantali* `/tɔ.jänˈtä.li/`
+Proto-Morellic: *Toiantali* `/tɔ.jänˈtä.li/`
 
-[Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Twozhęltálla* `/tʷɔ.ʒẽlˈtá.ɬa/
+Sarvaran: *Twozhęltálla* `/tʷɔ.ʒẽlˈtá.ɬa/
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *Twozhętlá* `/tʷo.ʒẽˈt͡ɬá/`
+Stonechild Imperial: *Twozhętlá* `/tʷo.ʒẽˈt͡ɬá/`

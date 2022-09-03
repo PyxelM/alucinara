@@ -2,7 +2,6 @@
 title: "Proto-Snixian"
 tags:
 - languages
-- history
 - snixian
 ---
 Proto-Snixian `Proto-Snixian: /t͡ʃé:sòn épā:ɫìç/` was spoken 8,500 years before the present, by the Proto-Snixian peoples.

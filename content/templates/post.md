@@ -6,8 +6,8 @@ tags:
 
 ---
 # Names
-[Proto-Morellic](languages/morellic/proto-morellic.md): ** `//`
+Proto-Morellic: ** `//`
 
-[Sarvaran](languages/morellic/sarvaran/sarvaran.md): ** `//`
+Sarvaran: ** `//`
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): ** `//`
+Stonechild Imperial: ** `//`

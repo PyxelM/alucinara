@@ -1,7 +1,7 @@
 ---
 title: "Morellic Culture"
 tags:
-- Morellic
-- Cultures
+- morellic
 ---
 [Tail Removal](cultures/morellic/tail-removal.md)
+

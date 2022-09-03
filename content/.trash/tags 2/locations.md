@@ -1,5 +1,0 @@
----
-title: "Locations"
-tags:
-- locatons
----

@@ -1,8 +1,7 @@
 ---
 title: "Morelland"
 tags:
+- morellic
 - locations
-- states
-- factions
 - 2°e
 ---

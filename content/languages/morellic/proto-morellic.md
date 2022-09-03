@@ -2,7 +2,6 @@
 title: "Proto-Morellic"
 tags:
 - languages
-- history
 - morellic
 ---
 Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken in 7,000YA, by the Cervina-Rohitan peoples.
@@ -23,14 +22,14 @@ Plosive (breathy)|bʱ|dʱ||ɟ̠ʱ|gʱ
 Fricative|f v|s̠ z̠|ʃ ʒ|ç̠|x ɣ
 Sonorant||l r||j|w
 
-*Palatal consonants are allophones of velars in coda position.*
+`*`Palatal consonants are allophones of velars in coda position.
 
 ### Vowels
 Vowel|Front|Central|Back
----|---|---|---
-High|i||u
-Mid|ɛ||ɔ
-Low||ä|
+-----|-----|-------|----
+High |i    |       |u
+Mid  |ɛ    |       |ɔ
+Low  |     |ä      |
 
 ## Typology
 - Verb-Subject-Object

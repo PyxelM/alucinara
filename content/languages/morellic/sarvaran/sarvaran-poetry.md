@@ -1,10 +1,8 @@
 ---
 title: "Sarvaran Poetry"
 tags:
-- poetry
-- morellic
 - sarvaran
-- languages
+- poetry
 ---
 # Prosody
 Poetry in Sarvaran commonly follows a Quantitative-Accentual-Syllabic structure, being grouped into segments of 6 syllables.
@@ -43,8 +41,8 @@ íhdwo lédwo swýra *swýbes epazhódes* sé swý feóldwo swýba arry
 
 ---
 # Names
-[Proto-Morellic](languages/morellic/proto-morellic.md): *Sezanfilai* `/s̠ɛ.z̠änˈfi.läi̯/`
+Proto-Morellic: *Sezanfilai* `/s̠ɛ.z̠änˈfi.läi̯/`
 
-[Sarvaran](languages/morellic/sarvaran/sarvaran.md): *Syręmfíllea* `/sy.ɾẽmˈfí.ɬea̯/`
+Sarvaran: *Syręmfíllea* `/sy.ɾẽmˈfí.ɬea̯/`
 
-[Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md): *Sïręfídhea* `/sɪ.rẽˈfí.ðea̯/`
+Stonechild Imperial: *Sïręfídhea* `/sɪ.rẽˈfí.ðea̯/`

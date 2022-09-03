@@ -2,7 +2,6 @@
 title: "Sarvaran"
 tags:
 - languages
-- history
 - morellic
 - sarvaran
 ---
@@ -14,16 +13,16 @@ Sarvaran `Sarvaran: /sɑˈʋɑ́.ɾa/` was spoken in 6,500YA, by the [Sarvaran C
 
 ### Consonants
 Consonants|Labial|Alveolar|Post Alveolar|Velar
----|---|---|---|---
-Nasal|m|n||ŋ
-Plosive|p b|t d||k g
-Affricate||t͡ɬ||
-Fricative|f v|s z ɬ|ʃ ʒ|x
-Sonorant|ʋ|l ɾ||w
+----------|------|--------|-------------|-----
+Nasal     |m     |n       |             |ŋ
+Plosive   |p b   |t d     |             |k g
+Affricate |      |t͡ɬ      |             |
+Fricative |f v   |s z ɬ   |ʃ ʒ          |x
+Sonorant  |ʋ     |l ɾ     |             |w
 
 ### Vowels
 Vowel|Front|Rounded|Back
----|---|---|---
-High|i|y|
-Mid|e|ø|ɔ
-Low|a||ɑ
+-----|-----|-------|----
+High |i    |y      |
+Mid  |e    |ø      |ɔ
+Low  |a    |       |ɑ

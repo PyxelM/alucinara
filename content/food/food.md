@@ -3,5 +3,5 @@ title: "Food"
 tags:
 - food
 ---
-# List
+# See Also
 - [Thirrists](flora/thirrists/thirrists.md)

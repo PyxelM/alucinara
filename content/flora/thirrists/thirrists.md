@@ -2,7 +2,6 @@
 title: "Thirrists"
 tags:
 - food
-- fruit
 - flora
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Empire of the Petrified Child"
 tags:
+- morellic
 - locations
-- states
-- factions
+- stonechild-imperial
 - 2°e
 ---
 

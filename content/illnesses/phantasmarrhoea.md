@@ -2,7 +2,6 @@
 title: "Phantasmarrhoea"
 tags:
 - illnesses
-- phenomena
 - realms
 ---
 Phantasmarrhoea is an illness caused by prolonged or sudden exposure to Alucinarium.

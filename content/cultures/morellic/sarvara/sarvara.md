@@ -1,9 +1,9 @@
 ---
 title: "Sarvara"
 tags:
+- morellic
 - locations
-- states
-- factions
+- sarvaran
 - 2°e
 ---
 The Sarvaran Civilisation existed around 7,000YA, and spoke [Sarvaran](languages/morellic/sarvaran/sarvaran.md).

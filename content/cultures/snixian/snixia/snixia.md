@@ -1,8 +1,7 @@
 ---
 title: "Snixia"
 tags:
+- snixian
 - locations
-- states
-- factions
 - 2°e
 ---
