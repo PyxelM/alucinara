@@ -6,6 +6,17 @@ tags:
 ---
 Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken in 7,000YA, by the Cervina-Rohitan peoples.
 
+*It is documented in all its detail [here](https://conworkshop.com/view_language.php?l=RVR).*
+
+# Examples
+> *Uhkidu Ibi duombaset euslaur ren.
+
+"Ibi is eating parsnips in a storm."
+
+`eat.NPST.VOL ibi.SG.NOM parsnip.PL.ACC rain.SG.DAT in`
+
+*/uç̠ˈki.du ˈi.bi dwɔmˈbä.s̠ɛt ˈɛu̯s̠.läu̯r rɛn/*
+
 # Phonology
 ## Syllable Structure
 (C)(S)V(V)(C)

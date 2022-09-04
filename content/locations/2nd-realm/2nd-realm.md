@@ -7,8 +7,8 @@ tags:
 ---
 
 # Names
-Proto-Morellic: *Feri Adrani* `/ˈfɛ.ri ädˈrä.ni/`
+Proto-Morellic: *Simi Adrani* `/ˈs̠i.mi ädˈrä.ni/`
 
-Sarvaran: *Fýra Edrą́da* `/ˈfý.ɾa eˈdɾã́.da/`
+Sarvaran: *Swý̨ba Eją́da* `/ˈsʷỹ́.ba eˈd̠͡ʒã́.da/`
 
-Stonechild Imperial: *Fý Eját* `/ˈfý eˈd̠͡ʒát/`
+Stonechild Imperial: *Swýp Eját* `/ˈsʷýp eˈd̠͡ʒát/`
