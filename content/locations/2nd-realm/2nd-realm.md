@@ -6,9 +6,10 @@ tags:
 - 2°e
 ---
 
-# Names
+---
+## Names
 Proto-Morellic: *Simi Adrani* `/ˈs̠i.mi ädˈrä.ni/`
 
 Sarvaran: *Swý̨ba Eją́da* `/ˈsʷỹ́.ba eˈd̠͡ʒã́.da/`
 
-Stonechild Imperial: *Swýp Eját* `/ˈsʷýp eˈd̠͡ʒát/`
+Stonechild Imperial: *Swýp Ját* `/ˈsʷýp ˈd̠͡ʒát/`

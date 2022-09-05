@@ -11,7 +11,7 @@ tags:
 - [Sarvara](cultures/morellic/sarvara/sarvara.md)
 	- [Sarvaran](languages/morellic/sarvaran/sarvaran.md)
 		- [Sarvaran Poetry](languages/morellic/sarvaran/sarvaran-poetry.md)
-- [Empire of the Petrified Child](cultures/morellic/stonechild-empire/stonechild-empire.md)
+- [Empire of the Petrified Child](cultures/morellic/stonechild-empire/empire-of-the-petrified-child.md)
 	- [Stonechild-imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md)
 - [Snixia](cultures/snixian/snixia/snixia.md)
 	- [Proto-Snixian](languages/snixian/proto-snixian.md)

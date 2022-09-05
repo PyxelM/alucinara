@@ -18,17 +18,17 @@ It is not known for sure why the universe was divided into the seemingly infinit
 Realm-hopping (Formally referred to as [Essential Shift](alucinara/realms/essential-shift.md)) is the name given to the action of moving between realms. This is achieved through the use of an [Alucinara Gateway](alucinara/realms/gateway.md). Essential Shift is also a symptom of [Phantasmarrhoea](illnesses/phantasmarrhoea.md).
 
 ---
-# Names
-## Infra-Essence
+## Names
+### Infra-Essence
 Proto-Morellic: *Feuantali* `/fɛ.wänˈtä.li/`
 
 Sarvaran: *Fawęltálla* `/fa.wẽlˈtá.ɬa/`
 
 Stonechild Imperial: *Fawętlá* `/fa.wẽˈt͡ɬá/`
 
-## Ultra-Essence
+### Ultra-Essence
 Proto-Morellic: *Toiantali* `/tɔ.jänˈtä.li/`
 
 Sarvaran: *Twozhęltálla* `/tʷɔ.ʒẽlˈtá.ɬa/
 
-Stonechild Imperial: *Twozhętlá* `/tʷo.ʒẽˈt͡ɬá/`
+Stonechild Imperial: *Swozhętlá* `/tʷo.ʒẽˈt͡ɬá/`

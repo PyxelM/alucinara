@@ -4,11 +4,12 @@ tags:
 - languages
 - morellic
 - sarvaran
+- minikin
 ---
-Sarvaran `Sarvaran: /sɑˈʋɑ́.ɾa/` was spoken in 6,500YA, by the [Sarvaran Civilisation](cultures/morellic/sarvara/sarvara.md). It descended from [Proto-Morellic](languages/morellic/proto-morellic.md) and so is part of the [Morellic Language Family](languages/morellic/morellic-family.md).
+Sarvaran `Sarvaran: /sɑˈʋɑ́.ɾa/` was spoken in 6,500YA in the [Sarvaran Civilisation](cultures/morellic/sarvara/sarvara.md) by [Minikin](fauna/minikin/minikin.md). It descended from [Proto-Morellic](languages/morellic/proto-morellic.md) and so is part of the [Morellic Language Family](languages/morellic/morellic-family.md).
 
-# Phonology
-## Syllable Structure
+## Phonology
+### Syllable Structure
 (C)(L)V(V)(C)(C)
 
 ### Consonants
@@ -26,3 +27,11 @@ Vowel|Front|Rounded|Back
 High |i    |y      |
 Mid  |e    |ø      |ɔ
 Low  |a    |       |ɑ
+
+---
+# Names
+Proto-Morellic: *Sabhazeh* `/s̠äˈbʱä.z̠ɛç̠/`
+
+Sarvaran: *Sävä́ra* `/sɑˈʋɑ́.ɾa/`
+
+Stonechild Imperial: *Sävä́* `/sɑˈʋɑ́/`

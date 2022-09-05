@@ -11,11 +11,11 @@ localGraph:
     enableZoom: true
     depth: 1 # set to -1 to show full graph
     scale: 1
-    repelForce: 1
-    centerForce: 1
-    linkDistance: 1
+    repelForce: 3
+    centerForce: 2
+    linkDistance: 4.5
     fontSize: 1
-    opacityScale: 3
+    opacityScale: 4
 
 ### Global Graph ###
 

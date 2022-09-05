@@ -3,28 +3,29 @@ title: "Proto-Morellic"
 tags:
 - languages
 - morellic
+- minikin
 ---
-Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken in 7,000YA, by the Cervina-Rohitan peoples.
+Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken in 7,000YA, by the Cervina-Rohitan [Minikin](fauna/minikin/minikin.md).
 
 *It is documented in all its detail [here](https://conworkshop.com/view_language.php?l=RVR).*
 
-# Examples
-> *Uhkidu Ibi duombaset euslaur ren.
+## Examples
+> *Uhkidu Ibi duombaset euslauret ren.
 
 "Ibi is eating parsnips in a storm."
 
-`eat.NPST.VOL ibi.SG.NOM parsnip.PL.ACC rain.SG.DAT in`
+`eat.NPST.VOL ibi.SG.NOM parsnip.PL.ACC rain.PL.DAT in`
 
-*/uç̠ˈki.du ˈi.bi dwɔmˈbä.s̠ɛt ˈɛu̯s̠.läu̯r rɛn/*
+*/uç̠ˈki.du ˈi.bi dwɔmˈbä.s̠ɛt ɛu̯s̠ˈläu̯.rɛt rɛn/*
 
-# Phonology
-## Syllable Structure
+## Phonology
+### Syllable Structure
 (C)(S)V(V)(C)
 
-## Features
+### Features
 Penultimate Stress
 
-### Consonants
+#### Consonants
 Consonants|Labial|Alveolar|Post Alveolar|Palatal*|Velar
 ---|---|---|---|---|---
 Nasal|m|n|||ŋ
@@ -33,16 +34,16 @@ Plosive (breathy)|bʱ|dʱ||ɟ̠ʱ|gʱ
 Fricative|f v|s̠ z̠|ʃ ʒ|ç̠|x ɣ
 Sonorant||l r||j|w
 
-`*`Palatal consonants are allophones of velars in coda position.
+*Palatal consonants are allophones of velars in coda position.
 
-### Vowels
+#### Vowels
 Vowel|Front|Central|Back
 -----|-----|-------|----
 High |i    |       |u
 Mid  |ɛ    |       |ɔ
 Low  |     |ä      |
 
-## Typology
+### Typology
 - Verb-Subject-Object
 - Nominative / Accusative
 - Singular / Plural
@@ -50,7 +51,7 @@ Low  |     |ä      |
 - Non Past / Past / Distant Past
 - **Octal** counting system
 
-## Descendants
+### Descendants
 - [Proto-Morellic](languages/morellic/proto-morellic.md) `/s̠äˈbʱä.z̠ɛç̠/`
 	 - Old Sarvaran
 		 - [Sarvaran](languages/morellic/sarvaran/sarvaran.md) `/sɑˈʋɑ́.ɾa/`

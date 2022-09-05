@@ -7,7 +7,7 @@ tags:
 
 *Press [here](https://www.pyxelm.xyz/) in order to return to the main website.*
 
-# Featured Articles
+## Featured Articles
 - [Realms](alucinara/realms/realms.md)
 - [Central-continent](locations/2nd-realm/central-continent/central-continent.md)
 - [Cultures Portal](cultures/cultures-portal.md)

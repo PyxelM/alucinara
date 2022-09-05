@@ -7,7 +7,7 @@ tags:
 
 Thirrists are small tri-segmented citrus fruits of the realm of [2°e](locations/2nd-realm/2nd-realm.md).
 
-# Growth
+## Growth
 Thirrist Plants start out as 1 of 3 seeds contained in the centre of a Thirrist fruit and, once in the ground, begin to germinate - eventually becoming short, wide trees.
 
 Beginning as orange-yellow flowers, once pollinated, these flowers grow into green fruits. While the three seeds grow, the fruits will take advantage of [Alucinara Magic](alucinara/alucinarium.md) in order to stun with a sudden flash of light and stop enemies from eating, defecating and spreading the seeds before they are ready to grow.

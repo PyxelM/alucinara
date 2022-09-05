@@ -15,9 +15,10 @@ This was not without opposition, however - it was decreed that if any afortuitit
 
 It was at Lichenia that [Fungula Moss](characters/lichenia/fungula-moss.md), the daughter of Kempton and [Florifera Moss](characters/lichenia/florifera-moss.md), was born.
 
-# Names
+---
+## Names
 Proto-Morellic: *Kemtoni* `/kɛm.tɔ.ni/`
 
 Sarvaran: *Kǫ̈mtǫde* `/kø̃m.ˈtõ.de/`
 
-Stonechild Imperial: *'ǫ̈twot* `/ʔø̃.ˈtʷót/`
+Stonechild Imperial: *ǫ̈twot* `/ø̃.ˈtʷót/`
