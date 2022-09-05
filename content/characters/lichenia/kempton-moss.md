@@ -15,6 +15,14 @@ This was not without opposition, however - it was decreed that if any afortuitit
 
 It was at Lichenia that [Fungula Moss](characters/lichenia/fungula-moss.md), the daughter of Kempton and [Florifera Moss](characters/lichenia/florifera-moss.md), was born.
 
+However, Kempton's forest paradise would soon come to an end. In 6YA, when Fungula was 14, Kempton would go mad with the want for eternal life.
+
+Knowing his continued existance would require a Fortuitary Gland, something he lacked, he eventually murdered Florifera - but this had dire consequences for his own body, and his community.
+
+Kempton, being introduced to [alucinarium](alucinara/alucinarium.md) for the first time in 30 years, immediately experienced partial [phantasmarrhoea](illnesses/phantasmarrhoea.md) along with his wife's Fortuitary Gland as he held it.
+
+From then on, he would live the rest of his days in the [-3rd Realm](locations/-3rd-realm.md), living off of the alucinara magic in his system, as well as the many odd plants of the world he now found himself within.
+
 ---
 ## Names
 Proto-Morellic: *Kemtoni* `/kɛm.tɔ.ni/`
