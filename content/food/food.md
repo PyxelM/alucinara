@@ -4,4 +4,4 @@ tags:
 - food
 ---
 ## See Also
-- [Thirrists](flora/thirrists/thirrists.md)
+- [Thirrists](flora/2nd%20realm/thirrists/thirrists.md)

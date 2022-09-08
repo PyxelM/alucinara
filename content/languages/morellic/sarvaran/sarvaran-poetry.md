@@ -1,7 +1,7 @@
 ---
 title: "Sarvaran Poetry"
 tags:
-- sarvaran
+- sarvara
 - poetry
 ---
 ## Prosody

@@ -9,9 +9,9 @@ The central continent is located within [The 2nd Realm](locations/2nd-realm/2nd-
 
 ## Inhabitants
 It contains species such as;
-- [Minikin](fauna/minikin/minikin.md)
-- [Demi-Slugs](fauna/demi-slugs/demi-slugs.md)
-- [Silkvine](flora/silkvine/silkvine.md)
+- [Minikin](fauna/2nd%20realm/minikin/minikin.md)
+- [Demi-Slugs](fauna/2nd%20realm/demi-slugs/demi-slugs.md)
+- [Silkvine](flora/2nd%20realm/silkvine/silkvine.md)
 
 ### States
 In addition, it *is* and *has been* home to the countries of [Snixia](cultures/snixian/snixia/snixia.md), [Morelland](cultures/morellic/morelland/morelland.md), the [Empire of the Petrified Child](cultures/morellic/stonechild-empire/empire-of-the-petrified-child.md), and the [Sarvaran Civilisation](cultures/morellic/sarvara/sarvara.md).

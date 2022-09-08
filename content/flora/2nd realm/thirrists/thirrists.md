@@ -1,8 +1,9 @@
 ---
 title: "Thirrists"
 tags:
-- food
 - flora
+- 2°e
+- food
 ---
 
 Thirrists are small tri-segmented citrus fruits of the realm of [2°e](locations/2nd-realm/2nd-realm.md).

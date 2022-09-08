@@ -5,10 +5,12 @@ tags:
 - fauna
 - minikin
 ---
+## Morphology
 Minikin, native to [The 2nd Realm](locations/2nd-realm/2nd-realm.md), have tails, fairly long yet anthropoid digitigrade feet, and small snouts.
 
 It is said that the rest of their features were modified by Lwubo, the deity of love and fertility, to be anthropoid in shape. Minikin descended from Squirrels that had been mutated by her during the Great Anthropomophisation.
 
+## Regional Adaptation
 Don’t let this convince you they’re not capable of unguided evolution, however. For example, the white blood cell counts and efficiencies of the immune systems of carnivorous Minikin populations rose dramatically after the event. This adaptation helped to combat the various parasites, viruses, and diseases found within the raw meats they ate.
 
 ## Features

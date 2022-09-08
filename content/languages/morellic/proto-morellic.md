@@ -5,7 +5,7 @@ tags:
 - morellic
 - minikin
 ---
-Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken in 7,000YA, by the Cervina-Rohitan [Minikin](fauna/minikin/minikin.md).
+Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken in 7,000YA, by the Cervina-Rohitan [Minikin](fauna/2nd%20realm/minikin/minikin.md).
 
 *It is documented in all its detail [here](https://conworkshop.com/view_language.php?l=RVR).*
 

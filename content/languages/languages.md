@@ -12,5 +12,5 @@ tags:
 - [Modern Morellic](languages/morellic/sarvaran/stonechild-imperial/morellic/modern-morellic.md)
 - [Proto-Snixian](languages/snixian/proto-snixian.md)
 
-### [Demi-Slug](fauna/demi-slugs/demi-slugs.md)
+### [Demi-Slug](fauna/2nd%20realm/demi-slugs/demi-slugs.md)
 - [Proto-Kpavan](languages/kpavan/proto-kpavan.md)
