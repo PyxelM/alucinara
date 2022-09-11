@@ -2,7 +2,7 @@
 title: "Proto-Snixian"
 tags:
 - languages
-- snixia
+- snixian
 - minikin
 ---
 Proto-Snixian `Proto-Snixian: /t͡ʃé:sòn épā:ɫìç/` was spoken in 8,500YA by the Proto-Snixian [Minikin](fauna/2nd%20realm/minikin/minikin.md). It acted as the progenitor of the Snixian Languages.

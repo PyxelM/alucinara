@@ -6,7 +6,7 @@ tags:
 - sarvaran
 - 2°e
 ---
-The Sarvaran Civilisation existed around 7,000YA, and spoke [Sarvaran](languages/morellic/sarvaran/sarvaran.md).
+The Sarvaran Civilisation existed around 7,000YA, and spoke [Sarvaran](languages/morello-rudhiric/morellic/sarvaran/sarvaran.md).
 
 ## Notable People
 ### Hastini the Elephant
