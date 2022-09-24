@@ -9,6 +9,13 @@ Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken in 7,000YA,
 
 *It is documented in all its detail [here](https://conworkshop.com/view_language.php?l=RVR).*
 
+## Timeline
+### 7,000YA
+7,000YA was when it first began being spoken as what we would consider as Proto-Morellic.
+
+### 6,500YA
+It was by 6,500YA that Proto-Morellic had diverged into [Sarvaran](languages/morello-rudhiric/morellic/sarvaran/sarvaran.md), Krvatri[^1], and Avanekh[^2], among [others](languages/morello-rudhiric/morellic/morellic-languages.md).
+
 ## Phonology
 ### Syllable Structure
 (C)(S)V(V)(C)
@@ -17,15 +24,13 @@ Proto-Morellic `Proto-Morellic: /s̠äˈbʱä.z̠ɛç̠/` was spoken in 7,000YA,
 Penultimate Stress
 
 #### Consonants
-Consonants|Labial|Alveolar|Postalveolar|Palatal[^1]|Velar
+Consonants|Labial|Alveolar|Postalveolar|Palatal[^3]|Velar
 ---|---|---|---|---|---
 Nasal|m|n|||ŋ
 Plosive|p b|t d||c̠ ɟ̠|k g
 Plosive (breathy)|bʱ|dʱ||ɟ̠ʱ|gʱ
 Fricative|f v|s̠ z̠|ʃ ʒ|ç̠|x ɣ
 Sonorant||l r||j|w
-
-[^1]: Palatal consonants are allophones of velars in coda position.
 
 #### Vowels
 Vowel|Front|Central|Back
@@ -93,6 +98,27 @@ Perfect       |-vera   |fa-vera  |si-vera
 Progressive   |-vene   |fa-vene  |si-vene
 Prospective   |-vezu   |fa-vezu  |si-vezu
 
+### What, When, Why, How
+#### What
+*What* and *Who* are interrogative pronouns used in place of an actor in a sentence in which said actor isn't known.
+
+In Proto-Morellic, these unknown actors are represented by the Pronoun *"Kiavi" /kjä.vi/* with no animacy distinction as in English.
+
+#### When
+*When* is used as an interrogative adverb meaning "During what time?"
+
+In Proto-Morellic, *When* is achieved through the adverb *"saiim" /sä.jim/*.
+
+#### Why
+*Why* is an interrogative adverb meaning "caused by what?"
+
+In Proto-Morellic, *Why* is achieved through the word *"Kiavur?" /kjä.vur/* meaning "for what / who;" the dative form of previously mentioned *Kiavi*.
+
+#### How
+*How* is an interrogative adverb meaning "in what manner / way?"
+
+In Proto-Morellic, *how* is achieved through the noun phrase *"kiavur ren? /kjä.vur rɛn/* meaning "in / at what?"
+
 ### Examples
 #### "Owen is eating parsnips in the rain"
 
@@ -101,6 +127,14 @@ Prospective   |-vezu   |fa-vezu  |si-vezu
 /uç̠.kiˈdu.nɛ ɔˈwɛ.ni dwɔmˈbä.s̠ɛt ɛu̯s̠ˈläu̯.rː‿ɛn/
 
 `eat.NPST.VOL.PROG owen.SG.NOM parsnip.PL.ACC rain.SG.DAT in`
+
+#### The lord came down to see the city and the tower, which the children of men built."
+
+> Sifehledu simi elohi ighanet simetuk poeket azin  deldet bhim ven sighasdura simiet ziataiet uighuret bhim.
+
+/s̠i.fɛç̠.lɛ.du s̠i.mi ɛ.lɔ.ɣi i.ɟ̠ʱä.nɛt s̠i.mɛ.tuc̠ pɔɛ̯.kɛt ä.z̠in dɛɫ.dɛt bʱim vɛn s̠i.ɟ̠ʱäs̠.du.rä s̠i.mjɛt ʒä.tä.jɛt wi.ɟ̠ʱu.rɛt bʱim/
+
+`arrive.VOL.PDIS DEF.SG.NOM christian-god.SG.NOM see.PCP.SG.DAT DEF.PL.DAT city.SG.DAT and tower.SG.DAT GEN REL build.VOL.PERF.PDIS DEF.PL.NOM child.PL.NOM man.PL.DAT GEN`
 
 ## Origins of Grammar
 ### Verbs
@@ -147,3 +181,7 @@ Proto-Morello-Rudhiric /-ɛʍ/ itself was derived form the root `/hɛʍ/`, meani
 						 - [Modern Morellic](languages/morellic/sarvaran/stonechild-imperial/modern-morellic/modern-morellic.md)
 	- Old Krsan
 	- Old Ettrian
+
+[^1]: `kɛr.bʱät.ri`
+[^2]: `ä.bʱä.nɛç̠`
+[^3]: Palatal consonants are allophones of velars in coda position.
