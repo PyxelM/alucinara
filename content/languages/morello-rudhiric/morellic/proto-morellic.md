@@ -98,6 +98,30 @@ Perfect       |-vera   |fa-vera  |si-vera
 Progressive   |-vene   |fa-vene  |si-vene
 Prospective   |-vezu   |fa-vezu  |si-vezu
 
+### Copula
+The copula in Proto-Morellic was **Nedu**, but eventually two more words, **Seltadu** and **Aghidu**, would fuse together and become part of its conjugation by the speaking of [Stonechild Imperial](languages/morello-rudhiric/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md).
+
+#### Be
+Proto-Morellic: *Nedu* `/ˈnɛ.du/`
+
+Sarvaran: *Lédwo* `/ˈlé.dʷɔ/`
+
+Stonechild Imperial: *Lép* `/ˈlép/`
+
+#### Stand
+Proto-Morellic: *Seltadu* `/s̠ɛɫˈtä.du/`
+
+Sarvaran: *Salhtádwo* `/saɬˈtá.dʷɔ/`
+
+Stonechild Imperial: *Satlháp* `/saˈt͡ɬáp/`
+
+#### Appear
+Proto-Morellic: *Aghidu* `/äˈgʱi.du/`
+
+Sarvaran: *Ezhídwo* `/eˈʒí.dʷɔ/`
+
+Stonechild Imperial: *Ezhíp* `/eˈʒíp/`
+
 ### What, When, Why, How
 #### What
 *What* and *Who* are interrogative pronouns used in place of an actor in a sentence in which said actor isn't known.
@@ -185,3 +209,11 @@ Proto-Morello-Rudhiric /-ɛʍ/ itself was derived form the root `/hɛʍ/`, meani
 [^1]: `kɛr.bʱät.ri`
 [^2]: `ä.bʱä.nɛç̠`
 [^3]: Palatal consonants are allophones of velars in coda position.
+
+---
+# Names
+Proto-Morellic: *Sabhazeh* `/s̠äˈbʱä.z̠ɛç̠/`
+
+Sarvaran: *Sävä́ra* `/sɑˈʋɑ́.ɾa/`
+
+Stonechild Imperial: *Sävä́* `/sɑ.ˈʋɑ́/`

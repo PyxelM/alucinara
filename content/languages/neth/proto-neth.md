@@ -40,4 +40,4 @@ Proto-Morellic: *Nesi Asiainsi* `/ˈnɛ.s̠i äˈʃäi̯n.s̠i/`
 
 Sarvaran: *Lýra Ezháįlsa* `/ˈlý.ɾa eˈʒáĩ̯́l.sa/`
 
-Stonechild Imperial: *Lý Ezháiuha* `/ˈlý e.ˈʒá.ju.ha/`
+Stonechild Imperial: *Lýr Ezháiuha* `/ˈlýr e.ˈʒá.ju.ha/`
