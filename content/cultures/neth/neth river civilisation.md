@@ -23,7 +23,7 @@ Neth River minikin would mainly eat leaves, larvae, fruit, and veg. The NRC was 
 ### Love
 Neth River minikin would usually have 1-3 partners whom they would each have more than one children with.
 
-This mirrors the [morellic](cultures/morellic/morellic-culture.md) minikin's large litters, as each system of mating would usually result in families of each culture having a similar amount of offspring in each new generation, with Neth River families spreading their litters across many partners.
+This mirrors the [morellic](cultures/morellic/proto-morellic-culture.md) minikin's large litters, as each system of mating would usually result in families of each culture having a similar amount of offspring in each new generation, with Neth River families spreading their litters across many partners.
 
 ### Religion
 #### Creator Deity

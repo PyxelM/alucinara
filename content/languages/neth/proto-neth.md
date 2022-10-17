@@ -4,7 +4,7 @@ tags:
 - languages
 - neth
 ---
-Proto-Neth was spoken in 7,000YA by the [Nethian](cultures/neth/neth%20river%20civilisation.md) [minikin](fauna/2nd%20realm/minikin/minikin.md).
+Proto-Neth was spoken in 7,000YA by the [Nethian](cultures/neth/neth%20river%20civilisation.md) [minikin](fauna/2nd%20realm/mammalia/minikin/minikin.md).
 
 ## Grammar
 ### Word Order

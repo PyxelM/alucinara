@@ -4,6 +4,7 @@ tags:
 - species
 - fauna
 - minikin
+- mammalia
 ---
 ## Morphology
 Minikin, native to [The 2nd Realm](locations/2nd-realm/2nd-realm.md), have tails, fairly long yet anthropoid digitigrade feet, and small snouts.

@@ -4,7 +4,7 @@ tags:
 - languages
 - minikin
 ---
-Proto-Tsrawi `Proto-Tsrawi: /t͡sʼr̥äʋi pʼinä r̥in͡tä xu/`[^1] was spoken in 10,000YA by a [Minikin](fauna/2nd%20realm/minikin/minikin.md) population in the modern-day [Morellic Mountains](locations/2nd-realm/central-continent/morellic-mountains.md). They are one of the first known communities to have existed.
+Proto-Tsrawi `Proto-Tsrawi: /t͡sʼr̥äʋi pʼinä r̥in͡tä xu/`[^1] was spoken in 10,000YA by a [Minikin](fauna/2nd%20realm/mammalia/minikin/minikin.md) population in the modern-day [Morellic Mountains](locations/2nd-realm/central-continent/morellic-mountains.md). They are one of the first known communities to have existed.
 
 ## Nouns
 ### SG
