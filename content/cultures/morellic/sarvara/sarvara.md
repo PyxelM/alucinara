@@ -22,6 +22,4 @@ Amkani the Cartographer `Sarvaran: Ęmką́da /ẽmˈkã́.da/` was a Sarvara
 # Names
 Proto-Morellic: *Sabhatri* `/s̠äˈbʱät.ri/`
 
-Sarvaran: *Sevácha* `/seˈʋá.t̠͡ʃa/`
-
-Stonechild Imperial: *Sevádj* `/seˈʋád̠͡ʒ/`
+Sarvaran: *Sevácha* `/seˈʋá.t̠͡ʃa/`#
