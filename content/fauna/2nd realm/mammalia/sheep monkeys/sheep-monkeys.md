@@ -25,10 +25,10 @@ Sheep Monkey Limbs vary from [0th Realm](locations/0th-realm.md) animals, as is 
 
 They feature 6 limbs, all used for locomotion. However, their front 2 limbs are more specialised for climbing, having 2 forward-facing fingers capped with small yet sharp hoof-like fingernails, and a thumb on the other side of the palm which mutated from the ball of their foot.
 
-They use their front 2 limbs in order to climb and grab fruit among other food items.
+They use their front 2 limbs in order to climb and grab fruit as well as other food items.
 
 ##### Tool use
-Rarely, Sheep Monkeys exhibit tool use is that they throw sticks or rocks at food items they cannot reach, in an attempt to knock them loose.
+Rarely, Sheep Monkeys exhibit tool use, in that they throw sticks or rocks at food items they cannot reach, in an attempt to knock them loose.
 
 #### Eyes
 Sheep Monkeys have large eyes on the sides of their heads, an adaptation effective in allowing them not only to see well in the night but also to notice predators such as birds coming nearby.
