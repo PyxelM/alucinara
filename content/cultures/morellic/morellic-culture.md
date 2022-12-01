@@ -74,3 +74,16 @@ The rebuilding of society in the imperial baby meadow wasn't difficult, and it o
 
 ##### Imperial Meadow Civilisation
 By the time of the imperial meadow civilisation, the child's appearance had a surface of shattered shards of porcelain held together with an internal body of gold, a non-shattered smiling porcelain face, and lush plants growing from the cracks, influenced by the Imperial Meadow's lush forest that grew from the child's sludge.
+
+### Trees
+It is believed in Morellic culture that trees are made of weasels.
+
+It all began the moment the weasels decided they had enough of attempting to eat [Minikin](fauna/2nd%20realm/mammalia/minikin/minikin.md), and attempted to eat the sun.
+
+They used each other's bodies in order to tower upward, biting one another's tail in order to stay together, until they coiled so tightly that they became stuck together in a tall coil of themselves.
+
+This was the first tree.
+
+From then on, as each weasel would occasionally fall from the tree, they would be planted within the ground once they hit the floor, and the cycle would continue as more weasel coil trees would grow from the fallen weasels now planted within the soil.
+
+It is believed that the trunks of trees are the coiled together towers of weasels, branches are the arms reaching out to get unstuck, leaves are weasel fur, and seeds, nuts, and fruit are fallen weasels.
