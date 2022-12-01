@@ -31,11 +31,3 @@ Vowels|Front|Central|Back
 High|i||u
 Mid|e||o
 Low||a|
-
----
-# Names
-Proto-Morellic: ** `//`
-
-Sarvaran: ** `//`
-
-Stonechild Imperial: ** `//`

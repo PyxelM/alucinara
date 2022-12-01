@@ -18,11 +18,3 @@ In addition, it *is* and *has been* home to the countries of [Snixia](cultures/s
 
 ## Map
 ![Unfinished Map of the Central Continent, featuring the equatorial lakes, the Morellic Mountains, but unfortunately missing the Snixian mountains. It also shows a compass, an equator line, and the Sarvaran Peninsula. ](maps/Central/central_map.jpeg)
-
----
-## Names
-Proto-Morellic: *Apihtairi* `/ä.piç̠ˈtäi̯.ri/`
-
-Sarvaran: *Epahtäýra* `/e.paxˈtɑ́ý̯.ɾa/`
-
-Stonechild Imperial: *Vätaí* `/vɑ.ˈtáí̯/`

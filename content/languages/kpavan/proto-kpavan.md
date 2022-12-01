@@ -72,12 +72,4 @@ Back|Central-Front|Back-Front|Central-Back
 ### "I built this nest and I would be living in it if not for these meddling children."
 > ʻôva nîlou ʻoamû pŋ̇ha noa sûŋu ʻôva pŋ̇ho noa sṙʻa kinô ʻaulu sṙʻî dou gbîro nŷkpaʻa noa bouî pṙʻasŷlou
 
-`1.SG build.IND NPRS nest.SG this and 1.SG live.SBJ CONT 3.SG in COND 3.SG.COP NEG CAU child.PL this that-which.COP meddle.IND`
-
----
-## Names
-Proto-Morellic: *Bouikpavai* `/bɔ.wikˈpä.väi̯/`
-
-Sarvaran: *Bowappávea* `/bɔ.waˈpːá.ʋea̯/`
-
-Stonechild Imperial: *Owabbávea* `/o.waˈbːá.ʋea̯/`
+`1.SG build.IND NPRS nest.SG this and 1.SG live.SBJ CONT 3.SG in COND 3.SG.COP NEG CAU child.PL this that-which.COP meddle.IND

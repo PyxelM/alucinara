@@ -41,11 +41,3 @@ Kempton, being introduced to [alucinarium](alucinara/alucinarium.md) for the fir
 
 ## Aftermath
 From then on, he would live the rest of his days in the [-3rd Realm](locations/-3rd-realm.md), living off of the alucinara magic in his system, as well as the many odd plants of the world he now found himself within.
-
----
-## Names
-Proto-Morellic: *Kemtoni* `/kɛm.tɔ.ni/`
-
-Sarvaran: *Kǫ̈mtǫde* `/kø̃m.ˈtõ.de/`
-
-Stonechild Imperial: *ǫ̈twot* `/ø̃.ˈtʷót/`

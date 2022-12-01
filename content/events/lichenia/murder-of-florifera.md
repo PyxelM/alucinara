@@ -19,11 +19,3 @@ In addition, this even also led to the dissapearance of Kempton on account of hi
 Fungula Moss, the couple's daughter, had to rise up from the chaos after the incident and take control of the situation. She was no leader, 14 at the time of the murder, but she managed to calm the people of her community for many reasons.
 
 She was a good communicator and diplomat, which was probably influenced by her mother and, secondly, she was *Fungula Moss.* No Lichenian would dare to oppose a *Moss* - not through fear or malice, but out of pure respect for the man who founded their community and led them away from corruption.
-
----
-# Names
-Proto-Morellic: ** `//`
-
-Sarvaran: ** `//`
-
-Stonechild Imperial: ** `//`

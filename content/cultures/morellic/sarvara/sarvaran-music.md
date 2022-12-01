@@ -11,12 +11,4 @@ The Rainslug (Sarvaran: **Oveýsllea** `/ɔˈʋéý̯s.ɬea̯/`) was original
 
 It found use as an instrument first outside of the mainstream, used as percussion, akin to a shaker, alongside Sarvaran poetry.
 
-However, as time went on, it found more use and was introduced into more snooty and higher-class performances. It may have been paired with poetry as outside of the mainstream, but also evolved use alongside poetic yodelling which was influenced by the pitch accent of [Sarvaran](languages/morello-rudhiric/morellic/sarvaran/sarvaran.md).
-
----
-# Names
-Proto-Morellic: ** `//`
-
-Sarvaran: ** `//`
-
-Stonechild Imperial: ** `//`
+However, as time went on, it found more use and was introduced into more snooty and higher-class performances. It may have been paired with poetry as outside of the mainstream, but also evolved use alongside poetic yodelling which was influenced by the pitch accent of [Sarvaran](languages/morellic/sarvaran/sarvaran.md).

@@ -6,7 +6,7 @@ tags:
 The Morellic culture existed at around 7,000YA. The culture began as the two tribes, Rhohita and Cervina, met.
 
 ## Language
-[Proto-morellic](languages/morello-rudhiric/morellic/proto-morellic.md) was the language spoken by the early morellic culture.
+[Proto-morellic](languages/morellic/proto-morellic.md) was the language spoken by the early morellic culture.
 
 ## Beliefs
 ### Origin

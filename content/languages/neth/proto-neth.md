@@ -32,12 +32,4 @@ Diphthongs| ɛɪ̯ / aɪ̯|ɑʊ̯ / ɔʊ̯
 
 /ɛ́ka xʋɔ́ɾɛn̪͡θ ɑlfɛ́ɾan̪͡θ ŋ͡xɑ́ʂɪ ɛ́ɗɾɪ ɛn͡s ɛ́ka ʊ́xla ŋ͡xɑ́ʂa ɛ́ɗɾa/
 
-`1.SG rodent.PL.CNS hairy.PL.CNS eat.1.IND PAS.1.IND REL 1.SG ABL eat.3.IND PAS.3.IND`
-
----
-# Names
-Proto-Morellic: *Nesi Asiainsi* `/ˈnɛ.s̠i äˈʃäi̯n.s̠i/`
-
-Sarvaran: *Lýra Ezháįlsa* `/ˈlý.ɾa eˈʒáĩ̯́l.sa/`
-
-Stonechild Imperial: *Lýr Ezháiuha* `/ˈlýr e.ˈʒá.ju.ha/`
+`1.SG rodent.PL.CNS hairy.PL.CNS eat.1.IND PAS.1.IND REL 1.SG ABL eat.3.IND PAS.3.IND

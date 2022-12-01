@@ -16,12 +16,4 @@ These 8 nostrils aren't used for breathing, however. Strong muscles lining the o
 The nostrils, technically "Toxiphores," release poisonous gas when the animal is threatened. The high Alucinarium content within it may cause [phantasmarrhoea](illnesses/phantasmarrhoea.md) in high doses, but usually the victim will only experience hallucinations from the substance before they die from the other compounds within the gas.
 
 ### Legs
-Their hind legs are 2 times as long as their front legs, but fold into a more comfortable position when sitting. These legs are used to escape prey.
-
----
-# Names
-Proto-Morellic: *Ghasreh* `/ˈgʱäs̠.rɛç̠/`
-
-Sarvaran: *Zhásra* `/ˈʒás.ɾa/`
-
-Stonechild Imperial: *Zháhra* `/ˈʒáh.ra/`
+Their hind legs are 2 times as long as their front legs, but fold into a more comfortable position when sitting. These legs are used to escape prey.`

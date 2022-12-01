@@ -6,7 +6,7 @@ tags:
 - sarvaran
 - 2°e
 ---
-The Sarvaran Civilisation existed around 7,000YA, and spoke [Sarvaran](languages/morello-rudhiric/morellic/sarvaran/sarvaran.md).
+The Sarvaran Civilisation existed around 7,000YA, and spoke [Sarvaran](languages/morellic/sarvaran/sarvaran.md).
 
 ## Notable People
 ### Hastini the Elephant
@@ -17,9 +17,3 @@ Dhanakai the Sabre-toothed `Sarvaran: Zędákea /zẽˈdá.kea̯/` was a Sarv
 
 ### Amkani the Cartographer
 Amkani the Cartographer `Sarvaran: Ęmką́da /ẽmˈkã́.da/` was a Sarvaran cartographer regarded as the father of the [Sarvaran Writing](languages/morellic/sarvaran/sarvaran-logography.md). He would use the [Old Sarvaran](languages/morellic/sarvaran/old-sarvaran.md) logographs in the margins of his maps, but eventually decided to standardise his logographs as to be more organised, but this spread throughout the whole Sarvaran civilisation, military first. The use of Amkani's maps influenced the writing of the many generals, and eventually the common people of the civilisation.
-
----
-# Names
-Proto-Morellic: *Sabhatri* `/s̠äˈbʱät.ri/`
-
-Sarvaran: *Sevácha* `/seˈʋá.t̠͡ʃa/`#

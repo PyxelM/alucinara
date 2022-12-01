@@ -15,14 +15,6 @@ They are treated by Minikin in order to increase durability, which involves a se
 
 
 ### Uses
-It is then used as a canvas for artwork or heraldry, and is often as an outer clothing item.
-
----
-# Names
-Proto-Morellic: *Sidhiri* `/s̠iˈdʱi.ri/`
-
-Sarvaran: *Syrýra* `/syˈɾý.ɾa/`
-
-Stonechild Imperial: *Sïrý* `/sɪˈrý/`
+It is then used as a canvas for artwork or heraldry, and is often as an outer clothing item.`
 
 [^1]: Years Ago

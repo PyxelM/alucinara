@@ -44,15 +44,7 @@ Fur retention during infancy is caused by the need to stay warm in the cold, a n
 A minikin child may be covered head to toe excluding the face, palms, and soles, while others may be only covered on their tails and cold areas.
 
 ## Languages
-- [Proto-Morellic](languages/morello-rudhiric/morellic/proto-morellic.md)
-- [Sarvaran](languages/morello-rudhiric/morellic/sarvaran/sarvaran.md)
-- [Stonechild Imperial](languages/morello-rudhiric/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md)
+- [Proto-Morellic](languages/morellic/proto-morellic.md)
+- [Sarvaran](languages/morellic/sarvaran/sarvaran.md)
+- [Stonechild Imperial](languages/morellic/sarvaran/stonechild-imperial/stonechild-imperial.md)
 - [Proto-Snixian](languages/snixian/proto-snixian.md)
-
----
-## Names
-Proto-Morellic: *Sikehuk* `/s̠iˈkɛ.ɣuc̠/`
-
-Sarvaran: *Sakézho* `/saˈké.ʒɔ/`
-
-Stonechild Imperial: *Sä'ésh* `/sɑˈʔéʃ/`

@@ -14,11 +14,3 @@ The Silkvine is named for the fact that the undersides of their leaves are the p
 In addition, Silkvine flesh is edible, nutritious, and used as a food source by [Minikin](fauna/2nd%20realm/mammalia/minikin/minikin.md). Silkvines are cut along their length into circular prisms known as "Vinechips."
 
 Vinechips can be roasted, boiled, or eaten raw.
-
----
-## Names
-Proto-Morellic: *Evnaskli* `/ɛvˈnäs̠.kli/`
-
-Sarvaran: *Avlásklla* `/avˈlásk.ɬa/`
-
-Stonechild Imperial: *Lä́'tha* `/ˈlɑ́ʔ.θa/`
