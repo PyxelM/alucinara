@@ -78,7 +78,7 @@ By the time of the imperial meadow civilisation, the child's appearance had a su
 ### Trees
 It is believed in Morellic culture that trees are made of weasels.
 
-It all began the moment the weasels decided they had enough of attempting to eat [Minikin](fauna/2nd%20realm/mammalia/minikin/minikin.md), and attempted to eat the sun.
+It all began the moment the weasels decided they had enough of attempting to eat [Minikin](fauna/2nd-realm/mammalia/minikin/minikin.md), and attempted to eat the sun.
 
 They used each other's bodies in order to tower upward, biting one another's tail in order to stay together, until they coiled so tightly that they became stuck together in a tall coil of themselves.
 

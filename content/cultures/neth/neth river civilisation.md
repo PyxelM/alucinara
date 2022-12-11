@@ -27,7 +27,7 @@ This mirrors the [morellic](cultures/morellic/morellic-culture.md) minikin's lar
 
 ### Religion
 #### Creator Deity
-It is believed that the world was created by a poisonous amphibian known as a [g’athre](fauna/2nd%20realm/amphibia/g’athre.md) (Proto-Neth: `/ɠáθɾɛ/`) when the creature released the universe from its nostrils as a defence mechanism against an evil weasel.
+It is believed that the world was created by a poisonous amphibian known as a [g’athre](fauna/2nd-realm/amphibia/g’athre.md) (Proto-Neth: `/ɠáθɾɛ/`) when the creature released the universe from its nostrils as a defence mechanism against an evil weasel.
 
 ##### The Proverb of the G’athre; "When a weasel arrived, the g’athre survived."
 > d’äl urkine pag’a ed’ra, g’athre hensag’a ed’ra.

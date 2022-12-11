@@ -9,8 +9,8 @@ The central continent is located within [The 2nd Realm](locations/2nd-realm/2nd-
 
 ## Inhabitants
 It contains species such as;
-- [Minikin](fauna/2nd%20realm/mammalia/minikin/minikin.md)
-- [Demi-Slugs](fauna/2nd%20realm/demi-slugs/demi-slugs.md)
+- [Minikin](fauna/2nd-realm/mammalia/minikin/minikin.md)
+- [Demi-Slugs](fauna/2nd-realm/demi-slugs/demi-slugs.md)
 - [Silkvine](flora/2nd%20realm/morellic%20region/silkvine/silkvine.md)
 
 ### States

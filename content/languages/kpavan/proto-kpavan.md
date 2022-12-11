@@ -5,7 +5,7 @@ tags:
 - demi-slug
 - kpavan
 ---
-Proto-Kpavan `Proto-Kpavan: /bɔˈwiː ˈk͡pɐː.ʋɐ/` was spoken in 6,000YA by the equatorial [Demi-Slug](fauna/2nd%20realm/demi-slugs/demi-slugs.md) peoples.
+Proto-Kpavan `Proto-Kpavan: /bɔˈwiː ˈk͡pɐː.ʋɐ/` was spoken in 6,000YA by the equatorial [Demi-Slug](fauna/2nd-realm/demi-slugs/demi-slugs.md) peoples.
 
 ## Phonology
 ### Consonants

@@ -4,6 +4,7 @@ tags:
 - species
 - fauna
 - mammalia
+- caprines
 ---
 Sheep Monkeys are small mammals, related to earth goats (*Capra aegagrus*). They resemble Caprines, hence their name.
 
@@ -13,7 +14,7 @@ Unlike [0th Realm](locations/0th-realm.md) Caprines, Sheep Monkeys live in trees
 
 ### Morphology
 #### Fur
-Sheep Monkeys have medium-to-short fluffy fur, which is harvested by [Minikin](fauna/2nd%20realm/mammalia/minikin/minikin.md).
+Sheep Monkeys have medium-to-short fluffy fur, which is harvested by [Minikin](fauna/2nd-realm/mammalia/minikin/minikin.md).
 
 ##### Colour
 The colour of Sheep Monkey fur varies from brown to white, depending on the season or species.
