@@ -4,7 +4,7 @@ tags:
 - characters
 - lichenia
 ---
-Kempton Moss, born in 65[YA](timeline/years-ago.md), was notably the founder of the Afortuitites. 
+Kempton Moss, born in 65[YA](timeline/years-ago.md), was notably the founder of the Afortuitites, and a hermit of the [-3rd Realm](locations/-3rd-realm.md). 
 
 ## Stats
 ### Age
