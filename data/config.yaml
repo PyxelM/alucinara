@@ -1,4 +1,4 @@
-name: Mylo J. Hodges
+name: Mylo Hodges
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: false
-GitHubLink: https://github.com/PyxelM/alucinara
+GitHubLink: https://github.com/PyxelM/alucinara/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
