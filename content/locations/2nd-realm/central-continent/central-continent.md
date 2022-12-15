@@ -17,4 +17,4 @@ It contains species such as;
 In addition, it *is* and *has been* home to the countries of [Snixia](cultures/snixian/snixia/snixia.md), [Morelland](cultures/morellic/morelland/morelland.md), the [Empire of the Petrified Child](cultures/morellic/stonechild-empire/empire-of-the-petrified-child.md), and the [Sarvaran Civilisation](cultures/morellic/sarvara/sarvara.md).
 
 ## Map
-![Unfinished Map of the Central Continent, featuring the equatorial lakes, the Morellic Mountains, but unfortunately missing the Snixian mountains. It also shows a compass, an equator line, and the Sarvaran Peninsula. ](maps/Central/central_map.jpeg)
+![Unfinished Map of the Central Continent, featuring the equatorial lakes, the Morellic Mountains, but unfortunately missing the Snixian mountains. It also shows a compass, an equator line, and the Sarvaran Peninsula](maps/Central/central_map.jpeg)
