@@ -6,7 +6,7 @@ tags:
 ---
 The murder of Florifera Moss, wife to [Kempton Moss](characters/lichenia/kempton-moss.md), took place in 6YA at the community of [Lichenia](locations/0th-realm/lichenia) after Kempton became delusional with the need for eternal life.
 
-Kempton had removed his [Fortuitary Gland](fauna/biology/fortuitary-gland.md) 24 years prior because of his Afortuitite beliefs that [Alucinara Magic](alucinara/alucinarium) was the root of evil and the tangible manifestation of sin.
+Kempton had removed his [Fortuitary Gland](fauna/biology/fortuitary-gland.md) 24 years prior because of his Afortuitite beliefs that [Alucinara Magic](alucinara/alucinarium.md) was the root of evil and the tangible manifestation of sin.
 
 However, Kempton in his old age began to lose his mind - becoming less and less adverse to magic until it came to a head in 6YA as he took his wife's life in order to gain eternal life.
 
