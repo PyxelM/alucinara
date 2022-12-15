@@ -1,10 +1,9 @@
 ---
 title: "Sheep"
 tags:
+- species
 - fauna
-- ram
-- sheep
-- ewe
+- mammalia
 - caprines
 ---
 Sheep, originally native to the [0th Realm](locations/0th-realm.md), are caprines.
