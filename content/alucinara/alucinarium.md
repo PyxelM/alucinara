@@ -1,5 +1,5 @@
 ---
-title: "the Alucinarium"
+title: "Alucinarium"
 tags:
 - elements
 - alucinara

@@ -9,10 +9,10 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: true
+enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/PyxelM/alucinara
-enableSemanticSearch: false
+enableSemanticSearch: true
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   Alucinara is a book created by Pyxel, or, Mylo Hodges. book.pyxelm.xyz is the documentation of this book, and thus features articles about the many locations, characters, foods, languages, and realms of this book's universe.
