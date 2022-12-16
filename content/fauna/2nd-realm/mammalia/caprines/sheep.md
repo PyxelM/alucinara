@@ -6,7 +6,7 @@ tags:
 - mammalia
 - caprines
 ---
-Sheep, originally native to the [0th Realm](locations/0th-realm.md), are caprines.
+Sheep, originally native to the [0th Realm](locations/0th-realm.md), are caprines. Since their conception, they have spread to many infra-essent and ultra-essent realms, and diverged from their ancestors.
 
 Every [2nd Realm](locations/2nd-realm/2nd-realm.md) Sheep are descended from [0th Realm](locations/0th-realm.md) Mouflon.
 
