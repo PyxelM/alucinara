@@ -14,6 +14,9 @@ It is said that the rest of their features were modified by Lwubo, the deity of 
 ## Regional Adaptation
 Don’t let this convince you they’re not capable of unguided evolution, however. For example, the white blood cell counts and efficiencies of the immune systems of carnivorous Minikin populations rose dramatically after the event. This adaptation helped to combat the various parasites, viruses, and diseases found within the raw meats they ate.
 
+## Migration
+![](images/migration_map.png)
+
 ## Habitat
 Minikin almost always live in trees. It is here that they live, store food, and sleep. Some Minikin tribes live in hollow tree trunks, while others take residence in clay shelters or large mushrooms.
 

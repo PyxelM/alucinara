@@ -8,6 +8,8 @@ tags:
 ---
 Sheep Monkeys are small mammals, related to earth goats (*Capra aegagrus*). They resemble Caprines, hence their name.
 
+![](images/sheep_monkey.png)
+
 ## Biology
 ### Habitat
 Unlike [0th Realm](locations/0th-realm.md) Caprines, Sheep Monkeys live in trees.
