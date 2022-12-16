@@ -8,9 +8,9 @@ tags:
 *Press [here](https://www.pyxelm.xyz/) in order to return to the main website.*
 
 ## Featured Articles
-- [Realms](alucinara/realms/realms.md)
+- [Minikin](fauna/2nd-realm/mammalia/minikin/minikin.md)
 - [Central-continent](locations/2nd-realm/central-continent.md)
-- [Cultures Portal](cultures/cultures-portal.md)
+- [Realms](alucinara/realms/realms.md)
 - [Music](music/music.md)
 
 [^1]: Also known as Pyxel, Pyxel Music, or Sciurium
