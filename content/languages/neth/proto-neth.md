@@ -4,7 +4,7 @@ tags:
 - languages
 - neth
 ---
-Proto-Neth was spoken in 7,000YA by the [Nethian](cultures/neth/neth%20river%20civilisation.md) [minikin](fauna/2nd-realm/mammalia/minikin/minikin.md).
+Proto-Neth was spoken in 7,000YA by the [Neth](cultures/neth/neth%20river%20civilisation.md) [Minikin](fauna/2nd-realm/mammalia/minikin/minikin.md).
 
 ## Grammar
 ### Word Order
@@ -25,11 +25,3 @@ Close|ɪ|ʊ
 Mid|ɛ|ɔ
 Open|a|ɑ
 Diphthongs| ɛɪ̯ / aɪ̯|ɑʊ̯ / ɔʊ̯
-
-## Examples
-### I ate my hairy rodent which I fed
-> Eka khvorenth älferanth nkhäshi ed’ri ens eka ukhla nkhäsha ed’ra.
-
-/ɛ́ka xʋɔ́ɾɛn̪͡θ ɑlfɛ́ɾan̪͡θ ŋ͡xɑ́ʂɪ ɛ́ɗɾɪ ɛn͡s ɛ́ka ʊ́xla ŋ͡xɑ́ʂa ɛ́ɗɾa/
-
-`1.SG rodent.PL.CNS hairy.PL.CNS eat.1.IND PAS.1.IND REL 1.SG ABL eat.3.IND PAS.3.IND

@@ -11,10 +11,10 @@ Their leaves hang from the branches, featuring a coiling tendril which eventuall
 
 ## Utilisation
 ### Treatment
-They are treated by Minikin in order to increase durability, which involves a series of hammering the leaves, drying the leaves, and covering the leaves in a resin-like substance known as Leatherjuice (Proto-Morellic: *Saukmapar* `s̠äu̯c̠.mä.pär`), to give it a leather-like quality.
+They are treated by Minikin in order to increase durability, which involves a series of hammering the leaves, drying the leaves, and covering the leaves in a resin-like substance known as Leatherjuice, to give it a leather-like quality.
 
 
 ### Uses
-It is then used as a canvas for artwork or heraldry, and is often as an outer clothing item.`
+It is then used as a canvas for artwork or heraldry, and is often as an outer clothing item.
 
 [^1]: Years Ago

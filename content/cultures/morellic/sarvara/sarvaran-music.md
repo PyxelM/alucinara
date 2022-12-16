@@ -7,7 +7,7 @@ tags:
 
 ## Instruments
 ### The Rainslug
-The Rainslug (Sarvaran: **Oveýsllea** `/ɔˈʋéý̯s.ɬea̯/`) was originally a children's toy made of many hollow hemispheres linked by ball-and-socket joints, taking an appearance reminiscent of a slug.
+The Rainslug was originally a children's toy made of many hollow hemispheres linked by ball-and-socket joints, taking an appearance reminiscent of a slug.
 
 It found use as an instrument first outside of the mainstream, used as percussion, akin to a shaker, alongside Sarvaran poetry.
 
