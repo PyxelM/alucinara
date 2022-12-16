@@ -9,9 +9,9 @@ tags:
 The Neth River Civilisation existed in 7,000 YA.
 
 ## Location
-The Neth River Civilisation was located along the [Neth River](locations/2nd-realm/central-continent/neth/neth-river.md), which flowed from the [Nessaui lake](locations/2nd-realm/central-continent/neth/nessaui-lake.md) into the [Sarvaran Gulf](locations/2nd-realm/central-continent/sarvara/sarvaran-gulf).
+The Neth River Civilisation was located along the [Neth River](locations/2nd-realm/central-continent/neth/neth-river.md), which flowed from the [Nessaui lake](locations/2nd-realm/neth/nessaui-lake.md) into the [Sarvaran Gulf](locations/2nd-realm/central-continent/sarvara/sarvaran-gulf).
 
-The biome around the river was the tropical rainforest of the [central continent](locations/2nd-realm/central-continent/central-continent.md)'s equator; This led to increased contact with Demi-Slug peoples, who lived further inland away from flowing water and near stiller ponds and humid areas.
+The biome around the river was the tropical rainforest of the [central continent](locations/2nd-realm/central-continent.md)'s equator; This led to increased contact with Demi-Slug peoples, who lived further inland away from flowing water and near stiller ponds and humid areas.
 
 ## Language
 The Neth River minikin spoke [Proto-Neth](languages/neth/proto-neth.md).

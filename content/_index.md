@@ -9,7 +9,7 @@ tags:
 
 ## Featured Articles
 - [Realms](alucinara/realms/realms.md)
-- [Central-continent](locations/2nd-realm/central-continent/central-continent.md)
+- [Central-continent](locations/2nd-realm/central-continent.md)
 - [Cultures Portal](cultures/cultures-portal.md)
 - [Music](music/music.md)
 

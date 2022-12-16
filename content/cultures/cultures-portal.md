@@ -4,7 +4,7 @@ tags:
 - cultures
 ---
 - [2nd Realm](locations/2nd-realm/2nd-realm.md)
-	- [Central Continent](locations/2nd-realm/central-continent/central-continent.md)
+	- [Central Continent](locations/2nd-realm/central-continent.md)
 - [Morelland](cultures/morellic/morelland/morelland.md)
 	- [Proto-Morellic](languages/morellic/proto-morellic.md)
 	- [Modern Morellic](languages/morellic/sarvaran/stonechild-imperial/morellic/modern-morellic.md)

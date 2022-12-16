@@ -14,6 +14,17 @@ It is said that the rest of their features were modified by Lwubo, the deity of 
 ## Regional Adaptation
 Don’t let this convince you they’re not capable of unguided evolution, however. For example, the white blood cell counts and efficiencies of the immune systems of carnivorous Minikin populations rose dramatically after the event. This adaptation helped to combat the various parasites, viruses, and diseases found within the raw meats they ate.
 
+## Habitat
+Minikin almost always live in trees. It is here that they live, store food, and sleep. Some Minikin tribes live in hollow tree trunks, while others take residence in clay shelters or large mushrooms.
+
+### Sarvaran Habitat
+The [Sarvaran Minikin](cultures/morellic/sarvara/sarvara.md) store clay taken from nearby river banks in their cheeks and use this clay in conjunction with reinforcing twigs in order to create their iconic clay shelters.
+
+### Morellic Habitat
+However, the [Morellic Minikin](cultures/morellic/morellic-culture.md), decendants of the Sarvaran Minikin, rather cultivate large mushrooms into being suitable shelters. Unlike Sarvaran shelters, which are fortified by twigs and sticks, Morellic shelters are fortified by [magic](alucinara/alucinarium.md).
+
+![](images/morellic_hut_at_night.png)
+
 ## Features
 ### Adult Height
 - 20cm to 30cm
