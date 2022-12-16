@@ -32,4 +32,4 @@ In addition, it *is* and *has been* home to the countries of [Snixia](cultures/s
 ### Snixian Mountains
 
 ## Map
-![Unfinished Map of the Central Continent, featuring the equatorial lakes, the Morellic Mountains, but unfortunately missing the Snixian mountains. It also shows a compass, an equator line, and the Sarvaran Peninsula](maps/Central/central_map.jpeg)
+![Unfinished Map of the Central Continent, featuring the equatorial lakes, the Morellic Mountains, but unfortunately missing the Snixian mountains. It also shows a compass, an equator line, and the Sarvaran Peninsula](images/central_map.jpeg)
