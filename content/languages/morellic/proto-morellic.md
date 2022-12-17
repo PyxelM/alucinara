@@ -5,7 +5,7 @@ tags:
 - morellic
 - minikin
 ---
-Proto-Morellic was spoken in 8,000 YA by the [Morellic](cultures/morellic/morellic-culture.md) [Minikin](fauna/2nd-realm/mammalia/minikin/minikin.md), in the [2nd Realm](locations/2nd-realm/2nd-realm.md)'s [Etavi Peninsula](locations/2nd-realm/central-continent/etavi-peninsula.md).
+Proto-Morellic was spoken in 8,000 YA by the [Morellic](cultures/morellic/morellic-culture.md) [Minikin](fauna/2nd-realm/mammalia/minikin/minikin.md), in the [2nd Realm](locations/2nd-realm/2nd-realm.md)'s [Oellidirh Region](2nd-realm/central-continent)
 
 ## Phonology
 ### Consonants
