@@ -24,15 +24,15 @@ She would mould them to her satisfaction, giving them anthropoid body plans, but
 Once done, she enlisted the help of the fire god's brother, the ice god, to freeze her creatures, after which she scattered them across the landscape of the [2nd Realm](locations/2nd-realm/2nd-realm.md).
 
 ### The Tail
-As the proto-morellic minikin believed they had come form squirrels, they saw their tails as a direct physical manifestation of their connection to their divine ancestors.
+As the Morellic minikin believe they came form squirrels, they see their tails as a direct physical manifestation of their connection to their divine ancestors.
 
 #### Tail Removal
-Due to their deification of the body part, lack of them was a major taboo, and removal of the tail was reserved for criminal punishments or extreme counter-cultural body modification.
+Due to their deification of the body part, lack of tails is a major taboo and removal of them is reserved for criminal punishments or extreme counter-cultural body modification.
 
-The lack of a tail was seen that a Minikin's body was desecrated. It was common to throw stones or other objects at tail-less others, as bruising and wounding an already desecrated body would bring luck to those whom still retained their tails.
+The lack of a tail is seen that a Minikin's body is desecrated. It is common to throw stones or other objects at tail-less others, as bruising and wounding an already desecrated body would bring luck to those whom still retain their tails.
 
 ##### Weaponry
-In fact, as the proto-morellic culture became more advanced, a specialised weapon was developed to cut off tails, similar to the guillotine in the 0th Realm.
+In fact, as the Morellic culture became more advanced, a specialised weapon was developed to cut off tails, similar to the guillotine in the 0th Realm.
 
 The weapon was handheld, similar to a sickle, but was incredibly sharp - designed to take the extremity off in one swipe.
 
