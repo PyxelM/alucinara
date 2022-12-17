@@ -8,6 +8,9 @@ The Morellic culture existed at around 7,000YA. The culture began as the two tri
 ## Language
 [Proto-morellic](languages/morellic/proto-morellic.md) was the language spoken by the early morellic culture.
 
+## Habitat
+The Morellic Minikin, decendants of the [Sarvaran Minikin](cultures/morellic/sarvara/sarvara.md), rather cultivate large mushrooms into being suitable shelters. Unlike Sarvaran shelters, which are fortified by twigs and sticks, Morellic shelters are fortified by [magic](alucinara/alucinarium.md).
+
 ## Beliefs
 ### Origin
 Proto-morellic minikin correctly believed that they came from squirrels. In fact, they were created by the fertility god Lwubo.

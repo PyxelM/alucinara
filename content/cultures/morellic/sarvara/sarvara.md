@@ -8,6 +8,9 @@ tags:
 ---
 The Sarvaran Civilisation existed around 7,000YA, and spoke [Sarvaran](languages/morellic/sarvaran/sarvaran.md).
 
+## Habitat
+The Sarvaran Minikin store clay taken from nearby river banks in their cheeks and use this clay in conjunction with reinforcing twigs in order to create their iconic clay shelters.
+
 ## Notable People
 ### Hastini the Elephant
 Hastini the Elephant was a Sarvaran general who was known to wear a copper elephant mask over his mouth. This amplified his voice, and led to the depiction that he was taller than his compatriots and even had the head of an elephant himself, although these were exaggerations or erroneous.
