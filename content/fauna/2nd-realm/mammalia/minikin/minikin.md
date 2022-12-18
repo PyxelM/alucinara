@@ -24,7 +24,7 @@ Minikin almost always live in trees. It is here that they live, store food, and 
 The [Sarvaran Minikin](cultures/morellic/sarvara/sarvara.md) store clay taken from nearby river banks in their cheeks and use this clay in conjunction with reinforcing twigs in order to create their iconic clay shelters.
 
 ### Morellic Habitat
-However, the [Morellic Minikin](cultures/morellic/morellic-culture.md), decendants of the Sarvaran Minikin, rather cultivate large mushrooms into being suitable shelters. Unlike Sarvaran shelters, which are fortified by twigs and sticks, Morellic shelters are fortified by [magic](alucinara/alucinarium.md).
+[See Main Article](cultures/morellic/morellic-culture.md#Habitat)
 
 ![](images/morellic_hut_at_night.png)
 
