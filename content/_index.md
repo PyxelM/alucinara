@@ -1,7 +1,5 @@
 ---
 title: "Alucinara"
-tags:
-- meta
 ---
 Alucinara is a book that explores existentialism and the right to 'save' the world through a cast of three characters.
 
@@ -13,24 +11,43 @@ You can find the artwork I have made for Alucinara here on my [Deviant Art](http
 
 ## Featured Articles
 ### Characters
-[Blueberry](characters/blueberry.md)
-[Toadstool](characters/toadstool.md)
-[Fungula](characters/fungula-moss.md)
+- [Blueberry](characters/blueberry.md)
+- [Toadstool](characters/toadstool.md)
+- [Fungula](characters/fungula-moss.md)
 
 ### Species
-[Minikin](species/minikin.md)
-[Demi-Slug](species/demi-slug.md)
-[Botanist](species/botanist.md)
+- [Rodent](species/fauna/rodent.md)
+	- [Squirrel](species/fauna/squirrel.md)
+		- [Minikin](species/fauna/minikin.md)
+		- [Quartz Squirrel](species/fauna/quartz-squirrel.md)
+	- [Murine](species/fauna/murine.md)
+		- [Dray Mouse](species/fauna/dray-mouse.md)
+		- [Quartz Rat](species/fauna/quartz-rat.md)
+- [Weasel](species/fauna/weasel.md)
+	- [War Weasel](species/fauna/war-weasel.md)
+	- [Quartz Weasel](species/fauna/quartz-weasel.md)
+- [Gastopod](species/fauna/gastropod.md)
+	- [Slug](species/fauna/slug.md)
+		- [Demi-Slug](species/fauna/demi-slug.md)
+	- [Sea Slug](species/fauna/sea-slug.md)
+	- [Quartz Snail](species/fauna/quartz-snail.md)
 
 ### Cultures
-[Proto-Morellic]
-	[Sarvaran]
-		[Stonechild Imperial]
-			[Morellic]
-[Neth]
+- [Proto-Morellic](cultures/morellic/proto-morellic.md)
+	- [Sarvaran](cultures/morellic/sarvaran.md)
+		- [Stonechild Imperial](cultures/morellic/stonechild-imperial.md)
+			- [Morellic](cultures/morellic/morellic.md)
+	- [Proto-Dwirivan](cultures/dwirivan/proto-dwirivan.md)
+		- [Dwirivan](cultures/dwirivan/dwirivan.md)
+	- [Neth](cultures/neth.md)
 
 ### Phenomena
-
+- [Alucinara](alucinara/alucinara.md)
+	- [Alucinara Gateway](alucinara/alucinara-gateway.md)
 
 ### Geography
-
+- [0th Realm](https://en.wikipedia.org/wiki/Earth)
+- [1st Realm](geography/1st-realm.md)
+- [2nd Realm](geography/2nd-realm.md)
+	- [Central-Continent](geography/2nd-realm/central-continent.md)
+- [-3rd Realm]
