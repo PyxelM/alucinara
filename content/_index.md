@@ -33,12 +33,12 @@ You can find the artwork I have made for Alucinara here on my [Deviant Art](http
 	- [Quartz Snail](species/fauna/quartz-snail.md)
 
 ### Cultures
-- [Proto-Morellic](cultures/morellic/proto-morellic.md)
+- [Morellic](cultures/morellic/morellic.md)
 	- [Sarvaran](cultures/morellic/sarvaran.md)
 		- [Stonechild Imperial](cultures/morellic/stonechild-imperial.md)
-			- [Morellic](cultures/morellic/morellic.md)
-	- [Proto-Dwirivan](cultures/dwirivan/proto-dwirivan.md)
-		- [Dwirivan](cultures/dwirivan/dwirivan.md)
+			- [Modern Morellic](cultures/morellic/modern-morellic.md)
+	- [Dwirivan](cultures/dwirivan/dwirivan.md)
+		- [Modern-Dwirivan](cultures/dwirivan/modern-dwirivan.md)
 	- [Neth](cultures/neth.md)
 
 ### Phenomena
