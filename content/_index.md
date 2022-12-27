@@ -1,7 +1,7 @@
 ---
 title: "Alucinara"
 ---
-Alucinara is a book that explores existentialism and the right to 'save' the world through a cast of three characters.
+Alucinara is a book that explores existentialism and the right to 'save' the world through a cast of three characters; [one a squirrel man](characters/toadstool.md), [another a slug man](character/blueberry.md), and the other [the daughter of a murderer](characters/fungula.md) – all with differing motives, attributes, and opinions on their own actions.
 
 It was first concieved by Mylo Hodges in November of 2021 during a creative writing mock-test.
 
