@@ -15,6 +15,21 @@ You can find the artwork I have made for Alucinara here on my [Deviant Art](http
 - [Toadstool](characters/toadstool.md)
 - [Fungula](characters/fungula-moss.md)
 
+### Geography
+- [0th Realm](https://en.wikipedia.org/wiki/Earth)
+- [1st Realm](geography/1st-realm.md)
+- [2nd Realm](geography/2nd-realm.md)
+- [-3rd Realm]
+
+### Cultures
+- [Morellic](cultures/morellic/morellic.md)
+	- [Sarvaran](cultures/morellic/sarvaran.md)
+		- [Stonechild Imperial](cultures/morellic/stonechild-imperial.md)
+			- [Modern Morellic](cultures/morellic/modern-morellic.md)
+	- [Dwirivan](cultures/dwirivan/dwirivan.md)
+		- [Modern-Dwirivan](cultures/dwirivan/modern-dwirivan.md)
+	- [Neth](cultures/neth.md)
+
 ### Species
 - [Rodent](species/fauna/rodent.md)
 	- [Squirrel](species/fauna/squirrel.md)
@@ -32,22 +47,6 @@ You can find the artwork I have made for Alucinara here on my [Deviant Art](http
 	- [Sea Slug](species/fauna/sea-slug.md)
 	- [Quartz Snail](species/fauna/quartz-snail.md)
 
-### Cultures
-- [Morellic](cultures/morellic/morellic.md)
-	- [Sarvaran](cultures/morellic/sarvaran.md)
-		- [Stonechild Imperial](cultures/morellic/stonechild-imperial.md)
-			- [Modern Morellic](cultures/morellic/modern-morellic.md)
-	- [Dwirivan](cultures/dwirivan/dwirivan.md)
-		- [Modern-Dwirivan](cultures/dwirivan/modern-dwirivan.md)
-	- [Neth](cultures/neth.md)
-
 ### Phenomena
 - [Alucinara](alucinara/alucinara.md)
 	- [Alucinara Gateway](alucinara/alucinara-gateway.md)
-
-### Geography
-- [0th Realm](https://en.wikipedia.org/wiki/Earth)
-- [1st Realm](geography/1st-realm.md)
-- [2nd Realm](geography/2nd-realm.md)
-	- [Central-Continent](geography/2nd-realm/central-continent.md)
-- [-3rd Realm]
