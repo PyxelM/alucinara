@@ -1,34 +1,25 @@
 ---
 title: "Alucinara"
 ---
-Alucinara is a book that explores existentialism and the right to 'save' the world through a cast of three characters; [one a squirrel man](characters/toadstool.md), [another a slug man](character/blueberry.md), and the other [the daughter of a murderer](characters/fungula.md) – all with differing motives, attributes, and opinions on their own actions.
+Alucinara is a book that explores existentialism and the right to 'save' the world through a cast of three characters;
+- one a immature and naïve [Minikin](species/fauna/minikin.md) bandit called [Toadstool](characters/toadstool.md),
+- another a culture-shocked but ambitious [Demi-Slug](species/fauna/demi-slug.md) vagabond called [Blueberry](characters/blueberry.md),
+- and the other a young, cautious [Minikin](species/fauna/minikin.md) stateswoman called [Fungula](characters/fungula.md).
+These characters are all with differing opinions, attributes, and motives for their actions.
 
 It was first concieved by Mylo Hodges in November of 2021 during a creative writing mock-test.
 
 You can find the artwork I have made for Alucinara here on my [Deviant Art](https://www.deviantart.com/pyxelmusic)!
 
-*Press [here](https://www.pyxelm.xyz/) in order to return to the main website.*
+*Press [here](https://www.pyxelm.xyz/) in order to access my main website.*
 
 ## Featured Articles
-### Characters
-- [Blueberry](characters/blueberry.md)
-- [Toadstool](characters/toadstool.md)
-- [Fungula](characters/fungula-moss.md)
 
 ### Geography
 - [0th Realm](https://en.wikipedia.org/wiki/Earth)
 - [1st Realm](geography/1st-realm.md)
-- [2nd Realm](geography/2nd-realm.md)
-- [-3rd Realm]
-
-### Cultures
-- [Morellic](cultures/morellic/morellic.md)
-	- [Sarvaran](cultures/morellic/sarvaran.md)
-		- [Stonechild Imperial](cultures/morellic/stonechild-imperial.md)
-			- [Modern Morellic](cultures/morellic/modern-morellic.md)
-	- [Dwirivan](cultures/dwirivan/dwirivan.md)
-		- [Modern-Dwirivan](cultures/dwirivan/modern-dwirivan.md)
-	- [Neth](cultures/neth.md)
+- [2nd Realm](geography/realms/2nd-realm.md)
+- [-3rd Realm](geography/realms/-3rd-realm.md)
 
 ### Species
 - [Rodent](species/fauna/rodent.md)

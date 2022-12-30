@@ -4,12 +4,16 @@ tags:
 - fauna
 - rodent
 ---
-Minikin are the sapient descendents of [0th Realm](https://en.wikipedia.org/wiki/Earth) [squirrels](species/fauna/squirrel.md).
+Minikin are the sapient descendents of [0th Realm](https://en.wikipedia.org/wiki/Earth) squirrels.
 
-## Minikin People Groups
+## Minikin Cultures
 - [Morellic](cultures/morellic/morellic.md)
-- [Dwirivan](cultures/dwirivan/dwirivan.md)
-- [Neth](cultures/neth.md)
+	- [Sarvaran](cultures/morellic/sarvaran.md)
+		- [Stonechild Imperial](cultures/morellic/stonechild-imperial.md)
+			- [Modern Morellic](cultures/morellic/modern-morellic.md)
+	- [Dwirivan](cultures/dwirivan/dwirivan.md)
+		- [Modern-Dwirivan](cultures/dwirivan/modern-dwirivan.md)
+	- [Neth](cultures/neth.md)
 
 ## Lifespan
 The average Minikin lifespan is 30 years, and they reach maturity at 8-12 years of age.
