@@ -1,5 +1,0 @@
----
-title: "Fungula"
-tags:
-- character
----

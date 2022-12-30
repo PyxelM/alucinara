@@ -1,7 +1,7 @@
 ---
-title: "Toadstool"
+title: "Fungula Moss"
 tags:
 - character
 - minikin
-- morelland
+- lichenia
 ---

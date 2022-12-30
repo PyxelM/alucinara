@@ -13,31 +13,8 @@ You can find the artwork I have made for Alucinara here on my [Deviant Art](http
 
 *Press [here](https://www.pyxelm.xyz/) in order to access my main website.*
 
-## Featured Articles
-
-### Geography
-- [0th Realm](https://en.wikipedia.org/wiki/Earth)
-- [1st Realm](geography/1st-realm.md)
-- [2nd Realm](geography/realms/2nd-realm.md)
-- [-3rd Realm](geography/realms/-3rd-realm.md)
-
-### Species
-- [Rodent](species/fauna/rodent.md)
-	- [Squirrel](species/fauna/squirrel.md)
-		- [Minikin](species/fauna/minikin.md)
-		- [Quartz Squirrel](species/fauna/quartz-squirrel.md)
-	- [Murine](species/fauna/murine.md)
-		- [Dray Mouse](species/fauna/dray-mouse.md)
-		- [Quartz Rat](species/fauna/quartz-rat.md)
-- [Weasel](species/fauna/weasel.md)
-	- [War Weasel](species/fauna/war-weasel.md)
-	- [Quartz Weasel](species/fauna/quartz-weasel.md)
-- [Gastopod](species/fauna/gastropod.md)
-	- [Slug](species/fauna/slug.md)
-		- [Demi-Slug](species/fauna/demi-slug.md)
-	- [Sea Slug](species/fauna/sea-slug.md)
-	- [Quartz Snail](species/fauna/quartz-snail.md)
-
-### Phenomena
-- [Alucinara](alucinara/alucinara.md)
-	- [Alucinara Gateway](alucinara/alucinara-gateway.md)
+## Featured Tags
+- [Geography](tags/geography)
+- [Cultures](tags/culture)
+- [Fauna](tags/fauna)
+- [Flora](tags/flora)
