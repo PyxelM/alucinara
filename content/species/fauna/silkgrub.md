@@ -4,11 +4,11 @@ tags:
 - fauna
 - insect
 ---
-Silkgrubs, of the family *Dolbaserica*, are small herbivorous insects that produce silk, native to the [2nd Realm](geography/realms/2nd-realm.md).
+Silkgrubs, of the family *Dolbaserica*, are small herbivorous insects that produce silk, native to the [2nd Realm](geography/2nd-realm.md).
 
 They exhibit neoteny in that they often do not metamorphose into adults, rather using the silk meant for their cocoon as shelter-building material, to stay warm and dry.
 
-They inhabit the [Central Continent](geography/realms/2nd-realm/central-continent.md)'s equatorial rainforest (*Sericifera erucula*), and its many other deciduous forests (*Sericifera foliphagia*).
+They inhabit the [Central Continent](geography/2nd-realm/central-continent.md)'s equatorial rainforest (*Sericifera erucula*), and its many other deciduous forests (*Sericifera foliphagia*).
 
 Their silk is used for;
 - [Nightsilk](material/fabric/nightsilk.md)
