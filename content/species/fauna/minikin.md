@@ -4,7 +4,7 @@ tags:
 - fauna
 - rodent
 ---
-Minikin are the sapient descendents of [0th Realm](https://en.wikipedia.org/wiki/Earth) squirrels; they reside in the forests, mountains, and steppes of the 2nd Realm.
+Minikin are the sapient descendents of [0th Realm](https://en.wikipedia.org/wiki/Earth) squirrels; they reside in the forests, mountains, and steppes of the [2nd Realm](geography/2nd-realm.md). They are prey animals, similar to [Demi-Slugs](species/fauna/demi-slug.md), and are hunted by [Birds of Prey](tags/bird-of-prey), [Weasels](species/fauna/weasel.md), and [Pine Martens](species/fauna/pine-marten.md).
 
 ## Cultures
 - [Proto-Morellic](cultures/proto-morellic.md)
