@@ -1,5 +1,5 @@
 ---
-title: "Proto-Morellic Culture"
+title: "Morellic Culture"
 tags:
 - culture
 ---

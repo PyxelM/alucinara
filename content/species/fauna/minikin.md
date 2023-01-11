@@ -10,7 +10,7 @@ Minikin are the sapient descendents of [0th Realm](https://en.wikipedia.org/wiki
 - [Proto-Morellic](cultures/proto-morellic.md)
 	- [Sarvaran](cultures/morellic/sarvaran.md)
 		- [Stonechild Imperial](cultures/morellic/stonechild-imperial.md)
-			- [Modern Morellic](cultures/morellic.md)
+			- [Modern Morellic](cultures/morellic/morellic.md)
 	- [Dwirivan](cultures/dwirivan.md)
 	- [Neth](cultures/neth.md)
 - [Snixian](cultures/snixian.md)
