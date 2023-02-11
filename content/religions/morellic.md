@@ -24,7 +24,7 @@ Another, a more courageous kind, was created to gain life from the cowardly kind
 Many kinds were made to know. Originally, all kinds knew nothing - only to eat, to gain life. But time is unforgiving, static facts of reality mean that life and nature is warped beyond recognition by the inherent gasses and crystals and minerals that the kind that knew called 'Alucinara.'
 
 It warped them from unthinking kinds that eat of the still beings, into thinking kinds that eat of what they wish. They were unrestricted by the rules of being as they developed further into sapient forms.
-They continued and continued among the still forms. They eat of the milk of the ground but scream and howl to each other to say their thoughts.
+They continued and continue, living atop the still kind. They eat of the milk of the ground but scream and howl to each other to say their thoughts.
 
 ### Creation of the Multiverse
 The creation of their vessel is much more interesting than those despicable beings that take advantage of it.
