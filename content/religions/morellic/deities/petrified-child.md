@@ -1,7 +1,7 @@
 ---
 title: "The Petrified Child"
 tags:
-- religions
+- religion
 - morellic
 - petrified-child
 ---

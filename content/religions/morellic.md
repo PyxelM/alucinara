@@ -1,8 +1,8 @@
 ---
 title: "Morellic Religion"
 tags:
-- religions
-- cultures
+- religion
+- culture
 - morellic
 - minikin
 ---
