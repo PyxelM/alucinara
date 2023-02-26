@@ -15,4 +15,4 @@ Their silk is used for;
 - [Morellic Drape](material/fabric/morellic-drape.md)
 - [Neth Fleece](material/fabric/neth-fleece.md)
 
-Due to silkgrubs' high populations in forests, the [Morellic](cultures/proto-morellic.md) and [Neth](cultures/neth.md) cultures both often utilise their silk. Adversely, the [Snixian](cultures/snixian) culture often uses [goat wool](material/fabric/goat-wool) due to their position atop the [Snixian Alps](geography/realms/2nd-realm/central-continent/snixian-alps.md).
+Due to silkgrubs' high populations in forests, the [Morellic](cultures/morellic.md) and [Neth](cultures/neth.md) cultures both often utilise their silk. Adversely, the [Snixian](cultures/snixian) culture often uses [goat wool](material/fabric/goat-wool) due to their position atop the [Snixian Alps](geography/realms/2nd-realm/central-continent/snixian-alps.md).
