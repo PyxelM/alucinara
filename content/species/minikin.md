@@ -5,14 +5,6 @@ tags:
 - fauna
 - minikin
 ---
-%%
-What is it?
-What does it do?
-What does it look / sound / smell like?
-What is it used for?
-What is its cultural significance?
-%%
-
 ## Overview
 Minikin are a small anthropoid rodent species native to the 2nd realm. They are arboreal omnivores, biased toward eating nuts and other plants, and descend from the squirrels of the 0th realm.
 

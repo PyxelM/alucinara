@@ -13,6 +13,10 @@ You can find the artwork I have made for Alucinara here on my [Deviant Art](http
 
 *Press [here](https://www.pyxelm.xyz/) in order to access my main website.*
 
+## Featured Articles
+- [Minikin](species/minikin.md)
+- [Sky Island](phenomena/sky-island.md)
+
 ## Featured Tags
 - [Geography](tags/geography)
 - [Cultures](tags/culture)

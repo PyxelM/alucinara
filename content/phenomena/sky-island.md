@@ -4,7 +4,6 @@ tags:
 - phenomena
 - pseudo-fauna
 ---
-
 ## Overview
 Generally, sky islands are large animal-shaped islands which float above the surface of the ground. They often feature self-sustaining ecosystems atop them, with a forest or grassland on the topside, and a rocky underside which changes shape due to [Alucinara](phenomena/alucinara.md) influence.
 
