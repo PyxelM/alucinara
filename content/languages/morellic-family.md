@@ -18,19 +18,19 @@ flowchart TD
         M --> Ma[Sarvaran]
             Ma --> Maa[Stonechild Imperial]
                 Maa --> Maaa[Modern Morellic]
-                Maa --> Maab
-                Maa --> Maac
-            Ma --> Mab
-            Ma --> MNa
-                MNa --> MNaa
-                MNa --> MNab
-        M --> Mb
+                Maa --> Maab[Modern Ciryssic]
+                Maa --> Maac[Tandai Pidgin]
+            Ma --> Mab[Tana Daya]
+                Mab --> Maba[Modern Tennaya]
+                Mab --> Mabb[Modern Tudja]
+                Mab --> Maac
+        M --> Mb[Boletic]
             Mb --> Mba
-                Mba --> Mbaa
+                Mba --> Mbaa[Modern Boletic]
                 Mba --> Mbab
             Mb --> Mbb
         M --> Mc[Proto-Snixian]
-            Mc --> Mca[Asaarian]
+            Mc --> Mca[Southern]
                 Mca --> Mcaa[Snixian]
                 Mca --> Mcab
             Mc --> Mcb
@@ -41,7 +41,7 @@ flowchart TD
     Proto --> |Germanic| N[Proto-Eastern-Morellic]
         N --> Na
             Na --> Naa
-                Naa --> Naaa
+                Naa --> Naaa[Modern Neth]
                 Naa --> Naab
             Na --> Nab
                 Nab --> Naba
