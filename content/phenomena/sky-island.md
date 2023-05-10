@@ -41,10 +41,43 @@ If found, some craters are converted into communities, cities, or towns. The cen
 
 In addition, some crater communities carve houses or structures into the fallen stalagtites, creating walkways through the stone and balconies at the side, while others create wooden or clay buildings around the main structure. Some communities do both, and create walkways and/or connections from the carved structures into the external ones.
 
-### Notable Stalagtite Communities
+#### Notable Stalagtite Communities
 - [Cratertown](locations/cratertown.md), a town inhabited by [Dwiri](cultures/dwiri.md) minikin, built around an indistinct-shaped stalagtite.
 - [City of the Fallen One](locations/city-of-the-fallen-one.md), a religious site of the [Neth](cultures/neth.md) minikin, built around a minikinoid stalagtite.
 - [Amanitaville](locations/amanitaville.md), the capital of [Morelland](locations/morelland.md), built around a mushroom-shaped stalagtite.
+
+### Notable Sky Islands
+- The Birds,
+	- Aderyn Major, the largest sky island to record
+	- and Aderyn Minor;
+- The Bats,
+	- Ystlum Primus,
+	- Ystlum Secundus, the most bloodthirsty sky island to record
+	- and Ystlum Tertius;
+- The Whales,
+	- Morvilog Major
+	- and Morvilog Minor, the most peaceful sky island to record;
+- and The Worms,
+	- Abwyd Primus, the longest sky island to record,
+	- Abwyd Secundus,
+	- Abwyd Tertius, the smallest sky island to record
+	- and Abwyd Quartus.
+
+#### Aderyn Major
+Aderyn Major, the largest sky island to record, takes the shape of a bird and has been inhabited by the Neth and Stonechild Imperial Minikin. Originating from the central continent, Aderyn Major has been found and colonised by many central continent peoples.
+
+##### Discovery by the Neth Minikin
+Once, Aderyn Major crash-landed soon after the Neth minikin had split off into their own group, having ran out of Alucinara Energy. The Neth minikin found Aderyn Major's remains, and began to inspect it; unfortunately, one group of minikin entered the mouth of the sky island and tragically died to the ravenous ecosystem inside.
+
+When the alucinarium inherent to the victims' bodies was released, the sky isladn took full advantage of this - immediately springing to animation, with the rest of the Neth minikin on its back. It soon began to float upward, taking its place as the home of the Nesi Minikin, who broke off from the Neth.
+
+###### Neth-Founded Communities
+- Nethville
+- Birton
+- Aderyntown
+
+##### Conquest by the Empire of the Petrified Child
+Centuries later, by the time of the Stonechild Era, the empire had begun to take advantage of their new technology of alucinara-powered flight. Using an airship of theirs, they attacked the island - burning and pillaging the town of Aderyntown and taking control of the town of Birton, claiming it as the capital of their Aderyn Major Province.
 
 ## See Also:
 - [Cloud Gnats](phenomena/cloud-gnat.md)
