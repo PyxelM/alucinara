@@ -86,3 +86,22 @@ flowchart TD
                 Dbc --> Dbcb
     time1[Year -4000] --> |Year -3000| time2[Year -2000] --> |Year -1000| time3[Year 0] --> |Year 1000| time4[Year 2000] --> |Year 3000| time5[Year 4000]
 ```
+
+## Proto-Morellic
+### Phonology
+| Consonants  |           | Labial  | Coronal    | Dorsal   |
+| ----------- | --------- | ------- | ---------- | -------- |
+| Plosive     | Tenuis    | p       | t          | k        |
+| Plosive     | Voiced    | b       | d          | g        |
+| Plosive     | Breathy   | bʱ (bh) | dʱ (dh)    | gʱ (gh)  |
+| Fricative   | Voiceless | f       | s          | x        |
+| Fricative   | Voiced    | v~w (v) | z~r (z)    | ɣ~j (y)  |
+| Lateral     | Voiced    |         | l, lʱ (lh) |          |
+| Nasal       | Tenuis    | m       | n          | ŋ (ng)   |
+| Nasal       | Breathy   | mʱ (m)  | nʱ (nh)    | ŋʱ (ngh) |
+
+| Vowels | Front | Central | Back |
+| ------ | ----- | ------- | ---- |
+| High   | i     |         | u    |
+| Mid    | e     | ə (ë)   | o    |
+| Low    |       | ä (a)   |      |
