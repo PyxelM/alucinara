@@ -62,7 +62,7 @@ Once the morellic minikin had discovered this, they began to seek out rocks and 
 
 A lot of these rocks would be innefective as they would be hidden away in a pocket, unable to see out of the fabric. So, the morellic minikin would sometimes cut holes in their pockets so that the eyes could see out.
 
-An innovation came when early-stonechild minikin discovered that carving into alucinarium geodes into watchstones worked to allow them to float and move, tremendously increasing the visibility of the watchstones as they could not only move their field of view, but they could also *walk.*
+An innovation came when early-stonechild minikin discovered that carving alucinarium geodes into watchstones worked to allow them to float and move, tremendously increasing the visibility of the watchstones as they could not only move their field of view, but they could also *walk.*
 
 Pebbles naturally accumulate alucinarium by lying in the ground for prolonged periods of time, and could be easily grabbed by the watchstones and used as legs; this is because the alucinara energy in the stone could be absorbed by the watchstones and used to stay afloat, and the pebbles' contact with the ground would take a lot of effort off of the watchstones to exert more energy in floating unnassisted.
 
