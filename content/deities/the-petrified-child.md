@@ -46,16 +46,16 @@ The appearance of this stage is similarly plain like the previous stage, but it 
 #### Stage 3
 The final stage is the least dangerous relative to the previous stages, featuring little danger and little predators than wouldn't usually be expected. By this point, the ecosystemic proliferation will have ceased, and the health of the flora will sustain itself in the natural cycle of nutrients into plants and back into the ground.
 
-At this point, the central skeleton may have rotted and crumbled, serving as fertiliser in and of itself, or it will have stayed standing in the case of stronger skeletons. The appearance of this stage is marked by a lush green appearance; if the skeleton hasn't disappeared it will surely be hidden by the tall dense trees which will have grown in the area.
+At this point, the central skeleton may have rotted and crumbled, serving as fertiliser in and of itself, or it will have stayed standing in the case of stronger skeletons. The appearance of this stage is marked by the appearance of tall green trees; if the skeleton hasn't disappeared it will surely be hidden by the lush trees which will have grown in the area.
 
-From here on, the area will stay relatively constant in state, featuring lush dense flora. Over time the region may be overcome with other flora, resembling a baby meadow less and less after the initial propagation declines, but this is a very slow process due to the influence of alucinara energy in the area following the dissemination of baby sludge.
+From here on, the area will stay relatively constant in state, featuring dense flora. Over time the region may be overcome with other flora, resembling a baby meadow less and less after the initial propagation declines, but this is a very slow process due to the influence of alucinara energy in the area following the dissemination of baby sludge.
 
 ## Detection of Evil
 The petrified child detects evil through 'eyes' scattered across the realms. A fair proportion of these eyes exist naturally, but the majority of these eyes were carved by the [Sarvaran](cultures/morellic/sarvaran.md) and [Stonechild](cultures/morellic/stonechild) minikin, after it was discovered they could be created manually.
 
-The formation of these eyes is greatly helped by Alucinarium content in the rock, as this often causes the surface of a rockface to shift into the shape of a face, although this can be bypassed by a natural process such as erosion forming a face or eyes.
+'Eyes' are rock formations given use by their physical resemblance to eyes or faces. They were discovered by an early [morellic](cultures/morellic.md) group of minikin who realised that the petrified child came to save them from danger only when there was a nearby clifface or boulder with eyes formed into the surface.
 
-'Eyes' are rock formations given use by their physical resemblance to eyes or faces. They were discovered by an early [morellic](cultures/morellic.md) group of minikin who realised that the petrified child only came to save them from danger only when there was a nearby clifface or boulder with eyes formed in the surface.
+The formation of these eyes is greatly helped by Alucinarium content in the rock, as this often causes the surface of a rockface to shift into the shape of a face, although this can be bypassed by a natural process such as erosion forming a face.
 
 ### Watchstones
 Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/watchstone.md).'[^1]
