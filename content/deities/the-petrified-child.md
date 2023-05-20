@@ -57,7 +57,7 @@ The formation of these eyes is greatly helped by Alucinarium content in the rock
 
 'Eyes' are rock formations given use by their physical resemblance to eyes or faces. They were discovered by an early [morellic](cultures/morellic.md) group of minikin who realised that the petrified child only came to save them from danger only when there was a nearby clifface or boulder with eyes formed in the surface.
 
-### [Watchstones](phenomena/watchstone.md)
+### Watchstones
 Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/watchstone.md).'[^1]
 
 A lot of these rocks would be innefective as they would be hidden away in a pocket, unable to see out of the fabric. So, the morellic minikin would sometimes cut holes in their pockets so that the eyes could see out.
