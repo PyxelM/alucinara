@@ -64,6 +64,4 @@ A lot of these rocks would be ineffective as they would be hidden away in a pock
 
 An innovation came when early-stonechild minikin discovered that carving alucinarium geodes into watchstones worked to allow them to move, tremendously increasing the field of view of the watchstones. 
 
-Watchstones were eventually refined and served as one of the first examples of mass production following the creation of the [Empire of the Petrified Child](cultures/morellic/stonechild.md).
-
 [^1]: 'uinh eyanitu atëmil' `DEF stone-PL see-STV` 'the seeing stones' ([P.M.](languages/proto-morellic.md))
