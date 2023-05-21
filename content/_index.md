@@ -17,6 +17,7 @@ You can find the artwork I have made for Alucinara here on my [Deviant Art](http
 - [Minikin](species/minikin.md)
 - [Sky Island](phenomena/sky-island.md)
 - [The Petrified Child](deities/the-petrified-child.md)
+- [Watchstones](phenomena/watchstones.md)
 
 ## Featured Tags
 - [Geography](tags/geography)
