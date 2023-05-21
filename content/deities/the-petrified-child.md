@@ -58,7 +58,7 @@ The petrified child detects evil through 'eyes' scattered across the realms. A f
 The formation of these eyes is greatly helped by Alucinarium content in the rock, as this often causes the surface to shift into the shape of a face. This is often hastened by the process of erosion.
 
 ### Watchstones
-Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/watchstone.md).'[^1]
+Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/watchstones.md).'[^1]
 
 A lot of these rocks would be ineffective as they would be hidden away in a pocket, unable to see out of the fabric. So, the morellic minikin would sometimes cut holes in their pockets so that the eyes could see out.
 

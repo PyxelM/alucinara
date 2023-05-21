@@ -1,5 +1,5 @@
 ---
-title: "Watchstone"
+title: "Watchstones"
 tags:
 - petrified-child
 - pseudo-fauna
