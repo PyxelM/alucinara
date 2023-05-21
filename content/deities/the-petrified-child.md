@@ -11,7 +11,7 @@ The Petrified Child[^1] is a supernatural being or deity concerned with the regu
 ## Appearance
 ![Petrified Child](images/petrified-child.png)
 
-The Petrified Child has the form of a long, inverse egg made of pure rock. It has a round top and a curved, tapering bottom with no visible body parts but a round infantile face on the front side of its upper section.
+The Petrified Child has the form of a long, inverse egg made of pure rock. It has a round top and a curved, tapering bottom with no visible body parts except for a round infantile face on the front side of its upper section.
 
 Its face varies in shape over time due to the presence of Alucinara energy within it; this can cause its face to unpredictably shift in form. The child often appears to have the infantile face of a minikin, but it can also present with a strigine face, canine face, or a feline face, causing a lot of variation from culture-to-culture in how the deity is depicted.
 
@@ -64,4 +64,4 @@ A lot of these rocks would be ineffective as they would be hidden away in a pock
 
 An innovation came when early-stonechild minikin discovered that carving alucinarium geodes into watchstones worked to allow them to move, tremendously increasing the field of view of the watchstones. 
 
-[^1]: 'uinh sëti-eyan' `DEF child-stone` 'the child of stone' ([P.M.](languages/proto-morellic.md))
+[^1]: 'uinh sëti-eyan' `DEF stone-child` 'the child of stone' ([P.M.](languages/proto-morellic.md))
