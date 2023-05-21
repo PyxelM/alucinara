@@ -8,6 +8,8 @@ tags:
 ## Overview
 Watchstones are artificial patrols invented by the [Sarvaran](cultures/morellic/sarvaran.md) minikin for the purpose of giving [The Petrified Child](deities/the-petrified-child.md) a greater visual range. They are rocks with eyes or faces carved into them, and are commonly made from [Alucinarium](phenomena/alucinara.md) geodes; they served as one of the first examples of mass-production by the [Empire of the Petrified Child](cultures/morellic/stonechild.md).
 
+Due to their animalistic behaviour as defined by the [Pseudo-fauna Principle](phenomena/pseudo-fauna-principle.md), Watchstones with the ability to move are often taken as pets or companions in spite of their lack of a soul.
+
 ![Watchstone](images/watchstone.png)
 
 ## Utility
