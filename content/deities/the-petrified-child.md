@@ -6,7 +6,7 @@ tags:
 - petrified-child
 ---
 ## Overview
-The Petrified Child is a supernatural being or deity concerned with the regulation and destruction of evil. It was formed from the mountains, owing to the fact that it is made of rock, and has the appearance of an infant.
+The Petrified Child[^1] is a supernatural being or deity concerned with the regulation and destruction of evil. It was formed from the mountains, owing to the fact that it is made of rock, and has the appearance of an infant.
 
 ## Appearance
 ![Petrified Child](images/petrified-child.png)
@@ -58,10 +58,10 @@ The petrified child detects evil through 'eyes' scattered across the realms. A f
 The formation of these eyes is greatly helped by Alucinarium content in the rock, as this often causes the surface to shift into the shape of a face. This is often hastened by the process of erosion.
 
 ### Watchstones
-Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/watchstones.md).'[^1]
+Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/watchstones.md).'
 
 A lot of these rocks would be ineffective as they would be hidden away in a pocket, unable to see out of the fabric. So, the morellic minikin would sometimes cut holes in their pockets so that the eyes could see out.
 
 An innovation came when early-stonechild minikin discovered that carving alucinarium geodes into watchstones worked to allow them to move, tremendously increasing the field of view of the watchstones. 
 
-[^1]: 'uinh eyanitu atëmil' `DEF stone-PL see-STV` 'the seeing stones' ([P.M.](languages/proto-morellic.md))
+[^1]: 'uinh sëti-eyan' `DEF child-stone` 'the child of stone' ([P.M.](languages/proto-morellic.md))
