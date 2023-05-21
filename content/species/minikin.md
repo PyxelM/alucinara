@@ -42,15 +42,3 @@ However, the line gets blurred between each organ when one researches the subjec
 All minikin hibernate in the winter, slowing their metabolic processes following a period of feasting. During hibernation, minikin become unconscious in a sleep-like state and alucinarium levels in the brain increase due to the inactivation of valves in the bloodstream that protect the brain from Phantasmarrhoea.
 
 This is not seen in minikin sleep, but has been shown to increase the vividness of dreams during hibernation. The presence of alucinarium in the brain during hibernation is a survival method meant to allow minikin to interface with deities, to gain foreknowledge such as future events or advice through acquisition of divine wisdom.
-
-## Cultures
-### Morellic Minikin
-[See main article](cultures/morellic.md)
-
-The Morellic minikin, descended from the Morel tribe, are the most numerous race of minikin. Their theology features a reverence of squirrels, the tail, mountains, forests, fungus, and a pantheon believed to be the direct descendants of the mountains.
-
-### Neth Minikin
-The Neth minikin, descended from the Neth Asai tribe, are second numerous behind the morellic minikin. Their theology features a reverance of water (lakes, rivers, rain, floods, etc), mangroves, flies, and a pantheon believed to manifest itself in the different aspects of reality.
-
-## Snix Minikin
-The Snix minikin, descended from the Snik Rsë tribe, are the third numerous. Their theology features a reverance of mountains, snow, mountain goats, tundras, and a monotheistic god believed to be a combination of a goat, a squirrel, and a quartz skunk.
