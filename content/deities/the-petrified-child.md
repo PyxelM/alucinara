@@ -7,12 +7,12 @@ tags:
 - featured
 ---
 ## Overview
-The Petrified Child[^1] is a supernatural being or deity concerned with the regulation and destruction of evil. It was formed from the mountains, owing to the fact that it is made of rock, and has the appearance of an infant.
+The Petrified Child[^1] is a supernatural being or deity concerned with the regulation and destruction of evil. It was formed from the mountains, owing to the fact that it is made of rock, and has the appearance of an infant. In addition, it is capable of travelling across the realms at its own discretion, and moves by quickly floating above the canopy or surface of the ground.
 
 ## Appearance
 ![Petrified Child](images/petrified-child.png)
 
-The Petrified Child has the form of a long, inverse egg made of pure rock. It has a round top and a curved, tapering bottom with no visible body parts except for a round infantile face on the front side of its upper section.
+The Petrified Child has the form of a long, inverse egg made of pure rock. It has a round top with a curved, tapering bottom, a vertical length of 3 metres, and a diameter of 1.5 metres at its widest point. In addition, it has no visible body parts except for a round infantile face on the front side of its upper section.
 
 Its face varies in shape over time due to the presence of Alucinara energy within it; this can cause its face to unpredictably shift in form. The child often appears to have the infantile face of a minikin, but it can also present with a strigine face, canine face, or a feline face, causing a lot of variation from culture-to-culture in how the deity is depicted.
 
