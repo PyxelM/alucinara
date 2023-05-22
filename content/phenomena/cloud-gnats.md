@@ -3,12 +3,13 @@ title: "Cloud Gnats"
 tags:
 - phenomena
 - pseudo-fauna
+- featured
 ---
 ## Overview
 Cloud Gnats are animal-like apparitions made of [alucinariferous](phenomena/alucinara.md) dust. They commonly appear as small animals, standing upright with their abdomen tapering off into a wispy tail. They retain cohesion through the influence of alucinara energy, but diffuse once the energy is unable to sustain cohesion.
 
 ## Appearance
-Cloud Gnats appear translucent, dusty, and purple. They take the form of animals due to the [pseudo-fauna principle](phenomena/pseudo-fauna-principle.md), with arms, a head, a torso, and a tail, and sometimes exhibit small dark-purple [Alucinarium](phenomena/alucinara.md) crystals in the place of eyes, claws and/or teeth.
+Cloud Gnats appear translucent, dusty and purple, with an average length of 22cm. They take the form of animals due to the [pseudo-fauna principle](phenomena/pseudo-fauna-principle.md), with arms, a head, a torso, and a tail, and sometimes exhibit small dark-purple [Alucinarium](phenomena/alucinara.md) crystals in the place of eyes, claws and/or teeth.
 
 In addition to their dusty purple appearance, they also exhibit orange sparks of light from within and around their main body. In fact, some cloud gnats may feature floating emissive bulbs in front of where their eyes would be.
 
@@ -20,4 +21,4 @@ This can pose a considerable threat due to their sharp crystalline claws, which 
 ## Lifespan
 Cloud Gnats' lifespans can vary from under a second to days or weeks. Size is correlated with lifespan, as smaller cloud gnats will immediately lose cohesion and diffuse, and larger cloud gnats will collapse under their own weight.
 
-A size of roughly 22 cm (from the top of one's head to the tip of their tail) is the most conducive for prolonged cohesion, and many cloud gnats are seen at this size.
+A length of roughly 22cm is the most conducive for prolonged cohesion, and many cloud gnats are seen at this size.

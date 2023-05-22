@@ -4,6 +4,7 @@ tags:
 - supernatural-being
 - deity
 - petrified-child
+- featured
 ---
 ## Overview
 The Petrified Child[^1] is a supernatural being or deity concerned with the regulation and destruction of evil. It was formed from the mountains, owing to the fact that it is made of rock, and has the appearance of an infant.

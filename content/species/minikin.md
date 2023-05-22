@@ -3,7 +3,7 @@ title: "Minikin"
 tags:
 - species
 - fauna
-- minikin
+- featured
 ---
 ## Overview
 Minikin are a small anthropoid rodent species native to the 2nd realm. They are arboreal omnivores, biased toward eating nuts and other plants, and descend from the squirrels of the 0th realm.
