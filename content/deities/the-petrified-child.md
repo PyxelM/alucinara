@@ -20,7 +20,7 @@ Its eyes are made of smooth Alucinarium bulbs, appearing dark, shiny, and purple
 ### Cultural Variance
 - In [morellic](cultures/morellic.md) tradition, the petrified child is depicted with the face of a minikin;
 - In [dviri](cultures/dviri) tradition, the petrified child is depicted with the face of an owl;
-- In [sënixa](cultures/senixa) tradition, the petrified child is depicted with the face of a goat;
+- In [snixoj](cultures/snixoj) tradition, the petrified child is depicted with the face of a goat;
 - and in [neth](cultures/neth) tradition, the petrified child is depicted with the face of a ferret.
 
 ## Purpose
