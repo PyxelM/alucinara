@@ -13,7 +13,7 @@ They can pose a violent threat, as their crystalline claws or teeth can cause la
 ![Cloud Gnat](images/cloud-gnat.png)
 
 ## Appearance
-Cloud Gnats appear translucent, dusty and purple, with an average length of 22cm. They take the form of animals due to the [pseudo-fauna principle](phenomena/pseudo-fauna-principle.md), with arms, a head, a torso, and a tail, and sometimes exhibit small dark-purple [Alucinarium](phenomena/alucinara.md) crystals in the place of eyes, claws and/or teeth.
+Cloud Gnats appear translucent, dusty and purple, with an average length of 22cm. They take the form of animals due to the [pseudo-fauna principle](phenomena/pseudo-fauna-principle.md), with arms, a head, a torso, and a tail. In addition, they sometimes exhibit dark-purple [Alucinarium](phenomena/alucinara.md) crystals in the place of eyes, claws, or teeth, with a solid appearance which stands out against their bodies' dusty material.
 
 In addition to their dusty purple appearance, they also exhibit orange sparks of light from within and around their main body. In fact, some cloud gnats may feature floating emissive bulbs in front of where their eyes would be.
 
