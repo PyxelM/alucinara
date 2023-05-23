@@ -10,6 +10,8 @@ Cloud Gnats are animal-like apparitions made of [alucinariferous](phenomena/aluc
 
 They can pose a violent threat, as their crystalline claws or teeth can cause lacerations, infection, and phantasmarrhoea if crystalline shard break off in the would.
 
+![Cloud Gnat](images/cloud-gnat.png)
+
 ## Appearance
 Cloud Gnats appear translucent, dusty and purple, with an average length of 22cm. They take the form of animals due to the [pseudo-fauna principle](phenomena/pseudo-fauna-principle.md), with arms, a head, a torso, and a tail, and sometimes exhibit small dark-purple [Alucinarium](phenomena/alucinara.md) crystals in the place of eyes, claws and/or teeth.
 
