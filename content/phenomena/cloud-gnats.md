@@ -8,7 +8,7 @@ tags:
 ## Overview
 Cloud Gnats are animal-like apparitions made of [alucinariferous](phenomena/alucinara.md) dust. They commonly appear as small animals, standing upright with their abdomen tapering off into a wispy tail. They retain cohesion through the influence of alucinara energy, but diffuse once the energy is unable to sustain cohesion.
 
-They can pose a violent threat, as their crystalline claws or teeth can cause lacerations, infection, and phantasmarrhoea if a shard of alucinarium were to break off in the wound.
+They can pose a violent threat, as their crystalline claws or teeth can cause lacerations, infection, and a risk of phantasmarrhoea if a shard of alucinarium were to break off in the wound.
 
 ![Cloud Gnat](images/cloud-gnat.png)
 
