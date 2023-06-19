@@ -25,7 +25,7 @@ Alucinara causes effects such as;
 - Emission of light, where an object will emit glowing sparks or orbs which dim over time;
 - The [Pseudo Fauna Principle](phenomena/pseudo-fauna-principle), where inanimate objects will act like living animals;
 - The Soul, where alucinara energy will interact with hydrocarbons in pitch or amino acids to create consciousness;
-- Phantasmarrhoea, where a living animal will undergo involuntary hallucinations, delusion, psychosis, and frequencial shift.
+- Phantasmarrhoea, where a living animal will undergo growth of alucinarium crystals upon the skin and organs, hallucinations, delusion, psychosis, and involuntary frequencial shift.
 
 ## Influence on Biology
 Alucinara's effect on biology is characterised by growth of unhealthy crystals on the body and utilisation of the unnatural properties of the energy.
