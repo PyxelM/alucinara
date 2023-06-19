@@ -4,11 +4,6 @@ tags:
 - phenomena
 - alucinara
 ---
-%%
-What are the significant features which make this relevant to the plot?
-What patterns are there when it comes to description and properties?
-What does it look like, what is its relevance, and what is it used for?
-%%
 
 ## Overview
 Alucinara, or Alucinara Energy, is a type of energy characterised by the alteration of natural processes which would act differently without its influence. Alucinara causes this by altering the [First Laws of Nature](phenomena/natural-laws/first-laws.md) to act in place of the ordinary [Second Laws of Nature](phenomena/natural-laws/second-laws.md).
