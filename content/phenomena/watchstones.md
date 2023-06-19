@@ -14,7 +14,7 @@ Watchstones with the ability to move imprint on the closest animal, observing to
 ![Watchstone](images/watchstone.png)
 
 ## Utility
-Watchstones are given use by their resemblance to eyes; the petrified child has the ability to see out of every pair of eyes carved or eroded into rock formations, which allows it to detect evil at a greater efficiency.
+Watchstones are given use by the presence of eyes on the surface of rock as the petrified child has the ability to see out of every pair of eyes carved or eroded into rock formations. This is the mechanism which the petrified child uses to detect evil.
 
 Before watchstones began to be carved out of geodes, they were motionless and static despite their effectiveness. This meant a lot of watchstones would be hidden away in pockets as a good luck charm, but this proved ineffective. This led to the cutting of holes into pockets and the specific fabrication of places such as lockets and cases to place watchstones within; this allowed watchstones to serve their purpose more effectively.
 

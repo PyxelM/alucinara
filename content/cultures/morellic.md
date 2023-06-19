@@ -5,13 +5,10 @@ tags:
 - morellic
 ---
 ## Overview
-Morellic Culture is the culture of the morellic [minikin](species/minikin.md). The name is a larger term for many related cultural-ethenic groups, all descended from a common ancestor 7,000 years ago, known as the Moreillu[^1] Tribe.
+Morellic Culture is the culture of the morellic [minikin](species/fauna/sapient/minikin.md). The name is a larger term for many related cultural-ethenic groups, all descended from a common ancestor 7,000 years ago, known as the Moreillu[^1] Tribe.
 
 The original Moreillu tribe spoke [Proto-Morellic](languages/proto-morellic.md), and existed as a group of formerly nomadic minikin, who had settled in the mountains of the northeastern peninsula.
 
-## Morellic 
-
-The tenets were as such;
 - The creator created alucinara which created the realms (or suns, tar, darkness) which created the worlds which created the land and sea which created the mountains (or earth, dirt) which created the trees (or plants) which created the animals which created the people.
 - Alucinara, being the first thing the creator created, is a sacred energy which takes the form of alucinarium. It is the energy which initially gives life to newborns, defines the laws of nature and the universe, and allows animals to take the darkness for their own means.
 - The mountains also created the petrified child who indescriminately and infallibly destroys evil for the sake of our safety, and never destroys what does not deserve it.

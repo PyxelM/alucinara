@@ -2,7 +2,7 @@
 title: "Alucinara"
 ---
 Alucinara is a book that explores anthropology, fantasy ethics, and the right to 'save' the world through a cast of three characters;
-- one a immature and naive [Minikin](species/minikin.md) bandit called [Toadstool](characters/toadstool.md),
+- one a immature and naive [Minikin](species/fauna/sapient/minikin.md) bandit called [Toadstool](characters/toadstool.md),
 - another a culture-shocked but ambitious [Demi-Slug](species/demi-slug.md) vagabond called [Blueberry](characters/blueberry.md),
 - and the other a young, cautious Minikin stateswoman called [Fungula](characters/fungula.md).
 These characters are all with differing opinions, attributes, and motives for their actions.
@@ -13,7 +13,7 @@ I conceived the book in November 2021 during a creative writing mock-test. Since
 You can find the artwork I have made for Alucinara at my [Deviant Art](https://www.deviantart.com/pyxelmusic), and the music I have made for it at my [Bandcamp](https://pyxelm.bandcamp.com)
 
 ## Featured Articles
-- [Minikin](species/minikin.md)
+- [Minikin](species/fauna/sapient/minikin.md)
 - [Sky Island](phenomena/sky-islands.md)
 - [The Petrified Child](deities/the-petrified-child.md)
 - [Watchstones](phenomena/watchstones.md)
