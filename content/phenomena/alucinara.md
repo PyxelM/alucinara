@@ -22,9 +22,9 @@ Alucinara causes effects such as;
 - The Soul, where alucinara energy will interact with hydrocarbons in pitch or amino acids to create consciousness;
 - Phantasmarrhoea, where a living animal will undergo growth of alucinarium crystals upon the skin and organs, hallucinations, delusion, psychosis, and involuntary frequencial shift.
 
-## Influence on Biology
+### Influence on Biology
 Alucinara's effect on biology is characterised by growth of unhealthy crystals on the body and utilisation of the unnatural properties of the energy.
 
 Utilisation of Alucinara has been convergently evolved numerous times in the history of biology, with its basis in the development of the 'Fortuitary Gland' - a gland dedicated to the regulation of alucinarium purity and content in the blood. It often aids the capability of alucinara use;
-- In sapient species, alucinara use has similarities to tool use, such as using alucinara to light fires, light areas, and manipulate objects.
-- In less sapient species such as plants, fungus, and most animals (and to a lesser extent, sapient species), alucinara use is expressed as a biological process such as being used in an involuntary defence mechanism like bursts of stunning light or physically forcing combatants away.
+- In sapient species, alucinara use has similarities to tool use, such as using alucinara to ignite fires, light areas, and manipulate objects.
+- In less sapient species such as plants, fungus, and most animals (and to a lesser extent, sapient species), alucinara use is expressed as a biological process. For example, it can be employed in involuntary defence mechanisms, such as bursts of light, to stun combattants, or creation of a force field, to push combattants away.
