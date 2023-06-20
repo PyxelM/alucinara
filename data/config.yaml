@@ -12,19 +12,19 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
 enableMermaid: true
-GitHubLink: https://github.com/PyxelM/alucinara/tree/hugo/content
+GitHubLink: https://github.com/pyxelm/alucinara/tree/hugo/content
 search:
-  enableSemanticSearch: true
+  enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Alucinara is a book created by Pyxel, or, Mylo Hodges. book.pyxelm.xyz is the documentation of this book, and thus features articles about the many locations, characters, foods, languages, and realms of this book's universe.
+  Alucinara is a book that explores anthropology, fantasy ethics, and the right to ‘save’ the world.
 page_title:
-  "🍄 Alucinara"
+  "Alucinara"
 links:
-  - link_name: Website
-    link: https://www.pyxelm.xyz/
   - link_name: Youtube
     link: https://www.youtube.com/channel/UC-83oShBjl-0oR57dzvza2g
   - link_name: Bandcamp
-    link: https://pyxelm.bandcamp.com/
+    link: https://pyxelm.bandcamp.com
+  - link_name: GitHub
+    link: https://github.com/pyxelm
