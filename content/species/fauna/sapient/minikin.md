@@ -9,7 +9,7 @@ tags:
 Minikin are a small anthropoid rodent species native to the 2nd realm. They are arboreal omnivores, biased toward eating nuts and other plants, and descend from the squirrels of the 0th realm.
 
 ## Morphology
-Minikin often measure at the heights of 25-30cm tall. They feature tails, snouts, plantigrade feet, and buck-teeth. Mature minikin are hairless apart from their whiskers, tail hair, head hair, and pubic hair. Adversely, immature minikin - such as babies - feature hair on all parts of the body but the face, which thins and falls out as the minikin develops.
+Minikin often measure at the heights of 25-30cm tall. They feature tails, snouts, digitigrade feet, and buck-teeth. Mature minikin are hairless apart from their whiskers, tail hair, head hair, and pubic hair. Adversely, immature minikin - such as babies - feature hair on all parts of the body but the face, which thins and falls out as the minikin develops.
 
 Minikin skin colour can vary from dark to light, often taking on a semi-dark beige colour. The eye colour can vary from brown to green to blue. It takes on a pink or purple colour in the case of prolonged Alucinarium exposure.
 
