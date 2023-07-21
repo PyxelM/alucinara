@@ -36,4 +36,4 @@ Without alucinara, darklings would only appear as organic compounds *without* th
 #### The Realms
 In the universe's final form, alucinarium content would increase as one got further from the 0th realm, as these would be the most unstable and more succeptible to the effects of the [first laws](phenomena/natural-laws/first-laws.md).
 
-One could shift from realm to realm by creating [alucinara gateways](phenomena/alucinara-gateway), the process getting more alucinara-consumptive and difficult as one progressed further from the centre. It is practically impossible to surpass the 3rd and -3rd realms with this method, despite the amount of realms being practically infinite.x
+One could shift from realm to realm by creating [alucinara gateways](phenomena/alucinara-gateway), the process getting more alucinara-consumptive and difficult as one progressed further from the centre. It is practically impossible to surpass the 3rd and -3rd realms with this method, despite the amount of realms being practically infinite.
