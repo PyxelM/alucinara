@@ -3,6 +3,7 @@ title: "Minikin"
 tags:
 - species
 - fauna
+- rodent
 - featured
 ---
 ## Overview
@@ -36,7 +37,7 @@ Often, when a family gets too large for one community, it will inevitably collap
 ## Psychology
 Minikin psychology is a complicated subject on account of the brain's interaction with the Fortuitary gland. The brain is accountable for conscious and subconscious processes, such as thought, decision-making, breathing, sleep, hibernation, including the control of all other biological systems. Likewise, the fortuitary gland is accountable for the subconscious process of  alucinarium secretion and frequencial shift.
 
-However, the line gets blurred between each organ when one researches the subject of dreaming and sorcery. Dreams, while mostly innocuous to non-fortuitous beings, have been greatly debated in the context of Alucinara, wether or not their source is in the brain or not.
+However, the line gets blurred between each organ when one researches the subject of dreaming and sorcery. Dreams, while mostly innocuous to non-fortuitous beings, have been greatly debated in the context of Alucinara, wether or not they originate from the brain or not.
 
 ### Hibernation
 All minikin hibernate in the winter, slowing their metabolic processes following a period of feasting. During hibernation, minikin become unconscious in a sleep-like state and alucinarium levels in the brain increase due to the inactivation of valves in the bloodstream that protect the brain from Phantasmarrhoea.

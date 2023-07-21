@@ -1,7 +1,9 @@
 ---
-title: "Demi-Slugs"
+title: "Ikplik"
 tags:
-- 
+- species
+- fauna
+- rodent
 ---
 %%
 What are the significant features which make this relevant to the plot?

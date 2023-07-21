@@ -22,7 +22,7 @@ Its eyes are made of smooth Alucinarium bulbs, appearing dark, shiny, and purple
 - In [morellic](cultures/morellic.md) tradition, the petrified child is depicted with the face of a minikin;
 - In [dviri](cultures/dviri) tradition, the petrified child is depicted with the face of an owl;
 - In [snixoj](cultures/snixoj) tradition, the petrified child is depicted with the face of a goat;
-- and in [neth](cultures/neth) tradition, the petrified child is depicted with the face of a ferret.
+- and in [Ǫzí](cultures/Ǫzí) tradition, the petrified child is depicted with the face of a ferret.
 
 ## Purpose
 The purpose of the Petrified Child is to destroy evil where it may arise. The term 'evil' is not a term defined in the petrified child's mind, as to allow for a case-by-case conclusion on wether or not an offender needs to be destroyed.

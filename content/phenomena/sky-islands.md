@@ -44,7 +44,7 @@ In addition, some crater communities carve houses or structures into the fallen 
 
 #### Notable Stalagtite Communities
 - [Cratertown](locations/cratertown.md), a town inhabited by [Dviri](cultures/dviri.md) minikin, built around an indistinct-shaped stalagtite.
-- [City of the Fallen One](locations/city-of-the-fallen-one.md), a religious site of the [Neth](cultures/neth.md) minikin, built around a minikinoid stalagtite.
+- [City of the Fallen One](locations/city-of-the-fallen-one.md), a religious site of the [Ǫzí](cultures/Ǫzí.md) minikin, built around a minikinoid stalagtite.
 - [Amanitaville](locations/amanitaville.md), the capital of [Morelland](locations/morelland.md), built around a mushroom-shaped stalagtite.
 
 ### Notable Sky Islands
@@ -67,10 +67,10 @@ In addition, some crater communities carve houses or structures into the fallen 
 #### Aderyn Major
 Aderyn Major, the largest sky island to record, takes the shape of a bird and has been inhabited by the Nesi and Stonechild Imperial Minikin. Originating from the central continent, Aderyn Major has been found and colonised by many central continent peoples.
 
-##### Discovery by the Neth Minikin
-Once, Aderyn Major crash-landed, having ran out of Alucinara Energy. A group of minikin known as the Neth minikin found Aderyn Major's remains and began to inspect it but, in a turn of tragic fate, one group of minikin entered the mouth of the sky island and tragically died to the ravenous ecosystem inside.
+##### Discovery by the Ǫzí Minikin
+Once, Aderyn Major crash-landed, having ran out of Alucinara Energy. A group of minikin known as the Ǫzí minikin found Aderyn Major's remains and began to inspect it but, in a turn of tragic fate, one group of minikin entered the mouth of the sky island and tragically died to the ravenous ecosystem inside.
 
-When the alucinarium inside of the victims' bodies was released, the sky island took full advantage of this - immediately springing to animation, with the rest of the Neth minikin on its back. It soon began to float upward, taking its place as the home of the Nesi Minikin, who broke off from the Neth.
+When the alucinarium inside of the victims' bodies was released, the sky island took full advantage of this - immediately springing to animation, with the rest of the Ǫzí minikin on its back. It soon began to float upward, taking its place as the home of the Nesi Minikin, who broke off from the Ǫzí.
 
 ##### Conquest by the Empire of the Petrified Child
 Centuries later, by the time of the Stonechild Era, the empire had begun to take advantage of their new technology of alucinara-powered flight. Using an airship of theirs, they attacked the island - burning and pillaging the town of Aderynville and taking control of Birton, claiming it as the capital of their Aderyn Major Province.

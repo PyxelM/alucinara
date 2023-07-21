@@ -5,7 +5,7 @@ tags:
 - morellic
 ---
 ## Overview
-Morellic Culture is the culture of the morellic [minikin](species/fauna/sapient/minikin.md). The name is a larger term for many related cultural-ethenic groups, all descended from a common ancestor 7,000 years ago, known as the Moreillu[^1] Tribe.
+Morellic Culture is the culture of the morellic [minikin](species/fauna/minikin.md). The name is a larger term for many related cultural-ethenic groups, all descended from a common ancestor 7,000 years ago, known as the [Moráillona family](lore/c1bd/families/moraillona-family.md).
 
 The original Moreillu tribe spoke [Proto-Morellic](languages/proto-morellic.md), and existed as a group of formerly nomadic minikin, who had settled in the mountains of the northeastern peninsula.
 
@@ -27,5 +27,3 @@ The original Moreillu tribe spoke [Proto-Morellic](languages/proto-morellic.md),
 - Snails are sacred animals, and have been claimed in life by the deities. This is why they have shells, to protect them from whosoever may kill them. Slugs are not sacred, as they have not been protected with a shell.
 - Similarly, fruit and nuts with shells or peels (such as oranges or bananas) should not be eaten, this is because they have also been claimed. This is why they have shells or peels, to protect them.
 - When eating an animal, its tail should not be eaten for fear of punishment, it should be rather cut off and burnt in fire. If the animal killed a minikin or a sacred animal before its death, its tail should be buried.
-
-[^1]: Omoza-li-hona `Omoza-3.DEI-descendants` ([P.M.](languages/proto-morellic.md))

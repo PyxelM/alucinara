@@ -24,7 +24,7 @@ Alucinara causes effects such as;
 - Phantasmarrhoea, where a living animal will undergo growth of alucinarium crystals upon the skin and organs, hallucinations, delusion, psychosis, and involuntary frequencial shift.
 
 ### Influence on Biology
-Alucinara's effect on biology is characterised by growth of unhealthy crystals on the body and utilisation of the unnatural properties of the energy.
+Alucinara's effect on biology is characterised by growth of unhealthy crystals on the body, extension of an organisms lifetime, and utilisation of the unnatural properties of the energy.
 
 Utilisation of Alucinara has been convergently evolved numerous times in the history of biology, with its basis in the development of the 'Fortuitary Gland' - a gland dedicated to the regulation of alucinarium purity and content in the blood. It often aids the capability of alucinara use;
 - In sapient species, alucinara use has similarities to tool use, such as using alucinara to ignite fires, light areas, and manipulate objects.
