@@ -60,11 +60,29 @@ Creatures formed from mountains are known as higher-order creatures, to distingu
 ### Lower-Order Creatures
 Lower order creatures, formed from the biomes, are animals such as ruminants, birds, reptiles, or minikin, et cetera. They are the most common of the souls, as they are able to create new physical bodies with the process of reproduction; this is a very effective stategy, due to the short lifespans of their physical bodies and likelyhood of disability compared to other souls.
 
-Some lower-order creatures can live for very long, however, especially aided with the help of alucinara energy. Some even make use of alucinara with help of the fortuitary gland, although this is rare in the 0th and nearby realms.
+Some lower-order creatures can live for very long, however, especially when aided with the help of alucinara energy. Some even make use of alucinara with help of the fortuitary gland, although this is rare in the 0th and nearby realms.
 
-Humans are the most common creature in the 0th realm, [Demi-Slugs](species/fauna/demi-slugs.md) the most common in the 1st, [Dragons](species/fauna/dragons.md) the most common in the -1st, [Minikin](species/fauna/minikin.md) the most common in the 2nd, [Quartz Mice](species/fauna/quartz-mice.md) the most common in the -2nd, [Toad Turtles](species/fauna/toad-turtles.md) the most common in the 3rd, and [Wormwolves](species/fauna/wormwolves.md) the most common in the -3rd.
+Humans are the most common creature in the 0th realm, [Demi-Slugs](species/fauna/demi-slugs.md) the most common in the 1st, [Dragons](species/fauna/dragons.md) the most common in the -1st, [Minikin](species/fauna/minikin.md) the most common in the 2nd, [Quartz Mice](species/fauna/quartz-mice.md) the most common in the -2nd, [Botanists](species/flora/botanists.md) the most common in the 3rd, and [Wormwolves](species/fauna/wormwolves.md) the most common in the -3rd.
 
 ### Nonliving Phenomena
 Nonliving phenomena are the result of alucinara interacting with matter without the presence of a soul. When alucinara is used in a soul, the patterns that come with being an animal are drilled into the energy like muscle memory, leading to the [Pseudo Fauna Principle](phenomena/pseudo-fauna-principle).
 
 When alucinara interacts with nonliving matter with the principle in effect, it will cause the matter to act as if it were an animal, attempting to fight, eat, and drink, all with no benefit. Some nonliving phenomena are commonplace, such as [cloud gnats](phenomena/cloud-gnats.md), [watchstones](phenomena/watchstones.md), or [sky islands](phenomena/sky-islands.md).
+
+## Species of the Realms
+In every realm, many many species had developed. The specieses of the 0th realm had developed and arose with little to no knowledge or experience at all with alucinara energy. That is, until a supernova had blasted the Earth with it.
+
+### The Supernova of 80MB
+In 80MB[^1], the shockwave of a far-off supernova had finally reached the Earth. The star that had caused it was extremely old, having retained a lot of alucinara from the energy left over from the shattering of the realms.
+
+There was virtually no destruction on that day, but the main outcome was mass-frequencial shift of the animals and plants affected. In the blink of an eye, masses of creatures were dispersed into different realms. A lot of them went on to be hunted by the native predators, leading to the rapid need for evolution.
+
+### New Species
+- [The Demi-Slugs](species/fauna/demi-slugs.md)
+- [The Minikin](species/fauna/minikin.md)
+- [The Botanists](species/flora/botanists.md)
+
+## The History of the 2nd Realm
+
+
+[^1]: MB means 'Millenia Before (the fall of Nairu.)'' Likewise with YB for 'Years before,' and 'CB' for 'Centuries before.'
