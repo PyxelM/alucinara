@@ -81,8 +81,67 @@ There was virtually no destruction on that day, but the main outcome was mass-fr
 - [The Demi-Slugs](species/fauna/demi-slugs.md)
 - [The Minikin](species/fauna/minikin.md)
 - [The Botanists](species/flora/botanists.md)
-
 ## The History of the 2nd Realm
+### The Móra riSéwi Minikin
+The Móra riSéwi (\*moza li-sevi, or 'Children of the Forest') minikin were a nomadic tribe from around the time of Nairu. Their name means 'Children of Mora,' the deity of the forest in the Morellic pantheon.
 
+Their cultural traditions and way of life was that of never settling down unless they were under extreme circumstances, continually moving from place to place in search of food, resources, and treasure.
+
+They would set up campsites, generally in trees, but also in bushes for its strategic advantage in areas inhabited by territorial natives. They would sleep in natural dens in trees, but also set up hammocks made out of leaves and fabric.
+#### Communities
+Mora riSewi communities were made up of an extended family, this could range from 50 related individuals to 500 related individuals.
+
+These communities would share food with eachother, share resources, all sleep in one camp together when night came, and would all work together to achieve their common goals as a group.
+#### Government
+The government of Mora riSewi communities was that of a matriarchy, as with a lot of minikin tribes. The oldest and wisest woman would be appointed to lead a group, and power would be divested matrilineally to her eldest daughter upon her death.
+
+It was the matriarch's responsibility to keep order within her community, while also leading her group on expeditions for food, resources, or treasure.
+
+When not actively moving, the matriarch would be teaching the children of the group good morals and how to survive effectvely, she would give her own eldest daughter special treatment due to her importance to the future of the group.
+### The Oyhólıru Minikin
+The Oyhólıru (\*o-yhólıru, or 'People') minikin were a tribe native to the Nairuan peninsula and surrounding area, and were well known for their societal and industrial efficiency.
+
+They were one of the first tribes to crack the code of agriculture, settling down and building the first permanent settlements in the 2nd realm once sowing and harvesting had a greater net reward in comparison to foraging.
+#### Nairu
+The greatest city-state of the Oyhólıru was Nairu (\*na-ïru, or, 'The Farm'), which was situated on the western shore of the Nairuan peninsula, just above the equator on the Natswh'ara (\*na-tswh'kara, or 'The River') river. In the midst of the river's basin, the city was instrumental in the development of agriculture.
+
+Nairu was known for its markets and farms, with tents strung up on the floor around the perimeter of tree trunks, shelters built out of twigs and leaves into the crotches of trees, and wide far-spanning farms of berries and herbs along the shore of the Natswh'kara.
+#### Government
+The government of Nairu was headed by matriarchal queen, where power was divested matrilineally. The queen could reign alone, but twins were given power equally due to their sharing of a soul and will.
+
+The queen would give a lot of power to her nobles, people in power who would collect taxes and rule over a district according to their own level of (limited) autonomy.
+### The Hollow Tree
+One day in the early autumn, a Mora riSewi group was exploring the northern wilderness of the central continent. As they reached the edge of a steppe, they found a forest.
+
+Foraging for food in the forest as they and their ancestors had done for hundreds of years, they went further deep, eventually stumbling upon a clearing, which featured a circular swamp in its midst with a tree in the centre.
+
+The swamp and tree looked normal from afar, but upon closer inspection it was noticed that the swamp not only was filled with tar, but also that the tree was grey, with a grey ridged surface. 
+
+When the minikin attempted to climb the tree, it was promptly discovered that the tree was flimsy, hollow, and broke into pieces under the slightest touch, solid black fumes pouring out of the hole before evaporating into oblivion.
+
+The pieces that had broken off of the tree, however, lacked gravity, and soon floated back into their original positions, and the fumes ceased to pour out.
+
+### The Golden Fruit
+As the minikin touched the tree more and more, watching it break like dust into black clouds before reforming, they noticed that there was a great lot of fruit at the bottom of the hollow trunk, and the fruit was gold.
+
+The fruit kept the consistency of real fruit, but appeared shiny and golden, and their insides were wet, fleshy, and white, with a pitch-black stone in the centre.
+
+The group's leader, a minikin known as Carsái (\*tsyal-sahi, or 'Steppergrass'), took the initiative to eat the fruit, but immediately she began to cough, violently hacking up the same solid back fumes of the tree. What the group didn't know nor understand, was that she had contracted the [Curse of Hollowness](phenomena/curses/hollowness.md).
+
+The group immediately tried to place the golden fruit back, but in the blink of an eye the entire swamp, the fruit, and the tree had dissapeared without them noticing.
+### The Plague of Hollowness
+Frightened and confused by what had happened, the group decided to return to foraging, but the air was bitter and the entire group was afraid. Carsái attempted to be confident however, and never truly let herself resign to fear.
+
+While a lot of the group were convinced the event was an apparition that never truly existed or threatened anyone, it soon showed that Carsái would continually and routinely begin coughing more and more of the black fumes, and her state worsened over time.
+
+The spiritual leaders of the group settled that the event was a Nightmare coming to life and affecting the real world, and while the world may have woken up, Carsai was affected still from eating the fruit.
+
+A lot of the minikin were scared to be around her for fear of breathing in the fumes once others began to show the same symptoms, and eventually portions her own body began to turn to the same gravityless mass of the tree.
+### Flight to Nairu
+It was soon that these Mora riSewi minikin decided to move to Nairu, to settle down and maybe find a cure for their afflicted, on account of the advanced medicinal industry of the city-state.
+
+Carsái proved herself bedridden, laying in a hospital den indefinitely, but she was in good spirits and continued to attempt to guide her group with her wisdom and advice.
+
+A lot of the group joined the effort to bring a halt to the plague, creating potions, blessing certain mixtures, and creating face-masks to block the black fumes from getting from and to others.
 
 [^1]: MB means 'Millenia Before (the fall of Nairu.)'' Likewise with YB for 'Years before,' and 'CB' for 'Centuries before.'

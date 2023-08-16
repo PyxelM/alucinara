@@ -4,7 +4,7 @@ title: "Alucinara"
 Alucinara is a book that explores anthropology, fantasy ethics, and the right to 'save' the world through a cast of three characters;
 - one a immature and naive [Minikin](species/fauna/minikin.md) bandit called [Toadstool](characters/toadstool.md),
 - another a culture-shocked but ambitious [Demi-Slug](species/demi-slug.md) vagabond called [Blueberry](characters/blueberry.md),
-- and the other a young, cautious Minikin stateswoman called [Fungula](characters/fungula.md).
+- and the other a young, cautious Minikin stateswoman called [Rivercap](characters/Rivercap.md), the daughter of a cultish murderer.
 These characters are all with differing opinions, attributes, and motives for their actions.
 
 ## Note from the author:
