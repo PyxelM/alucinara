@@ -9,9 +9,9 @@ What patterns are there when it comes to description and properties?
 What does it look like, what is its relevance, and what is it used for?
 %%
 ## Overview
-This note will be exploring the history of the Minikin, more generally of the 2nd realm. This will be explaining the events that led up to the creation of the Morellic tribe, and the fall of the first empires and the politics of the first groups. I will be deciding the events of the first 100-200 years, beginning with the founding of Nairu.
+This note will be exploring the history of the Minikin, more generally of the [2nd Realm](locations/2nd-realm.md). This will be explaining the events that led up to the creation of the Morellic tribe, and the fall of the first empires and the politics of the first groups. I will be deciding the events of the first 100-200 years, beginning with the founding of Naíru.
 -
-In this note we will be describing the Austerkin groups, their interactions with the Morellic minikin, such as trade and diplomacy. In addition, we will also be describing animal domestication, with creatures based on earth creatures and other creatures original to the 2nd realm.
+In this note we will be describing the Austerkin groups, their interactions with the Morellic minikin, such as trade and diplomacy. In addition, we will also be describing animal domestication, with creatures based on earth creatures and other creatures original to the [2nd Realm](locations/2nd-realm.md).
 
 ## Notes
 Work On:
@@ -28,15 +28,15 @@ Remember:
 - work on the trade between city states (next episode?)
 - work on the native Austerkin pre-Móra riSéwi society (next episode?)
 ## Context
-This begins in the Nairuan peninsula, where the Oyhólıru dynasty rules over a city-state known as Nairu, one of the first city states to gain any real power. The Oyhólıru dynasty is matriarchal, spearheaded by a queen; the eldest daughter (or child) of the previous monarch.
+This begins in the [Naíruan Peninsula](lore/locations/2nd-realm/nairuan-peninsula.md), where the Oyhólıru dynasty rules over a city-state known as Naíru, one of the first city states to gain any real power. The Oyhólıru dynasty is matriarchal, spearheaded by a queen; the eldest daughter (or child) of the previous monarch.
 
 ![](Pasted%20image%2020230809144906.png)
 
 The Móra riSéwi minikin are a northern nomadic tribe native to the central continent (north of the lakes), containing many separate groups and communities, connected by a single Móra riSéwi culture and shared respect. They travel from place to place, riding on the backs of domesticated Weasels, foraging for food, exploring, looking for treasure, and sleeping in leaf hammocks.
 
-There is a diaspora of nomadic Móra riSéwi minikin living as a community in Nairu, who settled after the leader of their group fell ill and needed medical help in the city; the minikin haven't left since the leader was rendered bedridden there in a tree-shelter.
+There is a diaspora of nomadic Móra riSéwi minikin living as a community in Naíru, who settled after the leader of their group fell ill and needed medical help in the city; the minikin haven't left since the leader was rendered bedridden there in a tree-shelter.
 -
-The Móra riSéwi minikin used to be nomadic, but settled in Nairu after their leader caught a strange plague. as this plague spread, one of the queens died, and her sister went mad and killed the Móra riSéwi leader, which triggered the petrified child to destroy a portion of the royal district with a baby meadow.
+The Móra riSéwi minikin used to be nomadic, but settled in Naíru after their leader caught a strange plague. as this plague spread, one of the queens died, and her sister went mad and killed the Móra riSéwi leader, which triggered the petrified child to destroy a portion of the royal district with a baby meadow.
 
 The Móra riSéwi minikin fled the city, migrating southeast across the Sarvaran gulf on rafts, and eventually settled in an area inhabited by Austerkin minikin. In an attempt to settle down and get some stability once more, they mingled with some of the natives and founded the city-state of Sarvara, becoming the Morellic minikin as they interbred with the new people they met.
 
@@ -58,9 +58,9 @@ Once the group collected the items in baskets, and the tree closed up once more,
 The group didn't know what to do, but only stood back in fear. Soon, however, Carsai seemingly went back to normal, and the group decided quickly to dump the items back into the tree. But by the time they returned to the island, the clearing was empty, no tar swamp, no tree, only grass and bushes. In fear they laid down their baskets onto the floor and left the gold food there, and fled immediately.
 
 ### Carsai falls ill
-Soon after however, Carsai's condition became more and more unstable. She would break into fits of coughing out the fumes, but would soon go back to normal, just as when she first ate the gold food. Eventually, she was unable to lead effectively, and the group resigned themselves to Nairu for her to recover; Nairu had very good healthcare.
+Soon after however, Carsai's condition became more and more unstable. She would break into fits of coughing out the fumes, but would soon go back to normal, just as when she first ate the gold food. Eventually, she was unable to lead effectively, and the group resigned themselves to Naíru for her to recover; Naíru had very good healthcare.
 
-Eventually, after a period of a few months to a year, Carsai became bedridden, and was unable to leave her sleep den in the city. Soon after she entered the state, her compatriots developed her symptoms, and even the native Nairuans did.
+Eventually, after a period of a few months to a year, Carsai became bedridden, and was unable to leave her sleep den in the city. Soon after she entered the state, her compatriots developed her symptoms, and even the native Naíruans did.
 
 ### Ykutru and many die
 Not long after the symptoms appeared in the populus, they died, turning hollow with a thin surface, their sorry bodies disappearing when no one was looking. Carsai didn't die, her strength as a leader was matched by her strength as a body, and she was hanging on by a thread, still encouraging her compatriots.
@@ -77,7 +77,7 @@ Eventually, Carsai did die, but not to the illness she contracted and the plague
 Little did she know, the Móra riSéwi were a very spiritual tribe, and had knowledge of how to interface with deities, and there was one of many [watchstones](phenomena/watchstones.md) staring directly at the queen.
 
 ### The Petrified Child destroys Ajun
-The petrified child, knowing immediately of the evil that had took place before one of its 'eyes,' made a bee line from its dwelling place to the city of Nairu. Ajun didn't stand a chance against the child's perfect judgement; she and her guards to tried to fend the child off were swiftly turned into baby sludge.
+The petrified child, knowing immediately of the evil that had took place before one of its 'eyes,' made a bee line from its dwelling place to the city of Naíru. Ajun didn't stand a chance against the child's perfect judgement; she and her guards to tried to fend the child off were swiftly turned into baby sludge.
 
 A baby meadow was formed from the evil and corruption, political and literal, of the royalty. The city finally fell, cast into chaos. Whosoever wasn't killed by Carsai's plague, was lost to the baby sludge, and those who were further away were either trampled or died in some other fashion in the chaos of people attempting to escape.
 
@@ -133,7 +133,7 @@ The Morellic minikin import lapis alucinarii from the Tsañána area, illegally 
 
 Trade *from* the Morellic minikin to the Tsañána minikin was quite different however; a lot of the resources that the Tsañána felt was stolen from them was largely stolen by the Tsañána armies, and not traded.
 ### To the Öpfádṛh
-Trade with the Öpfádṛh was mainly for their animals, the ecosystem cultivated and helped by the Öpfádṛh was very fruitful and led to great wealth among the group. They export various livestock animals to the Morellic minikin, sending them wormpigs, quartz-mice (imported from the -2nd realm), and many other livestock animals that are non-native to the Sarvaran area.
+Trade with the Öpfádṛh was mainly for their animals, the ecosystem cultivated and helped by the Öpfádṛh was very fruitful and led to great wealth among the group. They export various livestock animals to the Morellic minikin, sending them wormpigs, quartz-mice (imported from the [-2nd Realm](locations/-2nd-realm.md)), and many other livestock animals that are non-native to the Sarvaran area.
 
 The Morellic export to the Öpfádṛh things such as Silklet nests, silklet silk, and fabric. There is an abundance of silklets in Sarvara, which are domesticated, farmed, and sold to the west, leading to a vibrant Silklet husbandry industry within Sarvara.
 ### To the Kaśtai̋ra
@@ -145,9 +145,9 @@ The Morellic minikin farm and sell weasels to the Kaśtai̋ra among other group
 
 Even so, weasels are very expensive and the Morellic weasel farmers are very rich for their products, listing them for high prices due to their importance to the military and the great danger a minikin puts themselves in to train a weasel for domestic or military use.
 
-## Animals of the 2nd Realm
+## Animals of the [2nd Realm](locations/2nd-realm.md)
 ## Weasels
-Weasels are essentially the same in the 2nd realm as in the 0th, originating from the Supernova of 80MB, but since then have developed an extra pair of legs with the help of alucinarium and a greater ability to leap. They are domesticated by Minikin for use in battle, as they would usually hunt minikin.
+Weasels are essentially the same in the [2nd Realm](locations/2nd-realm.md) as in the 0th, originating from the Supernova of 80MB, but since then have developed an extra pair of legs with the help of alucinarium and a greater ability to leap. They are domesticated by Minikin for use in battle, as they would usually hunt minikin.
 
 Minikin, being smart, noticed this, and began to weaponise them against their neighbours, eventually training them and treating them as pets once the aggression was bred out of them by skilled pastoralists. Now, they are largely used as cavalry in the military.
 
@@ -157,13 +157,13 @@ It is an iconic sight to see a soldier or two sitting upon a weasels back, with 
 
 Soldiers will typically hold both hands out, facing upward, to direct the magic to the daggers, flicking their hand forward to signal the darts to fire. Soldiers undergo training to increase their Alucinarium Reserve, and to resist the effects of Phantasmarrhoea.
 ## Silklets
-Silklets are a type of insect native to the 2nd realm, more specifically to places such as the Morellic area. IN their larval stage, they take the form of relatively large grubs, wriggling and being fed by farmers in specialised shelters made out of clay under tree branches.
+Silklets are a type of insect native to the [2nd Realm](locations/2nd-realm.md), more specifically to places such as the Morellic area. IN their larval stage, they take the form of relatively large grubs, wriggling and being fed by farmers in specialised shelters made out of clay under tree branches.
 
 Before they become adults, they continually grow a fleece of silk, which is shaved by farmers and sold to weavers. Once they do become adults, a portion of them are set aside to mate by the farmers if they had an especially fruitful coat as a larva. The majority, however, are killed and fed to Wormpigs once they reach adulthood and no longer produce silk.
 
 They appear as large dragonflies as adults, and appear as large featureless grubs as larvae.
 ## Wormpigs
-Wormpigs are a species native to the 2nd realm, more specifically to places such as the Öpfádṛh area, related to the wormwolves of the -3rd. Unlike their vicious carnivorous cousins, wormpigs are rather very docile and mostly herbivorous, and were eventually domesticated by the minikin for their meat as a livestock animal.
+Wormpigs are a species native to the [2nd Realm](locations/2nd-realm.md), more specifically to places such as the Öpfádṛh area, related to the wormwolves of the -3rd. Unlike their vicious carnivorous cousins, wormpigs are rather very docile and mostly herbivorous, and were eventually domesticated by the minikin for their meat as a livestock animal.
 
 It is a common sight to see a wormpig farm at the foot of a Minikin's tree, with the wormpigs grazing and being fed with food such as leaves and bark dropped by farmers from the branches.
 

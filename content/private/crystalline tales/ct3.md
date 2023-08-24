@@ -18,33 +18,33 @@ In this note, we will be describing the specifics of Sarvara, its rise, its feat
 - 
 
 ## Context
-The Mora riSewi minikin migrated southeast from the northwest of the sarvaran gulf following the plague in nairu, started by their former leader Carsai. Carsai died and her eldest daughter Bjáura was appointed queen, just before the migration.
+The Móra riSéwi minikin migrated southeast from the northwest of the sarvaran gulf following the plague in Naíru, started by their former leader Carsai. Carsai died and her eldest daughter Bjáura was appointed queen, just before the migration.
 
-Once they reached land, they began to interact with the natives who all responded in different ways to their presence. the western Kaśtaïra were subsumed into the Mora riSewi tribe, becoming the Morellic tribe as time went on. 
+Once they reached land, they began to interact with the natives who all responded in different ways to their presence. the western Kaśtaïra were subsumed into the Móra riSéwi tribe, becoming the Morellic tribe as time went on. 
 ## Events
-## The Mora riSewi Minikin Arrive
-The Mora riSewi minikin arrived on the shore of the Sarvaran gulf, frantically running into the wilderness at the final sight of land. Then they met the local natives nearby, the western Kaśtaïra minikin, who gave them hospitality.
+## The Móra riSéwi Minikin Arrive
+The Móra riSéwi minikin arrived on the shore of the Sarvaran gulf, frantically running into the wilderness at the final sight of land. Then they met the local natives nearby, the western Kaśtaïra minikin, who gave them hospitality.
 
-Running and screaming in a foreign language, the Mora riSewi minikin were taken into the western Kaśtaïra trees, dens, and villages, set about fires and finally given a moment to relax, eat, and attempt to explain the situation in their indecipherable tongue.
+Running and screaming in a foreign language, the Móra riSéwi minikin were taken into the western Kaśtaïra trees, dens, and villages, set about fires and finally given a moment to relax, eat, and attempt to explain the situation in their indecipherable tongue.
 
-### The Counsel of Mora riSewi Refuge
-As the situation became apparent, the matriarchs of the western Kaśtaïra clans all came together to discuss the matter. They accepted the Mora riSewi minikin in on the condition that they would be cast out by the time they built their own villages, as not to burden their tribe with another group to feed.
+### The Counsel of Móra riSéwi Refuge
+As the situation became apparent, the matriarchs of the western Kaśtaïra clans all came together to discuss the matter. They accepted the Móra riSéwi minikin in on the condition that they would be cast out by the time they built their own villages, as not to burden their tribe with another group to feed.
 
-In addition, the matriarchs also decreed that the Mora riSewi minikin should be taught how to build cities, as their nomadic tradition only passed down the knowledge of building temporary bases, not built to last. In fact, it was the Kaśtaïra minikin who taught the Mora riSewi how to build clay dens, by showing them how to find clay and store it in their cheeks.
+In addition, the matriarchs also decreed that the Móra riSéwi minikin should be taught how to build cities, as their nomadic tradition only passed down the knowledge of building temporary bases, not built to last. In fact, it was the Kaśtaïra minikin who taught the Móra riSéwi how to build clay dens, by showing them how to find clay and store it in their cheeks.
 ## Interbreeding into the Morellic People
-As the Mora riSewi minikin settled down in the western Kaśtaïra villages, they naturally began to interbreed and intermarry into the native populations. Continually, every year or so, the matriarchs would convene once more to discuss the Mora riSewi's progress, and asses whether it was time to drive them out.
-### The Mora riSewi Language
-Knowing that they were to be driven out at some point, the matrilineally Mora riSewi minikin retained knowledge of their language, and it wasn't subsumed by the native Kaśtaïra language although a lot of loanwords were gained.
+As the Móra riSéwi minikin settled down in the western Kaśtaïra villages, they naturally began to interbreed and intermarry into the native populations. Continually, every year or so, the matriarchs would convene once more to discuss the Móra riSéwi's progress, and asses whether it was time to drive them out.
+### The Móra riSéwi Language
+Knowing that they were to be driven out at some point, the matrilineally Móra riSéwi minikin retained knowledge of their language, and it wasn't subsumed by the native Kaśtaïra language although a lot of loanwords were gained.
 
-### The Departure of the Mora riSewi Minikin
-Once the matriarchs decided it was time for the Mora riSewi minikin to leave, they had ultimately kained their knowledge of how to found a city not through being taught but through interbreeding into the population; their ability was defined by the fact that they were now partially native to a society that *isn't* nomadic.
+### The Departure of the Móra riSéwi Minikin
+Once the matriarchs decided it was time for the Móra riSéwi minikin to leave, they had ultimately kained their knowledge of how to found a city not through being taught but through interbreeding into the population; their ability was defined by the fact that they were now partially native to a society that *isn't* nomadic.
 
-And once it was time to be driven out, there was no ostracism. A lot of people had the claim to stay, being (partially or completely) native, but a lot of Mora riSewi minikin had so much respect for the matriarchs and for recent history that they did decide to leave and found their own city to preserve the Mora riSewi legacy.
+And once it was time to be driven out, there was no ostracism. A lot of people had the claim to stay, being (partially or completely) native, but a lot of Móra riSéwi minikin had so much respect for the matriarchs and for recent history that they did decide to leave and found their own city to preserve the Móra riSéwi legacy.
 
 The ones to depart became the Morellic minikin, a cultural and genetic merge of the settlers and the native Kaśtaïra minikin, who gained their own more distinct cultural identity once they left and settled in Sarvara.
 
 ## The Search for Sarvara
-When the Mora riSewi minikin had arrived, they arrived close by to the great river Abhmýra. This river, situated in the midst of a very beautiful river valley, was talked about quite a lot once they had settled in the Kaśtaïra settlements. Of course, these stories were relayed to the migrators' children, and gained a semi-mythical status.
+When the Móra riSéwi minikin had arrived, they arrived close by to the great river Abhmýra. This river, situated in the midst of a very beautiful river valley, was talked about quite a lot once they had settled in the Kaśtaïra settlements. Of course, these stories were relayed to the migrators' children, and gained a semi-mythical status.
 
 So of course, when it was time to leave, the new Morellic minikin left for the river valley. Having heard stories of the location first hand from their parents, uncorrupted by such a short time-span, they knew the way to get there and employed a lot of knowledge of the area as Kaśtaïra descendants to find it.
 

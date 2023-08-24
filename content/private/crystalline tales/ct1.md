@@ -9,7 +9,7 @@ What patterns are there when it comes to description and properties?
 What does it look like, what is its relevance, and what is it used for?
 %%
 ## Overview
-This note will be exploring the history of the Minikin, more generally of the 2nd realm. This will be explaining the events that led up to the creation of the Morellic tribe, and the fall of the first empires and the politics of the first groups. I will be deciding the events of the first 100-200 years, beginning with the founding of Nairu.
+This note will be exploring the history of the Minikin, more generally of the [2nd Realm](locations/2nd-realm.md). This will be explaining the events that led up to the creation of the Morellic tribe, and the fall of the first empires and the politics of the first groups. I will be deciding the events of the first 100-200 years, beginning with the founding of Naíru.
 
 ## Notes
 Work On:
@@ -19,20 +19,20 @@ Remember:
 - Carsai starts a pandemic / plague later on in the story  and her condition becomes widespread in a moment of societal weakness
 - Twins are treated differently, like a caste system.
 - work on the trade between city states (next episode?)
-- work on the native Austerkin pre-Morasevi society (next episode?)
+- work on the native Austerkin pre-Móra riSéwi society (next episode?)
 
 ## Context
-This begins in the Nairuan peninsula, where the Oloyiru dynasty rules over a city-state known as Nairu, one of the first city states to gain any real power. The Oloyiru dynasty is matriarchal, spearheaded by a queen; the eldest daughter (or child) of the previous monarch.
+This begins in the [Naíruan Peninsula](lore/locations/2nd-realm/nairuan-peninsula.md), where the Oloyiru dynasty rules over a city-state known as Naíru, one of the first city states to gain any real power. The Oloyiru dynasty is matriarchal, spearheaded by a queen; the eldest daughter (or child) of the previous monarch.
 
 ![](Pasted%20image%2020230809144906.png)
 
-The Morasevi minikin are a northern nomadic tribe native to the central continent (north of the lakes), containing many separate groups and communities, connected by a single Morasevi culture and shared respect. They travel from place to place, riding on the backs of domesticated Weasels, foraging for food, exploring, looking for treasure, and sleeping in leaf hammocks.
+The Móra riSéwi minikin are a northern nomadic tribe native to the central continent (north of the lakes), containing many separate groups and communities, connected by a single Móra riSéwi culture and shared respect. They travel from place to place, riding on the backs of domesticated Weasels, foraging for food, exploring, looking for treasure, and sleeping in leaf hammocks.
 
-There is a diaspora of nomadic Morasevi minikin living as a community in Nairu, who settled after the leader of their group fell ill and needed medical help in the city; the minikin haven't left since the leader was rendered bedridden there in a tree-shelter.
+There is a diaspora of nomadic Móra riSéwi minikin living as a community in Naíru, who settled after the leader of their group fell ill and needed medical help in the city; the minikin haven't left since the leader was rendered bedridden there in a tree-shelter.
 
 ## Events
-### Morasevi minikin discover the Tree
-One day in the early autumn, the Morasevi leader Carsai was foraging for food with her group. They found a clearing in a forest, and discovered a lone tree in the centre, surrounded by tar pits and dead bushes, with a quaint footpath of stones leading to an island in the midst of the tar-swamp.
+### Móra riSéwi minikin discover the Tree
+One day in the early autumn, the Móra riSéwi leader Carsai was foraging for food with her group. They found a clearing in a forest, and discovered a lone tree in the centre, surrounded by tar pits and dead bushes, with a quaint footpath of stones leading to an island in the midst of the tar-swamp.
 
 It was almost perfect, a footpath and island lit up by sunlight in the middle of a dark forest, and naturally the party came to the centre and discovered that the tree was hollow and thin; you could push you arm through the tree and it could come out of the other end without any resistance.
 
@@ -45,9 +45,9 @@ Once the group collected the items in baskets, and the tree closed up once more,
 The group didn't know what to do, but only stood back in fear. Soon, however, Carsai seemingly went back to normal, and the group decided quickly to dump the items back into the tree. But by the time they returned to the island, the clearing was empty, no tar swamp, no tree, only grass and bushes. In fear they laid down their baskets onto the floor and left the gold food there, and fled immediately.
 
 ### Carsai falls ill
-Soon after however, Carsai's condition became more and more unstable. She would break into fits of coughing out the fumes, but would soon go back to normal, just as when she first ate the gold food. Eventually, she was unable to lead effectively, and the group resigned themselves to Nairu for her to recover; Nairu had very good healthcare.
+Soon after however, Carsai's condition became more and more unstable. She would break into fits of coughing out the fumes, but would soon go back to normal, just as when she first ate the gold food. Eventually, she was unable to lead effectively, and the group resigned themselves to Naíru for her to recover; Naíru had very good healthcare.
 
-Eventually, after a period of a few months to a year, Carsai became bedridden, and was unable to leave her dormitory den in the city. Soon after she entered the state, her compatriots developed her symptoms, and even the native Nairuans did.
+Eventually, after a period of a few months to a year, Carsai became bedridden, and was unable to leave her dormitory den in the city. Soon after she entered the state, her compatriots developed her symptoms, and even the native Naíruans did.
 
 ### Ykutru and many die
 Not long after the symptoms appeared in the populus, they died, turning hollow with a thin surface, their sorry bodies disappearing when no one was looking. Carsai didn't die, her strength as a leader was matched by her strength as a body, and she was hanging on by a thread, still encouraging her compatriots.
@@ -61,14 +61,14 @@ Ajun was now a husk of her former self, she lost almost everything, her mind, he
 ### Carsai dies
 Eventually, Carsai did die, but not to the illness she contracted and the plague that caused all of the havoc. Ajun had heard the rumours of Carsai's 'guilt,' that she was Patient 0 and in her insnaity blamed her for every wrong thing. She left her royal tree to climb up Carsai's; Ajun killed her in cold blood, in front of the entire group.
 
-Little did she know, the Morasevi were a very spiritual tribe, and had knowledge of how to interface with deities, and there was one of many [watchstones](phenomena/watchstones.md) staring directly at the queen.
+Little did she know, the Móra riSéwi were a very spiritual tribe, and had knowledge of how to interface with deities, and there was one of many [watchstones](phenomena/watchstones.md) staring directly at the queen.
 
 ### The Petrified Child destroys Ajun
-The petrified child, knowing immediately of the evil that had took place before one of its 'eyes,' made a bee line from its dwelling place to the city of Nairu. Ajun didn't stand a chance against the child's perfect judgement; she and her guards to tried to fend the child off were swiftly turned into baby sludge.
+The petrified child, knowing immediately of the evil that had took place before one of its 'eyes,' made a bee line from its dwelling place to the city of Naíru. Ajun didn't stand a chance against the child's perfect judgement; she and her guards to tried to fend the child off were swiftly turned into baby sludge.
 
 A baby meadow was formed from the evil and corruption, political and literal, of the royalty. The city finally fell, cast into chaos. Whosoever wasn't killed by Carsai's plague, was lost to the baby sludge, and those who were further away were either trampled or died in some other fashion in the chaos of people attempting to escape.
 
-The Morasevi minikin eventually managed to escape, with many causalities to the petrified child and to the plague already. Carsai's eldest daughter, Bjáura, was rendered queen immediately and, taking after her mother, led the group to safety with authority and confidence. They fled for the west, reaching the coast, and camped there with their nomadic skills and instincts until they had built enough boats and rafts out of sticks and vegetation to sail southwest across the Sarvaran gulf.
+The Móra riSéwi minikin eventually managed to escape, with many causalities to the petrified child and to the plague already. Carsai's eldest daughter, Bjáura, was rendered queen immediately and, taking after her mother, led the group to safety with authority and confidence. They fled for the west, reaching the coast, and camped there with their nomadic skills and instincts until they had built enough boats and rafts out of sticks and vegetation to sail southwest across the Sarvaran gulf.
 
 ![](Pasted%20image%2020230809145007.png)
 
@@ -77,13 +77,13 @@ On the journey, many died of dehydration and starvation, but they rationed the f
 ### Founding of Sarvara
 Once they reached land, on the south-eastern coast of the Sarvaran gulf, they founded the city of Sarvara; Bjáura was the first queen. There were native Austerkin minikin in the area, which responded in many ways to the newcomers. A lot took pity on them, noting their starving bodies and desperate (if incomprehensible and foreign-language) explanations of what had happened.
 
-Some of the natives treated them well, feeding them and helping them, but some saw them as a threat and began to war with them. The natives who had treated the Morasevi minikin well were let into their new city-state, given hospitality as they had given them.
+Some of the natives treated them well, feeding them and helping them, but some saw them as a threat and began to war with them. The natives who had treated the Móra riSéwi minikin well were let into their new city-state, given hospitality as they had given them.
 
 #### Castes
-Sarvara developed a caste system, with the 'Native' and the 'Morasevi' castes emerging. As the two groups interbred, the castes were handed down matrilineally, but the genetic makeup of the two groups evened out as time went along, leading to the creation of the Sarvaran race, made up of a hybrid of the Morasevi and Austerkin races. A new name was fashioned for the Sarvaran group, the *Morellic* minikin.
+Sarvara developed a caste system, with the 'Native' and the 'Móra riSéwi' castes emerging. As the two groups interbred, the castes were handed down matrilineally, but the genetic makeup of the two groups evened out as time went along, leading to the creation of the Sarvaran race, made up of a hybrid of the Móra riSéwi and Austerkin races. A new name was fashioned for the Sarvaran group, the *Morellic* minikin.
 
 ### The Tsañána Minikin
-The warring natives, however, were ostracised, and had their tails cut off at the first chance by the Morasevi Morellic minikin; their tribe was titled 'oįn ųréderrith ųdáląn'gir,' and their land 'oįn udalą́n'gur ųnę́n'gil,' meaning 'the aggressive southerners' and 'the land of agression'. They were noticeable for their retention of native Austerkin characteristics, namely hairiness and their native language, 'oįn adhéill ųnrédeir'. They stayed in their own city-states, treating the Morellic natives with suspicion and the non-native Morellic minikin with outright prejudice.
+The warring natives, however, were ostracised, and had their tails cut off at the first chance by the Móra riSéwi Morellic minikin; their tribe was titled 'oįn ųréderrith ųdáląn'gir,' and their land 'oįn udalą́n'gur ųnę́n'gil,' meaning 'the aggressive southerners' and 'the land of agression'. They were noticeable for their retention of native Austerkin characteristics, namely hairiness and their native language, 'oįn adhéill ųnrédeir'. They stayed in their own city-states, treating the Morellic natives with suspicion and the non-native Morellic minikin with outright prejudice.
 
 The non-Morellic natives made their own name, to differentiate themselves from the newcomers, and dubbed themselves the 'Tsañána,' meaning 'true people.''
 

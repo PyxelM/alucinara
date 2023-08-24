@@ -11,7 +11,7 @@ What does it look like, what is its relevance, and what is it used for?
 %%
 
 ## Overview
-Dragons, native to the 2nd realm, are a small amphibian species capable of flight. They are characterised by their 6 limbs and their ability to breathe fire as a defence mechanism, and serve as a food for many [minikin](species/fauna/minikin.md) cultures.
+Dragons, native to the [2nd Realm](locations/2nd-realm.md), are a small amphibian species capable of flight. They are characterised by their 6 limbs and their ability to breathe fire as a defence mechanism, and serve as a food for many [minikin](species/fauna/minikin.md) cultures.
 
 ## Life Cycle
 ### Egg Phase

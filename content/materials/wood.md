@@ -25,7 +25,7 @@ It's qualities are;
 Brown wood is often used for 
 
 ### Teal
-Teal wood is commonly found in the 2nd, -1st, 3rd, and -2nd realms.
+Teal wood is commonly found in the 2nd, -1st, 3rd, and [-2nd Realm](locations/-2nd-realm.md)s.
 It's qualities are;
 - Soft
 - Flammable
@@ -39,7 +39,7 @@ It's qualities are;
 - Stores Alucinara energy
 
 ### Yellow
-Teal wood is commonly found in the 2nd, 1st, and -2nd realms.
+Teal wood is commonly found in the 2nd, 1st, and [-2nd Realm](locations/-2nd-realm.md)s.
 It's qualities are;
 - Soft
 - Flammable

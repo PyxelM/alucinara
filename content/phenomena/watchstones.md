@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Overview
-Watchstones[^1] are artificial patrols invented by the [Sarvaran](cultures/morellic/sarvaran.md) minikin for the purpose of giving [The Petrified Child](deities/the-petrified-child.md) a greater visual range. They are rocks with eyes or faces carved into them, commonly made from [Alucinarium](phenomena/alucinara.md) geodes. They served as one of the first examples of mass-production by the [Empire of the Petrified Child](cultures/morellic/stonechild.md).
+Watchstones ([Sarvaran](lore/languages/sarvaran.md): 'The Seeing Stones,' Oį́n Eyą́nith Atį́mar < `*uinh eyanitu atëmil`) are artificial patrols invented by the [Sarvaran](lore/groups/sarvaran-civilisation.md) minikin for the purpose of giving [The Petrified Child](deities/the-petrified-child.md) a greater visual range. They are rocks with eyes or faces carved into them, commonly made from [Alucinarium](phenomena/alucinara.md) geodes. They served as one of the first examples of mass-production by the [Empire of the Petrified Child](cultures/morellic/stonechild.md).
 
 Watchstones with the ability to move imprint on the closest animal, observing to see if the animal carries out an evil action or an evil action is carried out against it. Due to their animalistic behaviour as defined by the [pseudo-fauna principle](phenomena/pseudo-fauna-principle.md), Watchstones with the ability to move are often taken as pets or companions in spite of their lack of a soul.
 
@@ -32,5 +32,3 @@ These legs are made of pebbles taken from the ground, continually picked up with
 Pebbles continually accumulate alucinarium over time due to alucinara energy present in the air, and lose their alucinara energy when in use by watchstones. This is why legs are discarded and fall over after a period of use, and why new ones are naturally picked up.
 
 In some areas, the amount of energy is negligible, but in others - such as next to a crystalline alucinarium deposit - pebbles can become greatly saturated with the mineral to the point of geode formation; they are taken as legs at the mid-point of this process.
-
-[^1]: 'uinh eyanitu atëmil' `DEF stone-PL see-STV` 'the seeing stones' ([P.M.](languages/proto-morellic.md))

@@ -7,10 +7,10 @@ tags:
 - featured
 ---
 ## Overview
-Minikin are a small rodent species native to the 2nd realm. They are arboreal omnivores which tend toward eating nuts and other plants, and descended from red squirrels from the 0th realm. They are capable of language, and appear anthropoid.
+Minikin are a small rodent species native to the [2nd Realm](locations/2nd-realm.md). They are arboreal omnivores which tend toward eating nuts and other plants, and descended from red squirrels from the 0th realm. They are capable of language, and appear anthropoid.
 
 ## Adaptation
-Many red squirrels that had found themselves in the 2nd realm as a result of the Supernova of 80MB, and are subsequently put under a lot of pressure from similarly arboreal predators. This led to the adaptation of;
+Many red squirrels that had found themselves in the [2nd Realm](locations/2nd-realm.md) as a result of the Supernova of 80MB, and are subsequently put under a lot of pressure from similarly arboreal predators. This led to the adaptation of;
 - stronger legs and digitigrade feet for the ability to jump,
 - greater agility and capacity for stealth,
 - and sharper claws and teeth for self defence.
