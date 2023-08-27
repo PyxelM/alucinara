@@ -5,7 +5,7 @@ tags:
 - morellic
 ---
 ## Overview
-The Móra riSéwi minikin ([Old Morellic](lore/languages/old-morellic.md): 'Children of Mora,' Móra riSéwi < `*moza li-sevi`) were a nomadic tribe from around the time of [Naíru](locations/2nd-realm/nairu.md).
+The Móra riSéwi minikin ([Old Morellic](languages/old-morellic.md): 'Children of Mora,' Móra riSéwi < `*moza li-sevi`) were a nomadic tribe from around the time of [Naíru](locations/2nd-realm/nairu.md).
 
 Their name refers to the deity of the forest in the Morellic pantheon, an alternative translation could be 'Children of the Forest.'
 

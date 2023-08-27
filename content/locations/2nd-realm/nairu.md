@@ -6,7 +6,7 @@ tags:
 - oyholiru
 ---
 ## Overview
-Naíru ([Proto-Nairuan](lore/languages/proto-nairuan.md): 'The Farm,' `*na-ïru`), was one of the greatest city-states of the [Oyhólıru](groups/oyholiru-tribe.md). It was situated on the western shore of the [Naíruan Peninsula](lore/locations/2nd-realm/nairuan-peninsula.md), just above the equator on the [Natswh'kara](locations/2nd-realm/natswh'kara-river.md) river.
+Naíru ([Proto-Nairuan](languages/proto-nairuan.md): 'The Farm,' `*na-ïru`), was one of the greatest city-states of the [Oyhólıru](groups/oyholiru-tribe.md). It was situated on the western shore of the [Naíruan Peninsula](locations/2nd-realm/nairuan-peninsula.md), just above the equator on the [Natswh'kara](locations/2nd-realm/natswh'kara-river.md) river.
 
 In the midst of the river's basin, the city was instrumental in the development of agriculture, due to the seasonal floods that the river would experience, enriching and fertilising the soil and making it a prime area for farming.
 

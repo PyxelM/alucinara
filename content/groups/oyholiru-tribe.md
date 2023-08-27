@@ -5,7 +5,7 @@ tags:
 - oyholiru
 ---
 ## The Oyhólıru Minikin
-The Oyhólıru ([Proto-Naíruan](lore/languages/proto-nairuan): 'People,' `*o-yhólıru`) minikin were a tribe native to the [Naíruan Peninsula](lore/locations/2nd-realm/nairuan-peninsula.md) and surrounding area, and were well known for their societal and industrial efficiency.
+The Oyhólıru ([Proto-Naíruan](languages/proto-nairuan): 'People,' `*o-yhólıru`) minikin were a tribe native to the [Naíruan Peninsula](locations/2nd-realm/nairuan-peninsula.md) and surrounding area, and were well known for their societal and industrial efficiency.
 
 They were one of the first tribes to crack the code of agriculture, settling down and building the first permanent settlements in the [2nd Realm](locations/2nd-realm.md) once sowing and harvesting had a greater net reward in comparison to foraging.
 #### Government

@@ -7,7 +7,7 @@ tags:
 - featured
 ---
 ## Overview
-The Petrified Child ([Sarvaran](lore/languages/sarvaran.md): Oį́n aStéyą < `*uinh sëti-eyan`) is a supernatural being or deity concerned with the regulation and destruction of evil. It was formed from the mountains, owing to the fact that it is made of rock, and has the appearance of an infant. In addition, it is capable of travelling across the realms at its own discretion, and moves by quickly floating above the canopy or surface of the ground.
+The Petrified Child ([Sarvaran](languages/sarvaran.md): Oį́n aStéyą < `*uinh sëti-eyan`) is a supernatural being or deity concerned with the regulation and destruction of evil. It was formed from the mountains, owing to the fact that it is made of rock, and has the appearance of an infant. In addition, it is capable of travelling across the realms at its own discretion, and moves by quickly floating above the canopy or surface of the ground.
 
 ## Appearance
 ![Petrified Child](images/petrified-child.png)
@@ -19,7 +19,7 @@ Its face varies in shape over time due to the presence of Alucinara energy withi
 Its eyes are made of smooth Alucinarium bulbs, appearing dark, shiny, and purple. Round yellow-orange emissions of light appear and fade sporadically, a common visual phenomenon of crystalline Alucinarium, when its eyes are open. However, they are often closed to portray a wide, innocent smile with a look of contentment and calmness.
 
 ### Cultural Variance
-- In [morellic](lore/cultures/morellic.md) tradition, the petrified child is depicted with the face of a minikin;
+- In [morellic](cultures/morellic.md) tradition, the petrified child is depicted with the face of a minikin;
 - In [dviri](cultures/dviri) tradition, the petrified child is depicted with the face of an owl;
 - In [snixoj](cultures/snixoj) tradition, the petrified child is depicted with the face of a goat;
 - and in [Ǫzí](cultures/Ǫzí) tradition, the petrified child is depicted with the face of a ferret.
@@ -54,7 +54,7 @@ From here on, the area will stay relatively constant in state, featuring dense f
 ## Detection of Evil
 The petrified child detects evil through 'eyes' scattered across the realms. A fair proportion of these eyes exist naturally, but the majority of these eyes were carved by the [Sarvaran](cultures/morellic/sarvaran.md) and [Stonechild](cultures/morellic/stonechild.md) minikin, after it was discovered they could be created manually.
 
-'Eyes' are rock formations given use by their physical resemblance to eyes or faces. They were discovered by an early [morellic](lore/cultures/morellic.md) group of minikin who realised that the petrified child came to save them from danger only when there was a nearby cliff face or boulder with eyes formed into the surface.
+'Eyes' are rock formations given use by their physical resemblance to eyes or faces. They were discovered by an early [morellic](cultures/morellic.md) group of minikin who realised that the petrified child came to save them from danger only when there was a nearby cliff face or boulder with eyes formed into the surface.
 
 The formation of these eyes is greatly helped by Alucinarium content in the rock, as this often causes the surface to shift into the shape of a face. This is often hastened by the process of erosion.
 

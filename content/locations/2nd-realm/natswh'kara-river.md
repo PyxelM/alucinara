@@ -10,4 +10,4 @@ What does it look like, what is its relevance, and what is it used for?
 %%
 
 ## Overview
-The Natswh'kara river ([Proto-Nairuan](lore/languages/proto-nairuan.md): 'The River,' `*na-tswh'kara`), was the river upon which [Naíru](locations/2nd-realm/nairu.md) was built; it experienced seasonal floods and was situated on the [Naíruan Peninsula](lore/locations/2nd-realm/nairuan-peninsula.md).
+The Natswh'kara river ([Proto-Nairuan](languages/proto-nairuan.md): 'The River,' `*na-tswh'kara`), was the river upon which [Naíru](locations/2nd-realm/nairu.md) was built; it experienced seasonal floods and was situated on the [Naíruan Peninsula](locations/2nd-realm/nairuan-peninsula.md).

@@ -22,7 +22,7 @@ Remember:
 - work on the native Austerkin pre-Móra riSéwi society (next episode?)
 
 ## Context
-This begins in the [Naíruan Peninsula](lore/locations/2nd-realm/nairuan-peninsula.md), where the Oloyiru dynasty rules over a city-state known as Naíru, one of the first city states to gain any real power. The Oloyiru dynasty is matriarchal, spearheaded by a queen; the eldest daughter (or child) of the previous monarch.
+This begins in the [Naíruan Peninsula](locations/2nd-realm/nairuan-peninsula.md), where the Oloyiru dynasty rules over a city-state known as Naíru, one of the first city states to gain any real power. The Oloyiru dynasty is matriarchal, spearheaded by a queen; the eldest daughter (or child) of the previous monarch.
 
 ![](Pasted%20image%2020230809144906.png)
 
