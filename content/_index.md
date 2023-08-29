@@ -14,14 +14,16 @@ You can find the artwork I have made for Alucinara at my [Deviant Art](https://w
 
 ## Featured Articles
 - [Minikin](species/fauna/minikin.md)
+- [Morellic History](lore/morellic-history.md)
+- [Creation Story](lore/creation-story.md)
 - [Alucinara](phenomena/alucinara.md)
 - [The Petrified Child](deities/the-petrified-child.md)
-- [History](history.md)
 - [Sky Island](phenomena/sky-islands.md)
 - [Watchstones](phenomena/watchstones.md)
 - [Cloud Gnats](phenomena/cloud-gnats.md)
 
 ## Featured Tags
+- [History](tags/lore)
 - [Geography](tags/geography)
 - [Cultures](tags/culture)
 - [Fauna](tags/fauna)

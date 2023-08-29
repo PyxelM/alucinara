@@ -9,7 +9,6 @@ What are the significant features which make this relevant to the plot?
 What patterns are there when it comes to description and properties?
 What does it look like, what is its relevance, and what is it used for?
 %%
-
 ## Overview
 - divinity of the hair
 - importance if the tail
@@ -21,6 +20,5 @@ What does it look like, what is its relevance, and what is it used for?
 - other spiritual advantages
 	- how did they get spiritual knowledge? who taught them?
 - [proto-central](languages/proto-central.md) language
-
 ## Settlements:
 - [Sarvara](locations/2nd-realm/sarvara.md)

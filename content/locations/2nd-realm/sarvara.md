@@ -5,12 +5,6 @@ tags:
 - cities
 - morellic
 ---
-%%
-What are the significant features which make this relevant to the plot?
-What patterns are there when it comes to description and properties?
-What does it look like, what is its relevance, and what is it used for?
-%%
-
 ## Overview
 Sarvara ([Sarvaran](languages/sarvaran.md): 'Our Valley City,' Sarvárą < `*ësa-ëlbhu-aazan`) was a settlement founded by the [Morellic](groups/morellic-minikin.md) minikin. It was built on the [Abhmýra](locations/2nd-realm/abhmyra-river) river, experiencing seasonal floods.
 
@@ -31,3 +25,5 @@ These oligarchs descended from nobles, those who would use over semi-autonomous 
 They would collect taxes for the queen, taking a cut for themselves according to the queen's will, and would each have a great level of influence over the laws of the state. The would often hold councils to decide what to do, weighing the will of the people against the will of their own, and of the deities.
 ### The Oath
 Sarvaran Oligarchs would take an oath by shaving their head perpetually, and casting the city eblem into their forehead. This showed a great level of commitment, that they would forsake their hair for their city. Hair, in [Morellic](groups/morellic-minikin.md) culture, held a great amount of importance. It, like the tail, showed the retention of the 'divine' traits they shared with their worshipped ancestors, the squirrels.
+## See Also:
+- [The Sarvaran Calendar](lore/sarvaran-calendar.md)
