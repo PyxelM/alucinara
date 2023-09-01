@@ -17,7 +17,7 @@ The first judge helmed the operation, designing the [laws of nature](phenomena/n
 
 Stars glowed bright and planets shifted in form at a steady pace, all the result of the laws of nature which served to create beauty, but a somber kind of beauty. The universe was beautiful, yes, but no living thing could call it home. The universe wasn't designed for inhabitants.
 ### Life
-However, the second judge began to deviate from the first's plan. Motivated by envy for control, it attempted to create something all of their own; *life*. Life was created in the form of the Darkness - a material made of consciousness and pitch, a material hidden from light so that they would not be discovered.
+However, the second judge began to deviate from the first's plan. Motivated by envy for control, it attempted to create something all of their own; *life*. Life was created in the form of the Darkness - a material made of thinking tar, a material hidden from light so that it would not be discovered.
 
 The Darkness immediately grew disproportionate in power, thriving under the natural laws not built for it. It built empires founded on the backs of planets, and sucked the light out of stars for energy, so that it could spread and continue to go undiscovered.
 ### The Darkness' Mistake
@@ -38,19 +38,19 @@ Darkness now took the form of Hydrocarbons, the building blocks of live. This me
 
 This level of restriction was incomprehensible to the Darkness of the old world, but the restrictions now meant that Darkness could never destroy reality like it had in the past any further.
 
-When all ingredients have come together, the Darkness takes control of the body, allowing it to move, act, manipulate objects, conceptualise, philosphise, and *be* the Darkness in living form. But due to the restrictions of the body, every living being can succumb to injury, age, famine, disease, and will always succumb to death in the end.
+When all ingredients have come together, the Darkness takes control of the body, allowing it to move, act, manipulate objects, conceptualise, philosophise, and *be* the Darkness in living form. But due to the restrictions of the body, every living being can succumb to injury, age, famine, disease, and will always succumb to death in the end.
 #### When Life Doesn't Work
-Without all three ingredients, the Darkness is simply unmoving, unthinking, and static. When inhabiting any unsuitable body, such as a corpse, the Darkness immediately tries to take the path of least resistence to the void-space once more.
+Without all three ingredients, the Darkness is simply unmoving, unthinking, and static. When inhabiting any unsuitable body, such as a corpse, the Darkness immediately tries to take the path of least resistance to the void-space once more.
 
 When darkness doesn't return to the void-space, this is because the darkness is simply inhabiting a body. For example, tar pits can exist on planetary bodies, as the darkness is inhabiting the applicable planet, hydrocarbons can exist in dirt, as the darkness is inhabiting the earth, and organic compounds can exist in life as the darkness is inhabiting a living being.
 ### The Realms
-In the universe's final form, alucinarium content would increase as one got further from the 0th realm, as these would be the most unstable and more succeptible to the effects of the [First Laws](phenomena/natural-laws/first-laws.md).
+In the universe's final form, alucinarium content would increase as one got further from the 0th realm, as these would be the most unstable and more susceptible to the effects of the [First Laws](phenomena/natural-laws/first-laws.md).
 
 One could shift from realm to realm by creating [alucinara gateways](phenomena/alucinara-gateway), the process getting more alucinara-consumptive and difficult as one progressed further from the centre. It is practically impossible to surpass the 3rd and -3rd realms with this method, despite the amount of realms being practically infinite.
 ## Heirarchy of Beings
 [See Main Article Here](lore/heirarchy-of-beings.md)
 ## Species of the Realms
-In every realm, many many species had developed. The specieses of the 0th realm had developed and arose with little to no knowledge or experience at all with alucinara energy. That is, until a supernova had blasted the Earth with it.
+In every realm, many many species had developed. The species of the 0th realm had developed and arose with little to no knowledge or experience at all with alucinara energy. That is, until a supernova had blasted the Earth with it.
 ### The Supernova of 80 MyBS
 In 80 [MyBS](lore/sarvaran-calendar.md), the shockwave of a far-off supernova had finally reached the Earth. The star that had caused it was extremely old, having retained a lot of alucinara from the energy left over from the shattering of the realms.
 

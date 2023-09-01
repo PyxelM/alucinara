@@ -80,7 +80,7 @@ Following the conquest, two social classes formed, as is usual with stonechild c
 For centuries going forward, the Empire of the Petrified Child would control the island, policing entry and exit, taxing the inhabitants, converting them to [Stonechildism](religions/stonechildism.md), and mistreating them. However, once the empire fell, outside resources were scarce - the blues attempted to keep control, convincing themselves that the empire couldn't *truly* be gone, but it was too late.
 
 ##### Fall of the Empire
-Eventually, the blues formed their own state, not letting themselves succumb to the mounting resistence that was ready to burst in the wake of the political instability of the time. This was what would be known as the [True Sovereign State of Aderyn Major of the Petrified Child](locations/2nd-realm/the-aderyn-state.md), often shortened to just 'The Aderyn State.'
+Eventually, the blues formed their own state, not letting themselves succumb to the mounting resistence that was ready to burst in the wake of the political instability of the time. This was what would be known as the [True Sovereign State of Aderyn Major of the Petrified Child](locations/the-aderyn-state.md), often shortened to just 'The Aderyn State.'
 
 A queen was appointed of the highest-ranking officer of the island, beginning a matrilineal line of succession as each generation took the mantle of controlling the island.
 

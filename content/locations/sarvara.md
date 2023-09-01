@@ -6,9 +6,9 @@ tags:
 - morellic
 ---
 ## Overview
-Sarvara ([Sarvaran](languages/sarvaran.md): 'Our Valley City,' Sarvárą < `*ësa-ëlbhu-aazan`) was a settlement founded by the [Morellic](groups/morellic-minikin.md) minikin. It was built on the [Abhmýra](locations/2nd-realm/abhmyra-river) river, experiencing seasonal floods.
+Sarvara ([Sarvaran](languages/sarvaran.md): 'Our Valley City,' Sarvárą < `*ësa-ëlbhu-aazan`) was a settlement founded by the [Morellic](groups/morellic-minikin.md) minikin. It was built on the [Abhmýra](locations/abhmyra-river) river, experiencing seasonal floods.
 
-It was instrumental in the development of sophisticated society, becoming the most populous city at its height, breaking the record set by [Naíru](locations/2nd-realm/nairu.md) before its fall.
+It was instrumental in the development of sophisticated society, becoming the most populous city at its height, breaking the record set by [Naíru](locations/nairu.md) before its fall.
 ## Construction
 Taking a page out of their Kaśtaira ancestry, they built their dens out of clay, collecting mud from the riverbed and carrying it up to the canopy in their cheek pouches.
 

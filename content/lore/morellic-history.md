@@ -5,14 +5,14 @@ tags:
 - lore
 ---
 ## Overview
-This note goes over the history of the [Morellic Minikin](groups/morellic-minikin.md). It explains their divergence from the [Móra riSéwi](groups/mora-risewi-tribe.md), their hybridisation with the [Western Kaśtaira](groups/western-kastaira-tribe.md), and the founding of [Sarvara](locations/2nd-realm/sarvara.md).
+This note goes over the history of the [Morellic Minikin](groups/morellic-minikin.md). It explains their divergence from the [Móra riSéwi](groups/mora-risewi-tribe.md), their hybridisation with the [Western Kaśtaira](groups/western-kastaira-tribe.md), and the founding of [Sarvara](locations/sarvara.md).
 
 ## See Also:
 - [The Creation Story](lore/creation-story.md)
 - [The History of the Móra riSéwi Minikin](lore/mora-risewi-history.md)
 ## Events
 ### The Hollow Tree
-One day in the early autumn, a [Móra riSéwi](groups/mora-risewi-tribe.md) group was exploring the northern wilderness of the [central continent](locations/2nd-realm/central-continent.md). As they reached the edge of a steppe, they found a forest.
+One day in the early autumn, a [Móra riSéwi](groups/mora-risewi-tribe.md) group was exploring the northern wilderness of the [central continent](locations/central-continent.md). As they reached the edge of a steppe, they found a forest.
 
 Foraging for food in the forest as they as their ancestors had done for hundreds of years, they went further deep, eventually stumbling upon a clearing, which had a circular swamp with a tree in the centre.
 
@@ -38,7 +38,7 @@ The spiritual leaders of the group settled that the event was a Nightmare coming
 
 A lot of the minikin were scared to be around her for fear of breathing in the fumes once others began to show the same symptoms, and eventually portions her own body began to turn to the same gravityless mass of the tree.
 ### Flight to Naíru
-It was soon that these Móra riSéwi minikin decided to move to [Naíru](locations/2nd-realm/nairu.md), to settle down and maybe find a cure for their afflicted, on account of the advanced medicinal industry of the city-state.
+It was soon that these Móra riSéwi minikin decided to move to [Naíru](locations/nairu.md), to settle down and maybe find a cure for their afflicted, on account of the advanced medicinal industry of the city-state.
 
 Grasscap proved herself bedridden, laying in a hospital den indefinitely, but she was in good spirits and continued to attempt to guide her group with her wisdom and advice.
 
@@ -87,7 +87,7 @@ The Móra riSéwi, seeing all of this, knew what was wrong. They had heard tales
 
 As much as the sight was beautiful, Grasscap's daughter, Grassapple, who was now in charge, promptly made the entire group snap out of their focus on the morbid event. Her first command was to make leave for the shore and leave behind all sick, to escape the area's chaos and the curse of hollowness.
 
-Their first destination was the [Natswh'kara river](locations/2nd-realm/natswh'kara-river.md), as they knew that if they followed it downstream, they could reach the sea very quickly, (Naíru was built close to the shore and was a port city) and they could use the inland flora to construct boats and rafts out of sticks and vegetation very effectively.
+Their first destination was the [Natswh'kara river](locations/natswh'kara-river.md), as they knew that if they followed it downstream, they could reach the sea very quickly, (Naíru was built close to the shore and was a port city) and they could use the inland flora to construct boats and rafts out of sticks and vegetation very effectively.
 
 Soon, they went downstream upon their rafts, leaving behind all sick from the curse of hollowness. after a short period, they reached the mouth of the river, and brought out large sticks and leaves to serve as oars.
 
@@ -100,7 +100,7 @@ They agreed to journey to the South-West, collectively sailing as a fleet to the
 ### The Group Reaches the South-West Shore
 Once the Móra riSéwi minikin had reached the shore, they immediately leaped off of their boats and rafts and ran in search of food toward the forests and stepped of the wilderness.
 
-The first major landmark which the minikin found was the [Abhmýra](locations/2nd-realm/abhmyra-river.md), a river in the midst of a lush valley, which the group promptly took for themselves. The starving minikin would rip up and eat anything they could find, eating leaves, grass, bark, and so on, as they had absolutely no idea where the nutritious edible food was.
+The first major landmark which the minikin found was the [Abhmýra](locations/abhmyra-river.md), a river in the midst of a lush valley, which the group promptly took for themselves. The starving minikin would rip up and eat anything they could find, eating leaves, grass, bark, and so on, as they had absolutely no idea where the nutritious edible food was.
 ### The Kaśtaira Help
 In fact, the Móra riSéwi's emaciated bodies looked little better than when they had arrived, even after a couple years. And the natives, looking upon the poor desparate group, took pity on them.
 
@@ -129,18 +129,18 @@ And after a trek of about a week, the entire tribe had reached the river valley,
 
 Standing upon the top of the surrounding hills, Grassquartz the queen, daughter of Grassapple, daughter of Grasscap, leaned over to her second in command and, pointing to the tree, said 'This is where we will live.'
 ### Founding of Sarvara
-Grassquartz ordered the building of the city immediately, and so the people went to build. They termed the city [Sarvara](locations/2nd-realm/sarvara.md), meaning 'Our Valley,' and stayed there, having lost their nomadic tradition for the Kaśtaira tradition of settling down.
+Grassquartz ordered the building of the city immediately, and so the people went to build. They termed the city [Sarvara](locations/sarvara.md), meaning 'Our Valley,' and stayed there, having lost their nomadic tradition for the Kaśtaira tradition of settling down.
 #### The Morellic Ethnicity
 This Móra riSéwi group, having genetically and culturally merged with the Kaśtaira, began to find it harder and harder to consider themselves Móra riSéwi.  
 
 A lot of the partially native children found it alienating to align themselves with a group from a sea away who looked different to them (Or, like *only* one of their parents.) So, a compromise was reached, and the Móra riSéwi eventually became the [Morellic](groups/morellic-minikin.md) minikin - a new, separate group entirely.
-### Conflict the Tsṇjéna
-A group that was very displeased by the morellic arrival was the [Tsṇjéna](groups/tsjena-tribe.md), an [ó Źol](groups/ozol-tribe) tribe native to the area. Following their displacement, they were forced to inhabit the inland desert oases of the central continent, a far cry compared to the lushness of the coastal valleys.
+### Conflict the Tsṇjén
+A group that was very displeased by the morellic arrival was the [Tsṇjén](groups/tsnjen-tribe.md), an [ó Źol](groups/ozol-tribe) tribe native to the area. Following their displacement, they were forced to inhabit the inland desert oases of the central continent, a far cry compared to the lushness of the coastal valleys.
 
 %%Please rewrite this all in more detail, this is the next arc! work on it in the next few streams?%%
 
-The conflict began as the Tsṇjéna arrived to the Abhmýra, and seeing the city of Sarvara being set up, immediately attempted to attack it. Thankfully, the morellic minikin had alucinara energy on their side, and threatened them with watchstones and blades if they were to hurt anyone.
+The conflict began as the Tsṇjén arrived to the Abhmýra, and seeing the city of Sarvara being set up, immediately attempted to attack it. Thankfully, the morellic minikin had alucinara energy on their side, and threatened them with watchstones and blades if they were to hurt anyone.
 
-A retreat followed, not before a lot of Tsṇjéna had their tails cut off. Such a punishment spiritually disconnected the soul, leading to ostracism of those affected by it and the innability for their living consciousness to enter the afterlife, impacting the person's life deeply.
+A retreat followed, not before a lot of Tsṇjén had their tails cut off. Such a punishment spiritually disconnected the soul, leading to ostracism of those affected by it and the innability for their living consciousness to enter the afterlife, impacting the person's life deeply.
 
-From then on, any Tsṇjéna minikin were to have their tails removed on sight, and they would routinely raid Sarvaran satellite villages in the surrounding area. This culminated in the great war of the Abhmyra, leading to many casualties, but a decisive victory of the sarvaran civilisation led by the military general Hastynewt the Elephant.
+From then on, any Tsṇjén minikin were to have their tails removed on sight, and they would routinely raid Sarvaran satellite villages in the surrounding area. This culminated in the great war of the Abhmyra, leading to many casualties, but a decisive victory of the sarvaran civilisation led by the military general Hastynewt the Elephant.

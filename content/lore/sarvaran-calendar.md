@@ -5,9 +5,9 @@ tags:
 - lore
 ---
 ## Overview
-The Sarvaran Calendar is a calendar created by the [Sarvaran](locations/2nd-realm/sarvara.md) minikin. Year 0 took place on the founding of the city, years before the founding are referred to with the acronym 'BS,' meaning 'Before Sarvara.' Years after the founding are refferred to with 'AS,' 'After Sarvara.' The Acronym can be prefixed with 'Cs,' 'My,' and 'By' for 'Centuries before / after,' 'Million Years before / after,' Billion Years before / after,' and so on.
+The Sarvaran Calendar is a calendar created by the [Sarvaran](locations/sarvara.md) minikin. Year 0 took place on the founding of the city, years before the founding are referred to with the acronym 'BS,' meaning 'Before Sarvara.' Years after the founding are referred to with 'AS,' 'After Sarvara.' The Acronym can be prefixed with 'Cs,' 'My,' and 'By' for 'Centuries before / after,' 'Million Years before / after,' Billion Years before / after,' and so on.
 ## Structure
-The Sarvaran Calendar is a lunar calendar, following the cycle of the main moon of [Qerelh](2nd-realm/qerelh.md) from the 2nd Realm.
+The Sarvaran Calendar is a lunar calendar, following the cycle of the main moon of [Qerelh](locations/qerelh.md) from the 2nd Realm.
 ### Years and Months
 The Sarvaran calendar has 306 days made of 8 months, each of 36 days. As the seasons repeat every 252 days, a 9th month is inserted every two years to align the year with the seasons, with winter and Minikin hibernation ending on the first day of every other year. The months are named after the same namesakes as the weekdays, but the 9th month is known simply as the 'Extra Month.'
 ### Weeks

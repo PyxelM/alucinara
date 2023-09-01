@@ -91,9 +91,9 @@ Proto-Central has 6 persons;
 5. 3rd person plant,
 6. 3rd person deity.
 The 1st person is marked with '\*ësa,' the 2nd '\*dho,' the Minikin 3rd '\*mu,' the animal 3rd '\*elya,' the plant 3rd '\*api,' and the deity 3rd '\*eli.'
-#### Nouns
+### Nouns
 Nouns in Proto-Central are relatively unchanged from position-to-position, but do have to be inflected for possession and number. The possession agreement particle precedes the root, and the number particle succeeds the root.
-##### Number
+#### Number
 Nouns have 3 numbers;
 1. Singular,
 2. Paucal,
@@ -101,27 +101,27 @@ Nouns have 3 numbers;
 The singular is unmarked, the paucal is marked with '\*aki,' and the plural is marked with '\*itu.'
 
 Singular forms are the lemma forms and refer to one unit of the noun. Paucal forms refer to a few of the noun, such as a handful, but not a collective amount. Plural forms are used to refer to many of the noun, the collective concept of the noun, or simply a large non-singular amount.
-#### Verbs
+### Verbs
 Verbs in Proto-Central carry the bulk of the meaning in a sentence. They agree in person and number for the subject and all objects, and also have a complex tense, aspect, mood system in combination with a set of auxiliaries.
-##### Tense
+#### Tense
 Proto-Central verbs have 3 tenses;
 1. Past
 2. Present
 3. Future
 The past tense is marked with '\*avë,' the present is unmarked, and the future tense is marked with '\*ya.'
-##### Aspect
+#### Aspect
 Proto-Central has 3 aspects;
 1. Progressive
 2. Simple
 3. Stative
 The progressive aspect is marked with '\*so,' the simple is unmarked, and the stative aspect is marked with '\*il.'
-##### Mood
+#### Mood
 Proto-Central has 3 moods;
 1. Indicative
 2. Subjunctive
 3. Imperative
 The indicative is unmarked, but the subjunctive is marked with '\*ngu' and the imperative is marked with '\*dul.'
-##### Auxiliaries
+#### Auxiliaries
 Proto-Central has a few auxiliaries. For example;
 1. 'have,' the perfect aspect
 2. 'could,' the conditional mood

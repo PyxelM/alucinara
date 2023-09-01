@@ -20,5 +20,8 @@ What does it look like, what is its relevance, and what is it used for?
 - other spiritual advantages
 	- how did they get spiritual knowledge? who taught them?
 - [proto-central](languages/proto-central.md) language
+
+## History
+[See Main Article](lore/mora-risewi-history.md)
 ## Settlements:
-- [Sarvara](locations/2nd-realm/sarvara.md)
+- [Sarvara](locations/sarvara.md)
