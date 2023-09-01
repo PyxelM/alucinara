@@ -21,19 +21,25 @@ However, the second judge began to deviate from the first's plan. Motivated by e
 
 Life was created in the form of The Darkness - a material made of thinking tar, a material hidden from light so that it would not be discovered. The Darkness immediately grew disproportionate in power, thriving under the First Laws which weren't built to restrict it.
 
-The Darkness founded organisations, guilds, and empires that fed on the newly diminishing universe, sucking energy out of the planets and stars it lived on and beside. It greedily ate constellations, galaxies, and superclusters, so that it could continue to go undiscovered in the void.
+The Darkness founded organisations, guilds, and empires that fed on the newly diminishing universe, sucking energy out of the planets and stars it lived on and beside. It greedily ate constellations, galaxies, and superclusters, so that it could spread and continue to go undiscovered in the void.
 ### The Darkness' Mistake
-However, it eventually grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone. The First Judge was furious when it had discovered The Darkness, disgusted and mortified that matter could move and take reality for its own interests, not even meant to aid nature and perpetuate the world's static beauty.
+However, it eventually grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone.
 
-In an apocalyptic turn of events, the first judge shattered the walls of reality into thousands of disparate realms as it tried in vain to push off The Darkness, but it was unfortunately subsumed by the mass of living pitch.
+The First Judge was furious when it had discovered The Darkness, disgusted and mortified that matter could behave and take reality for its own means for the horrifying purpose of feeding upon the static beauty that the judge had created.
+### The Shattering
+The Darkness, in its overwhelmingly massive quantity, went to subsume the First Judge. The Judge exerted the forces of creation a thousand times over to push them away, but it was of no use against the greedy, ever hungry, mass.
+
+Greatly weakened, The Judge's hand slipped as it continued to push away The Darkness, and in a moment the universe swiftly broke into thousands upon thousands of shards, each one now a realm, each with it's own perverse spot in the order of the shattered universe.
 ## Aftermath
-Almost immediately, the Second Judge turned itself into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) that would now affect the new realms, in a last-resort attempt to save its companion. However, it was too late. This only served to worsen the shattered reality and cease the Second Judge's existence.
+Terrified, the Second Judge promptly turned itself into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) that would affect the new realms, in a last-resort attempt to save its companion. But it was too late; this only served to impose restrictions upon the darkness and cease the Second Judge's existence as well.
 
-And in the First Judge's last moments, it turned itself [Alucinara energy](phenomena/alucinara.md), an form of energy that would allow the First Laws to live on *within* the Realms, letting both of their legacies to continue in tandem despite the annihilation of all things good.
+And in the First Judge's last moments, it turned itself [Alucinara energy](phenomena/alucinara.md), an form of energy that would allow the First Laws to live on *within* the Second Laws, letting both of their legacies to continue in tandem despite the annihilation of all things good.
 ### The Darkness
-The Second Laws of Nature resolved to banish The Darkness to the lowliest places in every new shard of reality, every realm, left; and to the now empty void-space surrounding every realm. In this way, the judges defined The Darkness' place in the universe in their last moments, so that they would never be able to think or destroy unfettered.
+The Second Laws of Nature resolved to banish The Darkness to the lowliest places in every realm left, tarpits and black holes, and to the emptied void-space - the border between every realm.
+
+Like this, the Judges defined The Darkness' place in the universe in their last moments so that it could never again be able to think or destroy.
 #### The Soul
-Darkness now took the form of Hydrocarbons, the building blocks of live. This meant that Darkness could continue to live, but there were restrictions: Life was now made up of three ingredients;
+Darkness now took the form of Hydrocarbons, the building blocks of life. This meant that Darkness could continue to live, but there were restrictions: Life was now made up of three ingredients;
 - Darkness
 - Alucinara Energy
 - and a body.
