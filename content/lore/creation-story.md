@@ -22,7 +22,7 @@ However, the second judge began to deviate from the first's plan. Motivated by e
 Life was created in the form of The Darkness - a material made of thinking tar, a material hidden from light so that it would not be discovered. The Darkness immediately grew disproportionate in power, thriving under the First Laws which weren't built to restrict it.
 
 The Darkness founded organisations, guilds, and empires that fed on the newly diminishing universe, sucking energy out of the planets and stars it lived on and beside. It greedily ate constellations, galaxies, and superclusters, so that it could spread and continue to go undiscovered in the void.
-### The Darkness' Mistake
+### A Dark Mistake
 However, it eventually grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone.
 
 The First Judge was furious when it had discovered The Darkness, disgusted and mortified that matter could behave and take reality for its own means for the horrifying purpose of feeding upon the static beauty that the judge had created.
@@ -35,7 +35,7 @@ Terrified, the Second Judge promptly turned itself into the [Second Laws of Natu
 
 And in the First Judge's last moments, it turned itself [Alucinara energy](phenomena/alucinara.md), an form of energy that would allow the First Laws to live on *within* the Second Laws, letting both of their legacies to continue in tandem despite the annihilation of all things good.
 ### The Darkness
-The Second Laws of Nature resolved to banish The Darkness to the lowliest places in every realm left, tarpits and black holes, and to the emptied void-space - the border between every realm.
+The Second Laws of Nature resolved to banish The Darkness to the lowliest places in every realm left, tarpits and black holes, and to the emptied void-space - the border between every realm, which was later termed by the minikin as the [Pond](locations/pond.md).
 
 Like this, the Judges defined The Darkness' place in the universe in their last moments so that it could never again be able to think or destroy.
 #### The Soul
@@ -47,10 +47,10 @@ Darkness now took the form of Hydrocarbons, the building blocks of life. This me
 This level of restriction was incomprehensible to The Darkness of the old world, but the restrictions now meant that Darkness could never destroy reality like it had in the past any further.
 
 When all ingredients have come together, The Darkness takes control of the body, allowing it to move, act, manipulate objects, conceptualise, philosophise, and *be* The Darkness in living form. But due to the restrictions of the body, every living being can succumb to injury, age, famine, disease, and will always succumb to death in the end.
-#### When Life Doesn't Work
-Without all three ingredients, The Darkness is simply unmoving, unthinking, and static. When inhabiting any unsuitable body, such as a corpse, The Darkness immediately tries to take the path of least resistance to the void-space once more.
+#### Death, and the Pond
+Without all three ingredients, The Darkness is simply unmoving, unthinking, and static. When inhabiting any unsuitable body, such as a corpse, The Darkness immediately tries to take the path of least resistance to the Pond once more.
 
-When darkness doesn't return to the void-space, this is because The Darkness is simply inhabiting a body. For example, tar pits can exist on planetary bodies, as The Darkness is inhabiting the applicable planet, hydrocarbons can exist in dirt, as The Darkness is inhabiting the earth, and organic compounds can exist in life as The Darkness is inhabiting a living being.
+When darkness doesn't return to the Pond, this is because The Darkness is simply inhabiting a body. For example, tar pits can exist on planetary bodies, as The Darkness is inhabiting the applicable planet, and organic compounds can exist in living beings, as The Darkness is inhabiting a living being.
 ### The Realms
 In the universe's final form, alucinarium content would increase as one got further from the 0th realm, as these would be the most unstable and more susceptible to the effects of the [First Laws](phenomena/natural-laws/first-laws.md).
 
