@@ -32,7 +32,7 @@ The Darkness, in its overwhelmingly massive quantity, went to subsume the First 
 Greatly weakened, The Judge's hand slipped as it continued to push away The Darkness, and in a moment the universe swiftly broke into thousands upon thousands of shards, each one now a realm, each with it's own perverse spot in the order of the shattered universe.
 ## Aftermath
 ### The Laws of Nature
-Terrified, the Second Judge promptly turned itself into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md). The laws served to impose restrictions on the Darkness, only affecting the realms which were now full of the energy and matter created from the Shattering.
+Terrified, the Second Judge sacrificed itself, turning itself into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) in a vain attempt to save its companion. These new laws served to impose restrictions on the Darkness, only affecting the realms which were now full of the energy and matter that the First Judge had caused the Shattering with.
 
 And in the First Judge's last moments, it turned itself into [Alucinara energy](phenomena/alucinara.md), a form of energy that allowed the First Laws to exist in place of the Second. This meant that the beauty the judge had created could still exist, and the Darkness could also live on.
 
