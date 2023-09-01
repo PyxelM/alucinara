@@ -3,7 +3,7 @@ title: "Phantasmarrhoea"
 tags:
 - illnesses
 - phenomena
-- alucinara
+- Alucinara
 ---
 %%
 What are the significant features which make this relevant to the plot?

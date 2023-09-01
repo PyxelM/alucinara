@@ -12,7 +12,7 @@ What is its cultural significance?
 %%
 
 ## Overview
-Wood is the main organic material of trees. It, designed to give structure and solidity, is commonly used as a building material. Its appearance can vary by species or type, similarly its qualities can vary, such as hardness or transparency to alucinara.
+Wood is the main organic material of trees. It, designed to give structure and solidity, is commonly used as a building material. Its appearance can vary by species or type, similarly its qualities can vary, such as hardness or transparency to Alucinara.
 
 ## Types
 ### Brown
@@ -36,7 +36,7 @@ Purple wood is commonly found in the -3rd, 1st, and -4th realms.
 It's qualities are;
 - Hard
 - Inflammable
-- Stores Alucinara energy
+- Stores Alucinara
 
 ### Yellow
 Teal wood is commonly found in the 2nd, 1st, and [-2nd Realm](locations/-2nd-realm.md)s.
@@ -57,4 +57,4 @@ Orange wood is commonly found in the -1st, 2nd, -4th, and 3rd realms.
 It's qualities are;
 - Brittle
 - Flammable
-- Stores Alucinara energy
+- Stores Alucinara

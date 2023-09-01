@@ -63,7 +63,7 @@ The Móra riSéwi leader opened her mouth dryly to convey an ancient poem about 
 
 Upon the first word of the poem, Moonwind hacked Grasscap to pieces in her den. A ghastly mixture of red mist, blood, and black fumes filled the air, with the deathly sound of pitch shreiking out as her soul left her body.
 ### The Petrified Child Saw
-As with many other charming methods, one mechanism employed by the Móra riSéwi minikin was the use of [watchstones](phenomena/watchstones.md). Thus, the petrified child saw the whole thing.
+As with many other charming methods, one mechanism employed by the Móra riSéwi minikin was the use of [watchstones](phenomena/symbols/watchstones.md). Thus, the petrified child saw the whole thing.
 
 The Oyhólıru were orders of magnitude less spiritual, or at least less spiritual in the more correct manner, as the Móra riSéwi's spiritual practices and philosophies aligned greatly with the phenomena and truths of the universe.
 
@@ -139,7 +139,7 @@ A group that was very displeased by the morellic arrival was the [Tsṇjén](gro
 
 %%Please rewrite this all in more detail, this is the next arc! work on it in the next few streams?%%
 
-The conflict began as the Tsṇjén arrived to the Abhmýra, and seeing the city of Sarvara being set up, immediately attempted to attack it. Thankfully, the morellic minikin had alucinara energy on their side, and threatened them with watchstones and blades if they were to hurt anyone.
+The conflict began as the Tsṇjén arrived to the Abhmýra, and seeing the city of Sarvara being set up, immediately attempted to attack it. Thankfully, the morellic minikin had Alucinara on their side, and threatened them with watchstones and blades if they were to hurt anyone.
 
 A retreat followed, not before a lot of Tsṇjén had their tails cut off. Such a punishment spiritually disconnected the soul, leading to ostracism of those affected by it and the innability for their living consciousness to enter the afterlife, impacting the person's life deeply.
 

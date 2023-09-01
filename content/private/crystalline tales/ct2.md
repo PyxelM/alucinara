@@ -74,7 +74,7 @@ Ajun was now a husk of her former self, she lost almost everything, her mind, he
 ### Carsai dies
 Eventually, Carsai did die, but not to the illness she contracted and the plague that caused all of the havoc. Ajun had heard the rumours of Carsai's 'guilt,' that she was Patient 0 and in her insnaity blamed her for every wrong thing. She left her royal tree to climb up Carsai's; Ajun killed her in cold blood, in front of the entire group.
 
-Little did she know, the Móra riSéwi were a very spiritual tribe, and had knowledge of how to interface with deities, and there was one of many [watchstones](phenomena/watchstones.md) staring directly at the queen.
+Little did she know, the Móra riSéwi were a very spiritual tribe, and had knowledge of how to interface with deities, and there was one of many [watchstones](phenomena/symbols/watchstones.md) staring directly at the queen.
 
 ### The Petrified Child destroys Ajun
 The petrified child, knowing immediately of the evil that had took place before one of its 'eyes,' made a bee line from its dwelling place to the city of Naíru. Ajun didn't stand a chance against the child's perfect judgement; she and her guards to tried to fend the child off were swiftly turned into baby sludge.
@@ -151,7 +151,7 @@ Weasels are essentially the same in the [2nd Realm](locations/2nd-realm.md) as i
 
 Minikin, being smart, noticed this, and began to weaponise them against their neighbours, eventually training them and treating them as pets once the aggression was bred out of them by skilled pastoralists. Now, they are largely used as cavalry in the military.
 
-One or two minikin soldiers will sit upon a weasel's back, supported by the 3rd pair of legs, and charge at the enemy, holding spears in their hands or using [alucinara](phenomena/alucinara.md) energy to levitate daggers and sharp objects forward into the enemy, like a spear or arrow.
+One or two minikin soldiers will sit upon a weasel's back, supported by the 3rd pair of legs, and charge at the enemy, holding spears in their hands or using [Alucinara](phenomena/alucinara.md) to levitate daggers and sharp objects forward into the enemy, like a spear or arrow.
 
 It is an iconic sight to see a soldier or two sitting upon a weasels back, with only a rug-like cloth separating the rider from its steed, with an array of levitating darts above the rider's head floating in an arc, ready to be shot forward in a burst of magic.
 

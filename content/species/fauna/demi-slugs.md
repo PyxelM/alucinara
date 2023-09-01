@@ -39,7 +39,7 @@ The Demi-slugs grew from herbivorous leaf-eating slugs, widening their diet into
 Their new deit helped them to reach the point they achieved, bringing them more nutrients than they would have needed previously, affording them greater energy to spend toward developing and maintaining mutations and their intricacies.
 
 ## Sociality
-All of the evolutionary adaptations worked in conjunction with alucinara to quickly augment and improve the physiologies of their basal slug ancestors as well as their minds; they quickly developed an upright stance and the ability to coordinate and communicate.
+All of the evolutionary adaptations worked in conjunction with Alucinara to quickly augment and improve the physiologies of their basal slug ancestors as well as their minds; they quickly developed an upright stance and the ability to coordinate and communicate.
 
 This led to the formation of many nomadic communities in the 1st realm, all concerned with serving deities and survival, with little technological advancement due to the constant pressure from predators in the hot plains with no places to hide.
 

@@ -23,9 +23,9 @@ The alucinarium content in the rock causes the surface of sky islands to change 
 Furthermore, sky islands show a tendancy to take the form animals according to the [pseudo-fauna principle](phenomena/pseudo-fauna-principle.md). As sky islands float, they may take the form of avian animals such as birds or bats, or may take the form of aquatic animals such as whales or fish.
 
 ## Feeding Habits
-While sky islands aren't alive, they need to be fed with alucinara energy to stay afloat, and hunt alucinariferous animals or plants to refuel according to the pseudo-fauna principle.
+While sky islands aren't alive, they need to be fed with Alucinara to stay afloat, and hunt alucinariferous animals or plants to refuel according to the pseudo-fauna principle.
 
-A common hunting practice is that the sky islands may be drawn to areas of high-alucinarium content, such as communities of animals or crystalline mountains. They swoop from high altitude  down, and catch any sources of alucinara in their mouths which shift open as they descend.
+A common hunting practice is that the sky islands may be drawn to areas of high-alucinarium content, such as communities of animals or crystalline mountains. They swoop from high altitude  down, and catch any sources of Alucinara in their mouths which shift open as they descend.
 
 If an animal is eaten, then the alucinarium present in their body will be absorbed into the rock as decomposition takes place. Once all that is left is bone, the bone will be naturally moved deeper into the rock itself as the stone shifts. This can cause high concentrations of calcium in the rock, and this can cause vast large stalagtites of calcium carbonate to form.
 
@@ -68,12 +68,12 @@ In addition, some crater communities carve houses or structures into the fallen 
 Aderyn Major, the largest sky island to record, takes the shape of a bird and has been inhabited by the Nesi and Stonechild Imperial Minikin. Originating from the central continent, Aderyn Major has been found and colonised by many central continent peoples.
 
 ##### Discovery by the Ǫzí Minikin
-Once, Aderyn Major crash-landed, having ran out of Alucinara Energy. A group of minikin known as the Ǫzí minikin found Aderyn Major's remains and began to inspect it but, in a turn of tragic fate, one group of minikin entered the mouth of the sky island and tragically died to the ravenous ecosystem inside.
+Once, Aderyn Major crash-landed, having ran out of Alucinara. A group of minikin known as the Ǫzí minikin found Aderyn Major's remains and began to inspect it but, in a turn of tragic fate, one group of minikin entered the mouth of the sky island and tragically died to the ravenous ecosystem inside.
 
 When the alucinarium inside of the victims' bodies was released, the sky island took full advantage of this - immediately springing to animation, with the rest of the Ǫzí minikin on its back. It soon began to float upward, taking its place as the home of the Nesi Minikin, who broke off from the Ǫzí.
 
 ##### Conquest by the Empire of the Petrified Child
-Centuries later, by the time of the Stonechild Era, the empire had begun to take advantage of their new technology of alucinara-powered flight. Using an airship of theirs, they attacked the island - burning and pillaging the town of Aderynville and taking control of Birton, claiming it as the capital of their Aderyn Major Province.
+Centuries later, by the time of the Stonechild Era, the empire had begun to take advantage of their new technology of Alucinara-powered flight. Using an airship of theirs, they attacked the island - burning and pillaging the town of Aderynville and taking control of Birton, claiming it as the capital of their Aderyn Major Province.
 
 Following the conquest, two social classes formed, as is usual with stonechild colonialism - the Blue class and the Orange class. The blue class was named for the stonechild officers' blue attire, and the orange class for the remaining Nesi minikin's orange attire.
 

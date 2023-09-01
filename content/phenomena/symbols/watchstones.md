@@ -26,9 +26,9 @@ Watchstones have the appearance of a chiselled pair of eyes / a face upon a hard
 In addition, they can feature physically separate 'legs' used to aid the process of floatation; large rocks or geodes form the main bodies of watchstones, and smaller alucinariferous pebbles form the legs.
 
 ### Legs
-These legs are made of pebbles taken from the ground, continually picked up with magic and put down when their inherent alucinara energy has been used up. They aid the process of floatation in that, being in contact with the ground, they can act as leverage against the force of gravity. This means that less alucinara energy is used up by the watchstone, and continuous floatation is sustainable.
+These legs are made of pebbles taken from the ground, continually picked up with magic and put down when their inherent Alucinara has been used up. They aid the process of floatation in that, being in contact with the ground, they can act as leverage against the force of gravity. This means that less Alucinara is used up by the watchstone, and continuous floatation is sustainable.
 
 ### Pebbles
-Pebbles continually accumulate alucinarium over time due to alucinara energy present in the air, and lose their alucinara energy when in use by watchstones. This is why legs are discarded and fall over after a period of use, and why new ones are naturally picked up.
+Pebbles continually accumulate alucinarium over time due to Alucinara present in the air, and lose their Alucinara when in use by watchstones. This is why legs are discarded and fall over after a period of use, and why new ones are naturally picked up.
 
 In some areas, the amount of energy is negligible, but in others - such as next to a crystalline alucinarium deposit - pebbles can become greatly saturated with the mineral to the point of geode formation; they are taken as legs at the mid-point of this process.

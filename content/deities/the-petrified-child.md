@@ -14,7 +14,7 @@ The Petrified Child ([Sarvaran](languages/sarvaran.md): Oį́n aStéyą < `*uin
 
 The Petrified Child has the form of a long, inverse egg made of pure rock. It has a round top with a curved, tapering bottom, a vertical length of 3 metres, and a diameter of 1.5 metres at its widest point. In addition, it has no visible body parts except for a round infantile face on the front side of its upper section.
 
-Its face varies in shape over time due to the presence of Alucinara energy within it; this can cause its face to unpredictably shift in form. The child often appears to have the infantile face of a minikin, but it can also present with a strigine face, canine face, or a feline face, causing a lot of variation from culture-to-culture in how the deity is depicted.
+Its face varies in shape over time due to the presence of Alucinara within it; this can cause its face to unpredictably shift in form. The child often appears to have the infantile face of a minikin, but it can also present with a strigine face, canine face, or a feline face, causing a lot of variation from culture-to-culture in how the deity is depicted.
 
 Its eyes are made of smooth Alucinarium bulbs, appearing dark, shiny, and purple. Round yellow-orange emissions of light appear and fade sporadically, a common visual phenomenon of crystalline Alucinarium, when its eyes are open. However, they are often closed to portray a wide, innocent smile with a look of contentment and calmness.
 
@@ -49,7 +49,7 @@ The final stage is the least dangerous relative to the previous stages, featurin
 
 At this point, the central skeleton may have rotted and crumbled, serving as fertiliser in and of itself, or it will have stayed standing in the case of stronger skeletons. The appearance of this stage is marked by the appearance of tall green trees; if the skeleton hasn't disappeared it will surely be hidden by the lush trees which will have grown in the area.
 
-From here on, the area will stay relatively constant in state, featuring dense flora. Over time the region may be overcome with other flora, resembling a baby meadow less and less after the initial propagation declines, but this is a very slow process due to the influence of alucinara energy in the area following the dissemination of baby sludge.
+From here on, the area will stay relatively constant in state, featuring dense flora. Over time the region may be overcome with other flora, resembling a baby meadow less and less after the initial propagation declines, but this is a very slow process due to the influence of Alucinara in the area following the dissemination of baby sludge.
 
 ## Detection of Evil
 The petrified child detects evil through 'eyes' scattered across the realms. A fair proportion of these eyes exist naturally, but the majority of these eyes were carved by the [Sarvaran](cultures/morellic/sarvaran.md) and [Stonechild](cultures/morellic/stonechild.md) minikin, after it was discovered they could be created manually.
@@ -59,7 +59,7 @@ The petrified child detects evil through 'eyes' scattered across the realms. A f
 The formation of these eyes is greatly helped by Alucinarium content in the rock, as this often causes the surface to shift into the shape of a face. This is often hastened by the process of erosion.
 
 ### Watchstones
-Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/watchstones.md).'
+Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/symbols/watchstones.md).'
 
 A lot of these rocks would be ineffective as they would be hidden away in a pocket, unable to see out of the fabric. So, the morellic minikin would sometimes cut holes in their pockets so that the eyes could see out.
 

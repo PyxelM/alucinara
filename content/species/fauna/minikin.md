@@ -18,7 +18,7 @@ Many red squirrels that had found themselves in the [2nd Realm](locations/2nd-re
 ## Morphology
 Minikin measure at a height of 25-30cm tall. The basal minikin grew to develop hairlessness and bipedalism, with strong, long digitgrade feet specialised for jumping from branch to branch.
 
-They also grew to look a lot more anthropoid, as the same alucinara energy that had augmented their evolution was the same energy that had developed muscle memory from use in the souls of late humans that had gone extinct soon after the supernova.
+They also grew to look a lot more anthropoid, as the same Alucinara that had augmented their evolution was the same energy that had developed muscle memory from use in the souls of late humans that had gone extinct soon after the supernova.
 
 ### Morellic Race
 
@@ -31,7 +31,7 @@ Hairlessness and / or fur distribution can vary from race to race depending on t
 For example, the equatorial Morello-Oyhoyunic minikin are almost completely hairless apart from their heads, genitals, and tails. In contrast, the southern alpine Snissojian minikin are hairy all over apart from their faces and palms, covered with fluffy white fur to adapt to their cold, snowy environment.
 
 ### Eyes
-Minikin skin colour can vary from dark to light, often taking on a semi-dark beige colour. Eye colour can vary from brown, to green, or to blue. In cases of prolongued [alucinarium](phenomena/alucinara.md) exposure, the irises would take on a light pink or purple colour.
+Minikin skin colour can vary from dark to light, often taking on a semi-dark beige colour. Eye colour can vary from brown, to green, or to blue. In cases of prolongued [alucinarium](phenomena/Alucinara.md) exposure, the irises would take on a light pink or purple colour.
 
 ## Diet
 As omnivores, minikin often tend to eat;
