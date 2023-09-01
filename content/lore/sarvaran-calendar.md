@@ -12,7 +12,7 @@ The Sarvaran Calendar is a lunar calendar, following the cycle of the main moon 
 The Sarvaran calendar has 306 days made of 8 months, each of 36 days. As the seasons repeat every 252 days, a 9th month is inserted every two years to align the year with the seasons, with winter and Minikin hibernation ending on the first day of every other year. The months are named after the same namesakes as the weekdays, but the 9th month is known simply as the 'Extra Month.'
 ### Weeks
 The Sarvaran calendar has 8 days of the week, most named from the [Heirarchy of Beings](lore/heirarchy-of-beings.md), which are;
-1. Day One; the day of the Darkness, Darksday,
+1. Day One; the day of The Darkness, Darksday,
 2. Day Two; the day of the Planets, Earthsday,
 3. Day Three; the day of the Mountains, Hillsday,
 4. Day Four; the day of the Oceans, Seasday,
