@@ -25,7 +25,7 @@ The Darkness founded organisations, guilds, and empires that fed on the newly di
 ### A Dark Mistake
 However, it eventually grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone.
 
-The First Judge was furious when it had discovered The Darkness, disgusted and mortified that matter could behave and take reality for its own means for the horrifying purpose of feeding upon the static beauty that the judge had created.
+The First Judge was furious when it had discovered The Darkness, disgusted and mortified that matter could behave and take reality for its own means for the horrifying purpose of feeding upon and destroying the beauty of the created universe.
 ### The Shattering
 The Darkness, in its overwhelmingly massive quantity, went to subsume the First Judge. The Judge exerted the forces of creation a thousand times over to push them away, but it was of no use against the greedy, ever hungry, mass.
 
