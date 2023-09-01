@@ -31,9 +31,14 @@ The Darkness, in its overwhelmingly massive quantity, went to subsume the First 
 
 Greatly weakened, The Judge's hand slipped as it continued to push away The Darkness, and in a moment the universe swiftly broke into thousands upon thousands of shards, each one now a realm, each with it's own perverse spot in the order of the shattered universe.
 ## Aftermath
-Terrified, the Second Judge promptly turned itself into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) that would affect the new realms, in a last-resort attempt to save its companion. But it was too late; this only served to impose restrictions upon the darkness and cease the Second Judge's existence as well.
+### The Laws of Nature
+Terrified, the Second Judge promptly turned itself into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md). The laws served to impose restrictions on the Darkness, only affecting the realms which were now full of the energy and matter created from the Shattering.
 
-And in the First Judge's last moments, it turned itself [Alucinara energy](phenomena/alucinara.md), an form of energy that would allow the First Laws to live on *within* the Second Laws, letting both of their legacies to continue in tandem despite the annihilation of all things good.
+And in the First Judge's last moments, it turned itself into [Alucinara energy](phenomena/alucinara.md), a form of energy that allowed the First Laws to exist in place of the Second. This meant that the beauty the judge had created could still exist, and the Darkness could also live on.
+
+As the void-space had been emptied by the Darkness' destruction, life had no chance of thriving there. The only way that it could live on was by feeding upon the only beauty left, beauty contained within the realms.
+
+The Second Laws, in tandem with the First, turned the Darkness from a devouring mass of evil into the magical souls that inhabit the quaint, sickly living beings that eat of the earth.
 ### The Darkness
 The Second Laws of Nature resolved to banish The Darkness to the lowliest places in every realm left, tarpits and black holes, and to the emptied void-space - the border between every realm, which was later termed by the minikin as the [Pond](locations/pond.md).
 
