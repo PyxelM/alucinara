@@ -3,6 +3,7 @@ title: "Symbols"
 tags:
 - phenomena
 - alucinara
+- featured
 ---
 ## Overview
 Symbols are designs etched, carved, or traced into alucinara-rich objects, which are used to interface with higher-order beings or to locally enforce specific effects of the [First Laws](phenomena/natural-laws/first-laws.md).

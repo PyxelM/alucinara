@@ -3,6 +3,7 @@ title: "History of the Morellic Minikin"
 tags:
 - morellic
 - lore
+- featured
 ---
 ## Overview
 This note goes over the history of the [Morellic Minikin](groups/morellic-minikin.md). It explains their divergence from the [Móra riSéwi](groups/mora-risewi-tribe.md), their hybridisation with the [Western Kaśtaira](groups/western-kastaira-tribe.md), and the founding of [Sarvara](locations/sarvara.md).

@@ -3,6 +3,7 @@ title: "The Creation Story"
 tags:
 - mythology
 - lore
+- featured
 ---
 ## Overview
 In this note, I will describe the canonical creation story. In-world, it is believed by the [Morellic Minikin](groups/morellic-minikin.md), but was diverged from or was abandoned by many other groups who believe other stories. It features the tale behind the First and Second Judges, and eventually the emergence of Life.

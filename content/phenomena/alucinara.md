@@ -2,7 +2,8 @@
 title: "Alucinara"
 tags:
 - phenomena
-- Alucinara
+- alucinara
+- featured
 ---
 
 ## Overview
