@@ -6,13 +6,13 @@ Baby Meadow is a book that explores anthropology, fantasy ethics, and the right 
 - another a culture-shocked but ambitious [Demi-Slug](species/demi-slug.md) vagabond called [Blueberry](characters/blueberry.md),
 - and the other a young, cautious Minikin stateswoman called [Rivercap](characters/Rivercap.md), the daughter of a cultish murderer.
 These characters are all with differing opinions, attributes, and motives for their actions.
-
+## Featured Notes
+Check out the [Featured Notes](tags/featured)!
 ## Note from the author:
 I conceived the book in November 2021 during a creative writing mock-test. Since, I have been continually developing it and exploring new ideas for its direction.
 
 You can find the artwork I have made for Baby Meadow at my [Deviant Art](https://www.deviantart.com/pyxelmusic), and the music I have made for it at my [Bandcamp](https://pyxelm.bandcamp.com)
 ## Featured Tags
-- ### [Featured Articles](tags/featured)
 - [History](tags/lore)
 - [Geography](tags/geography)
 - [Cultures](tags/culture)
