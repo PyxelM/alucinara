@@ -18,13 +18,15 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Alucinara is a book that explores anthropology, fantasy ethics, and the right to ‘save’ the world.
+  Baby Meadow is a book that explores anthropology, fantasy ethics, and the right to ‘save’ the world.
 page_title:
-  "Alucinara"
+  "🐌 Baby Meadow"
 links:
+  - link_name: Website
+    link: https://www.pyxelm.xyz/
   - link_name: Youtube
     link: https://www.youtube.com/channel/UC-83oShBjl-0oR57dzvza2g
   - link_name: Bandcamp
     link: https://pyxelm.bandcamp.com
   - link_name: GitHub
-    link: https://github.com/pyxelm
+    link: https://github.com/pyxelm/alucinara
