@@ -6,7 +6,7 @@ tags:
 - featured
 ---
 ## Overview
-Symbols are designs etched, carved, or traced into alucinara-rich objects, which are used to interface with higher-order beings or to locally enforce specific effects of the [First Laws](phenomena/natural-laws/first-laws.md).
+Symbols are designs etched, carved, or traced into alucinara-rich surfaces. They are used to interface with higher-order beings, or as a method of casting [enchantments](phenomena/enchantment.md).
 ## Method
 Symbols interface with Higher-Order beings and the First Laws due to the nature of the universe. The universe, having been [created](lore/creation-story.md) as an art piece by the Judges, is heavily connected design and order, meaning that any artwork can spawn strange effects.
 
@@ -16,13 +16,15 @@ Some groups, such as the [Morellic](groups/morellic-minikin.md) minikin, make us
 
 Sometimes, some species may add Symbols to their skin using tattoos or controlled scarring. This is done with caution however, as permanent symbols on a living being can be drastically detrimental if the symbol is botched. This is because living beings are rich in [Alucinara](phenomena/alucinara.md), and the effect of the Symbol would not cool down and end.
 ### Charms and Curses
-The specific design used can change the effect of the Symbol. For example, a raincloud etched nearby a farm can lead to rain, a pair of eyes etched into stone[^1] can allow the [Petrified Child](deities/the-petrified-child.md) to see through them, a cloud etched into an object can allow it to levitate, and a skull etched into a tree or boulder can lead to the next person to pass under the object to be crushed.
+The specific design used can change the effect of the Symbol, allowing for the ability to enchant items and beings with certain [charms or curses](phenomena/enchantment.md). Enchantment isn't exclusive to Symbol use, but Symbols are the only way to cast a great amount of them.
+
+For example, the charm of levitation can be cast by tracing the shape of a floating object, such as a bird or cloud, into an object, where it will begin to float. The curse of misfortune can be cast by tracing a skull into a boulder or rock, where it will fall over on top of the next person who walks beneath it.
 ## Restrictions
 Symbols are restricted by two factors:
-- The durability of the object they are etched into, and
+- The durability of the object they are traced into, and
 - The amount of [Alucinarium](phenomena/alucinara.md) fuelling the Symbol.
 
-These two factors decide wether or not the symbol breaks apart after continued use and repeated etching, and how long the effect last for.
+These two factors decide wether or not the symbol breaks apart after continued use and repeated tracing, and how long the effect last for.
 
 As Alucinarium is used up when it is converted into energy, Symbols don't last forever, they last until their Alucinara reserve is refilled. Settlement Councils generally maintain the reserves of charmed objects when they are integral to the infrastructure of a given community or civilisation.
 

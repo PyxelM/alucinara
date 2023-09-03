@@ -2,7 +2,7 @@
 title: "Morellic Minikin"
 tags:
 - morellic
-- ethnicity
+- ethnicities
 ---
 %%
 What are the significant features which make this relevant to the plot?

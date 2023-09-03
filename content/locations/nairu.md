@@ -2,7 +2,7 @@
 title: "Naíru"
 tags:
 - 2nd-realm
-- cites
+- cities
 - oyholiru
 ---
 ## Overview

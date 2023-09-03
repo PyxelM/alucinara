@@ -26,4 +26,5 @@ They would collect taxes for the queen, taking a cut for themselves according to
 ### The Oath
 Sarvaran Oligarchs would take an oath by shaving their head perpetually, and casting the city eblem into their forehead. This showed a great level of commitment, that they would forsake their hair for their city. Hair, in [Morellic](groups/morellic-minikin.md) culture, held a great amount of importance. It, like the tail, showed the retention of the 'divine' traits they shared with their worshipped ancestors, the squirrels.
 ## See Also:
+- [The Morellic Minikin](groups/morellic-minikin.md)
 - [The Sarvaran Calendar](lore/sarvaran-calendar.md)

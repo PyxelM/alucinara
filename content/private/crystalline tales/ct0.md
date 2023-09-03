@@ -13,7 +13,7 @@ Demi-Slugs are largely herbivorous, and eat primarily leaves, berries, nuts, and
 the demi slugs are not as zealous for the petrified child compared to the minikin, but will create watchstones. they don't believe in the petrified child, but have their own analogous deity which takes advantage of the same natural phenomena as the petrified child and watchstones.
 
 ## Clothing
-I would like demislugs to have pointy potato-sack-like clothes made out of silk and leaves, they will also have an armour plate on their chests to cover their pneumostomes, usually made out of ivory, bone, or other hard materials. they will also have a symbol etched into them, perhaps the face of a watchstone or a symbol made to bless their health, luck, or harvest.
+I would like demislugs to have pointy potato-sack-like clothes made out of silk and leaves, they will also have an armour plate on their chests to cover their pneumostomes, usually made out of ivory, bone, or other hard materials. they will also have a symbol traced into them, perhaps the face of a watchstone or a symbol made to bless their health, luck, or harvest.
 
 They tan leaves for use in clothing, taking the most hydrated leaves from trees for immediate use in tanneries, and eventually in clothing.
 
