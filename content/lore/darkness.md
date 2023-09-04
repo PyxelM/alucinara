@@ -1,7 +1,8 @@
 ---
-title: "title"
+title: Darkness
 tags:
-- meta
+  - meta
+  - Beanis
 ---
 %%
 What are the significant features which make this relevant to the plot?
