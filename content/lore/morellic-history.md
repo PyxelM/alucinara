@@ -1,9 +1,9 @@
 ---
-title: "History of the Morellic Minikin"
+title: History of the Morellic Minikin
 tags:
-- morellic
-- lore
-- featured
+  - morellic
+  - lore
+  - featured
 ---
 ## Overview
 This note goes over the history of the [Morellic Minikin](groups/morellic-minikin.md). It explains their divergence from the [Móra riSéwi](groups/mora-risewi-tribe.md), their hybridisation with the [Western Kaśtaira](groups/western-kastaira-tribe.md), and the founding of [Sarvara](locations/sarvara.md).
@@ -64,7 +64,7 @@ The Móra riSéwi leader opened her mouth dryly to convey an ancient poem about 
 
 Upon the first word of the poem, Moonwind hacked Grasscap to pieces in her den. A ghastly mixture of red mist, blood, and black fumes filled the air, with the deathly sound of pitch shreiking out as her soul left her body.
 ### The Petrified Child Saw
-As with many other charming methods, one mechanism employed by the Móra riSéwi minikin was the use of [watchstones](phenomena/symbols/watchstones.md). Thus, the petrified child saw the whole thing.
+As with many other charming methods, one mechanism employed by the Móra riSéwi minikin was the use of [watchstones](phenomena/watchstones.md). Thus, the petrified child saw the whole thing.
 
 The Oyhólıru were orders of magnitude less spiritual, or at least less spiritual in the more correct manner, as the Móra riSéwi's spiritual practices and philosophies aligned greatly with the phenomena and truths of the universe.
 
@@ -72,9 +72,9 @@ This meant that not only did the Oyhólıru not have the experience to treat rea
 ### Moonwind Defeated by the Petrified Child
 The Petrified Child, having been notified of the evil act by the watchstones peppered about the trees and dens of the Móra riSéwi, immediately made a beeline for the city.
 
-Reaching the royal tree, matching it in size in comparison to the miniscule minikin, it stared on wonderously at Moonwind. Moonwind was terrified of it, and pleaded with it not to hurt her or her kingdom, that they had experienced enough tragedy yet, but it was of no use, and the petrified child blinked at her with the sound of crackling rocks and spoke, in an angelic somber voice, 'I don't like you.'
+Reaching the royal tree, matching it in size in comparison to the miniscule minikin, it stared on wonderously at Moonwind. Moonwind was terrified of it, and pleaded with it not to hurt her or her kingdom, that they had experienced enough tragedy yet, but it was of no use, and the petrified child blinked at her with the sound of crackling rocks. 'I don't like you.'
 
-Moonwind's face turned from a diplomatic smile to a fearful frown, and in one moment she called for her servants and guards to attack the Petrified Child, to make sure it wouldn't kill her, but the child was made of stone. Any weaponry available to the Naíruans was futile, and their spears cumpled and bounced off of the child's surface.
+Moonwind's face turned from a diplomatic smile to a fearful contortion, and in one moment she called for her servants and guards to attack the Petrified Child, to make sure it wouldn't kill her, but the child was made of stone. Any weaponry available to the Naíruans was futile, and their spears cumpled and bounced off of the child's surface.
 
 The last thing that Moonwind ever saw and heard was the sorrowful face of the god, crying and screeching with echoes bouncing off of mountains a continent away. And then she was gone, along with her guards, her servants, her kingdom, her sister, and her adversary Grasscap, only in that royal tree was left the Petrified Child.
 ### The Naíruan Baby Meadow

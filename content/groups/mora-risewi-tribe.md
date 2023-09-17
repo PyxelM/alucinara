@@ -1,8 +1,8 @@
 ---
-title: "The Móra riSéwi Tribe"
+title: The Móra riSéwi Tribe
 tags:
-- tribes
-- morellic
+  - tribes
+  - morellic
 ---
 ## Overview
 The Móra riSéwi minikin ([Old Morellic](languages/old-morellic.md): 'Children of Mora,' Móra riSéwi < `*moza li-sevi`) were a nomadic tribe from around the time of [Naíru](locations/nairu.md).

@@ -1,7 +1,7 @@
 ---
-title: "Crystalline Tales Episode 0"
+title: Crystalline Tales Episode 0
 tags:
-- ct
+  - ct
 ---
 # Demi-Slugs
 I want demislugs to be small, stocky, creatures. They will be mollusks descended from earth slugs, and live in the 1st realm.

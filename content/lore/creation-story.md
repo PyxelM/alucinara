@@ -1,9 +1,9 @@
 ---
-title: "The Creation Story"
+title: The Creation Story
 tags:
-- mythology
-- lore
-- featured
+  - mythology
+  - lore
+  - featured
 ---
 ## Overview
 In this note, I will describe the canonical creation story. In-world, it is believed by the [Morellic Minikin](groups/morellic-minikin.md), but was diverged from or was abandoned by many other groups who believe other stories. It features the tale behind the First and Second Judges, and eventually the emergence of Life.
@@ -40,7 +40,7 @@ As the void-space had been emptied by the Darkness' destruction, life had no cha
 
 The Second Laws, in tandem with the First, turned the Darkness from a devouring mass of evil into the magical souls that inhabit the quaint, sickly living beings that eat leaves, soil, and flesh.
 ### The Pond
-The Second Laws of Nature resolved to banish the Darkness to the lowliest places in every realm left, tarpits and black holes,  and to the border between every realm, which was later termed by the minikin as the [Pond](locations/pond.md).
+The Second Laws of Nature resolved to banish the Darkness to the lowliest places in every realm left, tar-pits and black holes,  and to the border between every realm, which was later termed by the Minikin as the [Pond](locations/pond.md).
 
 The Pond was named for its appearance, being an all-encompassing inky mass of liquid tar. It took up the infinite void-space in between and surrounding every realm, the only place left that Darkness could live unaided by [Alucinara](phenomena/alucinara.md).
 
@@ -59,13 +59,11 @@ Without all three ingredients, the Darkness is simply unmoving, unthinking, and 
 
 When darkness doesn't return to the Pond, this is because the Darkness is simply inhabiting a body. For example, tar pits can exist on planetary bodies, as the Darkness is inhabiting the applicable planet, and organic compounds can exist in living beings, as the Darkness is inhabiting a living being.
 ### The Realms
-Following the shattering, each realm was ordered according to stability. The realm known as the 0th was fully stable, positioned at the centre of the Pond. The next realms, the co-essent[^1] 1st and -1st, were placed on opposite sides of the 0th and, going outward, each realm following the last was positioned in a clock-wise spiral shape around the centre.
-
-Going further from the centre, each realm would become more susceptible to the influence of [Alucinara](phenomena/alucinara.md). For example, the 
-
-%%In the universe's final form, alucinarium content would increase as one got further from the 0th realm, as these would be the most unstable and more susceptible to the effects of the [First Laws](phenomena/natural-laws/first-laws.md).
-
-One could shift from realm to realm by creating [Alucinara gateways](phenomena/alucinara-gateway), the process getting more Alucinara-consumptive and difficult as one progressed further from the centre. It is practically impossible to surpass the 3rd and -3rd realms with this method, despite the amount of realms being practically infinite.%%
+Following the shattering, each realm was ordered according to stability. The realm known as the 0th was fully stable, positioned at the centre of the Pond. The next realms, the co-essent[^1] 1st and -1st, were placed on opposite sides of the 0th and, going outward, each realm following the last was positioned in a clock-wise spiral shape around the centre. There are practically infinite realms, with the only limit on their accessibility being their ease of access.
+#### Realm Accessibility
+Going further from the centre, each realm would become more susceptible to the influence of [Alucinara](phenomena/alucinara.md). For example, the 0th realm features virtually no Alucinara energy except for in the cores of the oldest stars. Another realm, such as the 2nd, has a lot more, and spell-casting is orders of magnitude more common. The -3rd is abundant in Alucinara energy, dangerously so.
+#### Alucinara Gateways
+The realms become more and more difficult to enter with an [Alucinara Gateway](phenomena/alucinara-gateway) going outward from the centre of the Pond. This is due to their vast distance, finding paths through the pond becomes more and more consumptive of energy, effort, and concentration with the more realms one has to pass.
 ## Hierarchy of Beings
 [See Main Article Here](lore/heirarchy-of-beings.md)
 ## Species of the Realms

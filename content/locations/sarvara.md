@@ -1,9 +1,9 @@
 ---
-title: "Sarvara"
+title: Sarvara
 tags:
-- 2nd-realm
-- cities
-- morellic
+  - 2nd-realm
+  - cities
+  - morellic
 ---
 ## Overview
 Sarvara ([Sarvaran](languages/sarvaran.md): 'Our Valley City,' Sarvárą < `*ësa-ëlbhu-aazan`) was a settlement founded by the [Morellic](groups/morellic-minikin.md) minikin. It was built on the [Abhmýra](locations/abhmyra-river) river, experiencing seasonal floods.

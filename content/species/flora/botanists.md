@@ -1,5 +1,5 @@
 ---
-title: "Botanists"
+title: Botanists
 tags:
 - species
 - fauna

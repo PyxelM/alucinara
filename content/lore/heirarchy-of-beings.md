@@ -1,8 +1,8 @@
 ---
-title: "Heirarchy of Beings"
+title: Heirarchy of Beings
 tags:
-- mythology
-- lore
+  - mythology
+  - lore
 ---
 ## Overview
 In this note, I will be describing the cosmological heirarchy of beings, according to the creation story linked below. It goes, in order from highest to lowest, through the more powerful and important beings in reality.
@@ -29,4 +29,4 @@ Humans are the most common creature in the 0th realm, [Demi-Slugs](species/fauna
 ### Nonliving Phenomena
 Nonliving phenomena are the result of Alucinara interacting with matter without the presence of a soul. When Alucinara is used in a soul, the patterns that come with being an animal are drilled into the energy like muscle memory, leading to the [Pseudo Fauna Principle](phenomena/pseudo-fauna-principle).
 
-When Alucinara interacts with nonliving matter with the principle in effect, it will cause the matter to act as if it were an animal, attempting to fight, eat, and drink, all with no benefit. Some nonliving phenomena are commonplace, such as [cloud gnats](phenomena/cloud-gnats.md), [watchstones](phenomena/symbols/watchstones.md), or [sky islands](phenomena/sky-islands.md).
+When Alucinara interacts with nonliving matter with the principle in effect, it will cause the matter to act as if it were an animal, attempting to fight, eat, and drink, all with no benefit. Some nonliving phenomena are commonplace, such as [cloud gnats](phenomena/cloud-gnats.md), [watchstones](phenomena/watchstones.md), or [sky islands](phenomena/sky-islands.md).

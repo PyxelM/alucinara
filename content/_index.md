@@ -1,5 +1,5 @@
 ---
-title: "Baby Meadow"
+title: Baby Meadow
 ---
 Baby Meadow is a book that explores anthropology, fantasy ethics, and the right to 'save' the world through a cast of three characters;
 - one a immature and naive [Minikin](species/fauna/minikin.md) bandit called [Toadstool](characters/toadstool.md),

@@ -1,5 +1,5 @@
 ---
-title: "Lang"
+title: Lang
 tags:
 - languages
 ---

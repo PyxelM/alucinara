@@ -1,7 +1,7 @@
 ---
-title: "The Central Continent"
+title: The Central Continent
 tags:
-- 2nd-realm
+  - 2nd-realm
 ---
 %%
 What are the significant features which make this relevant to the plot?

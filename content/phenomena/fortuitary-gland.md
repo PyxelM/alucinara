@@ -1,8 +1,8 @@
 ---
-title: "Fortuitary Gland"
+title: Fortuitary Gland
 tags:
-- alucinara
-- featured
+  - alucinara
+  - featured
 ---
 ## Overview
 Fortuitary glands are glands dedicated to the secretion of [Alucinarium](phenomena/alucinara.md), and are integral to the use of Alucinara in biological processes or tools.

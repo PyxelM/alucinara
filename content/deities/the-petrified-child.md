@@ -1,10 +1,10 @@
 ---
-title: "The Petrified Child"
+title: The Petrified Child
 tags:
-- supernatural-being
-- deity
-- petrified-child
-- featured
+  - supernatural-being
+  - deity
+  - petrified-child
+  - featured
 ---
 ## Overview
 The Petrified Child ([Sarvaran](languages/sarvaran.md): Oį́n aStéyą < `*uinh sëti-eyan`) is a supernatural being or deity concerned with the regulation and destruction of evil. It was formed from the mountains, owing to the fact that it is made of rock, and has the appearance of an infant. In addition, it is capable of travelling across the realms at its own discretion, and moves by quickly floating above the canopy or surface of the ground.
@@ -59,7 +59,7 @@ The petrified child detects evil through 'eyes' scattered across the realms. A f
 The formation of these eyes is greatly helped by Alucinarium content in the rock, as this often causes the surface to shift into the shape of a face. This is often hastened by the process of erosion.
 
 ### Watchstones
-Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/symbols/watchstones.md).'
+Once the morellic minikin had discovered this, they began to seek out rocks and carve faces into them, commonly as a good luck charm. These came to be known as '[Watchstones](phenomena/watchstones.md).'
 
 A lot of these rocks would be ineffective as they would be hidden away in a pocket, unable to see out of the fabric. So, the morellic minikin would sometimes cut holes in their pockets so that the eyes could see out.
 

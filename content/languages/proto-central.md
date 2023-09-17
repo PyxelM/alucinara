@@ -1,8 +1,8 @@
 ---
-title: "Proto-Central"
+title: Proto-Central
 tags:
-- languages
-- morellic
+  - languages
+  - morellic
 ---
 %%
 What are the significant features which make this relevant to the plot?

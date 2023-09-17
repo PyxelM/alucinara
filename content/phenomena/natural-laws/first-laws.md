@@ -1,8 +1,8 @@
 ---
-title: "The First Laws of Nature"
+title: The First Laws of Nature
 tags:
-- phenomena
-- laws-of-nature
+  - phenomena
+  - laws-of-nature
 ---
 %%
 What are the significant features which make this relevant to the plot?

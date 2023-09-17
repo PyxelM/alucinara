@@ -1,7 +1,7 @@
 ---
-title: "Crystalline Tales Episode 3"
+title: Crystalline Tales Episode 3
 tags:
-- 
+  - 
 ---
 %%
 What will we be doing in this note?

@@ -1,5 +1,5 @@
 ---
-title: "Demi-Slugs"
+title: Demi-Slugs
 tags:
 - species
 - fauna

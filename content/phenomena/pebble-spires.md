@@ -1,8 +1,8 @@
 ---
-title: "Pebble Spires"
+title: Pebble Spires
 tags:
-- phenomena
-- alucinara
+  - phenomena
+  - alucinara
 ---
 ## Overview
 Pebble Spires are a phenomenon caused when rocks interact with [Alucinara](phenomena/alucinara.md). They are largely benign, but can pose danger when toppled. They are relatively rare, but can appear on riverbanks and shores in areas of high alucinarium concentration.

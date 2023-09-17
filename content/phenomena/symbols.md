@@ -1,9 +1,9 @@
 ---
-title: "Symbols"
+title: Symbols
 tags:
-- phenomena
-- alucinara
-- featured
+  - phenomena
+  - alucinara
+  - featured
 ---
 ## Overview
 Symbols are designs etched, carved, or traced into alucinara-rich surfaces. They are used to interface with higher-order beings, or as a method of casting [enchantments](phenomena/enchantment.md).

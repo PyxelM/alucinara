@@ -1,5 +1,5 @@
 ---
-title: "Ikplik"
+title: Ikplik
 tags:
 - species
 - fauna

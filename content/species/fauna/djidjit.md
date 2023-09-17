@@ -1,5 +1,5 @@
 ---
-title: "Djidjit"
+title: Djidjit
 tags:
 - species
 - fauna

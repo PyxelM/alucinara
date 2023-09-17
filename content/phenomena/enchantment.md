@@ -1,9 +1,9 @@
 ---
-title: "Enchantment"
+title: Enchantment
 tags:
-- enchantment
-- phenomena
-- featured
+  - enchantment
+  - phenomena
+  - featured
 ---
 ## Overview
 Enchantment is the term given to the presence of the [First Laws](phenomena/natural-laws/first-laws.md) in a being or item's behaviour. This means that if a being or object is enchanted, it will act strangely, in predictable or unpredictable ways depending on the specific enchantment.

@@ -1,5 +1,5 @@
 ---
-title: "Crystalline Tales Episode "
+title: Crystalline Tales Episode 
 tags:
 - ct
 ---

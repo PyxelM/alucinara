@@ -1,10 +1,10 @@
 ---
-title: "Watchstones"
+title: Watchstones
 tags:
-- petrified-child
-- pseudo-fauna
-- symbol
-- featured
+  - petrified-child
+  - pseudo-fauna
+  - symbol
+  - featured
 ---
 
 ## Overview

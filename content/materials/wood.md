@@ -1,7 +1,7 @@
 ---
-title: "title"
+title: title
 tags:
-- 
+  - 
 ---
 %%
 What is it?

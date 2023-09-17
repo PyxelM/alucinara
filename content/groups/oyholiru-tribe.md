@@ -1,8 +1,8 @@
 ---
-title: "title"
+title: title
 tags:
-- tribes
-- oyholiru
+  - tribes
+  - oyholiru
 ---
 ## The Oyhólıru Minikin
 The Oyhólıru ([Proto-Naíruan](languages/proto-nairuan): 'People,' `*o-yhólıru`) minikin were a tribe native to the [Naíruan Peninsula](locations/nairuan-peninsula.md) and surrounding area, and were well known for their societal and industrial efficiency.

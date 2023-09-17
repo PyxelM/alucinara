@@ -1,8 +1,8 @@
 ---
-title: "The History of the Móra riSéwi Minikin"
+title: The History of the Móra riSéwi Minikin
 tags:
-- morellic
-- lore
+  - morellic
+  - lore
 ---
 %%
 What are the significant features which make this relevant to the plot?

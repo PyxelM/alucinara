@@ -1,9 +1,9 @@
 ---
-title: "Phantasmarrhoea"
+title: Phantasmarrhoea
 tags:
-- illnesses
-- phenomena
-- alucinara
+  - illnesses
+  - phenomena
+  - alucinara
 ---
 %%
 What are the significant features which make this relevant to the plot?

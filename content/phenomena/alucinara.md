@@ -1,9 +1,9 @@
 ---
-title: "Alucinara"
+title: Alucinara
 tags:
-- phenomena
-- alucinara
-- featured
+  - phenomena
+  - alucinara
+  - featured
 ---
 
 ## Overview

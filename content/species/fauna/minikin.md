@@ -1,5 +1,5 @@
 ---
-title: "Minikin"
+title: Minikin
 tags:
 - species
 - fauna

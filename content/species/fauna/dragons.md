@@ -1,5 +1,5 @@
 ---
-title: "Dragons"
+title: Dragons
 tags:
 - species
 - fauna

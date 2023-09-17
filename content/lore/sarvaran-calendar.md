@@ -1,8 +1,8 @@
 ---
-title: "The Sarvaran Calendar"
+title: The Sarvaran Calendar
 tags:
-- morellic
-- lore
+  - morellic
+  - lore
 ---
 ## Overview
 The Sarvaran Calendar is a calendar created by the [Sarvaran](locations/sarvara.md) minikin. Year 0 took place on the founding of the city, years before the founding are referred to with the acronym 'BS,' meaning 'Before Sarvara.' Years after the founding are referred to with 'AS,' 'After Sarvara.' The Acronym can be prefixed with 'Cs,' 'My,' and 'By' for 'Centuries before / after,' 'Million Years before / after,' Billion Years before / after,' and so on.

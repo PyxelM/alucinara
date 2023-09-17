@@ -1,8 +1,8 @@
 ---
-title: "Morellic Minikin"
+title: Morellic Minikin
 tags:
-- morellic
-- ethnicities
+  - morellic
+  - ethnicities
 ---
 %%
 What are the significant features which make this relevant to the plot?
