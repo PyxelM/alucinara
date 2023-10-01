@@ -6,7 +6,7 @@ tags:
   - flora
 ---
 ## Overview
-Freakleaf is the name given to a plant native to the [1st Realm](locations/1st-realm.md). It is nonpoisonous and has yellow leaves which are fermented, dried, ground into a power, and dissolved in water. 
+Freakleaf is the name given to a plant native to the [1st Realm](locations/1st-realm.md). It is nonpoisonous and has yellow leaves which are fermented, dried, ground into a powder, and dissolved in water. 
 
 Following the fermentation process, the leaves become poisonous to many animals, but are consumed by many [Minikin](species/fauna/minikin.md) populations in a tea socially or recreationally for their slight intoxicative effects.
 
