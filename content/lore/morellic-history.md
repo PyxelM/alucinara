@@ -45,9 +45,9 @@ Grasscap proved herself bedridden, laying in a hospital den indefinitely, but sh
 
 A lot of the group joined the effort to bring a halt to the plague, creating potions, blessing certain mixtures, and creating face-masks to block the black fumes from getting from and to others.
 ### Death of Many
-Despite the great effort of a lot of minikin, the first people began to die. Mostly poor Naíruans, but eventually, the nobles and royalty.
+Despite the great effort of a lot of minikin, the first people began to die. Mostly poor Naíruans, but eventually, the nobles and royalty. This was the beginning of the [Naíruan Extinction Event](extinction-event/nairuan-ee.md).
 
-Cloudwind, twin sister of the co-regnant Moonwind, was one of those to die. The two deformed twins ruled the city of Naíru at the time, and shared one [soul](phenomena/pitch.md) enough for two people due to their twinhood.
+[Mooncloud](characters/mooncloud.md), twin sister of the co-regnant [Moonwind](characters/moonwind.md), was one of those to die. The two deformed twins ruled the city of Naíru at the time, and shared one [soul](phenomena/pitch.md) enough for two people due to their twinhood.
 
 This meant that Moonwind took a massive blow upon the death of her sister. Not only was her city crumbling, but her sister was also gone, and she was being filled to overflowing with [pitch]().
 
