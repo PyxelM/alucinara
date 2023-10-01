@@ -1,14 +1,10 @@
 ---
 title: Freakleaf
 tags:
-  - meta
+  - tea
+  - intoxicant
+  - flora
 ---
-%%
-What are the significant features which make this relevant to the plot?
-What patterns are there when it comes to description and properties?
-What does it look like, what is its relevance, and what is it used for?
-%%
-
 ## Overview
 Freakleaf is the name given to a plant native to the [1st Realm](locations/1st-realm.md). It is nonpoisonous and has yellow leaves which are fermented, dried, ground into a power, and dissolved in water. 
 
