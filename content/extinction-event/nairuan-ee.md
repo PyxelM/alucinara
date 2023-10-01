@@ -4,14 +4,8 @@ tags:
   - extinction-event
   - oyholiru
 ---
-%%
-What are the significant features which make this relevant to the plot?
-What patterns are there when it comes to description and properties?
-What does it look like, what is its relevance, and what is it used for?
-%%
-
 ## Overview
-The Naíruan Extinction Event began to take place when the Móra riSéwi Minikin brought the [curse of hollowness](phenomena/curses/hollowness) to the city of Naíru. It was one of the first Extinction Events in recorded history, although there has been evidence of dozens more, as seen in sediment layers.
+The Naíruan Extinction Event began to take place when the [Móra riSéwi](groups/mora-risewi-tribe.md) Minikin brought the [curse of hollowness](phenomena/curses/hollowness) to the city of [Naíru](locations/nairu.md). It was one of the first [Extinction Events](extinction-event/extinction-event.md) in recorded history, although there has been evidence of dozens more, as seen in sediment layers.
 
 ## Deaths
 It resulted in the deaths of thousands of [minikin](species/fauna/minikin.md), mostly Oyhóliru minikin, Foreign slaves in Naíru, and Móra riSéwi minikin. Notable deaths are [Grasscap](characters/grasscap.md), the Móra riSéwi leader, and [Mooncloud](characters/mooncloud.md), the co-regnant ruler of Naíru with her sister.
