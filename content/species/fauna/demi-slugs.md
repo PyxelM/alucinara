@@ -12,7 +12,7 @@ What does it look like, what is its relevance, and what is it used for?
 %%
 
 ## Overview
-Demi-Slugs are a nomadic sapient gastropod species native to the 1st realm. They are herbivores, eating leaves and soft plant tissue. They live in societies built around the ceremonial and survivalistic foraging of plants and defense from other animals.
+Demi-Slugs (spp. *Arion homunculus*) are a nomadic sapient gastropod species native to the 1st realm. They are herbivores, eating leaves and soft plant tissue. They live in societies built around the ceremonial and survivalistic foraging of plants and defense from other animals.
 
 ## Adaptations
 After the Supernova of 80MB, a great portion of slugs were shifted into the 1st realm. These new inhabitants were almost immediately hunted by the native avian species, leading to the adaptation of;
