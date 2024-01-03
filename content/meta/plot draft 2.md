@@ -19,8 +19,8 @@ Toadstool is a Minikin. He became a bandit as he was maturing, which led to an i
 #### Motivations:
 - He wants to prove himself to his family that he's a good person and not a murderer,
 - and he wants to rid the world of evil so that what happened to his cousin can never happen again.
-### Fungula
-Fungula is a Minikin. She is the daughter of Kempton, who murdered his wife, her mother, and disappeared. Kempton led the settlement of Lichenia, which meant that the leadership position was thrust upon her. Due to this trauma, she constantly tries to protect her village.
+### Riverbelle
+Riverbelle is a Minikin. She is the daughter of Mossrot, who murdered his wife, her mother, and disappeared. Mossrot led the settlement of Lichenia, which meant that the leadership position was thrust upon her. Due to this trauma, she constantly tries to protect her village.
 #### Motivations:
 - She wants to protect her city at all costs,
 - And she wants to rid the world of evil so that what happened to her parents could never happen to another person.
@@ -33,15 +33,15 @@ It telepathically speaks in short sentences, always getting to the point, and of
 #### Motivations:
 - To rid the world of evil.
 - To be let out.
-### Kempton
-Kempton, Fungula's father, is a Minikin. He \[INSERT SOURCE OF HIS MOTIVATION HERE\] and became convinced he had to leave normal society and live without magic, removing his [fortuitary gland](phenomena/fortuitary-gland.md). Amassing a cult of followers, he fled with them to the 0th Realm and founded the city of Lichenia.
+### Mossrot
+Mossrot, Riverbelle's father, is a Minikin. He \[INSERT SOURCE OF HIS MOTIVATION HERE\] and became convinced he had to leave normal society and live without magic, removing his [fortuitary gland](phenomena/fortuitary-gland.md). Amassing a cult of followers, he fled with them to the 0th Realm and founded the city of Lichenia.
 
-When he became old, he became convinced that magic was the only way to ensure his continued existence. Not only is this true as magic extends one's lifetime, but he also felt as if Fungula was not ready to be a leader.
+When he became old, he became convinced that magic was the only way to ensure his continued existence. Not only is this true as magic extends one's lifetime, but he also felt as if Riverbelle was not ready to be a leader.
 
-He murdered his wife, Florifera, for her fortuitary gland - and underwent partial [phantasmarrhoea](phenomena/phantasmarrhoea.md) once he came in contact with its magic after being kept from it for so long. He was transported to the -3rd realm, the most unstable, and became dangerous and insane.
+He murdered his wife, Riverblossom, for her fortuitary gland - and underwent partial [phantasmarrhoea](phenomena/phantasmarrhoea.md) once he came in contact with its magic after being kept from it for so long. He was transported to the -3rd realm, the most unstable, and became dangerous and insane.
 #### Motivations:
 - To flee a world of magic
-- To live longer for Fungula, if not forever for his own gain.
+- To live longer for Riverbelle, if not forever for his own gain.
 ## Story
 ### Act 1
 #### Chapter 1
@@ -67,4 +67,4 @@ The conversation at dinner is ripe with tension, and culminates in an all out ar
 Returning to the preacher, Blueberry enquires about the city, and decides to flee there. The chapter ends with Toadstool watching Blueberry as he is given a map to Lichenia and walks through a gateway the preacher had made and enters the 0th Realm forest to find the city.
 
 #### Chapter 3
-Chapter 3 focusses on Fungula, and begins with her waking up to find Blueberry, grizzled and malnourished, a week after the last chapter. He had finally made his way to the city.
+Chapter 3 focusses on Riverbelle, and begins with her waking up to find Blueberry, grizzled and malnourished, a week after the last chapter. He had finally made his way to the city.
