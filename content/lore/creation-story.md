@@ -29,7 +29,7 @@ The First Judge was furious when it had discovered the Darkness, disgusted and m
 ### The Shattering of the Realms
 the Darkness, in its overwhelmingly massive quantity, went to subsume the First Judge. The Judge exerted the forces of creation a thousand times over to push them away, but it was of no use against the greedy, ever hungry, mass.
 
-Greatly weakened, The Judge's hand slipped as it continued to push away the Darkness, and in a moment the universe swiftly broke into thousands upon thousands of shards, each one now a realm, each with it's own perverse spot in the order of the shattered universe.
+Greatly weakened, The Judge was destroyed by the Darkness and finally consumed. This led to the 
 ## Aftermath
 ### The Laws of Nature
 Terrified, the Second Judge sacrificed itself, turning itself into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) in a vain attempt to save its companion. These new laws served to impose restrictions on the Darkness, and only affected the realms, the last places with energy and matter, all of which was left over from the Shattering.
@@ -68,10 +68,10 @@ The realms become more and more difficult to enter with an [Alucinara Gateway](p
 [See Main Article Here](lore/heirarchy-of-beings.md)
 ## Species of the Realms
 In every realm, many many species had developed. The species of the 0th realm had developed and arose with little to no knowledge or experience at all with Alucinara. That is, until a supernova had blasted the Earth with it.
-### The Supernova of 80 MyBS
-In 80 [MyBS](lore/sarvaran-calendar.md), the shockwave of a far-off supernova had finally reached the Earth. The star that had caused it was extremely old, having retained a lot of Alucinara from the energy left over from the shattering of the realms.
+### The Supernova
+In 80 [MyBS](lore/sarvaran-calendar.md), the shockwave created when the First Judge was destroyed had finally reached the Earth; the first supernova. As the Judge had created [alucinara](phenomena/alucinara.md) upon it's death, the supernova was rich in alucinara energy, resulting in the mass-frequencial shift of 1% of all matter affected.
 
-There was virtually no destruction on that day, but the main outcome was mass-frequencial shift of the animals and plants affected. In the blink of an eye, masses of creatures were dispersed into different realms. A lot of them went on to be hunted by the native predators, leading to the rapid need for evolution.
+There was virtually no destruction on that day, but the many living beings affected were now displaced. In the blink of an eye, masses of creatures were dispersed into the essent realms from the 0th. A lot of them went on to be hunted by the native predators, leading to the rapid need for evolution.
 ### New Species
 - [The Demi-Slugs](species/fauna/demi-slugs.md)
 - [The Minikin](species/fauna/minikin.md)
