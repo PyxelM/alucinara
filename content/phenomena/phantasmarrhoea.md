@@ -12,4 +12,4 @@ What does it look like, what is its relevance, and what is it used for?
 %%
 
 ## Overview
-Phantasmarrhoea is an illness characterised by the appearance of [Alucinarium](phenomena/alucinara.md) crystals on the skin, frequencial shift, violent behaviour, hallucinations, and delusions.
+Phantasmarrhoea is an illness characterised by the appearance of [Alucinarium](phenomena/alucinara.md) crystals on the skin, essential shift, violent behaviour, hallucinations, and delusions.

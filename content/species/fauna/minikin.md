@@ -59,7 +59,7 @@ When a minikin commits a crime, they are ostracised from the community and have 
 When a group is too large for one community, it inevitably collapses. A varying amount of groups form following the split, involving fighting, war, and ostracism. Large groups are often unstable, resulting in violent dictatorships in some communities as to reduce the risk of collapse.
 
 ## Psychology
-Minikin psychology was a complicated subject on account of the brain's interaction with the Fortuitary gland. The brain was accountable for conscious and subconscious processes, such as thought, decision-making, breathing, sleep, hibernation, including the control of all other biological systems. Likewise, the fortuitary gland was accountable for the subconscious process of alucinarium secretion and frequencial shift.
+Minikin psychology was a complicated subject on account of the brain's interaction with the Fortuitary gland. The brain was accountable for conscious and subconscious processes, such as thought, decision-making, breathing, sleep, hibernation, including the control of all other biological systems. Likewise, the fortuitary gland was accountable for the subconscious process of alucinarium secretion and essential shift.
 
 However, the line became blurred between each organ when one researched the subject of dreaming and sorcery. Dreams, while mostly innocuous to non-fortuitous beings, are greatly debated in the context of Alucinara, wether or not they originated from the brain or from a spiritual plane.
 

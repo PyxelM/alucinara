@@ -13,38 +13,69 @@ In this note, I will describe the canonical creation story. In-world, it is beli
 ## Events
 At first, there was an inky void stretching on for eternity. The void was wholly empty, except for two consciousnesses in the void, the First Judge and the Second. The judges were created by nothing and from nothing but a moral obligation to the universe, to create the laws of nature and form the infinity they call home into a masterpiece.
 
-The first judge helmed the operation, designing the [laws of nature](phenomena/natural-laws/first-laws.md) and giving the green light to the second judge's every suggestion. Together, they filled the void with light, designing planets, stars, elements, and designed each element their role in creation.
+The first judge helmed the operation, designing the [laws of nature](phenomena/natural-laws/first-laws.md) and giving the green light to the second judge's every suggestion. Together, they created the universe with the aim to make it beautiful with the help of four forces.
+### The Forces
+The Forces, later known as the Deities, were powerful consciousnesses that would follow the command of the Judges. Without physical form, these forces would show their influence in the forces of nature.
+
+- The first force, Matter, would give the universe shape, causing liquid to flow and dust to accumulate.
+- The second force, Gravity, would cause stars and planets to swirl and move, and attract object together.
+- The third force, Warmth, would temper the universe, firing it and freezing it according to what is beautiful.
+- The fourth force, Light, would illuminate and truly represent the material universe; it helped the judges to decide wether a choice was beautiful or not.
 
 Stars glowed bright and planets shifted in form at a steady pace, all the result of the laws of nature which served to create beauty, but a somber kind of beauty. The universe was beautiful, yes, but no living thing could call it home. The universe wasn't designed for inhabitants.
 ### Life
 However, the second judge began to deviate from the first's plan. Motivated by envy for control, it attempted to create something all of its own; *life*.
 
-Life was created in the form of the Darkness - a material made of thinking tar, a material hidden from light so that it would not be discovered. the Darkness immediately grew disproportionate in power, thriving under the First Laws which weren't built to restrict it.
-
-the Darkness founded organisations, guilds, and empires that fed on the newly diminishing universe, sucking energy out of the planets and stars it lived on and beside. It greedily ate constellations, galaxies, and superclusters, so that it could spread and continue to go undiscovered in the void.
+Life was created in the form of the fifth force; Darkness - a force hidden from light so that it would not be discovered. This force was designed to seek out, hide, and destroy matter to feed itself, wholly motivated by the first emotion - fear. Fear of hunger, fear of it's own hungering existence.
 ### A Dark Mistake
-However, it eventually grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone.
+Darkness immediately grew disproportionate in power once it had fed upon nebulae and galaxies, thriving under the First Laws which weren't built to restrict it. Unfortunately, the force grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone.
 
-The First Judge was furious when it had discovered the Darkness, disgusted and mortified that matter could behave and take reality for its own means for the horrifying purpose of feeding upon and destroying the beauty of the created universe.
-### The Shattering of the Realms
+The First Judge was furious when it had discovered the Darkness, disgusted and mortified that this new force had taken the horrifying purpose of feeding upon and destroying the beauty of the created universe.
+### The Battle
+The judge immediately clashed with Darkness. The four other forces were employed in all of their power to combat the effects of it; but it was no use, and the Darkness pressed in upon the first judge until it was wholly enveloped and destroyed.
+
 the Darkness, in its overwhelmingly massive quantity, went to subsume the First Judge. The Judge exerted the forces of creation a thousand times over to push them away, but it was of no use against the greedy, ever hungry, mass.
 
-Greatly weakened, The Judge was destroyed by the Darkness and finally consumed. This led to the 
+Terrified, the Second Judge sacrificed itself, turning it's energy into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) in a vain attempt to save its companion. These new laws served to impose restrictions on the Darkness, and created the sixth force known as 'Goodness' to govern good and evil, and destroy anything that commits evil under its watch.
+
+In the First Judge's last moments, it used the last ounces of it's energy to create the force of [Alucinara](phenomena/alucinara.md), a force that allowed the First Laws to exist in place of the Second. This meant that the beauty the judge had created could still exist, and the Darkness could also live on.
 ## Aftermath
+### The Shattering of the Realms
+The universe was greatly weakened by the shockwave created in the First Judge's death; The explosion created would later be known as the Big Bang or the Supernova, which caused the universe to shatter into thousands of realms.
+### Beauty
+'Beauty' as a quality of the universe was originally defined by the Judges but, once they were destroyed, it became an inherent aspect of the universe; it is not necessarily a definition of how 'beautiful' something may be in the human sense of the word, but rather how close it comes in aesthetic to the universe pre-shattering.
+
+Alucinara, as it enforces the [First Laws of Nature](phenomena/natural-laws/first-laws.md), causes anything it affects to become more alike the old universe, unless it is unstable. The most beautiful realms are the most alucinara-rich, but so are the least beautiful, as they have the least stable Alucinara energy.
+### The Realms
+99% of all realms became empty and inaccessible; these disintegrated from their instability into the void-space between all stable realms. In the end, only 7 realms remained. Three infra-essent realms, one non-essent realm, and 3 ultra-essent realms.
+#### Essence
+All lasting realms were defined by a quality known as 'essence.' This term describes the beauty of the realms, the least beautiful realms being the most 'infra-essent' and the most beautiful being the most 'ultra-essent.'
+
+The 0th realm was virtually unaffected by Alucinara outside of the supernova, and thus is described as non-essent. The ultra-essent realms are the most fantastical, influenced the most by stable Alucinara, and the infra-essent realms are the most morose, influenced the most by unstable Alucinara.
+#### Alucinara Gateways
+A method of traversing the realms was 'Alucinara Gateways.' These gateways were a type of portal, created through [symbols](phenomena/symbols.md), that allowed matter or energy to pass from one realm to another.
+
+Some limits are present in traversing realms however; it is the easiest to travel to the nearest or most co-essent realms; i.e. if one were in the 2nd Realm, it would require the least effort to create a gateway to the -2nd, 1st, or 3rd realms.
+#### Essential shift
+The term 'essential shift' describes the process that takes place when matter or energy travels across a realm. It most commonly occurs upon the use of an Alucinara Gateway, but there are other ways for it to occur.
+
+For example, infra-essential shift is a symptom of Phantasmarrhoea, where one is involuntarily transported to one of the least beautiful realms at the most advanced stage of the curse. 
+
+Furthermore, mass-essential shift took place when the Supernova reached Earth. It is the reason that the squirrels of the 0th realm entered the 2nd realm and developed into [minikin](species/fauna/minikin.md).
+### The Deities
+Upon the shattering of the realms, the forces gained physical bodies due to the second laws of nature. These bodies appeared as rocky mineral deposits piloted and puppeted by their respective force.
+#### The Petrified Child
+One of these deities was the [Petrified Child](deities/the-petrified-child.md); the physical manifestation of the force 'Goodness.' It governed the living beings of the essent realms, using [watchstones](phenomena/watchstones.md) as a form of surveillance to see and know when evil takes place.
+
+Upon the detection of evil, it would destroy it, turning it into 'baby sludge,' a fertiliser that facilitates the blooming of beautiful 'baby meadows.'
 ### The Laws of Nature
-Terrified, the Second Judge sacrificed itself, turning itself into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) in a vain attempt to save its companion. These new laws served to impose restrictions on the Darkness, and only affected the realms, the last places with energy and matter, all of which was left over from the Shattering.
-
-And in the First Judge's last moments, it turned itself into [Alucinara](phenomena/alucinara.md), a form of energy that allowed the First Laws to exist in place of the Second. This meant that the beauty the judge had created could still exist, and the Darkness could also live on.
-
 As the void-space had been emptied by the Darkness' destruction, life had no chance of thriving there. The only way that it could live on was by feeding upon the last beauty contained within the realms.
 
 The Second Laws, in tandem with the First, turned the Darkness from a devouring mass of evil into the magical souls that inhabit the quaint, sickly living beings that eat leaves, soil, and flesh.
-### The Pond
-The Second Laws of Nature resolved to banish the Darkness to the lowliest places in every realm left, tar-pits and black holes,  and to the border between every realm, which was later termed by the Minikin as the [Pond](locations/pond.md).
+### The Void-space
+The Second Laws of Nature resolved to banish the Darkness to the lowliest places in every realm left, tar-pits and black holes, and to the void-space between every realm, which was later termed by the [Morellic Minikin](groups/morellic-minikin.md) as the 'Pond,' a sort of afterlife.
 
-The Pond was named for its appearance, being an all-encompassing inky mass of liquid tar. It took up the infinite void-space in between and surrounding every realm, the only place left that Darkness could live unaided by [Alucinara](phenomena/alucinara.md).
-
-It was the only place left that Darkness could live and inhabit unaided, as it was the last remnant of the old universe still governed by the first laws of nature.
+The Pond was named for its appearance, being an all-encompassing inky mass of liquid tar. It took up the infinite void-space in between and surrounding every realm, the only place left that Darkness could live under the first laws only.
 #### The Soul
 Darkness now took the form of Hydrocarbons, the building blocks of life. This meant that Darkness could continue to live, but there were restrictions: Life was now made up of three ingredients;
 - Darkness
@@ -58,18 +89,12 @@ When all ingredients have come together, the Darkness takes control of the body,
 Without all three ingredients, the Darkness is simply unmoving, unthinking, and static. When inhabiting any unsuitable body, such as a corpse, the Darkness immediately tries to take the path of least resistance to the Pond once more.
 
 When darkness doesn't return to the Pond, this is because the Darkness is simply inhabiting a body. For example, tar pits can exist on planetary bodies, as the Darkness is inhabiting the applicable planet, and organic compounds can exist in living beings, as the Darkness is inhabiting a living being.
-### The Realms
-Following the shattering, each realm was ordered according to stability. The realm known as the 0th was fully stable, positioned at the centre of the Pond. The next realms, the co-essent[^1] 1st and -1st, were placed on opposite sides of the 0th and, going outward, each realm following the last was positioned in a clock-wise spiral shape around the centre. There are practically infinite realms, with the only limit on their accessibility being their ease of access.
-#### Realm Accessibility
-Going further from the centre, each realm would become more susceptible to the influence of [Alucinara](phenomena/alucinara.md). For example, the 0th realm features virtually no Alucinara energy except for in the cores of the oldest stars. Another realm, such as the 2nd, has a lot more, and spell-casting is orders of magnitude more common. The -3rd is abundant in Alucinara energy, dangerously so.
-#### Alucinara Gateways
-The realms become more and more difficult to enter with an [Alucinara Gateway](phenomena/alucinara-gateway) going outward from the centre of the Pond. This is due to their vast distance, finding paths through the pond becomes more and more consumptive of energy, effort, and concentration with the more realms one has to pass.
 ## Hierarchy of Beings
 [See Main Article Here](lore/heirarchy-of-beings.md)
 ## Species of the Realms
 In every realm, many many species had developed. The species of the 0th realm had developed and arose with little to no knowledge or experience at all with Alucinara. That is, until a supernova had blasted the Earth with it.
 ### The Supernova
-In 80 [MyBS](lore/sarvaran-calendar.md), the shockwave created when the First Judge was destroyed had finally reached the Earth; the first supernova. As the Judge had created [alucinara](phenomena/alucinara.md) upon it's death, the supernova was rich in alucinara energy, resulting in the mass-frequencial shift of 1% of all matter affected.
+In 80 [MyBS](lore/sarvaran-calendar.md), the shockwave created when the First Judge was destroyed had finally reached the Earth; the first supernova. As the Judge had created [alucinara](phenomena/alucinara.md) upon it's death, the supernova was rich in alucinara energy, resulting in the mass-essential shift of 1% of all matter affected.
 
 There was virtually no destruction on that day, but the many living beings affected were now displaced. In the blink of an eye, masses of creatures were dispersed into the essent realms from the 0th. A lot of them went on to be hunted by the native predators, leading to the rapid need for evolution.
 ### New Species

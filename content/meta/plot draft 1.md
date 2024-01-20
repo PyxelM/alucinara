@@ -61,7 +61,7 @@ Settings:
 	- Wilderness
 
 - ### Chapter 6
-Chapter 6 is a flashback from the perspective of Mossrot, Riverbell's father. It begins with his descent into madness and thirst for eternal life, and ends with the murder of his wife, Riverblossom, and his subsequent partial Phantasmarrhoea and frequencial shift into the -3rd Realm.
+Chapter 6 is a flashback from the perspective of Mossrot, Riverbell's father. It begins with his descent into madness and thirst for eternal life, and ends with the murder of his wife, Riverblossom, and his subsequent partial Phantasmarrhoea and essential shift into the -3rd Realm.
 
 Settings:
 - 0th Realm (Main)

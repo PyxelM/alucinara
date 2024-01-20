@@ -19,11 +19,11 @@ Alucinarium, the mineral in which the energy is stored, appears semi-translucent
 ## Effects
 Alucinara causes effects such as;
 - Levitation of objects or living beings, where the effects of gravity will be altered in direction or intensity.
-- Frequencial Shift, where an object or living being will be transported into another realm. This is often accomplished by the presence of an [Alucinara Gateway](phenomena/aluicnara-gateway.mc).
+- essential shift, where an object or living being will be transported into another realm. This is often accomplished by the presence of an [Alucinara Gateway](phenomena/aluicnara-gateway.mc).
 - Emission of light, where an object will emit glowing sparks or orbs which dim over time;
 - The [Pseudo Fauna Principle](phenomena/pseudo-fauna-principle), where inanimate objects will act like living animals;
 - The Soul, where Alucinara will interact with hydrocarbons in pitch or amino acids to create consciousness;
-- Phantasmarrhoea, where a living animal will undergo the growth of alucinarium crystals on the skin and organs, hallucinations, delusion, psychosis, and involuntary frequencial shift.
+- Phantasmarrhoea, where a living animal will undergo the growth of alucinarium crystals on the skin and organs, hallucinations, delusion, psychosis, and involuntary essential shift.
 - and [Symbols](phenomena/symbols.md), designs traced into alucinara-rich objects to interface with higher-order beings.
 
 ### Influence on Biology
