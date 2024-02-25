@@ -1,0 +1,33 @@
+---
+title: History of the Morellic Minikin
+tags:
+  - morellic
+  - lore
+  - featured
+---
+The history of the Morellic [minikin](species/fauna/minikin.md) is long, beginning with the Mora tribe.
+## The Mora Tribe
+The Mora were a tribe of minikin with fair skin and thick fur on their extremities. They spoke Proto-Morellic and lived a nomadic hunter-gatherer lifestyle within the humid continental climate of the northern central continent, subsisting upon bugs, berries, leaves, and small mammals as livestock.
+
+By their peak, the Mora held 6 clans of 50-150 minikin. The largest of these clans was the Senna, which inhabited the eastern coast of the north. Their speciality was agriculture, as they were the only group to consistently farm in the whole north.
+## The Senna Clan
+The Senna, led by a matriarch known as Deerweed, had many farms across the northeast. They would travel from one farming location to another, foraging and replanting plants, before moving on once the land had been exhausted.
+
+The largest farm eventually grew to be the largest settlement of the Mora; a city known as Endáirų, built upon the annually-flooding river Úrų̈cás in a patch of Mediterranean climate. This city became a hub of trade, one of the most economically prosperous cities in the northeast.
+
+## The Senna Civil War
+The stability of the Senna was thrown into question, however, upon the civil war. Triggered by a succession crisis between Deerweed's daughters, the elder Fern and the younger Mint, which ended in the latter's assassination, a new clan split off; the Lantana.
+
+## The Battle of Úrų̈cás
+The Lantana, led by Deerweed's niece Wirilda, fought with the Senna, led by Fern, over matriarchal power. This led to the Battle of Úrų̈cás. The Senna were flanked from the west by the Lantana military, from the north by the inhospitable tundra, and from the south and east by the river and sea.
+
+The battle caused great casualties from both sides, a great majority of Senna minikin succumbing to attacks in the swampy mud of the riverbanks. The Lantana victorious, the Senna were defeated, but the battle left Endáirų inhospitable, run-down, and littered with [Baby Meadows](deities/the-petrified-child.md).
+
+## Proliferation of the Northeast
+While the battle caused great tragedy, the baby sludge that flowed through the river Úrų̈cás caused the many banks and swamps downstream to proliferate into baby meadows. This was partly a strategic point on the Lantana's part.
+
+Having received prophecy of a famine, Wirilda made an effort to sacrifice soldiers, both Lantana and Senna, to the [Petrified Child](deities/the-petrified-child.md) so that the fertility of the land around them may increase.
+
+This was a success, initially; the Lantana built a new settlement downstream from Endáirų, known as Ánnakháirų. There, berries and fruit were abundant in the debuted jungle, and many of the other Mora clans moved in, forsaking their nomadic lifestyles.
+## The Famine
+Despite the Lantana's efforts, the tides of fate rolled in, and the famine came. The produce of the trees grew sour; a direct effort from [The Mother Tree](deities/mother-tree.md) to punish the Lantana for preparing with such violence.
