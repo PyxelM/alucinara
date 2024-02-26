@@ -13,13 +13,13 @@ By their peak, the Mora held 6 clans of 50-150 minikin. The largest of these cla
 ## The Senna Clan
 The Senna, led by a matriarch known as Deerweed, had many farms across the northeast. They would travel from one farming location to another, foraging and replanting plants, before moving on once the land had been exhausted.
 
-The largest farm eventually grew to be the largest settlement of the Mora; a city known as Endáirų, built upon the annually-flooding river Úrų̈cás in a patch of Mediterranean climate. This city became a hub of trade, one of the most economically prosperous cities in the northeast.
+The largest farm eventually grew to be the largest settlement of the Mora; a city known as Endáirų, meaning 'city of farms,' built upon the annually-flooding river Úrų̈cás, meaning 'river of the east,' in a patch of Mediterranean climate. This city became a hub of trade, one of the most economically prosperous cities in the northeast.
 
 ## The Senna Civil War
 The stability of the Senna was thrown into question, however, upon the civil war. Triggered by a succession crisis between Deerweed's daughters, the elder Fern and the younger Mint, which ended in the latter's assassination, a new clan split off; the Lantana.
 
-## The Battle of Úrų̈cás
-The Lantana, led by Deerweed's niece Wirilda, fought with the Senna, led by Fern, over matriarchal power. This led to the Battle of Úrų̈cás. The Senna were flanked from the west by the Lantana military, from the north by the inhospitable tundra, and from the south and east by the river and sea.
+## The Battle over the Úrų̈cás
+The Lantana, led by Deerweed's eldest niece Wirilda, fought with the Senna, led by Fern, over matriarchal power. This led to the Battle of Úrų̈cás. The Senna were flanked from the west by the Lantana military, from the north by the inhospitable tundra, and from the south and east by the river and sea.
 
 The battle caused great casualties from both sides, a great majority of Senna minikin succumbing to attacks in the swampy mud of the riverbanks. The Lantana victorious, the Senna were defeated, but the battle left Endáirų inhospitable, run-down, and littered with [Baby Meadows](deities/the-petrified-child.md).
 
@@ -28,6 +28,14 @@ While the battle caused great tragedy, the baby sludge that flowed through the r
 
 Having received prophecy of a famine, Wirilda made an effort to sacrifice soldiers, both Lantana and Senna, to the [Petrified Child](deities/the-petrified-child.md) so that the fertility of the land around them may increase.
 
-This was a success, initially; the Lantana built a new settlement downstream from Endáirų, known as Ánnakháirų. There, berries and fruit were abundant in the debuted jungle, and many of the other Mora clans moved in, forsaking their nomadic lifestyles.
+This was a success, initially; the Lantana built a new settlement more inland and downstream from the ruins of Endáirų to the west, known as Endáirų múKrefír, meaning 'New Endáirų.' There, berries and fruit were abundant in the debuted jungle, and many of the other Mora clans moved in, forsaking their nomadic lifestyles.
+
+## Lantana's Reputation
 ## The Famine
-Despite the Lantana's efforts, the tides of fate rolled in, and the famine came. The produce of the trees grew sour; a direct effort from [The Mother Tree](deities/mother-tree.md) to punish the Lantana for preparing with such violence.
+Despite the Lantana's efforts, the tides of fate rolled in, and the famine came after a decade of prosper. The produce of the trees grew sour; a direct effort from [The Mother Tree](deities/mother-tree.md) to punish the Lantana for preparing with such violence.
+
+The total population of the Mora halved as the famine took over the north, and morale was low. New Endáirų became known as Ánnakháirų, meaning 'the city of souls.'
+
+The climate grew cold, the soil infertile, and political tension was rife. It was at this point that the surviving Senna minikin attempted to take over the Lantana once more.
+
+## The Battle of Ánnakháirų
