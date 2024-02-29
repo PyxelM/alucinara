@@ -26,7 +26,7 @@ Stars glowed bright and planets shifted in form at a steady pace, all the result
 ### Life
 However, the second judge began to deviate from the first's plan. Motivated by envy for control, it attempted to create something all of its own; *life*.
 
-Life was created in the form of the fifth force; Darkness - a force hidden from light so that it would not be discovered. This force was designed to seek out, hide, and destroy matter to feed itself, wholly motivated by the first emotion - fear. Fear of hunger, fear of it's own hungering existence.
+Life was created in the form of the fifth force; [Darkness](deities/the-darkness.md) - a force hidden from light so that it would not be discovered. This force was designed to seek out, hide, and destroy matter to feed itself, wholly motivated by the first emotion - fear. Fear of hunger, fear of it's own hungering existence.
 ### A Dark Mistake
 Darkness immediately grew disproportionate in power once it had fed upon nebulae and galaxies, thriving under the First Laws which weren't built to restrict it. Unfortunately, the force grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone.
 
@@ -65,32 +65,23 @@ Furthermore, mass-essential shift took place when the Supernova reached Earth. I
 ### The Deities
 Upon the shattering of the realms, the forces gained physical bodies due to the second laws of nature. These bodies appeared as rocky mineral deposits piloted and puppeted by their respective force.
 #### The Petrified Child
-One of these deities was the [Petrified Child](deities/the-petrified-child.md); the physical manifestation of the force 'Goodness.' It governed the living beings of the essent realms, using [watchstones](phenomena/watchstones.md) as a form of surveillance to see and know when evil takes place.
+One of these deities was the [Petrified Child](deities/the-petrified-child.md), the manifestation of the force 'Goodness.' It governed the living beings of the essent realms, using [watchstones](phenomena/watchstones.md) as a form of surveillance to see and know when evil takes place.
 
 Upon the detection of evil, it would destroy it, turning it into 'baby sludge,' a fertiliser that facilitates the blooming of beautiful 'baby meadows.'
+### The Darkness
+Another deity was the [Darkness](deities/the-darkness.md), the manifestation of the force of the same name. It governed the methods by which a being may live, taking the form of the building blocks of life - Hydrocarbons, found in tar, asphalt, and amino acids.
+
+This meant that the Darkness could continue to live. Hydrocarbons and Alucinara create the Soul, and the Soul and a viable body create a living being. This level of restriction now meant that Darkness could no longer destroy beauty to the same degree that it had in the past.
+### The Pond
+The Second Laws of Nature resolved to banish the Darkness to the void-space between every realm known as the Pond, an afterlife (or 'outer' life) where the Darkness within a soul goes upon expiry or creation of a body.
+
+Upon death, the Darkness will return to the Pond through [Frequencial Shift](phenomena/frequencial-shift). This can be circumvented with [soulstones](phenomena/soulstone.md), in which case the darkness will bind to the asphalt in the stone and remain outside of the Pond.
+
+Darkness also appears outside of the Pond when impure. In these cases, it can be found in tar pits and bitumen, where it is combined in a mixture with other elements.
 ### The Laws of Nature
-As the void-space had been emptied by the Darkness' destruction, life had no chance of thriving there. The only way that it could live on was by feeding upon the last beauty contained within the realms.
+As the void-space had been emptied by the Darkness' destruction, life now had no chance of thriving there, in the Pond. The only way that it could live on was by feeding upon the last beauty contained within the realms.
 
 The Second Laws, in tandem with the First, turned the Darkness from a devouring mass of evil into the magical souls that inhabit the quaint, sickly living beings that eat leaves, soil, and flesh.
-### The Void-space
-The Second Laws of Nature resolved to banish the Darkness to the lowliest places in every realm left, tar-pits and black holes, and to the void-space between every realm, which was later termed by the [Morellic Minikin](groups/morellic-minikin.md) as the 'Pond,' a sort of afterlife.
-
-The Pond was named for its appearance, being an all-encompassing inky mass of liquid tar. It took up the infinite void-space in between and surrounding every realm, the only place left that Darkness could live under the first laws only.
-#### The Soul
-Darkness now took the form of Hydrocarbons, the building blocks of life. This meant that Darkness could continue to live, but there were restrictions: Life was now made up of three ingredients;
-- Darkness
-- Alucinara
-- and a body.
-
-This level of restriction was incomprehensible to the Darkness of the old world, but the restrictions now meant that Darkness could never destroy reality like it had in the past any further.
-
-When all ingredients have come together, the Darkness takes control of the body, allowing it to move, act, manipulate objects, conceptualise, philosophise, and *be* the Darkness in living form. But due to the restrictions of the body, every living being can succumb to injury, age, famine, disease, and will always succumb to death in the end.
-#### Death, and the Pond
-Without all three ingredients, the Darkness is simply unmoving, unthinking, and static. When inhabiting any unsuitable body, such as a corpse, the Darkness immediately tries to take the path of least resistance to the Pond once more.
-
-When darkness doesn't return to the Pond, this is because the Darkness is simply inhabiting a body. For example, tar pits can exist on planetary bodies, as the Darkness is inhabiting the applicable planet, and organic compounds can exist in living beings, as the Darkness is inhabiting a living being.
-## Hierarchy of Beings
-[See Main Article Here](lore/heirarchy-of-beings.md)
 ## Species of the Realms
 In every realm, many many species had developed. The species of the 0th realm had developed and arose with little to no knowledge or experience at all with Alucinara. That is, until a supernova had blasted the Earth with it.
 ### The Supernova

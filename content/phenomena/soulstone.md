@@ -2,6 +2,8 @@
 title: Soulstones
 tags:
   - phenomena
+  - darkness
+  - featured
 ---
 ## Overview
 Soulstones are deposits of bitumen or asphalt where the soul of a deceased organism may be stored after death.

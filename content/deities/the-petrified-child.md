@@ -1,7 +1,6 @@
 ---
 title: The Petrified Child
 tags:
-  - supernatural-being
   - deity
   - petrified-child
   - featured
