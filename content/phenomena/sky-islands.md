@@ -65,7 +65,7 @@ In addition, some crater communities carve houses or structures into the fallen 
 	- and Abwyd Quartus.
 
 #### Aderyn Major
-Aderyn Major, the largest sky island to record, takes the shape of a bird and has been inhabited by the Nesi and Stonechild Imperial Minikin. Originating from the central continent, Aderyn Major has been found and colonised by many central continent peoples.
+Aderyn Major, the largest sky island to record, takes the shape of a bird and has been inhabited by the Nesi and Stonechild Imperial Minikin. Originating from Tseiréph, Aderyn Major has been found and colonised by many central continent peoples.
 
 ##### Discovery by the Ǫzí Minikin
 Once, Aderyn Major crash-landed, having ran out of Alucinara. A group of minikin known as the Ǫzí minikin found Aderyn Major's remains and began to inspect it but, in a turn of tragic fate, one group of minikin entered the mouth of the sky island and tragically died to the ravenous ecosystem inside.

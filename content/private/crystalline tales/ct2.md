@@ -32,7 +32,7 @@ This begins in the [Naíruan Peninsula](locations/nairuan-peninsula.md), where t
 
 ![](Pasted%20image%2020230809144906.png)
 
-The Móra riSéwi minikin are a northern nomadic tribe native to the central continent (north of the lakes), containing many separate groups and communities, connected by a single Móra riSéwi culture and shared respect. They travel from place to place, riding on the backs of domesticated Weasels, foraging for food, exploring, looking for treasure, and sleeping in leaf hammocks.
+The Móra riSéwi minikin are a northern nomadic tribe native to Tseiréph (north of the lakes), containing many separate groups and communities, connected by a single Móra riSéwi culture and shared respect. They travel from place to place, riding on the backs of domesticated Weasels, foraging for food, exploring, looking for treasure, and sleeping in leaf hammocks.
 
 There is a diaspora of nomadic Móra riSéwi minikin living as a community in Naíru, who settled after the leader of their group fell ill and needed medical help in the city; the minikin haven't left since the leader was rendered bedridden there in a tree-shelter.
 -
