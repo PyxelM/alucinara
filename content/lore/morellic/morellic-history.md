@@ -35,21 +35,50 @@ Despite the Lantána's efforts, the tides of fate rolled in, and the famine came
 The total population of the Móra halved as the famine took over the north, and morale was low. New Endáirų became known as Ánnakháirų, meaning 'the city of souls.'
 
 The climate grew cold, the soil infertile, and political tension was rife. It was at this point that the surviving Sénna minikin attempted to take over the Lantána once more.
-## Ankewenith and the Avétha
-Following the loss over the Úrų̈cás, the surviving Sénna, known as the Ankewenith, fled to begin sowing seeds of hatred and discrimination against the Lantána and sympathetic Móra in the neighbouring nation of the Avétha tribe to the west.
+## Ankewenith and the We'áha
+Following the loss over the Úrų̈cás, the surviving Sénna, known as the Ankewenith, fled to begin sowing seeds of hatred and discrimination against the Lantána and sympathetic Móra in the neighbouring nation of the We'áha tribe to the west.
 
-Motivated by racism and jealousy, the Avétha, led by the patriarch Erebó'u and his vizier Orwána (Hwérna's daughter, the new Ankewenith matriarch), passed east over the river Kóhosh to fight the Lantána.
+Motivated by racism and jealousy, the We'áha, led by the patriarch Urubréä and his vizier Urwána (Hwérna's daughter, the new Ankewenith matriarch), passed east over the river Kóhosh against the Lantána.
 ## The Weakening of the Lantána
-The Avétha didn't take to raiding cities such as Ánnakháirų, but rather began to attack the outskirts the Lantána's territory. These settlements were the nation's main source of food, especially those built on the Úrų̈cás.
+The We'áha didn't take to raiding cities such as Ánnakháirų, but rather began to attack the outskirts the Lantána's territory. These settlements were the nation's main source of food, especially those built on the Úrų̈cás.
 
-The Avétha, taking over these settlements, began to over-tax the Lantána farmers and control trade in, out and through the nation. This greatly weakened the Lantána, and made them dependent on the hostile Avétha for the little food in the area left.
-## Orwána's Plans
-Unbeknownst to Erebó'u, his vizier Orwána was rounding the Sénna and their mercenaries against the Lantána, with the intent to attack Ánnakháirų and genocide the Lantána in their weakened state.
+The We'áha, taking over these settlements, began to over-tax the Lantána farmers and control trade in, out and through the nation. This greatly weakened the Lantána, and made them dependent on the hostile We'áha for the little food in the area left.
+## Urwána's Plans
+Unbeknownst to Urubréä, his vizier Urwána was rounding the Sénna and their mercenaries against the Lantána, with the intent to attack Ánnakháirų and genocide the Lantána in their weakened state.
 
-While the Avétha were concerned with oppressing and virtually enslaving the Lantána, the Sénna were concerned with complete annihilation - a prospect unappealing to the Avétha.
+While the We'áha were concerned with oppressing and virtually enslaving the Lantána, the Sénna were concerned with complete annihilation - a prospect unappealing to the We'áha.
 
-This was discovered by the Lantána-sympathetic supreme priest of the Avétha, Rwénedh the Blind, whom was 1 quarter Lantána. He, in secret, told the Lantána matriarch Wírridh II (daughter of the previous) of the Sénna's plans.
+This was discovered by the Lantána-sympathetic supreme priest of the We'áha, Rwénedh the Blind, whom was 1 quarter Lantána. He, in secret, told the Lantána matriarch Wírridh II (daughter of the previous) of the Sénna's plans.
 ## Lantána-Oyhólïru League
-Upon hearing of this, the Lantána proposed a military alliance with the Oyhólïru in order to fight the Sénna upon the dawn of their genocidal campaign. 
+Upon hearing of this, the Lantána proposed a military alliance with the Oyhólïru in order to fight the Sénna upon the dawn of their genocidal campaign, which was accepted.
 
+Letting the Sénna continue in their plans, they waited for a direct attack, while massing an army of Oyhólïru soldiers and Lantána commanders. While the famine was chipping away at the Lantána, the Oyhólïru territory was still abundant in food, allowing the Sénna to remain.
+## Seige of Ánnakháirų
+This direct attack came in the Siege of Ánnakháirų. Blindsided, the We'áha provided no support, and in fact executed every Sénna official in power. Urwána and her generals were the only Sénna nobles in power at this point, but their fiery hatred proved them unaffected by the response to their betrayal.
+
+In the battle, the walls were broken down and trade routes disrupted. The League was able to hold off the Sénna for a while, but the Lantána eventually surrendered and fled the city in search of refuge.
 ## Migration of the Lantána
+Following the surrender of the Lantána, a vast portion of their men were taken as slaves by the Sénna. The rest resolved to travel south, returning to the nomadic lifestyle they had left behind in Endáirų.
+
+The most of the men left were the disabled, those unworthy of labour, all of whom were euthanized as the Lantána began to travel. Some were cannibalised to maximise food during the famine, which led to many retaliations from the [Petrified Child](deities/the-petrified-child.md).
+## Arrival at the Lakes
+Travelling from the steppe through the deserts, living as nomads, the tribe reached the equatorial saltwater lakes and the surrounding rain-forests.
+
+They felt this was an opportune time to settle down once more, as the lakes provided a pseudo-maritime role reminiscent of Endáirų. The largest city to emerge at the shore of the largest of these lakes was Áurukwáirų. 
+
+By this point, the famine had subsided, and the clan had grown. Now their Proto-Morellic language had developed into Old Sarvaran, and genetic diversity had increased. This led to their reclassification as the Aurúkwą tribe of minikin.
+## The Aurúkwą
+The Aurúkwą were defined by their brown skin, bristly hair, and the fur that grew from their hands, feet, and extremities. Having picked up many cultural practices since their beginnings with the Móra, they also developed their own religion.
+### Religion
+#### Deities
+Their primary deity was the Petrified Child; a figure they termed Stéyą. They venerated many other minor deities, all who represented the elements of the world that could be influenced by [symbols](phenomena/symbols.md).
+#### Creation Story
+They believed that the world was created by a celestial squirrel known as the Sun (Skúryų), who planted an acorn into the sky, which grew into the tree known as the world (Kwérel). The stars are other acorns yet to have grown.
+
+The first woman (Améiv) and first man (Dróugą) were the first fruit of Kwérel. Dróugą was the first to fall to the ground, and would have rotted if it weren't for the aid of Améiv who fell shortly after. It is because of Améiv's aid that women are held as matriarchs.
+
+Améiv and Dróugą then procured the Minikin of the world, who eat of Kwérel's leaves that are plants, and live alongside the creepy crawlies upon the tree, which are the creatures of the world.
+
+It is said that the enemies of the Aurúkwą, the ancient Sénna for example, are the rotten fruit of the tree that perform Evil; The stone upon which Kwérel is set is said to have become the Petrified Child to punish the rotten fruit for eternity.
+
+## Diplomacy with Neighbouring Tribes
