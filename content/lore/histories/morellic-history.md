@@ -65,7 +65,7 @@ Travelling from the steppe through the deserts, living as nomads, the tribe reac
 #### Geography
 There were two lakes that divided the north of [Tseiréph](lore/locations/tseireph.md) from the south, a larger lake to the west and a smaller to the east.
 
-The Western lake, known as Eséribh, was home to the native Kastéirra race of minikin. The Kastéirra were divided into 3 main tribes, the Néth to the south, Velánaį to the north, and Kîrlégh in the southeastern inner corner of the lake. 
+The Western lake, known as Eséribh, was home to the native Kastéirra race of minikin. The Kastéirra were divided into 3 main tribes, the Néth to the south, Veláni to the north, and Kîrlégh in the southeastern inner corner of the lake. 
 
 The Eastern Lake, known as Anghôlï, was home to the Urűnnu race of minikin. The Urűnnu was made up of the Káuneph to the south and the Hanyârï to the north - a group the Lantâna had already met.
 ### Dispersion into Nearby areas
@@ -80,19 +80,19 @@ The Aurűk were defined by their brown skin, bristly hair, and the fur that gre
 The Lantâna began to speak Old Sarvaran, a language developed from Proto-Morellic. The Aurűk dialect of Old Sarvaran developed into a pidgin, and eventually the Aurűk creole, influenced by the Kîrlégh superstrate dialect.
 #### Religion
 Having picked up many cultural practices throughout the Lantâna migration and merging with the Kastéirra, they also developed their own [unique religion](religion/auruk-religion.md).
-### Conflict with Velánaį
-While the Aurűk retained healthy trade and diplomacy with these groups, the Velánaį were violent, seeing this ethnic hybridisation as a sort of 'impurity.' The Velánaį performed many raids on Aurűk settlements, with the eventuality that they should attempt to conquer Náirų.
-### Aurűk-Velánaį Borderland
-Many border skirmishes occurred between the Aurűk and Velánaį. This led to the creation of many Baby Meadows, which increased soil fertility, and thus the establishment of many farming towns.
+### Conflict with Veláni
+While the Aurűk retained healthy trade and diplomacy with these groups, the Veláni were violent, seeing this ethnic hybridisation as a sort of 'impurity.' The Veláni performed many raids on Aurűk settlements, with the eventuality that they should attempt to conquer Náirų.
+### Aurűk-Veláni Borderland
+Many border skirmishes occurred between the Aurűk and Veláni. This led to the creation of many Baby Meadows, which increased soil fertility, and thus the establishment of many farming towns.
 
-Due to the volatile position of these towns, many guard posts were constructed in the canopy of the surrounding rainforest, on trees and guard towers. Due to the increased pressure from the Velánaį, many advancements were made.
+Due to the volatile position of these towns, many guard posts were constructed in the canopy of the surrounding rainforest, on trees and guard towers. Due to the increased pressure from the Veláni, many advancements were made.
 ### Advancements in Defence and Offence
 Some innovations were made in the field of archery and cavalry.
 
 While minikin had previously hunted and battled by hurling pointy objects at each other through [alucinara](phenomena/alucinara.md), the Aurűk began to create specialised arrows. Arrows would be blessed with [symbols](phenomena/symbols.md) to create a certain effect, could now be kept within a quiver, and more than one could be shot at once.
 
 In addition, they began to train some native mustelids known as War Weasels into aiding in battle. These War Weasels would learn to stay calm during a fight, and pay attention to cues from their rider into performing tactical movements, evasion, and war dances. Some war weasels would be blessed with symbolic brands.
-## Velánaį War
+## Veláni War
 
 ### Aftermath
 ## Founding of Sarvara, etc.
