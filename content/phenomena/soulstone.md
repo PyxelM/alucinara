@@ -6,11 +6,11 @@ tags:
   - featured
 ---
 ## Overview
-Soulstones are deposits of bitumen or asphalt where the soul of a deceased organism may be stored after death.
+Soulstones are deposits of bitumen or asphalt where, in the presence of [alucinara](phenomena/alucinara.md) energy, the soul of a deceased organism may be stored after death.
 ## Appearance
 The appearance of a Soulstone is that of a pebble or rock with a matte, rough, or shiny black surface. Over time, the surface of the stone may warp to reflect the visage or form of the soul inside.
 ## Behaviour
-Soulstones contain the deceased's soul by tricking the Darkness into believing that the stone is a viable body. It accomplishes this through emulating organic compounds, as asphalt is composed of hydrocarbons, as are amino acids.
+Soulstones contain the deceased's soul by tricking the [Darkness](deities/the-darkness.md) into believing that the stone is a viable body. This is accomplished through the emulation of organic compounds, due to the presence of Hydrocarbons.
 ## Uses
 Without a soulstone, the soul of a deceased organism will flee to the Pond.
 ### To Store the Dead

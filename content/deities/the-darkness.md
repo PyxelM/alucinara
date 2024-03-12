@@ -5,10 +5,10 @@ tags:
   - darkness
 ---
 ## Overview
-The Darkness is a deity derived from the force of the same name, from before the shattering of the realms. It controls the ways in which life may destroy beauty, restricting living beings with the prospect of death and injury.
+The Darkness, also known as 'Life,' is a deity that governs the way in which living beings operate. Derived from the force of Life, it lacks a physical form, functioning as life energy. It manifests its influence in hydrocarbons.
 ## Appearance
-Upon physical manifestation, the Darkness took the form of hydrocarbons. It is commonly found in tar, bitumen, or viable bodies, and is most active in the amino acids within a living being.
+Hydrocarbons, through which the Darkness operates, are found in tar, bitumen, and organic compounds such as amino acids (as in living beings.)
 ## Behaviour
-Upon combination with [Alucinara](phenomena/alucinara.md) energy, the Darkness manifests the Soul. Upon combination with a viable body, the Soul manifests a living being, with the capacity for thought and life.
-
-Upon the expiry of a viable body or soul, the Darkness returns to the Pond, the void space between realms. This can be circumvented by storing the Darkness of the deceased's soul within a [soulstone](phenomena/soulstone.md), which function a similar role as urns or ashes.
+Upon combination with [Alucinara](phenomena/alucinara.md) energy, the Darkness manifests the Soul. The soul is what creates a living being from an inanimate body, allowing the capacity for action and thought.
+## Death
+Upon expiry of a body, the Darkness leaves the body and returns to the Pond, dissipating the soul. This is sometimes circumvented by storing the deceased's soul within a [soulstone](phenomena/soulstone.md).

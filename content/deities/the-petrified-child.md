@@ -6,23 +6,15 @@ tags:
   - featured
 ---
 ## Overview
-The Petrified Child ([Sarvaran](languages/sarvaran.md): Oį́n aStéyą < `*uinh sëti-eyan`) is a supernatural being or deity concerned with the regulation and destruction of evil. It was formed from the mountains, owing to the fact that it is made of rock, and has the appearance of an infant. In addition, it is capable of travelling across the realms at its own discretion, and moves by quickly floating above the canopy or surface of the ground.
-
+The Petrified Child, also known as 'Goodness,' is a deity that regulates and destroys those who commit evil acts. It descends from the pre-shattering force of Goodness, travels by floating metres above the ground, and can shift across realms at its own discretion.
 ## Appearance
 ![Petrified Child](images/petrified-child.png)
 
-The Petrified Child has the form of a long, inverse egg made of pure rock. It has a round top with a curved, tapering bottom, a vertical length of 3 metres, and a diameter of 1.5 metres at its widest point. In addition, it has no visible body parts except for a round infantile face on the front side of its upper section.
+The Petrified Child has the appearance of a swaddled infant, and is approximately 5 metres in length. It has the body of a bean-like inverse teardrop, a surface texture of shifting, looped ridges, and a round face on the front of its upper half. 
 
-Its face varies in shape over time due to the presence of Alucinara within it; this can cause its face to unpredictably shift in form. The child often appears to have the infantile face of a minikin, but it can also present with a strigine face, canine face, or a feline face, causing a lot of variation from culture-to-culture in how the deity is depicted.
+Its face takes many forms, often shifting depending on who the Petrified Child is facing. For example, to the [minikin](species/fauna/minikin.md), it appears with the face of a minikin child, and to the [demi-slugs](species/fauna/demi-slugs.md), the face of a demi-slug child.
 
-Its eyes are made of smooth Alucinarium bulbs, appearing dark, shiny, and purple. Round yellow-orange emissions of light appear and fade sporadically, a common visual phenomenon of crystalline Alucinarium, when its eyes are open. However, they are often closed to portray a wide, innocent smile with a look of contentment and calmness.
-
-### Cultural Variance
-- In [morellic](cultures/morellic.md) tradition, the petrified child is depicted with the face of a minikin;
-- In [dviri](cultures/dviri) tradition, the petrified child is depicted with the face of an owl;
-- In [snixoj](cultures/snixoj) tradition, the petrified child is depicted with the face of a goat;
-- and in [Ǫzí](cultures/Ǫzí) tradition, the petrified child is depicted with the face of a ferret.
-
+During the reign of the Empire of the Petrified Child, it was commonly depicted with the face of an owl, owing to the animalistic masks worn in Stonechild Imperial society.
 ## Purpose
 The purpose of the Petrified Child is to destroy evil where it may arise. The term 'evil' is not a term defined in the petrified child's mind, as to allow for a case-by-case conclusion on wether or not an offender needs to be destroyed.
 

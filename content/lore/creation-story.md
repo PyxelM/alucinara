@@ -11,34 +11,29 @@ In this note, I will describe the canonical creation story. In-world, it is beli
 - [The History of the Móra riSéwi Minikin](lore/mora-risewi-history.md)
 - [The History of the Morellic Minikin](lore/histories/morellic-history.md)
 ## Events
-At first, there was an inky void stretching on for eternity. The void was wholly empty, except for two consciousnesses in the void, the First Judge and the Second. The judges were created by nothing and from nothing but a moral obligation to the universe, to create the laws of nature and form the infinity they call home into a masterpiece.
+At first, there was an inky void stretching on for eternity. The void was wholly empty, except for two spirits, the First Judge and the Second. The judges were created by nothing but for the inherent obligation of creating beauty.
 
-The first judge helmed the operation, designing the [laws of nature](phenomena/natural-laws/first-laws.md) and giving the green light to the second judge's every suggestion. Together, they created the universe with the aim to make it beautiful with the help of four forces.
+The first judge helmed the operation, designing the [laws of nature](phenomena/natural-laws/first-laws.md) and giving the green light to the second judge's every suggestion. Together, they created the universe with the aim to make it beautiful with the help of the forces.
 ### The Forces
-The Forces, later known as the Deities, were powerful consciousnesses that would follow the command of the Judges. Without physical form, these forces would show their influence in the forces of nature.
-
-- The first force, Matter, would give the universe shape, causing liquid to flow and dust to accumulate.
-- The second force, Gravity, would cause stars and planets to swirl and move, and attract object together.
-- The third force, Warmth, would temper the universe, firing it and freezing it according to what is beautiful.
-- The fourth force, Light, would illuminate and truly represent the material universe; it helped the judges to decide wether a choice was beautiful or not.
+There were initially two spiritual forces, through which the universe operated;
+- The first force, Nature, would give the universe form and order, resulting in the existence of matter, temperature, gravity, etc.
+- The second force, Truth, allowed the universe to stay consistent, following true rules that could never be broken.
 
 Stars glowed bright and planets shifted in form at a steady pace, all the result of the laws of nature which served to create beauty, but a somber kind of beauty. The universe was beautiful, yes, but no living thing could call it home. The universe wasn't designed for inhabitants.
 ### Life
-However, the second judge began to deviate from the first's plan. Motivated by envy for control, it attempted to create something all of its own; *life*.
-
-Life was created in the form of the fifth force; [Darkness](deities/the-darkness.md) - a force hidden from light so that it would not be discovered. This force was designed to seek out, hide, and destroy matter to feed itself, wholly motivated by the first emotion - fear. Fear of hunger, fear of it's own hungering existence.
+However, the second judge began to deviate from the first's plan. Motivated by envy for control, it attempted to create a force all of its own; *life*. This third force created a spiritual essence known as Darkness, which fed upon the material of the universe, destroying all in its path.
 ### A Dark Mistake
-Darkness immediately grew disproportionate in power once it had fed upon nebulae and galaxies, thriving under the First Laws which weren't built to restrict it. Unfortunately, the force grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone.
+The Darkness immediately grew disproportionate in power once it had fed upon nebulae and galaxies, thriving under the laws of nature that weren't built to restrict it. Eventually, it grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone.
 
-The First Judge was furious when it had discovered the Darkness, disgusted and mortified that this new force had taken the horrifying purpose of feeding upon and destroying the beauty of the created universe.
+The First Judge was furious when it had discovered the Darkness, disgusted and mortified that the essence had taken the horrifying purpose of feeding upon and destroying the beauty of the created universe.
 ### The Battle
-The judge immediately clashed with Darkness. The four other forces were employed in all of their power to combat the effects of it; but it was no use, and the Darkness pressed in upon the first judge until it was wholly enveloped and destroyed.
+The judge immediately clashed with Darkness. The two other forces were employed in all of their power to combat the effects of Life; but it was no use, and the Darkness pressed in upon the first judge until it was wholly enveloped and destroyed.
 
 the Darkness, in its overwhelmingly massive quantity, went to subsume the First Judge. The Judge exerted the forces of creation a thousand times over to push them away, but it was of no use against the greedy, ever hungry, mass.
 
-Terrified, the Second Judge sacrificed itself, turning it's energy into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) in a vain attempt to save its companion. These new laws served to impose restrictions on the Darkness, and created the sixth force known as 'Goodness' to govern good and evil, and destroy anything that commits evil under its watch.
+Terrified, the Second Judge sacrificed itself, turning it's energy into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) in a vain attempt to save its companion. These new laws served to impose restrictions on the Darkness, and created the fourth force known as 'Goodness' to govern Life, and destroy any evil thing under its watch.
 
-In the First Judge's last moments, it used the last ounces of it's energy to create the force of [Alucinara](phenomena/alucinara.md), a force that allowed the First Laws to exist in place of the Second. This meant that the beauty the judge had created could still exist, and the Darkness could also live on.
+In the First Judge's last moments, it used the last ounces of it's energy to create the fifth force of [Alucinara](phenomena/alucinara.md), a force that allowed the First Laws to exist in place of the Second. This meant that the beauty the judge had created could still exist, and the Darkness could also live on.
 ## Aftermath
 ### The Shattering of the Realms
 The universe was greatly weakened by the shockwave created in the First Judge's death; The explosion created would later be known as the Big Bang or the Supernova, which caused the universe to shatter into thousands of realms.
