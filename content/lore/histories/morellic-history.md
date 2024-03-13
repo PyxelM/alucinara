@@ -89,7 +89,7 @@ Due to the volatile position of these towns, many guard posts were constructed i
 ### Advancements in Defence and Offence
 Some innovations were made in the field of archery and cavalry.
 
-While minikin had previously hunted and battled by hurling pointy objects at each other through [alucinara](phenomena/alucinara.md), the Aurűk began to create specialised arrows. Arrows would be blessed with [symbols](phenomena/symbols.md) to create a certain effect, could now be kept within a quiver, and more than one could be shot at once.
+While minikin had previously hunted and battled by hurling pointy objects at each other through [alucinara](deities/alucinara.md), the Aurűk began to create specialised arrows. Arrows would be blessed with [symbols](phenomena/symbols.md) to create a certain effect, could now be kept within a quiver, and more than one could be shot at once.
 
 In addition, they began to train some native mustelids known as War Weasels into aiding in battle. These War Weasels would learn to stay calm during a fight, and pay attention to cues from their rider into performing tactical movements, evasion, and war dances. Some war weasels would be blessed with symbolic brands.
 ## Veláni War

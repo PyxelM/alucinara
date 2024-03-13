@@ -18,7 +18,7 @@ Levitation can also be termed a curse, especially when it is employed on another
 ## Method
 Enchantments can be cast through a variety of means. One method is through [Symbols](phenomena/symbols.md), designs traced into alucinara-rich surfaces to create a specific effect. Another, more common, method is through [spell-casting](phenomena/spell-casting.md).
 ### Symbols
-Using symbols, one can cast a long-lived enchantment. Symbols can enforce enchantments for days on end, until the surface they are traced into runs out of [alucinarium](phenomena/alucinara.md).
+Using symbols, one can cast a long-lived enchantment. Symbols can enforce enchantments for days on end, until the surface they are traced into runs out of [alucinarium](deities/alucinara.md).
 
 For example, the design of a raindrop (or other wet thing) can be traced into a tree nearby a farm, and this would enforce the Charm of Rain, meaning that crops could be watered during a drought or famine.
 ### Spell-casting

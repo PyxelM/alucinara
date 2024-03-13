@@ -124,7 +124,7 @@ Settings:
 	- Wilderness
 
 - ### Poem 6
-Poem 6 is a poem, written in Iambic Tetrameter, with a rhyming scheme of AA BABA. It focusses on the way that [alucinarium](phenomena/alucinara.md) affects life, and how the world is twisted.
+Poem 6 is a poem, written in Iambic Tetrameter, with a rhyming scheme of AA BABA. It focusses on the way that [alucinarium](deities/alucinara.md) affects life, and how the world is twisted.
 #### 'Every Force of Nature'
 *So, ev'ry force of nature show'd  
 the shatter'd ways the crystal glow'd.*

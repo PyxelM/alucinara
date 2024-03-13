@@ -67,6 +67,6 @@ As the city-state developed, it became clearer and clearer that such a centralis
 
 Essentially, these people were given a lot of control over their own district to enforce rules, imprison, and alter the way things work in their respective areas. Their subjects would pay taxes to them, ad half of the money would be given to Kallaśí the queen.
 
-These oligarchs would convene at the royal tree with the queen, discussing matters such as crime, taxes, citizen loyalty, war with other tribes, among other things. In addition, they were also trained by Kallaśí to be proficient sorcerers; they gained great Alucinara-Endurance and a great knowledge of how to use [Alucinara](phenomena/alucinara.md) for their own purposes as people in power.
+These oligarchs would convene at the royal tree with the queen, discussing matters such as crime, taxes, citizen loyalty, war with other tribes, among other things. In addition, they were also trained by Kallaśí to be proficient sorcerers; they gained great Alucinara-Endurance and a great knowledge of how to use [Alucinara](deities/alucinara.md) for their own purposes as people in power.
 
 However, they all had their heads and all of their fur shaven. this was to show their loyalty to Sarvara, as Squirrels were worshipped and revered religiously in Morellic society, and fur was seen as a connection to their divine ancestors. It showed a great amount of loyalty to forsake one's connection to their religion in place of a show of commitment to their country, despite how embarrassing it may have seemed.

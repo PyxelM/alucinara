@@ -38,7 +38,7 @@ Demi-slug religious leaders don't wear the pneumostome armour, due to their unwa
 Some religious leaders in higher positions don't wear clothing over the pneumostome at all, showing the most vulnerable part of their body on display, trusting the gods wholly not to curse them by getting it damaged.
 
 ## Natural Predators
-The main predator of demi-slugs is the featherfly, an avian species originating in the 1st realm. Not abiding by earthen biology, they are a large insectoid species with an exoskeleton and a circular ray of feathers atop their back used to glide; [Alucinara](phenomena/alucinara.md) provides lift.
+The main predator of demi-slugs is the featherfly, an avian species originating in the 1st realm. Not abiding by earthen biology, they are a large insectoid species with an exoskeleton and a circular ray of feathers atop their back used to glide; [Alucinara](deities/alucinara.md) provides lift.
 
 ## Pantheon
 ### The Blind Mole

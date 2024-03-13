@@ -26,14 +26,16 @@ However, the second judge began to deviate from the first's plan. Motivated by e
 The Darkness immediately grew disproportionate in power once it had fed upon nebulae and galaxies, thriving under the laws of nature that weren't built to restrict it. Eventually, it grew cocky, and attempted to harvest the energy of the First Judge once the last star was gone.
 
 The First Judge was furious when it had discovered the Darkness, disgusted and mortified that the essence had taken the horrifying purpose of feeding upon and destroying the beauty of the created universe.
+
+The judges immediately clashed with Darkness, which attempted to feed upon them. The two other forces were employed in all of their power to combat the effects of Life; but it was no use.
 ### The Battle
-The judge immediately clashed with Darkness. The two other forces were employed in all of their power to combat the effects of Life; but it was no use, and the Darkness pressed in upon the first judge until it was wholly enveloped and destroyed.
+Attempting to fight off the Darkness, the Second Judge completely overhauled the laws of nature, changing the way in which the force of Truth worked, creating the Second Laws of Nature. The First Judge likewise defended itself, creating the new force of Magic, which allowed the First Laws to live on as well as the second.
+#### Second Laws of Nature and Magic
+The second laws of nature caused the forces to require physical form. This led to the manifestation of the [Petrified Child](deities/the-petrified-child.md), the [Golden Ape](deities/the-golden-ape.md), Alucinarium, and Hydrocarbons.
 
-the Darkness, in its overwhelmingly massive quantity, went to subsume the First Judge. The Judge exerted the forces of creation a thousand times over to push them away, but it was of no use against the greedy, ever hungry, mass.
+[Alucinara](deities/alucinara.md) was the energy through which Magic operated, and Alucinarium the physical material to contain it. Likewise, [Darkness](deities/the-darkness.md) was the energy through which Life operated, and Hydrocarbons the physical material to contain it too. 
 
-Terrified, the Second Judge sacrificed itself, turning it's energy into the [Second Laws of Nature](phenomena/natural-laws/second-laws.md) in a vain attempt to save its companion. These new laws served to impose restrictions on the Darkness, and created the fourth force known as 'Goodness' to govern Life, and destroy any evil thing under its watch.
-
-In the First Judge's last moments, it used the last ounces of it's energy to create the fifth force of [Alucinara](phenomena/alucinara.md), a force that allowed the First Laws to exist in place of the Second. This meant that the beauty the judge had created could still exist, and the Darkness could also live on.
+Upon the combination of Darkness and Alucinara, the Soul is created. The Soul is what allows living beings to act and think.
 ## Aftermath
 ### The Shattering of the Realms
 The universe was greatly weakened by the shockwave created in the First Judge's death; The explosion created would later be known as the Big Bang or the Supernova, which caused the universe to shatter into thousands of realms.
@@ -58,15 +60,11 @@ For example, infra-essential shift is a symptom of Phantasmarrhoea, where one is
 
 Furthermore, mass-essential shift took place when the Supernova reached Earth. It is the reason that the squirrels of the 0th realm entered the 2nd realm and developed into [minikin](species/fauna/minikin.md).
 ### The Deities
-Upon the shattering of the realms, the forces gained physical bodies due to the second laws of nature. These bodies appeared as rocky mineral deposits piloted and puppeted by their respective force.
-#### The Petrified Child
-One of these deities was the [Petrified Child](deities/the-petrified-child.md), the manifestation of the force 'Goodness.' It governed the living beings of the essent realms, using [watchstones](phenomena/watchstones.md) as a form of surveillance to see and know when evil takes place.
-
-Upon the detection of evil, it would destroy it, turning it into 'baby sludge,' a fertiliser that facilitates the blooming of beautiful 'baby meadows.'
-### The Darkness
-Another deity was the [Darkness](deities/the-darkness.md), the manifestation of the force of the same name. It governed the methods by which a being may live, taking the form of the building blocks of life - Hydrocarbons, found in tar, asphalt, and amino acids.
-
-This meant that the Darkness could continue to live. Hydrocarbons and Alucinara create the Soul, and the Soul and a viable body create a living being. This level of restriction now meant that Darkness could no longer destroy beauty to the same degree that it had in the past.
+As the forces were compelled to gain physical form through the second laws of nature, the resulting beings became known as the deities. This includes:
+- [Alucinara](deities/alucinara.md)
+- [The Darkness](deities/the-darkness.md)
+- [The Golden Ape](deities/the-golden-ape.md)
+- [The Petrified Child](deities/the-petrified-child.md)
 ### The Pond
 The Second Laws of Nature resolved to banish the Darkness to the void-space between every realm known as the Pond, an afterlife (or 'outer' life) where the Darkness within a soul goes upon expiry or creation of a body.
 
@@ -80,7 +78,7 @@ The Second Laws, in tandem with the First, turned the Darkness from a devouring 
 ## Species of the Realms
 In every realm, many many species had developed. The species of the 0th realm had developed and arose with little to no knowledge or experience at all with Alucinara. That is, until a supernova had blasted the Earth with it.
 ### The Supernova
-In 80 [MyBS](lore/sarvaran-calendar.md), the shockwave created when the First Judge was destroyed had finally reached the Earth; the first supernova. As the Judge had created [alucinara](phenomena/alucinara.md) upon it's death, the supernova was rich in alucinara energy, resulting in the mass-essential shift of 1% of all matter affected.
+In 80 [MyBS](lore/sarvaran-calendar.md), the shockwave created when the First Judge was destroyed had finally reached the Earth; the first supernova. As the Judge had created [alucinara](deities/alucinara.md) upon it's death, the supernova was rich in alucinara energy, resulting in the mass-essential shift of 1% of all matter affected.
 
 There was virtually no destruction on that day, but the many living beings affected were now displaced. In the blink of an eye, masses of creatures were dispersed into the essent realms from the 0th. A lot of them went on to be hunted by the native predators, leading to the rapid need for evolution.
 ### New Species

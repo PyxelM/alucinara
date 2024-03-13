@@ -12,7 +12,7 @@ The Petrified Child, also known as 'Goodness,' is a deity that regulates and des
 
 The Petrified Child has the appearance of a swaddled infant, and is approximately 5 metres in length. It has the body of a bean-like inverse teardrop, a surface texture of shifting, looped ridges, and a round face on the front of its upper half. 
 
-It is made of solid stone, composed of many mineral or mineraloid compounds, and has [alucinarium](phenomena/alucinara.md) eyes with a deep purple sclera and glowing orange iris. Its rock type cannot be determined, as it was not formed but rather manifested upon the shattering of the realms.
+It is made of solid stone, composed of many mineral or mineraloid compounds, and has [alucinarium](deities/alucinara.md) eyes with a deep purple sclera and glowing orange iris. Its rock type cannot be determined, as it was not formed but rather manifested upon the shattering of the realms.
 
 Its face takes many forms, often shifting depending on who the Petrified Child is facing. For example, to the [minikin](species/fauna/minikin.md), it appears with the face of a minikin child, and to the [demi-slugs](species/fauna/demi-slugs.md), the face of a demi-slug child.
 

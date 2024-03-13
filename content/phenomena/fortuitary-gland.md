@@ -5,7 +5,7 @@ tags:
   - featured
 ---
 ## Overview
-Fortuitary glands are glands dedicated to the secretion of [Alucinarium](phenomena/alucinara.md), and are integral to the use of Alucinara in biological processes or tools.
+Fortuitary glands are glands dedicated to the secretion of [Alucinarium](deities/alucinara.md), and are integral to the use of Alucinara in biological processes or tools.
 
 In [Minikin](species/fauna/minikin.md), they are small, two of them situated underneath the eyes, behind the back of the throat. When given an electrical impulse, they secrete Alucinarium into the bloodstream and saliva, which can then be converted into Alucinara energy and used for [spell-casting](phenomena/spell-casting.md).
 

@@ -20,7 +20,7 @@ Freakleaf trees themselves feature purple wood, with blue and green highlights.
 - When dissolved into a drink, the liquid appears transparent with a deep red-orange tint.
 
 ## Intoxicative Effects
-The effects of Freakleaf tea are characterised by slight hallucination, vivid sight, slurring of speech, sluggish movement, and temporary loss of control over one's body in extreme cases. Prolonged consumption of Freakleaf tea results in blindness and risk of phantasmarrhoea, due to the [Alucinara](phenomena/alucinara.md) content in the leaves.
+The effects of Freakleaf tea are characterised by slight hallucination, vivid sight, slurring of speech, sluggish movement, and temporary loss of control over one's body in extreme cases. Prolonged consumption of Freakleaf tea results in blindness and risk of phantasmarrhoea, due to the [Alucinara](deities/alucinara.md) content in the leaves.
 
 ## Religious Significance
 Freakleaf tea is religiously significant to many Minikin groups, being consumed in rituals by the [Móra riSéwi](groups/mora-risewi-tribe.md) and [Morellic Minikin](groups/morellic-minikin.md).

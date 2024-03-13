@@ -3,6 +3,7 @@ title: The Golden Ape
 tags:
   - deity
   - golden-ape
+  - featured
 ---
 ## Overview
 The golden ape, also known as 'Truth,' is a deity through which all knowledge is learnt, practised, and made known. It has a similar manifestation to that of the [Petrified Child](deities/the-petrified-child.md) but has the appearance of a gibbon made of gold.
@@ -11,7 +12,7 @@ The golden ape, also known as 'Truth,' is a deity through which all knowledge is
 
 The golden ape appears as with a smooth body with a shape akin to a stout inverse pear, with a small simian face with eyes and a nose, and marked ridges and bumps that emulate the appearance of hands and feet.
 
-It measures with a length of 3 metres, floats above the ground, and is made of pure gold. It has glowing orange eyes made of [alucinarium](phenomena/alucinara.md) that are kept closed when the deity is inactive.
+It measures with a length of 3 metres, floats above the ground, and is made of pure gold. It has glowing orange eyes made of [alucinarium](deities/alucinara.md) that are kept closed when the deity is inactive.
 ## Purpose
 The purpose of the golden ape is to know everything that is capable of being known, and contain all truth. Through the ape, all laws of nature are followed, and all knowledge is made known.
 
