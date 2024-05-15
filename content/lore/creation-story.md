@@ -9,7 +9,7 @@ tags:
 In this note, I will describe the canonical creation story. In-world, it is believed by the [Morellic Minikin](groups/morellic-minikin.md), but was diverged from or was abandoned by many other groups who believe other stories. It features the tale behind the First and Second Judges, and eventually the emergence of Life.
 ## See Also:
 - [The History of the Móra riSéwi Minikin](lore/mora-risewi-history.md)
-- [The History of the Morellic Minikin](lore/histories/morellic-history.md)
+- [The History of the Morellic Minikin](lore/history/early-minikin-history.md)
 ## Events
 At first, there was an inky void stretching on for eternity. The void was wholly empty, except for two spirits, the First Judge and the Second. The judges were created by nothing but for the inherent obligation of creating beauty.
 
