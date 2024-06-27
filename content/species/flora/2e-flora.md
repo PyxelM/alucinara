@@ -1,8 +1,8 @@
 ---
-title: Edible Plants of the Second Realm
+title: Flora of the Second Realm
 tags:
   - flora
-  - foods
+  - 2nd realm
 ---
 ## Nyuta Bushes
 Nyuta bushes are a type of bush native to the 2nd and 1st realms. They have red leaves and purple berries. Nyuta leaves are dried and consumed in a purple tea by many [minikin](species/fauna/minikin.md) cultures.
@@ -45,4 +45,4 @@ Glowpear trees are a type of tree native to the 2nd and -1st realms. Their leave
 ### Glowpears
 Glowpears are the fruit of the glowpear tree. They are similar to pears, with the main difference being their luminous, vibrant blue-cyan colour. Their juice similarly glows, owing to the presence of [alucinarium](deities/alucinara.md). They are sometimes foraged by some Minikin cultures.
 ### Glowpear Leaves
-Glowpear Leaves are the leaves of the glowpear tree. They are shiny, with a deep green complexion. They are inedible to Minikin, but serve as a vital food source for herbivorous livestock such as treepigs, wooly bushdeer, and pack-snails.
+Glowpear Leaves are the leaves of the glowpear tree. They are shiny, with a deep green complexion. They are inedible to Minikin, but serve as a vital food source for herbivorous livestock such as bushdeer, wooly hogs, and pack-snails.
