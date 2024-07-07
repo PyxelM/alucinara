@@ -31,7 +31,7 @@ Hairlessness and / or fur distribution can vary from race to race depending on t
 For example, the equatorial Morello-Oyhoyunic minikin are almost completely hairless apart from their heads, genitals, and tails. In contrast, the southern alpine Snissojian minikin are hairy all over apart from their faces and palms, covered with fluffy white fur to adapt to their cold, snowy environment.
 
 ### Eyes
-Minikin skin colour can vary from dark to light, often taking on a semi-dark beige colour. Eye colour can vary from brown, to green, or to blue. In cases of prolongued [alucinarium](deities/alucinara.md) exposure, the irises would take on a light pink or purple colour.
+Minikin skin colour can vary from dark to light, often taking on a semi-dark beige colour. Eye colour can vary from brown, to green, or to blue. In cases of prolongued [alucinarium](cosmology/alucinara.md) exposure, the irises would take on a light pink or purple colour.
 
 ## Diet
 As omnivores, minikin often tend to eat;

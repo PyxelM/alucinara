@@ -67,7 +67,7 @@ Not long after the symptoms appeared in the populus, they died, turning hollow w
 
 In addition, Ykutru also died; Ykutru was the twin sister of the co-regnant Ajun, they were the two deformed twin queens of the city at the time. Ajun was horrified; her city, her twin sister, all gone. Not only this, but also the magical implications.
 
-Twins share one soul, but the [magic energy](deities/alucinara.md) contained within the soul is enough to fill two bodies. When one twin dies, the other is filled to overflowing with magic energy (enough for two people); most twins die when this happens, undergoing the [curse of phantasmarrhoea](phenomena/phantasmarrhoea.md), some some are strong enough to resist. Unfortunately, the side effects still include insanity, violent irritability, and sometimes partial phantasmarrhoea.
+Twins share one soul, but the [magic energy](cosmology/alucinara.md) contained within the soul is enough to fill two bodies. When one twin dies, the other is filled to overflowing with magic energy (enough for two people); most twins die when this happens, undergoing the [curse of phantasmarrhoea](phenomena/phantasmarrhoea.md), some some are strong enough to resist. Unfortunately, the side effects still include insanity, violent irritability, and sometimes partial phantasmarrhoea.
 
 Ajun was now a husk of her former self, she lost almost everything, her mind, her sister, a portion of her population, but she still had her power - she still had the ability to order people to make things right. The almost immediately ordered the eradication of the sick, and feared for her own health - she resigned herself to only wearing layers upon layers of armours and fabrics to shield herself from the fumes, despite the fact she lived in the royal tree where any of the fumes would simply sink to the ground.
 
@@ -151,7 +151,7 @@ Weasels are essentially the same in the [2nd Realm](locations/2nd-realm.md) as i
 
 Minikin, being smart, noticed this, and began to weaponise them against their neighbours, eventually training them and treating them as pets once the aggression was bred out of them by skilled pastoralists. Now, they are largely used as cavalry in the military.
 
-One or two minikin soldiers will sit upon a weasel's back, supported by the 3rd pair of legs, and charge at the enemy, holding spears in their hands or using [Alucinara](deities/alucinara.md) to levitate daggers and sharp objects forward into the enemy, like a spear or arrow.
+One or two minikin soldiers will sit upon a weasel's back, supported by the 3rd pair of legs, and charge at the enemy, holding spears in their hands or using [Alucinara](cosmology/alucinara.md) to levitate daggers and sharp objects forward into the enemy, like a spear or arrow.
 
 It is an iconic sight to see a soldier or two sitting upon a weasels back, with only a rug-like cloth separating the rider from its steed, with an array of levitating darts above the rider's head floating in an arc, ready to be shot forward in a burst of magic.
 

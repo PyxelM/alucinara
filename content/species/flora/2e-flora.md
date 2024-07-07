@@ -15,7 +15,7 @@ Sarkitwara trees are a type of citron tree native to the 2nd and 1st realms. The
 ### Sarkitwara
 Sarkitwara themselves are the plants' segemented orange fruits. Their segments can be removed whole, and individually peeled, revealing a pithy orange-like flesh, with large black seeds within.
 
-When unripe, the fruit releases flashes of light when disturbed, through the use of [alucinara](deities/alucinara.md). This is to deter herbivores who may attempt to eat the fruit before it is ready to germinate.
+When unripe, the fruit releases flashes of light when disturbed, through the use of [alucinara](cosmology/alucinara.md). This is to deter herbivores who may attempt to eat the fruit before it is ready to germinate.
 
 Wild Sarkitwara are foraged by some minikin cultures, and some varieties were domesticated, such as the Morellic Sarkitwara, which began to be cultivated in orchards by the Sarvaran minikin.
 ### Pelen
@@ -47,7 +47,7 @@ As well as being able to be turned into bread, Lunuth is farmed by some minikin 
 ## Glowpear Trees
 Glowpear trees are a type of tree native to the 2nd and -1st realms. Their leaves are deep green and their fruit are glowing blue. They are grown in orchards by some Minikin cultures.
 ### Glowpears
-Glowpears are the fruit of the glowpear tree. They are similar to pears, with the main difference being their luminous, vibrant blue-cyan colour. Their juice similarly glows, owing to the presence of [alucinarium](deities/alucinara.md). They are sometimes foraged by some Minikin cultures.
+Glowpears are the fruit of the glowpear tree. They are similar to pears, with the main difference being their luminous, vibrant blue-cyan colour. Their juice similarly glows, owing to the presence of [alucinarium](cosmology/alucinara.md). They are sometimes foraged by some Minikin cultures.
 ### Glowpear Leaves
 Glowpear Leaves are the leaves of the glowpear tree. They are shiny, with a deep green complexion. They are inedible to Minikin, but serve as a vital food source for herbivorous livestock such as bushdeer, wooly hogs, and pack-snails.
 ## Dreamberry Bushes

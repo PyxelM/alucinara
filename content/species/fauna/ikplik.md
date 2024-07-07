@@ -15,7 +15,7 @@ They are rarely eaten by all races but the [austerkin](groups/austerkin) as thei
 
 Austerkin eat ikpliks as a delicacy, as their diet is similar enough to ikpliks that the effects of the toxins is nullified.
 ## Morphology
-Ikpliks are identical to meerkats except for in a few respects; they not only have an extra pair of limbs, but also employ the use of [alucinara](deities/alucinara.md) energy as a defence mechanism.
+Ikpliks are identical to meerkats except for in a few respects; they not only have an extra pair of limbs, but also employ the use of [alucinara](cosmology/alucinara.md) energy as a defence mechanism.
 ## Diet
 The diet of ikpliks is defined by its mainly herbivorous nature; the main food sources for ikpliks are;
 - grass

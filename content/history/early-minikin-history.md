@@ -14,10 +14,10 @@ tags:
  - The genus Anthrosciurus diverges from Sciurus
  - Anthrosciurids begin to use tools
 ### 1 MYA
-- Anthrosciurids begin to use fire and [magic](deities/alucinara.md)
+- Anthrosciurids begin to use fire and [magic](cosmology/alucinara.md)
 - Language is developed in Anthrosciurids
 ### 300,000 YA
-- Early Minikin evolve into Modern Minikin (Anthrosciurus arborensis) in northern [Tséireph](lore/locations/tseireph.md)
+- Early Minikin evolve into Modern Minikin (Anthrosciurus arborensis) in northern [Tséireph](locations/tseireph.md)
 ### 200,00 YA
 - First wave of minikin migration takes place
 - Ancestors of Eastern Minikin (subspecies Anthrosciurus arborensis occidentalis) migrate to the eastern continent and eastern islands
@@ -31,7 +31,7 @@ tags:
  - The various Minikin subspecies begin to spread and cohabitate with other races
 ### 10,000 YA
 - Agriculture begins to be practised by Minikin, originating in fluvial areas with seasonal floods in Mediterranean climates.
-	- In the region of the [Sarvaran river basin](lore/locations/sarvaran-basin.md), in the southern half of Tséireph
+	- In the region of the [Sarvaran river basin](locations/sarvaran-basin.md), in the southern half of Tséireph
 	- In the region of Kossüka, in the northern half of Tséireph
 	- In the region of Weikahn, in the eastern continent
 ### 9000 YA
@@ -39,4 +39,4 @@ tags:
 - Minikin began to wear clothing made out of Lunuth fibre, Oomi silk, and Treegoat fur, dyed with pigments derived from various berries, trees, insects, and fungi
 - The first proto-cities were founded
 ## Further Reading
-- [Sarvaran history](lore/history/morellic-history.md)
+- [Sarvaran history](history/morellic-history.md)
