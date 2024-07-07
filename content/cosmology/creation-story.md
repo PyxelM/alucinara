@@ -23,7 +23,7 @@ The second judge, consumed by regret and loneliness, decided to attempt to make 
 #### Darkness
 However, Darkness now required a physical form, which was Hydrocarbons. The only way in which the darkness could affect the world was by functioning as the soul of living beings, originating in the amino acids and organic compounds that are found in all carbon-based lifeforms. In the form of bitumen or tar, the darkness could exist, but not affect the world.
 ##### Deities
-Most of the spirits of darkness were destroyed in the shattering, or trapped within the furthest realms, leading new souls to be produced as live began to develop in the new realms. However, some of the spirits of darkness were powerful enough to not only survive but also shift into the central realms and exist incorporeally.
+Most of the spirits of darkness were destroyed in the shattering, or trapped within the furthest realms, leading new souls to be created as life began to develop in the new realms. However, some of the spirits of darkness were powerful enough to not only survive but also shift into the central realms and exist incorporeally.
 
 These spirits were only contactable by physical beings through dreams and the use of alucinara energy, and began to be revered as gods by some cultures. As gods, these spirits would perform favours and miracles in return for the prayers and sacrifices from those who followed them.
 
