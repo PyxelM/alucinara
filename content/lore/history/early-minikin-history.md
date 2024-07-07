@@ -33,26 +33,10 @@ tags:
 - Agriculture begins to be practised by Minikin, originating in fluvial areas with seasonal floods in Mediterranean climates.
 	- In the region of the [Sarvaran river basin](lore/locations/sarvaran-basin.md), in the southern half of Tséireph
 	- In the region of Kossüka, in the northern half of Tséireph
-	- In the region of Veyen, in the eastern continent
+	- In the region of Weikahn, in the eastern continent
 ### 9000 YA
-- Various plants and animals began to be domesticated, such as:
-	- Sarkitwara Trees
-	- Nyutaberries
-	- Lunuth Wheat
-	- Pelen Root
-	- Giant Morels
-	- Yomi Silkworms
-	- Southern Giant Snails
-	- Pygmy Treegoats
-	- Cavalry Weasels
-- Minikin began to wear clothing made out of Lunuth fibre, Yomi silk, and Treegoat fur, dyed with pigments derived from various berries, trees, insects, and fungi
-### 8500 YA
-- Tools began to be made of metals such as bronze rather than stone
-- The need for record keeping spurs on the invention of writing
-- Pottery begins to be created by the minikin
+- Various plants and animals began to be domesticated
+- Minikin began to wear clothing made out of Lunuth fibre, Oomi silk, and Treegoat fur, dyed with pigments derived from various berries, trees, insects, and fungi
 - The first proto-cities were founded
-Minikin cities are different to human cities; rather than featuring houses built on the ground, Minikin would rather live in the canopy, using the height as a barrier against predators.
-
-Urban minikin slept in hammocks amongst the tree branches, stored goods in clay shelters attached to the branches, and worshipped deities in temples on the ground.
 ## Further Reading
-- [Sarvaran history](lore/history/sarvaran-history.md)
+- [Sarvaran history](lore/history/morellic-history.md)

@@ -40,9 +40,34 @@ Lunuth wheat produces small grains with hard, purple hulls. These grains are typ
 Lunuth bread has been a staple food of many minikin cultures, even non-agricultural groups. It has a slight purple hue beside from being mainly beige and brown. It is typically leavened, sprinkled with Nyuta seeds, and eaten with lunaflower oil.
 ### Lunuth-based Textiles
 As well as being able to be turned into bread, Lunuth is farmed by some minikin cultures for it's long, flax-like fibres, which are turned into thread or woven into Lunuth fabric. In some regions of Qherell, Lunuth was the first plant to be used in textiles, revolutionising the craft for the Sarvaran Civilisation.
+## Aqhoran Rice Plants
+
+### Aqhoran White Rice
+
 ## Glowpear Trees
 Glowpear trees are a type of tree native to the 2nd and -1st realms. Their leaves are deep green and their fruit are glowing blue. They are grown in orchards by some Minikin cultures.
 ### Glowpears
 Glowpears are the fruit of the glowpear tree. They are similar to pears, with the main difference being their luminous, vibrant blue-cyan colour. Their juice similarly glows, owing to the presence of [alucinarium](deities/alucinara.md). They are sometimes foraged by some Minikin cultures.
 ### Glowpear Leaves
 Glowpear Leaves are the leaves of the glowpear tree. They are shiny, with a deep green complexion. They are inedible to Minikin, but serve as a vital food source for herbivorous livestock such as bushdeer, wooly hogs, and pack-snails.
+## Dreamberry Bushes
+Dreamberry bushes are a plant native to the 2nd and 1st realms similar to raspberry plants. They feature long, creeping branches with small green leaves and sharp thorns.
+### Dreamberries
+Dreamberries are small berries similar to cloudberries which range in colour from orange to pink depending on variety. They are foraged and eaten by some minikin cultures, making up a large part of their diets.
+### Dreamberry Jam
+Dreamberry jam is a jam made out of Dreamberries. It was first invented by the Sarvaran minikin, whom ate it alone or spread on or inside of Lunuth bread loaves, sandwiches, or baguettes.
+### Dreamberry Wine
+Dreamberry wine was also invented by the Sarvaran minikin, and was their preferred alcoholic drink of choice. Dreamberries got their name from the dreamy effect that drunkenness on the wine would provide the Sarvarans.
+### Use
+Dreamberry bushes are used by some Minikin cultures to defend bases and stockpiles. They are planted in hedges at the base of trees, walls, and burrows, warding off opportunists who may want to eat stored food or attack those beyond the bushes.
+## Elkfruit Trees
+
+### Elkfruit
+
+### Elkfruit Wine
+
+## Darkwort
+
+### Darkwort Vines
+
+### Darkwort Leaves
