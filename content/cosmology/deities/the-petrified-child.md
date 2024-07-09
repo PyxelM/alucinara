@@ -8,7 +8,7 @@ tags:
 ## Overview
 The Petrified Child is a deity that regulates and destroys those who commit evil acts. It travels by floating metres above the ground, and can shift across realms at its own discretion.
 ## Appearance
-![](Pasted%20image%2020240312204728.png)
+![](Pasted%20image%2020240709123056.png)
 
 The Petrified Child has the appearance of a swaddled infant, and is approximately 5 metres in length. It has the body of a bean-like inverse teardrop, a surface texture of shifting, looped ridges, and a round face on the front of its upper half. 
 

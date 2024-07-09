@@ -9,9 +9,9 @@ tags:
   - lore
 ---
 ## Overview
-The Morellic race is a race of minikin descending from the Sarvaran, Aqhoran, and Corothic cultures. These cultures were forager nomads from the west, north, and east, who settled in the Sarvaran river basin due to it's highly fertile soil and the Sarva river's seasonal flooding.
-### Colour Coding
-The main colours of the three tribes are Red for the Aqhorans, Orange for the Sarvarans, and Yellow for the Corothic Minikin. These stem from the most abundant dyes in each area, being Aqhoran Red (originating from nyutaberry roots), Sarvaran Orange (originating from dhajar tree bark), and Corothic Yellow (originating from turmeric rhizomes).
+The Morellic race is a race of minikin descending from the Sarvaran, Aqhoran, and Corothic cultures. These cultures were forager nomads from the west, north, and east, who settled in the Sarvaran river basin due to it's highly fertile soil and the Mora river's seasonal flooding.
+### Dyes and Colours
+The main colours of the three tribes are Red for the Aqhorans, Orange for the Sarvarans, and Yellow for the Corothic Minikin. These stem from the most abundant dyes in each area, being Aqhoran Red (originating from nyutaberry roots), Sarvaran Orange (originating from dhajar tree bark), and Corothic Yellow (originating from Corothic turmeric rhizomes).
 ## Timeline
 ### 9000 YA
 9000 years ago, the Sarvaran, Aqhoran, and Corothic minikin settled in the Sarvaran river basin, and by this time Minikin everywhere had begun to use stone tools for centures.
@@ -37,9 +37,9 @@ It was 8500 years ago that the first proto-cities in southern Tséireph were fou
 #### Aqhor
 Aqhor, a port settlement, was the most advanced of the proto-cities to arise in the river basin, and was where the name of the Aqhoran minikin originates. It was here that agriculture began to be practiced for the first time, as the Aqhoran minikin would farm crops such as Aqhoran rice and Lunuth wheat.
 #### Sarvara
-Sarvara was a Morellic proto-city, founded inland on the Sarva river, where it got it's name. Sarvara showed a trend consistent with future Morellic communities, the inhabitation of the canopy, where clay shelters, walkways, and other structures were built on the branches of Red Dhakar trees.
+Sarvara was a Morellic proto-city, founded inland on the Mora river. Sarvara showed a trend consistent with future Morellic communities, the inhabitation of the canopy, where clay shelters, walkways, and other structures were built on the branches of Red Dhakar trees.
 
-Sarvara benefitted from the seasonal flooding of the Sarva river, but lacked in agricultural prowess, owing to the Sarvaran minikin's preferrence for hunter-gathering. However, arboreal foraging gave them a natural access point to the farming of various species, such as Nyutaberries, Sarkitwara, and Oomi silkworms.
+Sarvara benefitted from the seasonal flooding of the Mora river, but lacked in agricultural prowess, owing to the Sarvaran minikin's preferrence for hunter-gathering. However, arboreal foraging gave them a natural access point to the farming of various species, such as Nyutaberries, Sarkitwara, and Oomi silkworms.
 
 The Sarvaran minikin would create tools for cutting and hunting, using sharp blades to safely cut fruit off their branches and rudimentary bows and arrows to hunt animals such as rat monkeys and defend themselves against the predatory pygmy widrens in the area.
 #### Coroth
