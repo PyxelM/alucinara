@@ -6,7 +6,9 @@ tags:
   - featured
 ---
 ## Overview
-The Petrified Child is a deity that regulates and destroys those who commit evil acts. It travels by floating metres above the ground, and can shift across realms at its own discretion.
+The Petrified Child is an entity with the purpose of governing evil, a task given by the second Judge. It accomplishes this through the use of [watchstones](phenomena/watchstones.md) and the turning of evildoers into baby meadows.
+
+It was initially created as the Spirit of Goodness before the shattering of a realms, but was given the mind and image of a child once the third laws of nature were created, which required virtually all spirits to have a physical form.
 ## Appearance
 ![](images/the-petrified-child.png)
 

@@ -1,0 +1,54 @@
+- serewęth <<< sele-vent
+- mïrnisem <<< mïzni-semu
+- skerasem <<< skela-semu
+- yerekh murį <<< ghezek muzin
+- sikauberą <<< sikûbe-zan
+- belonarą <<< belhona-zan
+- tsünrok murį <<< tsünzoka muzin
+- anudhrą <<< anudh-zan
+- darwidh <<< dazvida
+- illirą <<< ilyi-zan
+- anwakirą - anhvaki-zan
+- tïrissem <<< tïnlis-semu
+- skerivadh <<< skezi-bhadu
+- odwamegh <<< odvam-ega
+- stïreisem <<< stïlâ-semu
+- draupïną <<< dzûpïnan
+- arasam murį <<< alasamh muzin
+- kürąpenoi <<< küzan-penoya
+- errïkaurą <<< ellikû-zan
+- üsmirith <<< üsmil-itu
+- nünukh murį <<< nünuk muzin
+- avedhra <<< abhedh-zan
+- awamoko <<< avam-okon
+- sutwarath <<< sutva-alati
+- ouka murį <<< ôka muzin
+- araveisem <<< alabhê-semu
+- ospara <<< ospa-zan
+- wilasem <<< vila-semu
+- nikarabh <<< nikazab
+- khanarau muri <<< hanalû muzin
+- dhükesem <<< dhüken-semu
+- rawalutira <<< zawa-lhuti-zan
+- sekayürunith <<< seka-ghülun-itu
+- owi mutasi <<< ovin mhu-tasin
+- kemaghra <<< kemag-zan
+- arkïtsara <<< alkïtsa-zan
+- lutïpunukra <<< lhutï-punuk-zan
+- daurikeira <<< dûlikân-zan
+- waitakuph murį <<< vîtan-kupa muzin
+- dhaukir <<< dhûkil
+- kabikon murį <<< kambikonh muzin
+- seresem <<< sele-semu
+- akuphra <<<< akup-zan
+- norüc murį <<< nolüsya muzin
+- akuppadra <<< akuppad-zan
+- mülu <<< mülhun
+- erüskorel <<< ezüs-kozelh
+- lutalukh <<< lütanluk
+- ksabira <<< ksabi-zan
+- kalayemira <<< kalan-ghemi-zan
+- dhesekera <<< dhesenke-zan
+- eyumesai murį <<< eghum-esî muzin
+- akulubh <<< akulhuba
+- üskura <<< üsku-zan

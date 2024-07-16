@@ -9,6 +9,8 @@ tags:
 Alucinara, also known as magic, is a form of energy that alters the ways in which the natural world can operate. It does this by altering the laws of nature in its vacinity from the third laws of nature to the first.
 ## Appearance
 The energy lacks an appearance, but is physically contained within the crystalline element of Alucinarium. Alucinarium is dark purple and shines bright orange, emitting bright orange specks, orbs, and flashes of light when disturbed.
+## Origins
+Alucinara energy originates before the shattering of the realms, in the original first laws of nature created by the first Judge. When the realms were shattered by the spirits of darkness, the second judge enforced the third laws of nature, but created Alucinara energy as it is now, alloweding the first laws to operate in its presence.
 ## Biology
 The presence of Alucinara on living beings has many effects, such as the development of the fortuitary gland where alucinarium is excreted into the bloodstream for use, and the manipulation of evolution in unexpected and fantastical ways.
 ### In Tandem with Darkness
