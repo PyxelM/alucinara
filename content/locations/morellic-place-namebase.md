@@ -1,3 +1,9 @@
+---
+title: Proto-Morellic Place Namebase
+tags:
+  - morellic
+  - namebase
+---
 - serewęth <<< sele-vent
 - mïrnisem <<< mïzni-semu
 - skerasem <<< skela-semu
