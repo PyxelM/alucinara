@@ -2,10 +2,10 @@
 title: Fauna of the Second Realm
 tags:
   - fauna
-  - 2nd realm
+  - second-realm
 ---
 ## Minikin
-[Minikin](species/fauna/minikin.md) are a sapient rodent species native to the 2nd realm. They are descended from the European Red Squirrel, with a lifespan of 12-18 years, reaching maturity around 8 years of age.
+[Minikin](fauna/minikin.md) are a sapient rodent species native to the 2nd realm. They are descended from the European Red Squirrel, with a lifespan of 12-18 years, reaching maturity around 8 years of age.
 
 They and grew to become the most populous intelligent race of the 2nd Realm, and are capable of speech, agriculture, forming civilisations, among all of the other skills and industries that come with them.
 ### Appearance
@@ -15,7 +15,7 @@ Early Minikin groups were nomadic foragers and hunter-gatherers, living in famil
 ### Diet
 Minikin are mostly herbivores, consuming fruits, nuts, leaves, vegetables, and treebark. Due to other forces, such as the development of cooking technology or food scarcity, Minikin also eat various forms of bread such as Lunuth bread, dairy products such as cheese and yoghurt, and alcoholic drinks such as beer and fruit wine.
 ## Bushdeer
-[Bushdeer](species/fauna/bushdeer.md) are a ruminant species native to the 2nd and 1st realms. They are related to Earth deer, with the major differences being their tree-like antlers, distinct white stripes on their sides, and skull-like white markings on their faces.
+[Bushdeer](fauna/bushdeer.md) are a ruminant species native to the 2nd and 1st realms. They are related to Earth deer, with the major differences being their tree-like antlers, distinct white stripes on their sides, and skull-like white markings on their faces.
 ### Diet
 Bushdeer are herbivorous, their main source of food being leaves and moss. They sometimes eat other foods, such as algae, fungi, and small animals.
 ### Antlers

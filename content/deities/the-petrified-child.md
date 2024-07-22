@@ -3,7 +3,7 @@ title: The Petrified Child
 tags:
   - cosmology
   - petrified-child
-  - featured
+  
 ---
 ## Overview
 The Petrified Child is an entity with the purpose of governing evil, a task given by the second Judge. It accomplishes this through the use of [watchstones](phenomena/watchstones.md) and the turning of evildoers into baby meadows.
@@ -16,7 +16,7 @@ The Petrified Child has the appearance of a swaddled infant, and is approximatel
 
 It is made of solid stone, composed of many mineral or mineraloid compounds, and has [alucinarium](cosmology/alucinara.md) eyes with a deep purple sclera and glowing orange iris. Its rock type cannot be determined, as it was not formed but rather manifested upon the shattering of the realms.
 
-Its face takes many forms, often shifting depending on who the Petrified Child is facing. For example, to the [minikin](species/fauna/minikin.md), it appears with the face of a minikin child, and to the [demi-slugs](species/fauna/demi-slugs.md), the face of a demi-slug child.
+Its face takes many forms, often shifting depending on who the Petrified Child is facing. For example, to the [minikin](fauna/minikin.md), it appears with the face of a minikin child, and to the [demi-slugs](fauna/demi-slugs.md), the face of a demi-slug child.
 
 During the reign of the Empire of the Petrified Child, it was commonly depicted with the face of an owl, owing to the animalistic masks worn in Stonechild Imperial society.
 ## Purpose

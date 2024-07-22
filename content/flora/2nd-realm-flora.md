@@ -2,10 +2,10 @@
 title: Flora of the Second Realm
 tags:
   - flora
-  - 2nd realm
+  - second-realm
 ---
 ## Nyuta Bushes
-Nyuta bushes are a type of bush native to the 2nd and 1st realms. They have red leaves and purple berries. Nyuta leaves are dried and consumed in a purple tea by many [minikin](species/fauna/minikin.md) cultures.
+Nyuta bushes are a type of bush native to the 2nd and 1st realms. They have red leaves and purple berries. Nyuta leaves are dried and consumed in a purple tea by many [minikin](fauna/minikin.md) cultures.
 ### Nyutaberries
 Nyutaberries are small, edible, and purple. They have pink stems and near-white mesocarps which contain many small black seeds. They are foraged by some Minikin cultures.
 ### Nyuta Tea

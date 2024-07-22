@@ -34,7 +34,7 @@ This cross-shaped overlap is created by using a long piece of material which is 
 - Straps
 - Laces
 #### Pins
-In the case of pins, a circular or oblong pin is used to fasten the upper layer to the lower layer. These pins, similar to safety pins, are often decorated with cute pictures, [symbols](phenomena/symbols.md), and designs, and help the overlap to stay in place. One to three is the usual amount of pins used.
+In the case of pins, a circular or oblong pin is used to fasten the upper layer to the lower layer. These pins, similar to safety pins, are often decorated with cute pictures, symbols, and designs, and help the overlap to stay in place. One to three is the usual amount of pins used.
 #### Buttons
 Similar to pins, buttons are also decorated with symbols or pictures. They are sewn into the lower layer's side of the tunic,  and are fed into holes on the other side, in order to make sure that the overlap does not come undone.
 #### Straps

@@ -31,7 +31,7 @@ These gods ranged from good to evil, each having their own personality. The good
 #### Alucinara
 Likewise, Alucinara similarly required a physical form, which was Alucinarium. Alucinarium affected the world at all times, constantly enforcing the first laws within its vicinity. Eventually, most (excluding the living beings of the 0th realm) living beings would use alucinara energy in some way or other, as a tool or biological process.
 #### The Spirit of Goodness
-The spirit of goodness' physical form was that of stone; Anywhere there was exposed stone, the spirit of goodness would be able to see and affect the world. The most common manifestation of the spirit of goodness was [The Petrified Child](cosmology/deities/the-petrified-child.md), but [Watchstones](phenomena/watchstones.md) were the second most common.
+The spirit of goodness' physical form was that of stone; Anywhere there was exposed stone, the spirit of goodness would be able to see and affect the world. The most common manifestation of the spirit of goodness was [The Petrified Child](deities/the-petrified-child.md), but [Watchstones](phenomena/watchstones.md) were the second most common.
 
 The Petrified Child's objective, given by the second judge, was to govern the evil (rather than disorder) commited by living beings by turning all evil beings into an extremely fertile substance known as Baby Sludge, which would trigger the proliferation of lush wildlife, but was incredibly dangerous to touch.
 

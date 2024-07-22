@@ -1,9 +1,8 @@
 ---
 title: Demi-Slugs
 tags:
-- species
 - fauna
-- slug
+- intelligent
 ---
 %%
 What are the significant features which make this relevant to the plot?

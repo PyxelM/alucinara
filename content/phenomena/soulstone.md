@@ -3,7 +3,7 @@ title: Soulstones
 tags:
   - phenomena
   - darkness
-  - featured
+  
 ---
 ## Overview
 Soulstones are deposits of bitumen or asphalt where, in the presence of [alucinara](cosmology/alucinara.md) energy, the soul of a deceased organism may be stored after death.
@@ -19,5 +19,3 @@ Soulstones are used to circumvent this, as they provide a sentimental object to 
 Soulstones are sometimes used to summon the dead. This can be accomplished by keeping one close during sleep, which allows the deceased's soul to appear within the dreams of those nearby.
 
 In addition, in the presence of dust, the soul can manifest into a [Cloud Gnat](phenomena/cloud-gnats.md). These manifestations are mute and unstable, but can provide an effective way of the soul to reenact memories or events that would otherwise be lost in death.
-## Read More
-- [Creation Story](cosmology/creation-story.md)

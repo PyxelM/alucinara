@@ -1,10 +1,8 @@
 ---
 title: Minikin
 tags:
-- species
 - fauna
-- rodent
-- featured
+- intelligent
 ---
 ## Overview
 Minikin (spp. *Anthrosciurus sapiens*) are a small rodent species native to the [2nd Realm](locations/2nd-realm.md). They are arboreal omnivores which tend toward eating nuts and other plants, and descended from red squirrels from the 0th realm. They are capable of language, and appear anthropoid.

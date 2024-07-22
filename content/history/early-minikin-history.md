@@ -3,7 +3,7 @@ title: Early History of the Minikin
 tags:
   - minikin
   - lore
-  - featured
+  
 ---
 ![](images/map_of_2nd_realm.png)
 ## Timeline

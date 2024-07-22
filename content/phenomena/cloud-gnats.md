@@ -3,7 +3,7 @@ title: Cloud Gnats
 tags:
   - phenomena
   - pseudo-fauna
-  - featured
+  
 ---
 ## Overview
 Cloud Gnats are animal-like apparitions made of [alucinariferous](cosmology/alucinara.md) dust. They commonly appear as small animals, standing upright with their abdomen tapering off into a wispy tail. They retain cohesion through the influence of Alucinara, but diffuse once the energy is unable to sustain cohesion.
