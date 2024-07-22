@@ -4,7 +4,6 @@ tags:
   - writing
   - poetry
 ---
-## Vers 1.
 So, every force of nature showed  
 the shattered ways the crystal glowed.
 
