@@ -20,9 +20,9 @@ Diacritic ᴴ [+heavy]
 Diacritic ̠ [+retracted]
 Diacritic ̩ [+syllabic]
 Diacritic ̯ [-syllabic]
-Diacritic ́ [hightone]
-Diacritic ̀ [lowtone]
-Diacritic ̄ [midtone]
+Diacritic ́ (floating) [hightone]
+Diacritic ̀ (floating) [lowtone]
+Diacritic ̄ (floating) [midtone]
 Diacritic ˞ [+rhotic]
 Diacritic ʰ [+aspirated]
 Diacritic ʷ [+labialised]
@@ -232,12 +232,12 @@ deromanisation:
  then: \' => *
 
 glomination:
+ @vowel&[+long] \- / _ @vowel => [-long] *
  @vowel \- / _ @vowel => *
  \- => *
 
-assimilation:
- @obstruent => [-voiced] / _ @continuant&[-voiced]
- then: []$1 $1 => * [+long]
+lengthening:
+ []$1 $1 => * [+long]
 
 syllables:
  s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? {[nasal], [lateralapproximant], [trill], [flap]}? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
@@ -305,8 +305,8 @@ nasalisation-and-vowel-loss:
  [-voiced fricative] => [+voiced] / @vowel [nasal] _ @vowel
  then: ɣ => j
  )
+ then: [-breathy nasal -long $Place] => * / @vowel _ {@sonorant? {$, .}, @consonant} // _ [$Place plosive]
  then: (
- [-breathy nasal -long $Place] => * / @vowel _ {@sonorant? {$, .}, @consonant} // _ [$Place plosive]
  @vowel&[-long] => * / @vowel @consonant _ $ // $ {{@consonant*}&!{@obstruent @obstruent}}? @vowel @consonant&!{[+long], ɲ, ʎ, [affricate]} _
  {v, w} @vowel&[-long] => * [back high] / _ $ // @vowel _
  {ʒ, j} @vowel&[-long] => * [front high] / _ $ // @vowel _
@@ -318,8 +318,9 @@ syllables:
  s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? s? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
  s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy]
 
-stress:
- (
+stress defer:
+ [] => [-stress notone]
+ then: (
  <syl>&[+heavy] => [+stress] // _ []* <syl>&[+heavy]
  else: <syl> => [+stress] / _ <syl> $
  else: <syl> => [+stress] / $ _
@@ -327,6 +328,9 @@ stress:
  then propagate: <syl> => [+stress] / {<syl>&[+stress] <syl>&[-stress] _, _ <syl>&[-stress] <syl>&[+stress]}
  then: <syl> => [-stress] / _ $ // $ {<syl>&[-stress]}* _
  then: @vowel&[+stress +syllabic] => [hightone]
+
+stress-1:
+ :stress
 
 romanizer-middle-sarvaran:
  unchanged
@@ -353,5 +357,5 @@ romanizer:
  @vowel&[+nasalised] => [-nasalised] / _ {[+nasalised], [nasal]}
  @vowel&[+nasalised] * => [-nasalised] ̨
  )
- then: {ŷ, y, ỳ, ý, ɯ̂, ɯ, ɯ̀, ɯ́} => {ü̂, ü, ȕ, ű, ï̂, ï, ȉ, i̋}
+ then: {ỳ, ý, ŷ, y, ɯ̀, ɯ́, ɯ̂, ɯ} => {ȕ, ű, ü̂, ü, ȉ, i̋, ï̂, ï}
  then: {d͡ʒ, t͡ʃ, ʒ, ʃ, ɲ, ʎ, j} => {dj, tc, j, c, ny, ll, y}
