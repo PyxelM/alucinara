@@ -338,8 +338,8 @@ long-vowel-shift:
  [back !high +long] * {@vowel&[-syllabic]}? => [-long] u̯ *
  )
  then: (
- @vowel&[front high] h => a j / _ @vowel
- @vowel&[back high] h => a w / _ @vowel
+ @vowel&[front high] h => [low front -rounded] j / _ @vowel
+ @vowel&[back high] h => [low front -rounded] w / _ @vowel
  h => j / @vowel&[front] _ @vowel
  h => w / @vowel&[back] _ @vowel
  )
