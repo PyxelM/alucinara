@@ -2,7 +2,7 @@
 title: Demi-Slugs
 tags:
 - fauna
-- intelligent
+- people
 ---
 %%
 What are the significant features which make this relevant to the plot?

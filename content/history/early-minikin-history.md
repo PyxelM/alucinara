@@ -30,13 +30,6 @@ tags:
  - Ancestors of Insular Minikin (subspecies Anthrosciurus arborensis insulensis) diverge from Southern Minikin and continue to migrate south to the southwestern archipelago
  - The various Minikin subspecies begin to spread and cohabitate with other races
 ### 10,000 YA
-- Agriculture begins to be practised by Minikin, originating in fluvial areas with seasonal floods in Mediterranean climates.
-	- In the region of the [Sarvaran river basin](locations/sarvaran-basin.md), in the southern half of Tséireph
-	- In the region of Kossüka, in the northern half of Tséireph
-	- In the region of Weikahn, in the eastern continent
-### 9000 YA
-- Various plants and animals began to be domesticated
-- Minikin began to wear clothing made out of Lunuth fibre, Oomi silk, and Treegoat fur, dyed with pigments derived from various berries, trees, insects, and fungi
-- The first proto-cities were founded
+- Agriculture begins to be practised by Minikin, originating in fluvial areas with seasonal floods, especially the mediterranean-climate Sarvaran river basin.
 ## Further Reading
 - [Sarvaran history](history/morellic-history.md)
