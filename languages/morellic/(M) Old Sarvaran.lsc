@@ -20,9 +20,9 @@ Diacritic ᴴ [+heavy]
 Diacritic ̠ [+retracted]
 Diacritic ̩ [+syllabic]
 Diacritic ̯ [-syllabic]
-Diacritic ́ [hightone]
-Diacritic ̀ [lowtone]
-Diacritic ̄ [midtone]
+Diacritic ́ (floating) [hightone]
+Diacritic ̀ (floating) [lowtone]
+Diacritic ̄ (floating) [midtone]
 Diacritic ˞ [+rhotic]
 Diacritic ʰ [+aspirated]
 Diacritic ʷ [+labialised]
@@ -232,12 +232,12 @@ deromanisation:
  then: \' => *
 
 glomination:
+ @vowel&[+long] \- / _ @vowel => [-long] *
  @vowel \- / _ @vowel => *
  \- => *
 
-assimilation:
- @obstruent => [-voiced] / _ @continuant&[-voiced]
- then: []$1 $1 => * [+long]
+lengthening:
+ []$1 $1 => * [+long]
 
 syllables:
  s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? {[nasal], [lateralapproximant], [trill], [flap]}? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
@@ -309,9 +309,9 @@ romanizer:
  )
  then: [dental plosive] => [alveolar]
  then: (
+ [+breathy] * => [-breathy] h
  {x, ŋg, ŋ} => {kh, n'g, ng}
  {θ, ð} => {th, dh}
- [+breathy] * => [-breathy] h
  )
  then: {ŷ, y, ɯ̂, ɯ} => {ü̂, ü, ï̂, ï}
  then: {d͡ʒ, t͡ʃ, ʒ, ʃ, ɲ, ʎ, j} => {dj, tc, j, c, ny, ly, y}
