@@ -1,5 +1,5 @@
 ---
-title: title
+title: The Judges
 tags:
   - cosmology
   - deities
