@@ -17,7 +17,7 @@ They would not wear more sophisticated fabrics until the bronze age saw great de
 ## Religion
 The early Morellic religion was decentralised, [angel](cosmology/celestial-beings/the-angels.md)-worshipping, and polytheistic. The early Morellic Minikin would make prayers, sacrifice, and worship to these deities, whom they could communicate with in dreams. Each tribe, clan, family would have patron deities who were believed to have a level of influence over the good fortune of their worshippers.
 
-The chief deity of the early Morellic religion was the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md), who protected the early Morellic peoples for their faith. It was believed that the petrified child was the firstborn of the god of nature, known as 'Kherelli[^1],' and that the other deities were her other children.
+The chief deity of the early Morellic religion was the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md), who protected the early Morellic peoples for their faith. It was believed that the petrified child was the firstborn of the god of nature, known as '*Kherelli*[^1],' and that the other deities were her other children.
 ## Cultural Practices
 ### Women
 Women were respected and seen as greatly sacred in Morellic culture. In early Morellic society, it was customary for women to perform ablutions twice every day, symbolising their purity. In addition, women were further respected as spiritual leaders, mothers, and grandmothers.
@@ -32,7 +32,7 @@ Men were less respected than women, but were not oppressed. Men commonly held la
 
 Some wise and strong men would leave their clans, searching to find a wife from others in order to increase genetic diversity. Upon finding another group, they would undergo an initiation ritual to join the clan.
 #### Initiation Rituals
-Initiation Rituals, each known as an '*Adhîmnelya*[^7],' were led by the matriarch of the group in order to potentially let in an outsider for marriage. These outsiders would be required to prove themselves, showing endurance of pain, and would ultimately end in either ostracism or marriage to the most compatible bachelorette.
+Initiation Rituals, each known as an '*Adhiimnelya*[^7],' were led by the matriarch of the group in order to potentially let in an outsider for marriage. These outsiders would be required to prove themselves, showing endurance of pain, and would ultimately end in either ostracism or marriage to the most compatible bachelorette.
 
 The tests of endurance included climbing up and down burning dead trees, and being attacked by various stinging insects. The matriarch of the inviting clan would watch, and ultimately decide wether the man seemed fit to enter.
 ### Spiritual Leaders
@@ -66,10 +66,10 @@ A females's *Areyomittakhar* was a more sophisticated process, where the girl's 
 
 On the first day of the following month was the '\*Sinakasudh[^5],' which was a more private event than a *Kulyaanelya*. The *Sinakasudh* required the girl to recite the oral tradition pertaining to the sanctity of womanhood in front of an audience, after which she would retire home to consume Nyuta tea and perform the same requests as boys on their *Kulyaanelya*.
 
-[^1]: Old Sarvaran <<< Proto-Morellic '\*Kherelh-lhi,' meaning 'god of earth;' Cf. Sarvaran 'Qherélh'
+[^1]: Old Sarvaran << Proto-Morellic '\*Kherelh-lhi,' meaning 'god of earth;' Cf. Sarvaran 'Qherélh'
 [^2]: See also: [Watchstones](phenomena/watchstones.md)
-[^3]: Old Sarvaran, <<< Proto-Morellic '\*Azayom-it-takhal,' meaning 'the month of the years,' or 'month of the age \[of maturity]'
-[^4]: Old Sarvaran <<< Proto-Morellic '\*Kolyân-nalya,' meaning 'the festival of rejoicing'
-[^5]: Old Sarvaran <<< Proto-Morellic '\*Sina-kasüdh,' meaning 'a woman's day'
-[^6]: Old Sarvaran <<< Proto-Morellic '\*Byelho-dyünu,' meaning 'clothes of marriage'
-[^7]: Old Sarvaran <<< Proto-Morellic '*Adhîm-nalya,' meaning 'entrance festival'
+[^3]: Old Sarvaran, << Proto-Morellic '\*Azayom-it-takhal,' meaning 'the month of the years,' or 'month of the age \[of maturity]'
+[^4]: Old Sarvaran << Proto-Morellic '\*Kolyân-nalya,' meaning 'the festival of rejoicing'
+[^5]: Old Sarvaran << Proto-Morellic '\*Sina-kasüdh,' meaning 'a woman's day'
+[^6]: Old Sarvaran << Proto-Morellic '\*Byelho-dyünu,' meaning 'clothes of marriage'
+[^7]: Old Sarvaran << Proto-Morellic '*Adhîm-nalya,' meaning 'entrance festival'
