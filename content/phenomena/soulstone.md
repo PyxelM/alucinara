@@ -1,9 +1,8 @@
 ---
 title: Soulstones
 tags:
-  - phenomena
   - darkness
-  
+  - phenomena
 ---
 ## Overview
 Soulstones are deposits of bitumen or asphalt where, in the presence of [alucinara](cosmology/alucinara.md) energy, the soul of a deceased organism may be stored after death.

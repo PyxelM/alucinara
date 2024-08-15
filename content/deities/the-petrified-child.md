@@ -1,9 +1,8 @@
 ---
 title: The Petrified Child
 tags:
-  - cosmology
-  - petrified-child
-  
+  - deities
+  - the-petrified-child
 ---
 ## Overview
 The Petrified Child is an entity with the purpose of governing evil. It accomplishes this through the use of [watchstones](phenomena/watchstones.md) and the turning of evildoers into baby meadows.

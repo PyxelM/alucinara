@@ -5,7 +5,7 @@ tags:
   - lore
   
 ---
-![](images/map_of_2nd_realm.png)
+![](images/qherelh-world-map.png)
 ## Timeline
 ### 5 MYA
 - Minikin begin to diverge from the lineage that would become red squirrels

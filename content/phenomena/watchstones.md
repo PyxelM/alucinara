@@ -1,17 +1,22 @@
 ---
 title: Watchstones
 tags:
-  - petrified-child
-  
+  - phenomena
+  - the-petrified-child
 ---
-
 ## Overview
-Watchstones are a type of entity through which the [The Petrified Child](deities/the-petrified-child.md) can see, giving it a greater visual range. They are made of rock or [alucinarium](cosmology/alucinara.md) geodes, and have stone-carved eyes and / or faces.
-## Creation
-Some watchstones occur naturally, appearing as eye-like shapes in rock formations. However, some minikin cultures began to create them around the minikin bronze age, with the advent of more specialised stone-carving equipment.
+Watchstones are stones[^1] with eyes through which the [Petrified Child](deities/the-petrified-child.md) sees, giving the deity a greater visual field and protecting those nearby from evil. They form naturally in rock faces over time due the effects of [alucinara](cosmology/alucinara.md), but some groups carve them into stone.
+## Appearance
+Watchstones can vary in size, from very small to very large, but the uniting feature is the shape of an open eye. They can appear in cliff faces, pebbles, boulders, and even geodes.
 
-They were invented in [Tseireph](locations/tseireph.md) by the Sarvaran minikin, and served as one of the first examples of mass-produced items, when they were mass-produced by the Empire of the Petrified Child.
-## Behaviour
-Watchstones with the ability to move imprint on the closest animal, observing to see if the animal carries out an evil action or an evil action is carried out against it.
+![](images/animate-watchstone.png)
+*An animate watchstone with pure alucinarium eyes*
+## Uses
+Watchstones are used by some Minikin groups as protection talismans. Thusly, they are attached to clothing, jewellery, and structures. However, some watchstones are also fitted with hinged or fabric coverings, allowing the user to commit evil acts without being jeopardised.
 
-If the watchstone does observe an event that the Petrified Child deems evil, then the deity will arrive at its location to deduce wether the offending being should be destroyed, creating a baby meadow.
+![](images/sarvaran-watchstone-necklace.png)
+*A Sarvaran necklace made with Lunuth fibre, beads, and two watchstones*
+### Behaviour
+When appearing in an alucinarium geode, they are animate, levitating above the ground while pivoted on nearby leg-like pebbles. Animate watchstones imprint on the closest or most suspicious animal, observing to see and report to the Petrified Child if the animal carries out an evil action or an evil action is carried out against it.
+
+[^1]: Mineral aggregate; this includes alucinarium in crystalline form
