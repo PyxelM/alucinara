@@ -10,14 +10,14 @@ Nyuta bushes are a type of bush native to the 2nd and 1st realms. They have red 
 Nyutaberries are small, edible, and purple. They have pink stems and near-white mesocarps which contain many small black seeds. They are foraged by some Minikin cultures.
 ### Nyuta Tea
 Nyuta tea is favoured for its hallucinogenic effects when consumed in large quantities, leading the drink to have a lot of spiritual significance to some cultures. However, a drink or two won't hurt.
-## Sarkitwara Trees
-Sarkitwara trees are a type of citron tree native to the 2nd and 1st realms. They have yellow leaves and orange, segmented fruit.
-### Sarkitwara
-Sarkitwara themselves are the plants' segemented orange fruits. Their segments can be removed whole, and individually peeled, revealing a pithy orange-like flesh, with large black seeds within.
+## Sarqitwara Trees
+Sarqitwara trees are a type of citron tree native to the 2nd and 1st realms. They have yellow leaves and orange, segmented fruit.
+### Sarqitwara
+Sarqitwara themselves are the plants' segemented orange fruits. Their segments can be removed whole, and individually peeled, revealing a pithy orange-like flesh, with large black seeds within.
 
 When unripe, the fruit releases flashes of light when disturbed, through the use of [alucinara](cosmology/alucinara.md). This is to deter herbivores who may attempt to eat the fruit before it is ready to germinate.
 
-Wild Sarkitwara are foraged by some minikin cultures, and some varieties were domesticated, such as the Morellic Sarkitwara, which began to be cultivated in orchards by the Sarvaran minikin.
+Wild Sarqitwara are foraged by some minikin cultures, and some varieties were domesticated, such as the Morellic Sarqitwara, which began to be cultivated in orchards by the Sarvaran minikin.
 ### Pelen
 Pelen is a plant native to the 2nd and 3rd realms. They are similar to carrot plants, only with larger, wider, red roots, and are farmed by many Minikin cultures.
 ### Pelenroots

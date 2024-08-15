@@ -5,8 +5,7 @@ title: If Only You Set Me Free
 ## Featured Articles and Tags
 - [Prose](tags/prose)
 - [Poetry](tags/poetry)
-- [The Petrified Child](deities/the-petrified-child.md)
-- [The Sarvaran Epic Narrative](writing/sarvaran-epic-narrative.md)
+- [Cosmology](tags/cosmology)
 - [Minikin](fauna/minikin.md)
 - [Fauna of the 2nd Realm](fauna/2nd-realm-fauna.md)
 - [Flora of the 2nd Realm](flora/2nd-realm-flora.md)

@@ -140,8 +140,8 @@ Verbs are the most morphologically dense aspect of Sarvaran, featuring polyperso
 
 > [!quote] Example
 > ul-sarqïtwarą-yürą-wa qassudh eya-mu-feyų-wa-s sï
-> `2.PL-sarkitwara-eat-PST day 1.PL-3-meet-PST-PFV on`
-> 'You all were eating sarkitwaras on the day we met.'
+> `2.PL-Sarqitwara-eat-PST day 1.PL-3-meet-PST-PFV on`
+> 'You all were eating Sarqitwaras on the day we met.'
 
 > [!quote] Example
 > mu-per-sawag-mos áuqï m-iyaqhru-mos-eyę
