@@ -325,11 +325,12 @@ stress-1:
 romanizer-middle-sarvaran:
  unchanged
 
-initial-vowel-delengthening:
- @vowel => [-long] / $ _
-
 long-vowel-shift:
  * @vowel&[+long high] => a [-long -syllabic] // _ {@vowel, [fricative] .}
+ then: (
+ [front !high +long] * {j, w}? => [-long] j {e, u}
+ [back !high +long] * {j, w}? => [-long] w {i, o}
+ )
  then: (
  [front !high +long] * {@vowel&[-syllabic]}? => [-long] i̯ *
  [back !high +long] * {@vowel&[-syllabic]}? => [-long] u̯ *
@@ -371,7 +372,6 @@ palatalisation-3:
  s [velar plosive] => * [postalveolar affricate] / @vowel _ @vowel
  s [velar fricative] => * [postalveolar] / @vowel _ @vowel
  )
- then: j => * / [postalveolar] _
 
 approximantisation-2:
  @vowel => [+syllabic]
@@ -397,8 +397,7 @@ frication-devoicing:
  then: []$1 $1 => [+long] *
 
 stress-2:
- {@vowel&[-syllabic], @consonant} => [-stress]
- then: <syl>&{[]* @vowel&[+syllabic +stress] []*} => [+stress]
+ :stress
  then: (
  {a, i, u, y, ɯ}&[-stress -long] => {ɐ, ɪ, ʊ, ʏ, ə}
  {ã, ĩ, ũ, ỹ, ɯ̃}&[-stress -long] => {ɐ̃, ɪ̃, ʊ̃, ʏ̃, ə̃}
