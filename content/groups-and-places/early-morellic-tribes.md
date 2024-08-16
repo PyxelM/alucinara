@@ -1,5 +1,5 @@
 ---
-title: The Early Morellic Clans
+title: The Early Morellic Tribes
 tags:
   - morellic
   - groups
@@ -35,7 +35,7 @@ Women were respected and seen as greatly sacred in Morellic culture. In early Mo
 
 Women commonly held high-ranking positions with a high amount of influence, symbolically acting as mothers over their clans, but were also permitted to perform other tasks such as foraging, pottery, and weaving.
 #### Matriarchs
-Early morellic clans were led by Matriarchs, which tended to be grandmothers, wise beyond their years, ex-spiritual leaders, with great knowledge of sorcery. The matriarchs' authority was mutually agreed upon by the members of each clan, and they were cared for by the spiritual leaders of the group.
+Early morellic tribes were made up of clans led by Matriarchs, which tended to be grandmothers, wise beyond their years, ex-spiritual leaders, with great knowledge of sorcery. The matriarchs' authority was mutually agreed upon by the members of each clan, and they were cared for by the spiritual leaders of the group.
 
 Furthermore, their lifespans were prolonged through the use of [alucinara](cosmology/alucinara.md), as the spiritual leaders would feed them alucinariferous foods. This led to some matriarchs reaching above 40 years in age upon their deaths, which was rare in minikin, whose lifespan usually reached no more than 25.
 ### Men
@@ -47,7 +47,7 @@ Initiation Rituals, each known as an '*Adhiimnelya*[^7],' were led by the matria
 
 The tests of endurance included climbing up and down burning dead trees, and being attacked by various stinging insects. The matriarch of the inviting clan would watch, and ultimately decide wether the man seemed fit to enter.
 ### Spiritual Leaders
-Spiritual leaders in the early morellic clans were highly respected shamans, who would counsel, guide, and protect the members of the group. They were the only class permitted to make sacrifices, but they often made them on behalf of others.
+Spiritual leaders in the early morellic tribes were highly respected shamans, who would counsel, guide, and protect the members of the group. They were the only class permitted to make sacrifices, but they often made them on behalf of others.
 
 In addition, early Morellic spiritual leaders also sang in choirs and played primitive flutes. Not only would they recite oral tradition in spoken form, but also in song; it was during the early Morellic period that shamanistic polyphonic singing was innovated, an art form expanded upon in later Morellic societies.
 
