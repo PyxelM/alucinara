@@ -5,7 +5,7 @@ tags:
   - groups
 ---
 ## Overview
-The early Morellic tribes were made up of nomadic, matrilineal clans living in the south of [Tseireph](groups-and-places/tseireph.md) during the minikin Neolithic era, or late stone age. They were united by a common culture and ethnicity, but saw themselves as very disparate.
+The early Morellic tribes were made up of nomadic, matrilineal clans living in the south of [Tseireph](groups-and-places/tseireph.md) during the minikin Mesolithic era, or Middle Stone Age. They were united by a common culture and ethnicity, but saw themselves as very disparate.
 
 The early Morellic tribes served as the predecessors of [Sarvara](groups-and-places/sarvara.md) and [Coroth](groups-and-places/coroth.md), and spoke a continuum of Proto-Morellic dialects, including Old Sarvaran and Old Corothic.
 
@@ -31,7 +31,7 @@ The early morellic tribes used variations of a lunisolar calendar called the '*k
 | **Meaning** | Month of the Sun | Month of Fire | Month of Water | Month of Ice | Month of Qherelh | Month of the Wind | Month of Rain | Month of Foraging | Last Month (Intercalary, repeates every 4 years) |
 ## Cultural Practices
 ### Women
-Women were respected and seen as greatly sacred in Morellic culture. In early Morellic society, it was customary for women to perform ablutions twice every day, symbolising their purity. In addition, women were further respected as spiritual leaders, mothers, and grandmothers.
+Women were respected and seen as greatly sacred in Morellic culture. In early Morellic society, it was customary for women to perform ablutions (involving cleansing of the body with water and the shaving of the head and tail) twice every day, symbolising their purity. In addition, women were further respected as spiritual leaders, mothers, and grandmothers.
 
 Women commonly held high-ranking positions with a high amount of influence, symbolically acting as mothers over their clans, but were also permitted to perform other tasks such as foraging, pottery, and weaving.
 #### Matriarchs
