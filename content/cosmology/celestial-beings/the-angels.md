@@ -14,4 +14,7 @@ The angels govern the natural elements, decreeing the processes they take accord
 
 Furthermore, they are incorporeal, and are only accessible to interact with through dreams and visions triggered by [alucinara](cosmology/alucinara.md) and hallucinogenic substances, which are commonly an important feature of many religions.
 ## Notable Angels:
- - Kherelli, the morellic deity of nature
+ - Qherel'li[^1], the nature mother
+ - Qeirįs, the explainer
+
+[^1]: Using the angels' Sarvaran names; also appears as 'Kherelli' in Old Sarvaran.

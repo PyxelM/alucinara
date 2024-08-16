@@ -1,23 +1,34 @@
 ---
-title: The Early Morellic Peoples
+title: The Early Morellic Clans
 tags:
   - morellic
   - groups
 ---
 ## Overview
-The early Morellic peoples were nomadic, tribal clans, connected mainly by familial relation, living in the south of Tseireph during the minikin Neolithic era, or late stone age. They were united by a common culture, language, and race, but lacked organisation and centralisation. 
+The early Morellic tribes were made up of nomadic, matrilineal clans living in the south of [Tseireph](groups-and-places/tseireph.md) during the minikin Neolithic era, or late stone age. They were united by a common culture and ethnicity, but saw themselves as very disparate.
 
-The early Morellic people served as the predecessors of [Sarvara](groups-and-places/sarvara.md) and [Coroth](groups-and-places/coroth.md), and spoke a continuum of Proto-Morellic dialects, including Old Sarvaran and Old Corothic.
+The early Morellic tribes served as the predecessors of [Sarvara](groups-and-places/sarvara.md) and [Coroth](groups-and-places/coroth.md), and spoke a continuum of Proto-Morellic dialects, including Old Sarvaran and Old Corothic.
 
-They were contemporary with the pre-aqhoran peoples, but would not make contact with them until they migrated to the southern coast of Tseireph and founded the city-state of Aqhor at the dawn of the minikin Bronze age.
+They were contemporary with the pre-aqhoran tribes, but would not make contact with them until they migrated to the southern coast of Tseireph and founded the city-state of Aqhor at the dawn of the minikin Bronze age.
 ## Clothing Practices
-The early Morellic peoples wore clothes made of animal hide, fur, leather, woven grass leaves, and plant fibre, such as from Lunuth. They would commonly wear long dress-like tunics, cloaks, belts with pouches, sandals, and jewellery made of bones, shells, volcanic glass, and stones[^2].
+The early Morellic tribes wore clothes made of animal hide, fur, leather, woven grass leaves, and plant fibre, such as from Lunuth. They would commonly wear long dress-like tunics, cloaks, belts with pouches, sandals, and jewellery made of bones, shells, volcanic glass, and stones[^2].
 
 They would not wear more sophisticated fabrics until the bronze age saw great developments in agriculture, namely the domestication of Lunuth wheat and invention of Lunuth fabric. They would sew their hide and leaves together using bone needles and plant fibre, and would commonly dye their clothing colours such as red or orange.
 ## Religion
 The early Morellic religion was decentralised, [angel](cosmology/celestial-beings/the-angels.md)-worshipping, and polytheistic. The early Morellic Minikin would make prayers, sacrifice, and worship to these deities, whom they could communicate with in dreams. Each tribe, clan, family would have patron deities who were believed to have a level of influence over the good fortune of their worshippers.
 
-The chief deity of the early Morellic religion was the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md), who protected the early Morellic peoples for their faith. It was believed that the petrified child was the firstborn of the god of nature, known as '*Kherelli*[^1],' and that the other deities were her other children.
+The chief deity of the early Morellic religion was the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md), who protected nature, all things holy, and the innocent. It was believed that the petrified child was the firstborn of the god of nature, known as '*Kherelli*[^1],' and that the other deities were her other children.
+## Calendar
+The early morellic tribes used variations of a lunisolar calendar called the '*kasuumitvirsu*[^8].' Years were made up of 297 days with 8 day weeks, divided 8 months of 36 days (with an extra intercalary month every 4 years), and began around the start of summer. The early morellic tribes counted a person's age from the month they were born, rather than the day.
+### Days of the Week
+
+| **Name**    | Itrunkasu       | Keerakasu      | Takharkasu      | Apihonkasu    | Medhankasu      | Uyulikasu       | Uukamikasu      | Alukkasu        |
+| ----------- | --------------- | -------------- | --------------- | ------------- | --------------- | --------------- | --------------- | --------------- |
+| **Meaning** | Day of Foraging | Day of Hunting | Day of the Moon | Day of Plants | Day of Building | Day of the Gods | Day of Sleeping | Day of Dreaming |
+### Months of the Year
+| **Name**    | Aadrikhantakh    | Akharutakh    | Weerantakh     | Udrartakh    | Khereltakh       | Esirtakh          | Deshuutakh    | Itruntakh         | Takhar Sahuril                                   |
+| ----------- | ---------------- | ------------- | -------------- | ------------ | ---------------- | ----------------- | ------------- | ----------------- | ------------------------------------------------ |
+| **Meaning** | Month of the Sun | Month of Fire | Month of Water | Month of Ice | Month of Qherelh | Month of the Wind | Month of Rain | Month of Foraging | Last Month (Intercalary, repeates every 4 years) |
 ## Cultural Practices
 ### Women
 Women were respected and seen as greatly sacred in Morellic culture. In early Morellic society, it was customary for women to perform ablutions twice every day, symbolising their purity. In addition, women were further respected as spiritual leaders, mothers, and grandmothers.
@@ -53,8 +64,6 @@ Furthermore, the difference between friendship and relationship was blurred in e
 Spiritual leaders facilitated marriage ceremonies, which were permitted only between women and their husbands. Marriage ceremonies required the participants to wear special clothing, known as '*Byelodjunu*[^6],' and for the bride to recite oral tradition on the nature of marriage.
 
 The ceremony was completed through covering one of each of the participants' palms with resin, and interlocking that hand with the other (the hands facing the spiritual leader). This symbolises the connection of those married.
-### Calendar
-The early morellic calendar was divided into 8 months, beginning at the summer solstice, and aligning with the movements of Qherelh's largest moon, known as Taqharh. A person's age was not counted from the day of their birth, but rather from the the month of their birth.
 ### Coming of Age
 The early morellic coming of age ritual took place for males on their 6th birthday, and females' 5th, being the ages when the minikin reached the age of maturity and began to be held accountable for their actions. Eunuchs did not perform these rituals.
 #### In Males
@@ -64,12 +73,13 @@ If the boy survived, the month would end with their reintroduction to their grou
 #### In Females
 A females's *Areyomittakhar* was a more sophisticated process, where the girl's mothers and aunts would perform ablutions on her twice a day for a month. This symbolised a girls transition into womanhood and prepared the girl for the rituals that came with being an adult woman, which was a sacred position in morellic societies.
 
-On the first day of the following month was the '\*Sinakasudh[^5],' which was a more private event than a *Kulyaanelya*. The *Sinakasudh* required the girl to recite the oral tradition pertaining to the sanctity of womanhood in front of an audience, after which she would retire home to consume Nyuta tea and perform the same requests as boys on their *Kulyaanelya*.
+On the first day of the following month was the '\*Osinnelya[^5],' which was a more private event than a *Kulyaanelya*. The *Sinakasudh* required the girl to recite the oral tradition pertaining to the sanctity of womanhood in front of an audience, after which she would retire home to consume Nyuta tea and perform the same requests as boys on their *Kulyaanelya*.
 
 [^1]: Old Sarvaran << Proto-Morellic '\*Kherelh-lhi,' meaning 'god of earth;' Cf. Sarvaran 'Qherélh'
 [^2]: See also: [Watchstones](phenomena/watchstones.md)
 [^3]: Old Sarvaran, << Proto-Morellic '\*Azayom-it-takhal,' meaning 'the month of the years,' or 'month of the age \[of maturity]'
 [^4]: Old Sarvaran << Proto-Morellic '\*Kolyân-nalya,' meaning 'the festival of rejoicing'
-[^5]: Old Sarvaran << Proto-Morellic '\*Sina-kasüdh,' meaning 'a woman's day'
+[^5]: Old Sarvaran << Proto-Morellic '\*Osin-nalya,' meaning 'the festival of women'
 [^6]: Old Sarvaran << Proto-Morellic '\*Byelho-dyünu,' meaning 'clothes of marriage'
-[^7]: Old Sarvaran << Proto-Morellic '*Adhîm-nalya,' meaning 'entrance festival'
+[^7]: Old Sarvaran << Proto-Morellic '\*Adhîm-nalya,' meaning 'entrance festival'
+[^8]: Old Sarvaran << Proto-Morellic '\*Kasûma-it-bhilsu,' meaning 'keeping of the days'
