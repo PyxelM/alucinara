@@ -235,7 +235,9 @@ glomination:
  @vowel&[+long] \- / _ @vowel => [-long] *
  @vowel \- / _ @vowel => *
  \- => *
- then: []$1 $1 => * [+long]
+
+lengthening:
+ []$1 $1 => * [+long]
 
 syllables:
  s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? {[nasal], [lateralapproximant], [trill], [flap]}? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
@@ -250,7 +252,14 @@ romanizer-early-proto-central:
 dentalisation:
  [alveolar]&!@continuant => [dental]
 
-palatalisation-1:
+syllables:
+ s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? {[nasal], [lateralapproximant], [trill], [flap]}? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
+ s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy]
+
+length-attribution:
+ []$1 $1 => [+long] *
+
+palatalisation:
  {ɣ, ɣː} => {j, jː}
  then: (
  [plosive dental] j => [postalveolar affricate] *
@@ -278,7 +287,6 @@ breathy-frication:
  then: [labial fricative] => [labiodental]
  then: {ɣ, ɣː} => {j, jː}
  then: [+breathy !nasal] => [-breathy]
-
 romanizer-old-sarvaran:
  unchanged
 
@@ -301,6 +309,7 @@ nasalisation-and-vowel-loss:
  [-breathy nasal -long] => * / @vowel _ // _ @vowel
  @vowel&[+long] => [-long] / _ $
  )
+ then: @vowel&[-long] => * / @vowel {[plosive], [affricate], [trill], [nasal]} _ @continuant&!{[trill], [nasal], [lateralapproximant]} @vowel
  then: [+breathy nasal] => [-breathy]
  then: {[+voiced velar]&@obstruent, j} => {ɯ, i} // {@vowel _, _ @vowel}
 
