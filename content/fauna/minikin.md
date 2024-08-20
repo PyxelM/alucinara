@@ -29,7 +29,7 @@ Hairlessness and / or fur distribution can vary from race to race depending on t
 For example, the equatorial Morello-Oyhoyunic minikin are almost completely hairless apart from their heads, genitals, and tails. In contrast, the southern alpine Snissojian minikin are hairy all over apart from their faces and palms, covered with fluffy white fur to adapt to their cold, snowy environment.
 
 ### Eyes
-Minikin skin colour can vary from dark to light, often taking on a semi-dark beige colour. Eye colour can vary from brown, to green, or to blue. In cases of prolongued [alucinarium](cosmology/alucinara.md) exposure, the irises would take on a light pink or purple colour.
+Minikin skin colour can vary from dark to light, often taking on a semi-dark beige colour. Eye colour can vary from brown, to green, or to blue. In cases of prolongued [alucium](cosmology/alucinara.md) exposure, the irises would take on a light pink or purple colour.
 
 ## Diet
 As omnivores, minikin often tend to eat;
@@ -57,11 +57,11 @@ When a minikin commits a crime, they are ostracised from the community and have 
 When a group is too large for one community, it inevitably collapses. A varying amount of groups form following the split, involving fighting, war, and ostracism. Large groups are often unstable, resulting in violent dictatorships in some communities as to reduce the risk of collapse.
 
 ## Psychology
-Minikin psychology was a complicated subject on account of the brain's interaction with the Fortuitary gland. The brain was accountable for conscious and subconscious processes, such as thought, decision-making, breathing, sleep, hibernation, including the control of all other biological systems. Likewise, the fortuitary gland was accountable for the subconscious process of alucinarium secretion and essential shift.
+Minikin psychology was a complicated subject on account of the brain's interaction with the Fortuitary gland. The brain was accountable for conscious and subconscious processes, such as thought, decision-making, breathing, sleep, hibernation, including the control of all other biological systems. Likewise, the fortuitary gland was accountable for the subconscious process of alucium secretion and essential shift.
 
 However, the line became blurred between each organ when one researched the subject of dreaming and sorcery. Dreams, while mostly innocuous to non-fortuitous beings, are greatly debated in the context of Alucinara, wether or not they originated from the brain or from a spiritual plane.
 
 ### Hibernation
-All minikin hibernate in the winter, slowing their metabolic processes following a period of feasting. During hibernation, minikin become unconscious in a sleep-like state, and alucinarium levels in the brain increase due to the inactivation of valves in the bloodstream that protect the brain from Phantasmarrhoea.
+All minikin hibernate in the winter, slowing their metabolic processes following a period of feasting. During hibernation, minikin become unconscious in a sleep-like state, and alucium levels in the brain increase due to the inactivation of valves in the bloodstream that protect the brain from Phantasmarrhoea.
 
-This is not seen in normal sleep, but is shown to increase the vividness of dreams during hibernation. The presence of alucinarium in the brain during hibernation is a survival method developed to allow minikin to interface with deities, to gain foreknowledge such as future events or advice through acquisition of divine wisdom.
+This is not seen in normal sleep, but is shown to increase the vividness of dreams during hibernation. The presence of alucium in the brain during hibernation is a survival method developed to allow minikin to interface with deities, to gain foreknowledge such as future events or advice through acquisition of divine wisdom.

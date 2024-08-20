@@ -27,35 +27,25 @@ Pygmy bushdeer are a part-arboreal, smaller version of common bushdeer. They are
 ### Use
 They are used as mounts by some Minikin cultures, including the Morellic, who ride them during religious ceremonies and pilgrimages. Other nomadic cultures ride them to find new areas for their livestock to graze.
 ## Wooly Hogs
-Wooly hogs are a species native to the 2nd realm which are related to, and resemble, the wild boars of earth. They are small and farmed for their wool and pork.
+[Wooly hogs](fauna/wooly-hogs.md) are a species native to the 2nd realm which are related to, and resemble, the wild boars of earth. They are small and farmed for their wool and pork.
 ### Appearance
 They are about 25 cm in height when mature, but are proportionately bulky. They feature a large, long head, humped shoulders, small hind end, short legs, and characteristic long, curly fur.
 ### Use
 They are farmed by some Minikin cultures for their robust wool and nutricious pork, and are sometimes ridden or yoked. In order to remove parasites from their flesh, they are cooked, and it is considered taboo to eat their pork raw.
 
 Among Morellic hunter minikin, it is said that it is good luck to cleanly cut a wild Wooly Hog's tail off, and bad luck to fail to do this. These tails are often kept as trophies by hunters, and appear in heraldry as a symbol of good skill.
+## Dragons
+[Dragons](fauna/dragons.md) are a small amphibious species native to the 2nd, 3rd, and -2nd realms. They are omnivorous, consuming berries and insects, and come in many varieties, each differing in colour. Dragons are inedible but are hunted and used in the making of dyes.
 ## Snoutgoats
+[Snoutgoats](fauna/snoutgoats.md), also known as Yuriqith (Plural) / Yuriqh (Singular), are a goat species native to the 2nd and 3rd realms. They are half a metre tall, with fur that ranges from light beige to brown.
 
-### Snoutgoat Ivory
-
-### Snoutgoat Leather
-
+Some Minikin groups farm or hunt Snoutgoats, utilising their meat, milk, fur, sinew, and dung for food, dairy, clothing, tools, and fuel. Some groups mount snoutgoats, riding them for transport.
 ## Rat Monkeys
-Rat monkeys are an arboreal monkey species native to the 2nd and -1st realms, the only monkey species native to Tséireph below the equatorial rainforest. They are small, similar to squirrels in size and habitat, and eat nuts, leaves, and various small animals. They are hunted by some Minikin cultures, such as the early Sarvaran minikin.
+[Rat monkeys](fauna/rat-monkeys.md) are an arboreal monkey species native to the 2nd and -1st realms, the only monkey species native to Tséireph below the equatorial rainforest. They are small, similar to squirrels in size and habitat, and eat nuts, leaves, and various small animals. They are hunted by some Minikin cultures, such as the early Sarvaran minikin.
 ## Pack Snails
 Pack snails are a gastropod species native to the 2nd realm. They are large, about the same height as Minikin from their foot to the top of their shells. Their diet consists of leaves and vegetables.
 ### Use
 They are used by some Minikin cultures to transport goods such as spices and grains, in which case their shells are fitted with a saddle and utility belts featuring tools and cargo pouches, travelling in often guarded caravans headed by merchants.
-## Dragon Salamanders
-
-### Water Dragons
-
-### Leaf Dragons
-
-### Rock Dragons
-
-### Quartz Dragons
-
 ## Widrens
 
 ## Darkmoths

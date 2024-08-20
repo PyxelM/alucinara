@@ -3,11 +3,12 @@ title: Tseireph
 tags:
   - 2nd-realm
   - continents
+  - locations
 ---
 ## Overview
-Tseireph is a continent of the planet Qherelh in the [2nd realm](groups-and-places/2nd-realm.md). It is notable for being the source of the Morellic Minikin, and the place where civilisation emerged[^1].
+Tseireph is a continent of the planet Qherelh in the [2nd realm](groups-and-places/2nd-realm.md). It is notable for being the source of the Morellic Minikin, and the place where civilisation emerged[^1]. It is essentially split in half, between north and south Tseireph, divided by the equatorial rainforest, and nethic lakes.
 ## Geography
-Tseireph is large, spanning across multiple continental plates. It has two saltwater lakes on the equator, around which are a surrounding rainforest. To the east is the Weiran gulf and Weiran peninsula, to the south is the Corothic mountains and southeastern Morellic peninsula, and to the north is the Volaran steppe and tundral mountains at the coast.
+Tseireph is large, spanning across multiple continental plates. It has two saltwater lakes on the equator, around which are a surrounding rainforest with monsoon coasts, and to the east are a large gulf and a rainforest-monsoon peninsula; to the south are a desert, steppe, mediterranean climate, continental climate, mountains, and a southeastern peninsula; and to the north are a desert, a steppe, and tundral mountains by the coast.
 ## Notable Locations
 - Sarvaran River Basin
 - River Sarav
@@ -16,6 +17,7 @@ Tseireph is large, spanning across multiple continental plates. It has two saltw
 - [Coroth](groups-and-places/coroth)
 - Aqhoran River Delta
 - [Aqhor](groups-and-places/aqhor.md)
+- Cedharra
 - [The Empire of the Petrified Child](groups-and-places/empire-of-the-petrified-child.md)
 - [Morellic Republic](groups-and-places/morellic-republic.md)
 - [Oyholiru Republic](groups-and-places/oyholiru-republic.md)

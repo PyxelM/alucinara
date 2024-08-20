@@ -47,7 +47,7 @@ As well as being able to be turned into bread, Lunuth is farmed by some minikin 
 ## Glowpear Trees
 Glowpear trees are a type of tree native to the 2nd and -1st realms. Their leaves are deep green and their fruit are glowing blue. They are grown in orchards by some Minikin cultures.
 ### Glowpears
-Glowpears are the fruit of the glowpear tree. They are similar to pears, with the main difference being their luminous, vibrant blue-cyan colour. Their juice similarly glows, owing to the presence of [alucinarium](cosmology/alucinara.md). They are sometimes foraged by some Minikin cultures.
+Glowpears are the fruit of the glowpear tree. They are similar to pears, with the main difference being their luminous, vibrant blue-cyan colour. Their juice similarly glows, owing to the presence of [alucium](cosmology/alucinara.md). They are sometimes foraged by some Minikin cultures.
 ### Glowpear Leaves
 Glowpear Leaves are the leaves of the glowpear tree. They are shiny, with a deep green complexion. They are inedible to Minikin, but serve as a vital food source for herbivorous livestock such as bushdeer, wooly hogs, and pack-snails.
 ## Dreamberry Bushes
@@ -60,6 +60,12 @@ Dreamberry jam is a jam made out of Dreamberries. It was first invented by the S
 Dreamberry wine was also invented by the Sarvaran minikin, and was their preferred alcoholic drink of choice. Dreamberries got their name from the dreamy effect that drunkenness on the wine would provide the Sarvarans.
 ### Use
 Dreamberry bushes are used by some Minikin cultures to defend bases and stockpiles. They are planted in hedges at the base of trees, walls, and burrows, warding off opportunists who may want to eat stored food or attack those beyond the bushes.
+## Sparkberry Bush
+Sparkberry bushes are a plant native to the 2nd realm. They have vibrant green leaves, and small blue berries.
+### Sparkberries
+Sparkberries are small, round, blue, and slightly phosphorescent. They are naturally consumed by electric [dragons](fauna/dragons.md) in the wild, who fly elsewhere and disperse seeds through their dung.
+
+They are inedible when raw, and send out painful shocks when touched by most animals, including Minikin. They can however be harvested using telekinesis through Alucinara energy, and are edible once cooked.
 ## Elkfruit Trees
 
 ### Elkfruit

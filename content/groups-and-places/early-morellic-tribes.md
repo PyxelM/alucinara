@@ -37,7 +37,7 @@ Women commonly held high-ranking positions with a high amount of influence, symb
 #### Matriarchs
 Early morellic tribes were made up of clans led by Matriarchs, which tended to be grandmothers, wise beyond their years, ex-spiritual leaders, with great knowledge of sorcery. The matriarchs' authority was mutually agreed upon by the members of each clan, and they were cared for by the spiritual leaders of the group.
 
-Furthermore, their lifespans were prolonged through the use of [alucinara](cosmology/alucinara.md), as the spiritual leaders would feed them alucinariferous foods. This led to some matriarchs reaching above 40 years in age upon their deaths, which was rare in minikin, whose lifespan usually reached no more than 25.
+Furthermore, their lifespans were prolonged through the use of [alucinara](cosmology/alucinara.md), as the spiritual leaders would feed them aluciferous foods. This led to some matriarchs reaching above 40 years in age upon their deaths, which was rare in minikin, whose lifespan usually reached no more than 25.
 ### Men
 Men were less respected than women, but were not oppressed. Men commonly held laborious positions, being hunters, foragers, and potters, but also had the opportunity to become spiritual leaders, elevating their rank in early Morellic society.
 

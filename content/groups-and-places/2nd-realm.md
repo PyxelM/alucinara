@@ -2,8 +2,8 @@
 title: The 2nd Realm
 tags:
   - 2nd-realm
-  - realm
-  - place
+  - realms
+  - locations
 ---
 ## Overview
 The 2nd realm is the 2nd ultra-essent realm, and is contra-essent to the -2nd realm. The 2nd realm's main planet is Qherelh, inhabited by the native [minikin](fauna/minikin.md).
