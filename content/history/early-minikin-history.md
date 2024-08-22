@@ -17,7 +17,7 @@ tags:
 - Anthrosciurids begin to use fire and [magic](cosmology/alucinara.md)
 - Language is developed in Anthrosciurids
 ### 300,000 YA
-- Early Minikin evolve into Modern Minikin (Anthrosciurus arborensis) in northern [Tséireph](locations/tseireph.md)
+- Early Minikin evolve into Modern Minikin (Anthrosciurus arborensis) in northern [Tséireph](lore/tseireph.md)
 ### 200,00 YA
 - First wave of minikin migration takes place
 - Ancestors of Eastern Minikin (subspecies Anthrosciurus arborensis occidentalis) migrate to the eastern continent and eastern islands

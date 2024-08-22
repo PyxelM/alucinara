@@ -5,7 +5,7 @@ tags:
   - amphibians
 ---
 ## Overview
-Dragons are a diminutive amphibian species native to the wetlands of the [2nd](groups-and-places/2nd-realm.md), 3rd, and -2nd realms. They are capable of flight through the use of [alucinara](cosmology/alucinara.md) and mainly feed upon small berries, bark, and insects.
+Dragons are a diminutive amphibian species native to the wetlands of the [2nd](lore/2nd-realm.md), 3rd, and -2nd realms. They are capable of flight through the use of [alucinara](cosmology/alucinara.md) and mainly feed upon small berries, bark, and insects.
 
 Dragons have many subspecies, owing to their alucinara-augmented evolution and natural adaptivity as a species. Some subspecies include:
 - Water Dragon (Semi-aquatic)
