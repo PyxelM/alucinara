@@ -10,7 +10,8 @@ Tseireph is a continent of the planet Qherelh in the [2nd realm](lore/2nd-realm.
 ## Geography
 Tseireph is large, spanning across multiple continental plates. It has two saltwater lakes on the equator, around which are a surrounding rainforest with monsoon coasts, and to the east are a large gulf and a rainforest-monsoon peninsula; to the south are a desert, steppe, mediterranean climate, continental climate, mountains, and a southeastern peninsula; and to the north are a desert, a steppe, and tundral mountains by the coast.
 ## Southern Tseireph
-
+![](images/southern-tseireph.png)
+*A map of Southern Tseireph, with mountainous areas and the Sarvaran River Basin shown. The Southwestern continent is also visible in the bottom left.*
 ## Notable Locations
 - Sarvaran River Basin
 - River Sarav
