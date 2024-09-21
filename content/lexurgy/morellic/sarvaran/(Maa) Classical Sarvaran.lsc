@@ -366,7 +366,6 @@ stress defer:
  else: <syl> => [+stress] / {<syl>&[+stress] <syl>&[-stress] _, _ <syl>&[-stress] <syl>&[+stress]}
  )
  then: <syl> => [-stress] / _ $ // $ {<syl>&[-stress]}* _
- then: @vowel&[+stress +syllabic] => [hightone]
 
 stress-1:
  :stress
@@ -444,6 +443,22 @@ approximantisation-2:
 assimilation:
  [alveolar nasal] => [$Place] / _ @consonant&[$Place]
 
+romanizer-preclassical-sarvaran:
+ unchanged
+
+frication-devoicing:
+ {{[plosive], [affricate]}, [alveolar lateralapproximant], [trill] // _ [+voiced]} => {[fricative], [-voiced lateralfricative], [-voiced]} / @vowel @continuant*(0-2) _ // _ {@continuant&![nasal]}? @vowel
+ [+voiced plosive] => [-voiced] // {$ _, !s _ [+voiced]}
+ [+voiced fricative] => [-voiced] // {$ _, _ [+voiced], _ $}
+ then: [labiodental plosive] => [labial]
+ then: [+voiced fricative] => [-voiced] / {[-voiced fricative] _ @vowel, @vowel _ [+voiced fricative]}
+ then: []$1 $1 => [+long] *
+
+stress-shift:
+ {a, i, u, y, ɯ}&[-stress -long] => {ɐ, ɪ, ʊ, ʏ, ə}
+ {ã, ĩ, ũ, ỹ, ɯ̃}&[-stress -long] => {ɐ̃, ɪ̃, ʊ̃, ʏ̃, ə̃}
+ then: @vowel&[+stress +syllabic] => [hightone]
+
 romanizer-classical-sarvaran:
  unchanged
 
@@ -470,5 +485,5 @@ romanizer:
  @vowel&[+nasalised] => [-nasalised] / _ {[+nasalised], [nasal]}
  @vowel&[+nasalised] * => [-nasalised] ̨
  )
- then: {ɑ́, ɑ, ŷ, ý, y, ɯ̂, ɯ́, ɯ, ɤ, ɤ́} => {á, a, ü̂, ű, ü, ï̂, i̋, ï, e, é}
+ then: {ɑ́, {ɑ, ɐ}, ɪ, ʊ, ŷ, ý, {y, ʏ}, ɯ̂, ɯ́, {ɯ, ə}, ɤ, ɤ́} => {á, a, i, u, ü̂, ű, ü, ï̂, i̋, ï, e, é}
  then: {d͡ʒ, t͡ʃ, ʒ, ʃ, ɲ, ll, ʎ, j} => {dj, tc, j, c, ny, l'l, ll, y}

@@ -2,6 +2,7 @@
 title: Sarvaran Architecture
 tags:
   - lore
+  - architecture
   - sarvara
 ---
 ## Overview

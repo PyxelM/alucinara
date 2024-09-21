@@ -53,5 +53,5 @@ The lowest caste was the wretched. These were the least in Sarvaran society, tho
 ## Calendar
 The date of the city's founding serves as year 0 of the Sarvaran calendar, which was one of the many innovations made by the Sarvaran Minikin. Other notable innovations included pottery, poetry, art, early mass-production, war, and cartography.
 ## See Also:
-- [Sarvaran Architecture](lore/sarvaran-architecture.md)
+- [Sarvaran Architecture](lore/sarvara/sarvaran-architecture.md)
 - [Early Morellic Tribes](lore/early-morellic-tribes.md)

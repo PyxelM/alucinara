@@ -366,13 +366,15 @@ stress defer:
  else: <syl> => [+stress] / {<syl>&[+stress] <syl>&[-stress] _, _ <syl>&[-stress] <syl>&[+stress]}
  )
  then: <syl> => [-stress] / _ $ // $ {<syl>&[-stress]}* _
- then: @vowel&[+stress +syllabic] => [hightone]
 
 stress-1:
  :stress
 
 romanizer-middle-sarvaran:
  unchanged
+
+stress-marking:
+ @vowel&[+syllabic +stress] => [hightone]
 
 syllables:
  clear
