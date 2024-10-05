@@ -12,6 +12,8 @@ Sarvaran tuning is made up of octaves of 8 tones. These tones generally follow p
 ## Bakharra
 The bakharra[^1] is a stringed instrument with 2 courses of doubled strings. The courses are commonly tuned a 5th apart (e.g. D and A), and each course is made up of two strings tuned an octave apart. It features a neck and head traditionally made of Dhajarh wood, tuning pegs made of ivory collected from wooly boars, a resonation chamber made of a gourd, and strings made of wooly hog intestines.
 
+![](images/bakharra_instrument.png)
+
 Bakharranith are commonly used as background drones in Sarvaran music, occupying the mid-bass area of the pitch spectrum. Bakharra melodies are often the two courses being struck in alternation with one finger across the neck, but sometimes two fingers are used on each course, allowing the player to create more intricate melodies.
 
 The Bakharra was commonly plucked in Sarvaran music, but in late Sarvaran culture, and especially in the following culture of the Empire of the Petrified Child, began to be bowed. 
