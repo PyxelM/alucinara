@@ -19,6 +19,10 @@ Bakharranith are commonly used as background drones in Sarvaran music, occupying
 The Bakharra was commonly plucked in Sarvaran music, but in late Sarvaran culture, and especially in the following culture of the Empire of the Petrified Child, began to be bowed. 
 ### Bowed Bakharra
 The Bowed Bakharra was played with a bow made of Dhajarh wood and Snoutgoat tail hair, known as a Djenna[^4]. It often appeared as part of an ensemble, and would go on to become a staple in Stonechild Imperial orchestral music.
+## Bakhalamu
+The Bakhalamu, part of the Bakharra family, is a similar stringed instrument. However, this instrument does not have courses and is made up of 3 strings, as shown in the instrument's meaning in the Sarvaran language.
+
+The Bakhalamu was generally used as a treble instrument, to perform the main melody of a song or hymn overtop a backdrop of Bakharranith, Kuyudranith, and Danaikith.
 ## Danaika
 The Danaika[^2] is a wind instrument made traditionally of bone, or otherwise of Dhajarh wood, with 8 holes drilled on each side of its length, totalling 2 octaves in the Sarvaran tuning system. Danaikith commonly take the role of the lead or as part of an ensemble in Sarvaran music.
 ## Kuyudra
