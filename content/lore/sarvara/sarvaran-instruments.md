@@ -20,7 +20,7 @@ The Bakharra was commonly plucked in Sarvaran music, but in late Sarvaran cultur
 ### Bowed Bakharra
 The Bowed Bakharra was played with a bow made of Dhajarh wood and Snoutgoat tail hair, known as a Djenna[^4]. It often appeared as part of an ensemble, and would go on to become a staple in Stonechild Imperial orchestral music.
 ## Bakhalamu
-The Bakhalamu, part of the Bakharra family, is a similar stringed instrument. However, this instrument does not have courses and is made up of 3 strings, as shown in the instrument's meaning in the Sarvaran language.
+The Bakhalamu[^5], part of the Bakharra family, is a similar stringed instrument. However, this instrument does not have courses and is made up of 3 strings, as shown in the instrument's meaning in the Sarvaran language.
 
 The Bakhalamu was generally used as a treble instrument, to perform the main melody of a song or hymn overtop a backdrop of Bakharranith, Kuyudranith, and Danaikith.
 ## Danaika
@@ -30,7 +30,8 @@ The Kuyudra[^3] is a percussion instrument made of wooly hog skin that has been 
 
 Kuyudranith are beaten in time to the accompanying instruments, providing a sense of rhythm, and feature in a genre of musical poetry where the drum alone accompanies a spoken-word vocalist, and is struck with each heavy syllable of the poem recited.
 
-[^1]: Sarvaran '*Bakharrą*' << Proto-Morellic '\*Bakhaz-lan' meaning 'two courses (of strings).'
+[^1]: Sarvaran '*Bakharrą*' << Proto-Morellic '\*Bakha-azzan' meaning 'two (courses of) strings.'
 [^2]: Sarvaran '*Danaika*' << Proto-Morellic '\*Danu-âkâ' meaning 'bone flute.'
 [^3]: Sarvaran '*Kuyudrą*' << Proto-Morellic '\*Kuya-udzan' meaning 'skin drum.'
 [^4]: Sarvaran '*Djenna*' << Proto-Morellic '\*Dyenna' meaning 'bow of an instrument.' (cf. '*Bakharrą Djennarilh*', meaning 'bowed bakharra.')
+[^5]: Sarvaran '*Bakhalamų*' << Proto-Morellic '\*Bakha-lhamun' meaning 'three strings.'
