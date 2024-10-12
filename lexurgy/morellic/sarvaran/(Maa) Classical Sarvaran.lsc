@@ -235,18 +235,21 @@ deromanisation:
  {ng, y, kh} => {ŋ, ɣ, x}
  then: (
  {[plosive +voiced], [nasal], [lateralapproximant]} h => [+breathy] *
- {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, ï̂, ü̂} => {aː, eː, iː, oː, uː, ɯː, yː}
- {ï, ü} => {ɯ, y}
+ {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, {ï̂, ï̂}, {ü̂, ü̂}, {ï, ï}, {ü, ü}} => {aː, eː, iː, oː, uː, ɯː, yː, ɯ, y}
  )
  then: * => h / @vowel _ @vowel
  then: \' => *
+
+assimilation defer:
+ [alveolar nasal] => [$Place] / _ @obstruent&[$Place]
+ {[lateralapproximant $breathy $Place] [nasal $breathy $Place], [lateralapproximant $Place] / _ [$Place nasal]} => {* [+long], [nasal]}
 
 lengthening:
  @vowel h => [+long] * // _ @vowel
  []$1 $1 => * [+long]
 
 glomination:
- @vowel&[+long] \- / _ @vowel => [-long] *
+ @vowel&[+long] \- @vowel => [-long] * *
  @vowel \- / _ @vowel => *
  \- => *
 
@@ -319,25 +322,28 @@ palatalisation-2:
  [alveolar !trill -long] => [palatal] / _ [front high -long] $
  )
 
+assimilation-1:
+ :assimilation
+
 nasalisation-and-vowel-loss:
  @vowel* => [+nasalised] / _ [nasal]
- then: @vowel&[+long] => [-long] / @vowel&[+long] @consonant* _
  then: (
  {ji, wu} => {iː, uː} / @consonant _ $
  {j, w} @vowel&[-long low] => {e, o} * / @consonant _ $
  {j, w} @vowel&[-long highmid] => {i, u} * / @consonant _ $
  {ih, uh} => {j, w} / @consonant _ @vowel
  @vowel&[-long] => * / @vowel @continuant? @consonant _ $ // {$ @consonant? @continuant? @vowel&[-long] @consonant, @consonant&[+long], [approximant]} _
- [-breathy nasal -long] => * / @vowel _ // _ @vowel
+ [-breathy nasal -long $Place] => * / @vowel _ // _ {@vowel, @obstruent&[$Place]}
  @vowel&[+long] => [-long] / _ $
  )
  then: (
  @vowel&[-long -nasalised] h => * / @vowel @continuant&![approximant] _ @vowel
  else: (
- @vowel&[-long -nasalised] => * / @vowel @continuant&![approximant] _ [fricative] @vowel // {$ @vowel []* _ [fricative] @vowel @continuant&![approximant], _ [fricative] @vowel {[plosive], [affricate]} $}
- @vowel&[-long] => * / @vowel @continuant&![approximant] _ [nasal] @vowel // $ @vowel []* _ @continuant&![approximant] @vowel @continuant&![approximant]
+ @vowel&[-long -nasalised] => * / @vowel @continuant&[-long]&!{[approximant], [lateralapproximant]} _ [fricative -long] @vowel // {$ @vowel []* _ [fricative] @vowel @continuant&![approximant], _ [fricative] @vowel {[plosive], [affricate]} $}
+ @vowel&[-long] => * / @vowel @continuant&[-long]&!{[approximant], [lateralapproximant]} _ [nasal -long] @vowel // $ @vowel []* _ @continuant&![approximant] @vowel @continuant&![approximant]
  )
  )
+ then: @vowel&[+long] => [-long] / @vowel&[+long] @consonant* _
  then: h => * // @vowel _ @vowel
  then: [+breathy nasal] => [-breathy]
  then: {[+voiced velar]&@obstruent, j} => {ɯ, i} // {@vowel _, _ @vowel}
@@ -357,8 +363,8 @@ length-loss:
 stress defer:
  [] => [-stress notone]
  then: (
- <syl>&[-heavy] => [+stress] / _ <syl>&[-heavy] $
- else: <syl>&[+heavy] => [+stress] // {<syl>&[+heavy] []* _}
+ <syl> => [+stress] / _ <syl>&[-heavy] $
+ else: <syl>&[+heavy] => [+stress] // {<syl>&[+heavy] {<syl>&[-heavy]}* _}
  else: <syl> => [+stress] / _ <syl> $
  else: <syl> => [+stress] / $ _
  )
@@ -393,7 +399,6 @@ long-vowel-shift:
  h => j / @vowel&[front] _ @vowel
  h => w / @vowel&[back] _ @vowel
  )
- then: @vowel&[+long] => [-long]
  then: @vowel => [+nasalised] / [+nasalised] _
  then: h => *
  then: (
@@ -439,11 +444,14 @@ approximantisation-2:
  then: @vowel => [-syllabic] / @vowel _ // @vowel*2 _
  then: @consonant&[+long] => [-long] / _ @continuant @vowel
 
-assimilation:
- [alveolar nasal] => [$Place] / _ @consonant&[$Place]
+assimilation-2:
+ :assimilation
 
 romanizer-preclassical-sarvaran:
  unchanged
+
+delengthening:
+ @vowel&[+long] => [-long]
 
 frication-devoicing:
  {{[plosive], [affricate]}, [alveolar lateralapproximant], [trill] // _ [+voiced]} => {[fricative], [-voiced lateralfricative], [-voiced]} / @vowel @continuant*(0-2) _ // _ {@continuant&![nasal]}? @vowel
@@ -486,3 +494,4 @@ romanizer:
  )
  then: {ɑ́, {ɑ, ɐ}, ɪ, ʊ, ŷ, ý, {y, ʏ}, ɯ̂, ɯ́, {ɯ, ə}, ɤ, ɤ́} => {á, a, i, u, ü̂, ű, ü, ï̂, i̋, ï, e, é}
  then: {d͡ʒ, t͡ʃ, ʒ, ʃ, ɲ, ll, ʎ, j} => {dj, tc, j, c, ny, l'l, ll, y}
+ then: {j, c, h, y, l, g}$1 => * / []$2 _ $2 $1
