@@ -20,10 +20,10 @@ The temples were circular or octagonal[^1] in shape, with one entrance leading i
 The main area of the temples was paved with stone, with a raised platform in the centre; this is the altar where sacrifices would be performed by priests, rituals would be performed, and sermons would be given to the audience. The audience would collect in the surrounding area, kneeling or prostrating in reverence of the deities.
 #### Ablution Areas
 The temples would also feature areas for ablution, where women could ddraw water from the ground with pumps built into the walls. This is where women would gather in the morning and evening to perform their ritual cleaning.
-#### Open and Closed Temples
-The main areas of the temples were either open or enclosed. Temples were tiered, with the perimetric hall sloping up toward another wall, with clerestory windows. Open temples would conclude their walls here; however, enclosed temples would have their walls continue into another sloped roof.
 #### Rooves
-Some temples were semi-enclosed, with their rooves replaced by dome-shaped windows, allowing intricate designs to be cast on the ground by the sun. Another form of semi-enclosed temple had smaller, concentric windows in the roof.
+The circular main halls of Sarvaran temples were either open or enclosed, meaning that they either had or lacked a roof overtop. The perimetric halls would have a circular roof, tapering toward the inner wall which would continue upward with clerestory windows. There, the roof would cover the main hall in closed-roof temples.
+
+However, some temples were semi-enclosed, with their rooves replaced by dome-shaped windows, allowing intricate designs to be cast on the ground by the sun. Another form of semi-enclosed temple had smaller, concentric windows in the roof.
 ### Monasteries and Barracks
 Monasteries and barracks were synonymous within Sarvaran culture, with both warriors and priests descending from the same early Morellic caste, the spiritual leaders.
 

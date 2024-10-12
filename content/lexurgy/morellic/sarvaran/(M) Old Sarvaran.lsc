@@ -235,28 +235,31 @@ deromanisation:
  {ng, y, kh} => {ŋ, ɣ, x}
  then: (
  {[plosive +voiced], [nasal], [lateralapproximant]} h => [+breathy] *
- {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, ï̂, ü̂} => {aː, eː, iː, oː, uː, ɯː, yː}
- {ï, ü} => {ɯ, y}
+ {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, {ï̂, ï̂}, {ü̂, ü̂}, {ï, ï}, {ü, ü}} => {aː, eː, iː, oː, uː, ɯː, yː, ɯ, y}
  )
  then: * => h / @vowel _ @vowel
  then: \' => *
+
+assimilation defer:
+ [alveolar nasal] => [$Place] / _ @obstruent&[$Place]
+ {[lateralapproximant $breathy $Place] [nasal $breathy $Place], [lateralapproximant $Place] / _ [$Place nasal]} => {* [+long], [nasal]}
 
 lengthening:
  @vowel h => [+long] * // _ @vowel
  []$1 $1 => * [+long]
 
 glomination:
- @vowel&[+long] \- / _ @vowel => [-long] *
+ @vowel&[+long] \- @vowel => [-long] * *
  @vowel \- / _ @vowel => *
  \- => *
 
 syllables:
  @consonant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
- s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant*2} _
+ s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
  @consonant? @vowel&[+syllabic] => [+heavy] / _ @consonant&[+long]
  @consonant? @vowel&[+syllabic] => [-heavy]
- s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant*2} _ @consonant&[+long]
- s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant*2} _
+ s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant} _ @consonant&[+long]
+ s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant} _
 
 syllables:
  explicit
@@ -266,11 +269,11 @@ dentalisation:
 
 syllables:
  @consonant? [approximant]? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
- s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant*2} _
+ s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
  @consonant? [approximant]? @vowel&[+syllabic] => [+heavy] / _ @consonant&[+long]
  @consonant? [approximant]? @vowel&[+syllabic] => [-heavy]
- s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant*2} _ @consonant&[+long]
- s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant*2} _
+ s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant} _ @consonant&[+long]
+ s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant} _
 
 length-attribution:
  []$1 $1 => [+long] *
@@ -287,11 +290,11 @@ palatalisation:
 
 syllables:
  @consonant? [approximant]? {@vowel&[+syllabic] @continuant? @consonant, @vowel&[+syllabic +long]} => [+heavy]
- s? @consonant? @continuant? {@vowel&[+syllabic] @continuant? @consonant, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant*2} _
+ s? @consonant? @continuant? {@vowel&[+syllabic] @continuant? @consonant, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
  @consonant? [approximant]? @vowel&[+syllabic] => [+heavy] / _ @consonant&[+long]
  @consonant? [approximant]? @vowel&[+syllabic] => [-heavy]
- s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant*2} _ @consonant&[+long]
- s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant*2} _
+ s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant} _ @consonant&[+long]
+ s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant} _
 
 approximantisation:
  {v, vː} => {w, wː}
@@ -328,3 +331,4 @@ romanizer:
  )
  then: {ŷ, y, ɯ̂, ɯ} => {ü̂, ü, ï̂, ï}
  then: {d͡ʒ, t͡ʃ, ʒ, ʃ, ɲ, ʎ, j} => {dj, tc, j, c, ny, ly, y}
+ then: {j, c, h, y, l, g}$1 => * / []$2 _ $2 $1

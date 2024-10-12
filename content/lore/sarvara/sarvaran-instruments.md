@@ -32,6 +32,6 @@ Kuyudranith are beaten in time to the accompanying instruments, providing a sens
 
 [^1]: Sarvaran '*Bakharrą*' << Proto-Morellic '\*Bakha-azzan' meaning 'two (courses of) strings.'
 [^2]: Sarvaran '*Danaika*' << Proto-Morellic '\*Danu-âkâ' meaning 'bone flute.'
-[^3]: Sarvaran '*Kuyudrą*' << Proto-Morellic '\*Kuya-udzan' meaning 'skin drum.'
+[^3]: Sarvaran '*Küyudra*' << Proto-Morellic '\*Kuya-udza' meaning 'skin drum.'
 [^4]: Sarvaran '*Djenna*' << Proto-Morellic '\*Dyenna' meaning 'bow of an instrument.' (cf. '*Bakharrą Djennarilh*', meaning 'bowed bakharra.')
 [^5]: Sarvaran '*Bakhalamų*' << Proto-Morellic '\*Bakha-lhamun' meaning 'three strings.'
