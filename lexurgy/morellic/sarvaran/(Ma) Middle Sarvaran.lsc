@@ -314,12 +314,12 @@ romanizer-old-sarvaran:
 palatalisation-2:
  [alveolar fricative] => [postalveolar] / @sonorant&![nasal] _ @vowel
  then: (
- [dental plosive +long] [front high -long] => [postalveolar affricate] [highmid] / _ $
- [alveolar fricative +long] [front high -long] => [postalveolar] [highmid] / _ $
- [alveolar !trill +long] [front high -long] => [palatal] [highmid] / _ $
- [dental plosive -long] => [postalveolar affricate] / _ [front high -long] $
- [alveolar fricative -long] => [postalveolar] / _ [front high -long] $
- [alveolar !trill -long] => [palatal] / _ [front high -long] $
+ [dental plosive +long] [front high -long -rounded] => [postalveolar affricate] [highmid] / _ $
+ [alveolar fricative +long] [front high -long -rounded] => [postalveolar] [highmid] / _ $
+ [alveolar !trill +long] [front high -long -rounded] => [palatal] [highmid] / _ $
+ [dental plosive -long] => [postalveolar affricate] / _ [front high -long -rounded] $
+ [alveolar fricative -long] => [postalveolar] / _ [front high -long -rounded] $
+ [alveolar !trill -long] => [palatal] / _ [front high -long -rounded] $
  )
 
 assimilation-1:
@@ -333,14 +333,14 @@ nasalisation-and-vowel-loss:
  {j, w} @vowel&[-long highmid] => {i, u} * / @consonant _ $
  {ih, uh} => {j, w} / @consonant _ @vowel
  @vowel&[-long] => * / @vowel @continuant? @consonant _ $ // {$ @consonant? @continuant? @vowel&[-long] @consonant, @consonant&[+long], [approximant]} _
- [-breathy nasal -long $Place] => * / @vowel _ // _ {@vowel, @obstruent&[$Place]}
+ [-breathy nasal -long $Place] => * / @vowel _ // _ {@vowel, [plosive $Place]}
  @vowel&[+long] => [-long] / _ $
  )
  then: (
  @vowel&[-long -nasalised] h => * / @vowel @continuant&![approximant] _ @vowel
  else: (
- @vowel&[-long -nasalised] => * / @vowel @continuant&[-long]&!{[approximant], [lateralapproximant]} _ [fricative -long] @vowel // {$ @vowel []* _ [fricative] @vowel @continuant&![approximant], _ [fricative] @vowel {[plosive], [affricate]} $}
- @vowel&[-long] => * / @vowel @continuant&[-long]&!{[approximant], [lateralapproximant]} _ [nasal -long] @vowel // $ @vowel []* _ @continuant&![approximant] @vowel @continuant&![approximant]
+ @vowel&[-long -nasalised] => * / @vowel @continuant&[-long]&!{[approximant], [lateralapproximant], [nasal]} _ [fricative -long] @vowel // {$ @vowel []* _ [fricative] @vowel @continuant&!{[approximant], [lateralapproximant], [nasal]}, _ [fricative] @vowel {[plosive], [affricate]} $}
+ @vowel&[-long] => * / @vowel @continuant&[-long]&!{[approximant], [lateralapproximant], [nasal]} _ [nasal -long] @vowel // $ @vowel []* _ @continuant&!{[approximant], [lateralapproximant], [nasal]} @vowel @continuant&!{[approximant], [lateralapproximant], [nasal]}
  )
  )
  then: @vowel&[+long] => [-long] / @vowel&[+long] @consonant* _
