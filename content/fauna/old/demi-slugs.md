@@ -53,6 +53,6 @@ Demi-slug clothing tended to be very basal, as the species' lack of precise fing
 ### Religion
 It was often considered that foraging, gathering, and defense were all methods of worship endowed to the demi-slugs as rules of their existence. They were incredibly devout creatures, always acting to serve their deities.
 
-Their spiritual leaders tended to consume [alucium](cosmology/alucinara.md) in powder or paste form, treating the elevated level of consciousness achieved as the 'spiritual plane' where one could interface with deities or passed loved ones. It was treated as a taboo for a common demi-slug to do so without permission, as it could lead to [phantasmarrhoea](illnesses/phantasmarrhoea.md) or incorrect interpretation.
+Their spiritual leaders tended to consume [Alucinarium](cosmology/alucinara.md) in powder or paste form, treating the elevated level of consciousness achieved as the 'spiritual plane' where one could interface with deities or passed loved ones. It was treated as a taboo for a common demi-slug to do so without permission, as it could lead to [phantasmarrhoea](conditions/phantasmarrhoea.md) or incorrect interpretation.
 
-Spiritual leaders of typically every species tended to be blind, with light purple-tinted eyes. This was a result of continued exposure to alucium and its effects on physiology.
+Spiritual leaders of typically every species tended to be blind, with light purple-tinted eyes. This was a result of continued exposure to Alucinarium and its effects on physiology.

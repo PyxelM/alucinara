@@ -5,7 +5,7 @@ tags:
   - darkness
 ---
 ## Overview
-The spirits of darkness are celestial beings that were created by the [second Judge](cosmology/celestial-beings/the-judges.md) behind the first's back out of jealousy for the first's superiority. They are made out of the energy of Darkness, and eventually became the souls of living beings, inhabiting the organic matter within their bodies (as [alucinara](cosmology/alucinara.md) inhabits alucium).
+The spirits of darkness are celestial beings that were created by the [second Judge](cosmology/celestial-beings/the-judges.md) behind the first's back out of jealousy for the first's superiority. They are made out of the energy of Darkness, and eventually became the souls of living beings, inhabiting the organic matter within their bodies (as [alucinara](cosmology/alucinara.md) inhabits Alucinarium).
 ## Background
 The spirits of darkness, created by the second judge and hidden, were afflicted by great hunger from their begining and resolved to consume the entirety of the universe's matter. Once this was complete, the spirits attempted to consume the first Judge, but destroyed it in an act that triggered the shattering of the realms.
 

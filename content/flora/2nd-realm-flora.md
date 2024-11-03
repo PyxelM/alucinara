@@ -5,7 +5,7 @@ tags:
   - second-realm
 ---
 ## Nyuta Bushes
-Nyuta bushes are a type of bush native to the 2nd and 1st realms. They have red leaves and purple berries. Nyuta leaves are dried and consumed in a purple tea by many [minikin](fauna/minikin.md) cultures.
+Nyuta bushes are a type of bush native to the 2nd and 1st realms. They have red leaves and purple berries. Nyuta leaves are dried and consumed in a purple tea by many [minikin](fauna/old/minikin.md) cultures.
 ### Nyutaberries
 Nyutaberries are small, edible, and purple. They have pink stems and near-white mesocarps which contain many small black seeds. They are foraged by some Minikin cultures.
 ### Nyuta Tea
@@ -47,7 +47,7 @@ As well as being able to be turned into bread, Lunuth is farmed by some minikin 
 ## Glowpear Trees
 Glowpear trees are a type of tree native to the 2nd and -1st realms. Their leaves are deep green and their fruit are glowing blue. They are grown in orchards by some Minikin cultures.
 ### Glowpears
-Glowpears are the fruit of the glowpear tree. They are similar to pears, with the main difference being their luminous, vibrant blue-cyan colour. Their juice similarly glows, owing to the presence of [alucium](cosmology/alucinara.md). They are sometimes foraged by some Minikin cultures.
+Glowpears are the fruit of the glowpear tree. They are similar to pears, with the main difference being their luminous, vibrant blue-cyan colour. Their juice similarly glows, owing to the presence of [Alucinarium](cosmology/alucinara.md). They are sometimes foraged by some Minikin cultures.
 ### Glowpear Leaves
 Glowpear Leaves are the leaves of the glowpear tree. They are shiny, with a deep green complexion. They are inedible to Minikin, but serve as a vital food source for herbivorous livestock such as bushdeer, wooly hogs, and pack-snails.
 ## Dreamberry Bushes
@@ -63,7 +63,7 @@ Dreamberry bushes are used by some Minikin cultures to defend bases and stockpil
 ## Sparkberry Bush
 Sparkberry bushes are a plant native to the 2nd realm. They have vibrant green leaves, and small blue berries.
 ### Sparkberries
-Sparkberries are small, round, blue, and slightly phosphorescent. They are naturally consumed by electric [dragons](fauna/dragons.md) in the wild, who fly elsewhere and disperse seeds through their dung.
+Sparkberries are small, round, blue, and slightly phosphorescent. They are naturally consumed by electric [dragons](fauna/old/dragons.md) in the wild, who fly elsewhere and disperse seeds through their dung.
 
 They are inedible when raw, and send out painful shocks when touched by most animals, including Minikin. They can however be harvested using telekinesis through Alucinara energy, and are edible once cooked.
 ## Elkfruit Trees

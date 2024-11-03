@@ -6,7 +6,7 @@ tags:
   - sarvara
 ---
 ## Overview
-[Sarvaran culture](lore/sarvara.md) was rich with artwork and innovation. The four most prominent fields in ancient Sarvara were pottery, poetry, architecture, and music. Music was an integral part of the culture, allowing all Minikin to express themselves through sound, in worship, in pain, and in love. Sarvaran music wouldn't exist without the culture's diverse range of instruments.
+[Sarvaran culture](lore/2nd-realm/sarvara.md) was rich with artwork and innovation. The four most prominent fields in ancient Sarvara were pottery, poetry, architecture, and music. Music was an integral part of the culture, allowing all Minikin to express themselves through sound, in worship, in pain, and in love. Sarvaran music wouldn't exist without the culture's diverse range of instruments.
 ## Sarvaran Tuning
 Sarvaran tuning is made up of octaves of 8 tones. These tones generally follow pythagorean tuning, and are each named after the numbers. The first tone was roughly analogous to the note of A (44o Hz) in western tuning, although there was no standardisation in the time of the Sarvaran Civilisation until the advent of the [Empire Of The Petrified Child](lore/empire-of-the-petrified-child).
 ## Bakharra

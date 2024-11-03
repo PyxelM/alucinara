@@ -5,26 +5,15 @@ tags:
   - groups
 ---
 ## Overview
-The early Morellic tribes were made up of nomadic, matrilineal clans living in the south of [Tseireph](lore/tseireph.md) during the minikin Mesolithic era, or Middle Stone Age. They were united by a common culture and ethnicity, but saw themselves as very disparate.
+The early Morellic tribes were made up of nomadic, matrilineal clans living in the south of [Tseireph](lore/2nd-realm/tseireph.md) during the minikin Mesolithic era, or Middle Stone Age. They were united by a common culture and ethnicity, but saw themselves as very disparate.
 
-The early Morellic tribes served as the predecessors of [Sarvara](lore/sarvara.md) and [Coroth](groups-and-places/coroth.md), and spoke a continuum of Proto-Morellic dialects, including Old Sarvaran and Old Corothic.
+The early Morellic tribes served as the predecessors of [Sarvara](lore/2nd-realm/sarvara.md) and [Coroth](groups-and-places/coroth.md), and spoke a continuum of Proto-Morellic dialects, including Old Sarvaran and Old Corothic.
 
 They were contemporary with the pre-aqhoran tribes, but would not make contact with them until they migrated to the southern coast of Tseireph and founded the city-state of Aqhor at the dawn of the minikin Bronze age.
 ## Genetics
-The early Morellic culture was vast and disparate, encompassing many groups below the equator in Tseireph, mainly in the steppe and desert. The many groups that made up the culture could vary in ethnicity and identity, but were all united by their common linguistic origin, cultural practices, and beliefs.
+The early Morellic culture encompassed a few groups below the equator in Tseireph, mainly in the steppe and continental climates. The groups that made up the culture could vary subtly in appearance and identity, but were all united by their common linguistic, cultural, and genetic origin.
 
-There were about 3 different haplogroups of early Morellic minikin, roughly analogous to the largest early Morellic tribes. These can be termed the haplogroups Mora, Kyuludhi, and Netefa.
-### Mora
-The Mora haplogroup was native to the steppe of southern Tseireph, making up the majority of the homonymous Mora tribe, which would proceed to found the bronze-age city state of '[Sarvara](lore/sarvara.md).' The Mora had midtone skin, with brown to blonde, bristly fur on their nose, chin, head, and tail, and brown to green eyes.
-### Kyuludhi
-The Kyuludhi haplogroup was native to the continental woodlands to the southeast of the steppe, making up the majority of the Kyuludhi tribe, which would proceed to found the bronze-age city state of 'Coroth.' The Kyuludhi had mid-to-light skin, with blonde hair on their nose, chin, head, hands, feet, and tail, and blue to green eyes.
-### Netefa
-The Netefa haplogroup was native to the desert to the (north-)west of the steppe, making up the majority of the Netefa tribe, which would proceed to found the bronze-age nomadic group 'Net'eh.' The Netefa had dark skin, with black hair on their head, tail, and chin, and brown to blue eyes.
-### Hybrids
-Naturally, it is not uncommon to see some minikin with characteristics shared between haplogroups. For example, Kyuludhi-Netefa minikin have dark skin and blonde hair, Mora-Kyuludhi have midtone skin with hair on their hands and feet and Mora-Netefa have dark skin with hair on their nose and green eyes.
-
-![](images/kyuludhi-netefa-minikin-woman.png)
-A Kyuludhi-Netefa Minikin woman, holding a Kyuludhic scythe used for foraging from berry bushes and fruit trees.
+Some early Morellic groups included those who lived in the Steppe, who would go on to migrate south and found the city state and civilisation of Sarvara. Another was the Coroth, who lived southeast of the steppe, inhabiting the continental forests of southern Tseireph, and would go on to found their own Corothic civilisation.
 ## Clothing Practices
 The early Morellic tribes wore clothes made of animal hide, fur, leather, woven grass leaves, and plant fibre, such as from Lunuth. They would commonly wear long dress-like tunics, cloaks, belts with pouches, sandals, and jewellery made of bones, shells, volcanic glass, and stones[^2].
 

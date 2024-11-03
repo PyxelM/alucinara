@@ -6,7 +6,7 @@ tags:
   - locations
 ---
 ## Overview
-Sarvara (Sarvaran: '*Sarvárą*' IPA: `/sar.vá.rã/`) was a Morellic city state and a civilisation whose society, territory, and culture extended beyond its original city walls. The Sarvaran city and civilisation were located within the Sarvaran river basin, of southern [Tseireph](lore/tseireph.md) and the [2nd Realm](lore/2nd-realm.md).
+Sarvara (Sarvaran: '*Sarvárą*' IPA: `/sar.vá.rã/`) was a Morellic city state and a civilisation whose society, territory, and culture extended beyond its original city walls. The Sarvaran city and civilisation were located within the Sarvaran river basin, of southern [Tseireph](lore/2nd-realm/tseireph.md) and the [2nd Realm](lore/2nd-realm.md).
 
 Sarvara was founded during the Minikin Neolithic era, reaching its height during the Bronze Age, and was one of the first great cities, alongside [Coroth](groups-and-places/coroth.md) and [Aqhor](groups-and-places/aqhor.md). It held a great amount of influence over the river basin, and served as the foundation for its successor state, the [Empire of the Petrified Child](lore/the-empire-of-the-petrified-child.md).
 ## Etymology
@@ -27,11 +27,7 @@ The founding of the city soon preceded the Minikin Copper Age, also known as the
 
 The [Sarvaran Golden Age](lore/sarvaran-golden-age.md), which began at the dawn of the Bronze Age, was a period of time spanning up to 500 years in which the city prospered and its culture was enriched with poetry, pottery, art, technology, and religion.
 
-Despite this prosperity, Sarvara was not destined to last. The end of the Sarvaran Golden Age was heralded by the emergence of the Sarvaran Plague, an illness that ravaged the Sarvaran city state and the urban environments in its territory. The city was lost.
-
-The only people to survive were those residing within the rural settlements of the Sarvaran territory. These groups were disparate, and unorganised, and a period known as the Sarvaran Dark Ages was marked by bloodshed as the warring post-Sarvaran city states fought one another to survive and thrive.
-
-Eventually, however, a [Corothic](lore/coroth.md) military general known as The Elephant arose from the ashes of Sarvara as a phoenix and united the disparate post-Sarvaran city states, and more, into what would eventually become the [Empire of the Petrified Child](lore/empire-of-the-petrified-child.md).
+Further Reading: [Sarvaran History](lore/2nd-realm/sarvara/sarvaran-history.md)
 ## Sarvaran Logography
 The Sarvaran Golden Age was precipitated by the invention of the Sarvaran Logography. The logography was written from top-to-bottom, carved either into wood or stone with bladed styli or chisels.
 
@@ -53,5 +49,5 @@ The lowest caste was the wretched. These were the least in Sarvaran society, tho
 ## Calendar
 The date of the city's founding serves as year 0 of the Sarvaran calendar, which was one of the many innovations made by the Sarvaran Minikin. Other notable innovations included pottery, poetry, art, early mass-production, war, and cartography.
 ## See Also:
-- [Sarvaran Architecture](lore/sarvara/sarvaran-architecture.md)
-- [Early Morellic Tribes](lore/early-morellic-tribes.md)
+- [Sarvaran Architecture](lore/2nd-realm/sarvara/sarvaran-architecture.md)
+- [Early Morellic Tribes](lore/2nd-realm/early-morellic-tribes.md)

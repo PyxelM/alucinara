@@ -1,7 +1,7 @@
 ---
 title: Sharadism
 tags:
-  - illnesses
+  - conditions
 ---
 ## Overview
 Sharadism is a physiological condition that affects organic beings. It causes those affected, known as Sharadith[^1], to undergo many irreversable physical, mental, and spiritual changes, resulting in a grotesque appearance and insatiable need to consume the blood and flesh of others.
@@ -15,6 +15,8 @@ Sharadism is contracted when an organic being is exposed to the bodily fluids of
 A common method of contraction is the consumption of tainted animal meat or plant flesh, such as from a hunted animal with Sharadism, or a foraged plant which has gained the condition from contact with another Sharadh.
 
 Another method is through the deliberate turning of another being. This is customary in some Minikin cultures as criminal punishment, but can also be carried out when a Sharadh pack dwindles in number and the remaining members seek out new recruits. This is achieved through bites or scratches, which penetrate the skin, but do not kill the victim.
+## Turning
+When one contracts Sharadism, they don't fully transform into a Sharadh until the night after, usually in their sleep. In this sleep, they appear dead, but don't decompose beyond a pale and dry appearance. Once the transformation is complete, they appear as a Sharadh, and can infect others.
 ## Appearance
 Sharadith differ in appearance from their healthy counterparts, in that they exhibit:
 - Greater accumulaton of haemoglobin and red iron pigments in the body, leading to a ruddy appearance and red eyes.

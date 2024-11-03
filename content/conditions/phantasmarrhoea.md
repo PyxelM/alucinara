@@ -1,7 +1,7 @@
 ---
 title: Phantasmarrhoea
 tags:
-  - illnesses
+  - conditions
   - alucinara
 ---
 ## Overview

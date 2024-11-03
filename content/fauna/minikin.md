@@ -1,67 +1,45 @@
 ---
-title: Minikin
+title: title
 tags:
-- fauna
-- people
+  - fauna
+  - minikin
+  - sapient-species
 ---
 ## Overview
-Minikin (spp. *Anthrosciurus sapiens*) are a small rodent species native to the [2nd Realm](lore/2nd-realm.md). They are arboreal omnivores which tend toward eating nuts and other plants, and descended from red squirrels from the 0th realm. They are capable of language, and appear anthropoid.
+Minikin (spp. *Anthrosciurus sapiens*) are a species of small rodents native to the [2nd realm](lore/2nd-realm.md). They are anthropoid, arboreal omnivores descended from the European Red Squirrel. They are the most populous and intelligent race of the 2nd realm, and are capable of speech, agriculture, and forming civilisations.
+## Appearance
+There is a lot of variation in terms of Minikin appearances, due to genetic diversity. Generally, they are 25-30cm tall, bipedal and anthropoid, with a snouted face, pointed ears, a long, bushy tail, and 4-fingered hands and digitigrade feet, with sharp claws and specialised teeth for tearing flesh and grinding plant matter.
 
-## Adaptation
-Many red squirrels that had found themselves in the [2nd Realm](lore/2nd-realm.md) as a result of the Supernova of 80MB, and are subsequently put under a lot of pressure from similarly arboreal predators. This led to the adaptation of;
-- stronger legs and digitigrade feet for the ability to jump,
-- greater agility and capacity for stealth,
-- and sharper claws and teeth for self defence.
+Fur distributions and skin colour varies with the climate; for example, a Minikin from a hotter climate may have less fur and darker skin, whereas a Minikin from a colder climate may have more fur and lighter skin. Likewise, eye colour and hair colour can vary accordingly.
+### Dimorphism
+Minikin males tend to be taller than women, about 30 cm in height, and more bulky. Women, in contrast, lack as much hair as males (such as nose hair) and reach a stature of about 25 cm.
+### Children
+Minikin children are small, about 5cm in length, and more squirrel-like than their elders. They are hairless at birth, but quickly grow out a thick coat of fur across the body, which permanently sheds before sexual maturity.
+## Eating Habits
+Minikin are omnivores, mainly eating a diet of small mammals, fruit (and their juice), amphibians, vegetables, fish, leaves, and tree bark; and after the invention of agriculture, minikin began to eat and drink bread, beer, and wine.
 
-## Morphology
-Minikin measure at a height of 25-30cm tall. The basal minikin grew to develop hairlessness and bipedalism, with strong, long digitgrade feet specialised for jumping from branch to branch.
+Eating is a social experience for Minikin, who mainly do so with family, friends, and lovers. They don't do so with those they don't trust, as it is an experience where one can let down their guard, without fear of being attacked or poisoned.
+## Sociology
+Minikin are a very social species, living in familial groups or clans. Due to the mother's importance within Minikin families, many cultures are matriarchal.
 
-They also grew to look a lot more anthropoid, as the same Alucinara that had augmented their evolution was the same energy that had developed muscle memory from use in the souls of late humans that had gone extinct soon after the supernova.
+At the advent of the Minikin Bronze Age, many clans began to unite under a common cultural identity into city states and nations, which would go on to expand, colonise, and build empires.
+### Religion
+Minikin religion, as with the religions of other sapient species, is based upon the worship of the celestial beings; including the Judges, the Petrified Child, and / or the Angels.
 
-### Morellic Race
+These beings are worshipped on holy days, in holy locations, or in temples, and communed with by those in priestly or high positions within the social heirarchy.
+### Clothing
+Minikin fashion clothing out of leaves, animal skin / leather, plant fibre, and wool; creating tunics, skirts, and coats, among other items of clothing. Weaving was an industry pioneered early in Minikin development.
+### Agriculture
+Angriculture was innovated in Minikin society at many independent points, but generally spells the end of the Neolithic era (or New Stone Age) and the dawn of the Bronze Age.
 
-### Austerkin Race
-The Austerkin are a lot hairier compared to other minikin races.
+Minikin use tools such as sticks or scythes to harvest plants, which include Lunuth wheat, Sweetrice, fruit, berries, vegetables, and Pelen.
+### Hunting and Warfare
+Furthermore, Minikin also fashion spears, blades, and clubs in order to defeat prey animals or enemies. Due to the use of [Alucinara](cosmology/alucinara.md) energy, Minikin do not have use for bows, as they can drive arrows into prey and others by casting a kinetic spell.
 
-### Fur Distribution
-Hairlessness and / or fur distribution can vary from race to race depending on the climate. Hotter climates would result in sparser, thinner fur, with the opposite effect in cooler climates. As a rule, the head tends to have hair, and the tail is fuzzy and bushy.
-
-For example, the equatorial Morello-Oyhoyunic minikin are almost completely hairless apart from their heads, genitals, and tails. In contrast, the southern alpine Snissojian minikin are hairy all over apart from their faces and palms, covered with fluffy white fur to adapt to their cold, snowy environment.
-
-### Eyes
-Minikin skin colour can vary from dark to light, often taking on a semi-dark beige colour. Eye colour can vary from brown, to green, or to blue. In cases of prolongued [alucium](cosmology/alucinara.md) exposure, the irises would take on a light pink or purple colour.
-
-## Diet
-As omnivores, minikin often tend to eat;
-- insects,
-- berries,
-- nuts,
-- leaves,
-- tree bark,
-- and small rodents.
-
-Some minikin guilty of comitting a taboo would be fed potentially poisonous foods, as to gauge their toxicity, and some minikin cultures would abstain from consuming squirrel flesh, due to their sanctity in a lot of religions as the minikin's evolutionary and spiritual ancestors.
-
-## Sociality
-Minikin often tend to form groups based on familial relation, headed by a matriarch. Minikin exhibit altruism in sharing food with others of their own group, giving and allowing others to freely take from each other's den(s).
-
-### Communities
-As they developed, the basal minikin developed a more sophisticated capacity for the formation of society, language, and the ability to construct permanent buildings such as workplaces and small clay dormitories or dens.
-
-Modern minikin groups inhabit small wooded areas, with one to three immediate families living in one tree. Portions of these trees are often hollowed out for use as storage or shelter, while some cultures would store clay in their cheek pouches to build round shelters dangling from the branches.
-
-### Taboos
-When a minikin commits a crime, they are ostracised from the community and have their tail dismembered and burnt. In morellic culture, tails are seen as the source of the spirit or soul, and disconnection from the soul is representative of the disconnection of the individual from others. The legal definition of what constituted a 'crime' can vary depending on each culture's taboos.
-
-### Instability
-When a group is too large for one community, it inevitably collapses. A varying amount of groups form following the split, involving fighting, war, and ostracism. Large groups are often unstable, resulting in violent dictatorships in some communities as to reduce the risk of collapse.
-
-## Psychology
-Minikin psychology was a complicated subject on account of the brain's interaction with the Fortuitary gland. The brain was accountable for conscious and subconscious processes, such as thought, decision-making, breathing, sleep, hibernation, including the control of all other biological systems. Likewise, the fortuitary gland was accountable for the subconscious process of alucium secretion and essential shift.
-
-However, the line became blurred between each organ when one researched the subject of dreaming and sorcery. Dreams, while mostly innocuous to non-fortuitous beings, are greatly debated in the context of Alucinara, wether or not they originated from the brain or from a spiritual plane.
-
-### Hibernation
-All minikin hibernate in the winter, slowing their metabolic processes following a period of feasting. During hibernation, minikin become unconscious in a sleep-like state, and alucium levels in the brain increase due to the inactivation of valves in the bloodstream that protect the brain from Phantasmarrhoea.
-
-This is not seen in normal sleep, but is shown to increase the vividness of dreams during hibernation. The presence of alucium in the brain during hibernation is a survival method developed to allow minikin to interface with deities, to gain foreknowledge such as future events or advice through acquisition of divine wisdom.
+Some Minikin domesticate animals such as Weasels in order to ride into battle with other nations, clans, or predators, using their weapons and magic from atop their steed or from the ground in order to succeed against their foe.
+### Structures
+Minikin structures are used for many purposes, such as for homes, places of storage, bath-houses, or temples. They generally constructed these structures with clay, Lunuth straw, wood, bitumen, and stones.
+### Ground-Level
+On the ground, structures were built on solid ground and otherwise upon flat, stone foundations. These were more often farms, temples, and bathhouses, where waste could be easily taken and used as compost.
+### Farms
+Farms could be built on ground-level or in the canopy, depending on their type. Farms which grew crops such as Lunuth wheat or berries were set up on ground level, where seeds could be sewn. Within the canopy, farms were set up to farm the fruit of the trees, such as Dhajar nuts or Sarkitwara, or the goods of various small animals which inhabited the trees, such as silk from silkworms or moths.

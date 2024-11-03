@@ -5,7 +5,7 @@ tags:
   - second-realm
 ---
 ## Minikin
-[Minikin](fauna/minikin.md) are a sapient rodent species native to the 2nd realm. They are descended from the European Red Squirrel, with a lifespan of 12-18 years, reaching maturity around 8 years of age.
+[Minikin](fauna/old/minikin.md) are a sapient rodent species native to the 2nd realm. They are descended from the European Red Squirrel, with a lifespan of 12-18 years, reaching maturity around 8 years of age.
 
 They and grew to become the most populous intelligent race of the 2nd Realm, and are capable of speech, agriculture, forming civilisations, among all of the other skills and industries that come with them.
 ### Appearance
@@ -15,7 +15,7 @@ Early Minikin groups were nomadic foragers and hunter-gatherers, living in famil
 ### Diet
 Minikin are mostly herbivores, consuming fruits, nuts, leaves, vegetables, and treebark. Due to other forces, such as the development of cooking technology or food scarcity, Minikin also eat various forms of bread such as Lunuth bread, dairy products such as cheese and yoghurt, and alcoholic drinks such as beer and fruit wine.
 ## Bushdeer
-[Bushdeer](fauna/bushdeer.md) are a ruminant species native to the 2nd and 1st realms. They are related to Earth deer, with the major differences being their tree-like antlers, distinct white stripes on their sides, and skull-like white markings on their faces.
+[Bushdeer](fauna/old/bushdeer.md) are a ruminant species native to the 2nd and 1st realms. They are related to Earth deer, with the major differences being their tree-like antlers, distinct white stripes on their sides, and skull-like white markings on their faces.
 ### Diet
 Bushdeer are herbivorous, their main source of food being leaves and moss. They sometimes eat other foods, such as algae, fungi, and small animals.
 ### Antlers
@@ -35,7 +35,7 @@ They are farmed by some Minikin cultures for their robust wool and nutricious po
 
 Among Morellic hunter minikin, it is said that it is good luck to cleanly cut a wild Wooly Hog's tail off, and bad luck to fail to do this. These tails are often kept as trophies by hunters, and appear in heraldry as a symbol of good skill.
 ## Dragons
-[Dragons](fauna/dragons.md) are a small amphibious species native to the 2nd, 3rd, and -2nd realms. They are omnivorous, consuming berries and insects, and come in many varieties, each differing in colour. Dragons are inedible but are hunted and used in the making of dyes.
+[Dragons](fauna/old/dragons.md) are a small amphibious species native to the 2nd, 3rd, and -2nd realms. They are omnivorous, consuming berries and insects, and come in many varieties, each differing in colour. Dragons are inedible but are hunted and used in the making of dyes.
 ## Snoutgoats
 [Snoutgoats](fauna/snoutgoats.md), also known as Yuriqith (Plural) / Yuriqh (Singular), are a goat species native to the 2nd and 3rd realms. They are half a metre tall, with fur that ranges from light beige to brown.
 

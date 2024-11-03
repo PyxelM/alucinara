@@ -2,7 +2,7 @@ Feature +breathy, +rounded, +long, +syllabic
 Feature Frontness(front, nearfront, central, nearback, back)
 Feature Height(low, nearlow, lowmid, mid, highmid, nearhigh, high)
 Feature Place(labial, labiodental, dental, alveolar, postalveolar, retroflex, alveopalatal, palatal, velar, uvular, pharyngeal, epiglottal, glottal)
-Feature Manner(plosive, fricative, affricate, implosive, trill, flap, approximant, lateralapproximant, lateralfricative, lateralaffricate, nasal)
+Feature Manner(plosive, fricative, affricate, trill, flap, approximant, lateralapproximant, lateralfricative, lateralaffricate, nasal)
 Feature +voiced, +labialised, +palatalised, +aspirated, +nasalised, +rhotic, +retracted, +prenasalised, +pharyngealised, +ejective, +breathyvoice, +noaudiblerelease
 Feature Tone(*notone, lowtone, midtone, hightone)
 Feature (syllable) +heavy
@@ -27,7 +27,7 @@ Diacritic ˞ [+rhotic]
 Diacritic ʰ [+aspirated]
 Diacritic ʷ [+labialised]
 Diacritic ʲ [+palatalised]
-Diacritic ː (floating) [+long]
+Diacritic ː [+long]
 Diacritic ⁿ (before) [+prenasalised]
 Diacritic ˤ [+pharyngealised]
 Diacritic ʼ [+ejective]
@@ -74,7 +74,6 @@ Symbol p [-voiced labial plosive -syllabic]
 Symbol ɸ [-voiced labial fricative -syllabic]
 Symbol p͡ɸ [-voiced labial affricate -syllabic]
 Symbol b [+voiced labial plosive -syllabic]
-Symbol ɓ [+voiced labial implosive -syllabic]
 Symbol ᵐb [+voiced labial plosive -syllabic +prenasalised]
 Symbol β [+voiced labial fricative -syllabic]
 Symbol b͡β [+voiced labial affricate -syllabic]
@@ -87,7 +86,6 @@ Symbol p̪ [-voiced labiodental plosive -syllabic]
 Symbol f [-voiced labiodental fricative -syllabic]
 Symbol p̪͡f [-voiced labiodental affricate -syllabic]
 Symbol b̪ [+voiced labiodental plosive -syllabic]
-Symbol ɓ̪ [+voiced labiodental implosive -syllabic]
 Symbol v [+voiced labiodental fricative -syllabic]
 Symbol b̪͡v [+voiced labiodental affricate -syllabic]
 Symbol ʙ̠ [+voiced labiodental trill -syllabic]
@@ -99,7 +97,6 @@ Symbol t [-voiced alveolar plosive -syllabic]
 Symbol s [-voiced alveolar fricative -syllabic]
 Symbol t͡s [-voiced alveolar affricate -syllabic]
 Symbol d [+voiced alveolar plosive -syllabic]
-Symbol ɗ [+voiced alveolar implosive -syllabic]
 Symbol z [+voiced alveolar fricative -syllabic]
 Symbol d͡z [+voiced alveolar affricate -syllabic]
 Symbol r [+voiced alveolar trill -syllabic]
@@ -116,7 +113,6 @@ Symbol t̠ [-voiced postalveolar plosive -syllabic]
 Symbol ʃ [-voiced postalveolar fricative -syllabic]
 Symbol t͡ʃ [-voiced postalveolar affricate -syllabic]
 Symbol d̠ [+voiced postalveolar plosive -syllabic]
-Symbol ɗ̠ [+voiced postalveolar implosive -syllabic]
 Symbol ʒ [+voiced postalveolar fricative -syllabic]
 Symbol d͡ʒ [+voiced postalveolar affricate -syllabic]
 Symbol r̠ [+voiced postalveolar trill -syllabic]
@@ -129,7 +125,6 @@ Symbol t̪ [-voiced dental plosive -syllabic]
 Symbol θ [-voiced dental fricative -syllabic]
 Symbol t͡θ [-voiced dental affricate -syllabic]
 Symbol d̪ [+voiced dental plosive -syllabic]
-Symbol ɗ̪ [+voiced dental implosive -syllabic]
 Symbol ð [+voiced dental fricative -syllabic]
 Symbol d͡ð [+voiced dental affricate -syllabic]
 Symbol r̪ [+voiced dental trill -syllabic]
@@ -143,7 +138,6 @@ Symbol ʈ [-voiced retroflex plosive -syllabic]
 Symbol ʂ [-voiced retroflex fricative -syllabic]
 Symbol t͡ʂ [-voiced retroflex affricate -syllabic]
 Symbol ɖ [+voiced retroflex plosive -syllabic]
-Symbol ᶑ [+voiced retroflex implosive -syllabic]
 Symbol ʐ [+voiced retroflex fricative -syllabic]
 Symbol d͡ʐ [+voiced retroflex affricate -syllabic]
 Symbol ɽː [+voiced retroflex trill -syllabic]
@@ -156,7 +150,6 @@ Symbol c̟ [-voiced alveopalatal plosive -syllabic]
 Symbol ɕ [-voiced alveopalatal fricative -syllabic]
 Symbol t͡ɕ [-voiced alveopalatal affricate -syllabic]
 Symbol ɟ̟ [+voiced alveopalatal plosive -syllabic]
-Symbol ʄ̟ [+voiced alveopalatal implosive -syllabic]
 Symbol ʑ [+voiced alveopalatal fricative -syllabic]
 Symbol d͡ʑ [+voiced alveopalatal affricate -syllabic]
 Symbol ɟ̟̆ː [+voiced alveopalatal trill -syllabic]
@@ -169,7 +162,6 @@ Symbol c [-voiced palatal plosive -syllabic]
 Symbol ç [-voiced palatal fricative -syllabic]
 Symbol c͡ç [-voiced palatal affricate -syllabic]
 Symbol ɟ [+voiced palatal plosive -syllabic]
-Symbol ʄ [+voiced palatal implosive -syllabic]
 Symbol ᶮɟ [+voiced +prenasalised palatal plosive -syllabic]
 Symbol ʝ [+voiced palatal fricative -syllabic]
 Symbol ɟ͡ʝ [+voiced palatal affricate -syllabic]
@@ -184,7 +176,6 @@ Symbol k [-voiced velar plosive -syllabic]
 Symbol x [-voiced velar fricative -syllabic]
 Symbol k͡x [-voiced velar affricate -syllabic]
 Symbol g [+voiced velar plosive -syllabic]
-Symbol ɠ [+voiced velar implosive -syllabic]
 Symbol ᵑg [+voiced velar plosive -syllabic +prenasalised]
 Symbol ɣ [+voiced velar fricative -syllabic]
 Symbol g͡ɣ [+voiced velar affricate -syllabic]
@@ -199,7 +190,6 @@ Symbol q [-voiced uvular plosive -syllabic]
 Symbol χ [-voiced uvular fricative -syllabic]
 Symbol q͡χ [-voiced uvular affricate -syllabic]
 Symbol ɢ [+voiced uvular plosive -syllabic]
-Symbol ʛ [+voiced uvular implosive -syllabic]
 Symbol ʁ [+voiced uvular fricative -syllabic]
 Symbol ɢ͡ʁ [+voiced uvular affricate -syllabic]
 Symbol ʀ [+voiced uvular trill -syllabic]
@@ -221,10 +211,10 @@ Symbol h [-voiced glottal fricative -syllabic]
 Symbol ʔ͡h [-voiced glottal affricate -syllabic]
 Symbol ɦ [+voiced glottal fricative -syllabic]
 
-Element consonant {[plosive], [implosive], [fricative], [affricate], [trill], [flap], [approximant], [lateralapproximant], [lateralfricative], [lateralaffricate], [nasal]}
+Element consonant {[plosive], [fricative], [affricate], [trill], [flap], [approximant], [lateralapproximant], [lateralfricative], [lateralaffricate], [nasal]}
 Element vowel {[front], [nearfront], [central], [nearback], [back]}
-Element obstruent {[affricate], [plosive], [implosive], [fricative], [lateralfricative], [lateralaffricate]}
-Element sonorant {[!affricate !plosive !implosive !fricative !lateralfricative !lateralaffricate]&@consonant}
+Element obstruent {[affricate], [plosive], [fricative], [lateralfricative], [lateralaffricate]}
+Element sonorant {[!affricate !plosive !fricative !lateralfricative !lateralaffricate]&@consonant}
 Element continuant {@sonorant, [fricative], [lateralfricative]}
 Element laryngeal {[glottal], [epiglottal], [pharyngeal]}
 Element labial {[labiodental], [labial]}
@@ -232,42 +222,77 @@ Element lax @vowel&{[nearfront], [nearhigh], [nearlow central]}
 Element nonlax @vowel&!{[nearfront], [nearhigh], [nearlow central]}
 
 deromanisation:
- y => j
- then: @consonant$1 $1 => [+long] *
-
-vowel-loss:
- @vowel => * / {@vowel, $} @consonant&![fricative]&[-long] _ [fricative]&[-long] @vowel // _ @consonant @vowel {@consonant&![fricative]&[-long] @vowel, @consonant* $}
- @vowel => * / {@vowel, $} [fricative]&[-long] _ @consonant&![fricative]&[-long] @vowel // _ @consonant @vowel {[fricative]&[-long] @vowel, @consonant* $}
- @vowel => * / {@vowel, $} @obstruent&[-long] _ @sonorant&[-long !nasal] @vowel // _ @consonant @vowel {@obstruent&[-long] @vowel, @consonant* $}
- @vowel => * / {@vowel, $} @sonorant&[-long] _ @obstruent&[-long] @vowel // _ @consonant @vowel {@sonorant&[-long] @vowel, @consonant* $}
- @vowel => * / @vowel @consonant&![fricative]&[-long] _ [fricative]&[-long] @vowel // _ @consonant @vowel @consonant&![fricative]&[-long] @vowel
- @vowel => * / @vowel [fricative]&[-long] _ @consonant&![fricative]&[-long] @vowel // _ @consonant @vowel [fricative]&[-long] @vowel
- @vowel => * / @vowel @obstruent&[-long] _ @sonorant&[-long !nasal] @vowel // _ @consonant @vowel @obstruent&[-long] @vowel
- @vowel => * / @vowel @sonorant&[-long] _ @obstruent&[-long] @vowel // _ @consonant @vowel @sonorant&[-long] @vowel
-
-assimilation:
- [alveolar nasal] => [$Place] / _ @consonant&[$Place]
-
-h-shift:
- [-voiced plosive] h => [+aspirated] *
- {jh, wh, rh, tl, lh} => {ç, ʍ, r̥, t͡ɬ, ɬ}
- @vowel h => [+long] * // _ @vowel
+ {nw, ng, ÿ} => {ŋʷ, ŋ, ɰ}
+ {ḱ, ǵ, ń, y} => {kʲ, gʲ, ŋʲ, ɰʲ}
+ [velar] w => [+labialised] *
+ then: []$1 $1 => [+long] *
+ then: [-voiced plosive] h => [+aspirated] *
+ then: {h, '} => {ʕ, ʔ}
 
 glomination:
- @vowel \- @vowel&[+long] => * * [-long]
- \- @vowel / @vowel _ => *
  \- => *
 
-h-loss:
- h => * // {@vowel, $} _ {@vowel, $}
+lengthening:
+ []$1 $1 => * [+long]
 
-palatalisation:
- [alveolar plosive] j => [affricate] *
- [velar] j => [palatal] *
- j => * / [palatal] _
+syllables:
+ @consonant? @continuant? {@vowel&[+syllabic] @consonant, @vowel&[+syllabic +long]} => [+heavy]
+ @consonant? @continuant? @vowel&[+syllabic] => [-heavy]
 
-diphthongisation:
- {{j, i}, {w, u}} => {i̯, u̯} / @vowel&![high] _ // _ @vowel
+syllables:
+ explicit
+
+romanizer-early-proto-central:
+ unchanged
+
+dentalisation:
+ [alveolar plosive] => [dental]
+
+aspirate-shift:
+ [+aspirated] => [-aspirated fricative]
+
+approximant-shift:
+ [velar +palatalised] => [palatal -palatalised]
+
+vowel-shift:
+ [high] [low] => [highmid] *
+ [highmid] [low] => [low +long] *
+ then: (
+ [low +long] [high] => * [highmid +long]
+ [low] [high] => * [highmid]
+ )
+ then propagate: @vowel&[$Frontness $Height] @vowel&[$Frontness $Height] => [+long] *
+ then: (
+ [front $Height] [back $Height] => [back] *
+ [back $Height] [front $Height] => [front] *
+ )
+ then: (
+ [back] @consonant* [$Frontness high +long] => [$Frontness] [] [-long] / _ $
+ [low] @consonant* [$Frontness high +long] => [$Frontness highmid] [] [-long] / _ $
+ [highmid] @consonant* [$Frontness high +long] => [$Frontness high] [] [-long] / _ $
+ [high] @consonant* [$rounded high +long] => [$rounded] [] [-long] / _ $
+
+ [back] @consonant [$Frontness high] => [$Frontness] [] * / _ $
+ [low] @consonant [$Frontness high] => [$Frontness highmid] [] * / _ $
+ [highmid] @consonant [$Frontness high] => [$Frontness high] [] * / _ $
+ [high] @consonant [$rounded high] => [$rounded] [] * / _ $
+
+ [back] => [$Frontness] / _ @consonant* [$Frontness high]
+ [low] => [$Frontness highmid] / _ @consonant* [$Frontness high]
+ [highmid] => [$Frontness high] / _ @consonant* [$Frontness high]
+ [high] => [$rounded] / _ @consonant* [$rounded high]
+ )
+ then: (
+ j [highmid front] => * [high]
+ j [low front] => * [highmid]
+ w [highmid back] => * [high]
+ w [low front] => * [highmid back]
+ )
+ then: [back] => [+rounded]
+
+syllables:
+ @consonant? @continuant? {@vowel&[+syllabic] @consonant, @vowel&[+syllabic +long], @vowel&[+syllabic] @vowel&[-syllabic] @consonant?} => [+heavy]
+ @consonant? @continuant? @vowel&[+syllabic] => [-heavy]
 
 romanizer-old-aqhoran:
  unchanged
@@ -277,8 +302,12 @@ syllables:
 
 romanizer:
  @consonant&[+long]$1 => $1 $1
- @vowel&[+long] => [hightone -long]
  then: [+long] => [-long]
- then: @vowel => [+syllabic]
- then: [+aspirated] * => [-aspirated] h
- then: {ɟ, j, c, ç, ʍ, r̥, t͡ɬ, ɬ, ɲ, ŋ} => {j, y, c, yh, wh, rh, tl, lh, ny, ng}
+ then: (
+ {ø, y, øː, yː, aː, eː, iː, oː, uː} => {ö, ü, ö̂, ü̂, â, ê, î, ô, û}
+ {ɸ, θ, x, ɰ, ʕ, ʔ, ŋʷ, ŋ} => {ph, th, kh, ÿ, h, ', nw, ng}
+ {ɟ, c, ç, ɲ, j} => {ǵ, ḱ, ḱh, ń, y}
+ )
+ then: [+labialised]&!w * => [-labialised] w
+ then: [dental] => [alveolar]
+ then: {h, w}$1 => * / []$2 _ $2 $1

@@ -6,7 +6,7 @@ tags:
   - sarvara
 ---
 ## Overview
-The architecture of [Sarvara](lore/sarvara.md) refers to the many styles and methods of building structures within the city state, and further settlements and outposts within its cultural sphere.
+The architecture of [Sarvara](lore/2nd-realm/sarvara.md) refers to the many styles and methods of building structures within the city state, and further settlements and outposts within its cultural sphere.
 
 It was defined by intricate dwellings built in the trees or on the ground, with the main materials being [Dhajarh](flora/dhajar-trees.md) wood, bricks of stone taken from the mountains with bitumen used as mortar, fluvial clay, and Lunuth fabric.
 
@@ -57,7 +57,7 @@ They would feature a trapdoor or hole by the trunk of the structure, sometimes w
 ##### Tree Platforms
 As treehouses were set atop foundations and supports, these platforms often appeared without buildings on top of them. These platforms were used for a variety of purposes, such as communal plazas, lookout spots, and markets.
 ### Storage Shelters
-The Sarvaran Minikin would also build storage shelters out of clay on treebranches. These shelters would commonly contain goods, such as Lunuth grain, fruit, berries, or materials like bronze, gold, diamonds, and alucium.
+The Sarvaran Minikin would also build storage shelters out of clay on treebranches. These shelters would commonly contain goods, such as Lunuth grain, fruit, berries, or materials like bronze, gold, diamonds, and Alucinarium.
 
 They took the form of round compartments which dangled from the canopy, but could vary from high to low quality. They were sometimes given hinged wooden doors or fabric curtains.
 

@@ -1,6 +1,7 @@
 ---
 title: The Language of Sarvara
 tags:
+  - lore
   - language
   - sarvaran
 ---

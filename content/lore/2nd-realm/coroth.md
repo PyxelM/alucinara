@@ -6,7 +6,7 @@ tags:
   - locations
 ---
 ## Overview
-Coroth was a Morellic city state founded in the Minikin Neolithic Era. It preceeded the Corothic Republic, a nation that would greatly influence the surrounding regions including the Empire of the Petrified Child, which succeeded [Sarvara](lore/sarvara.md).
+Coroth was a Morellic city state founded in the Minikin Neolithic Era. It preceeded the Corothic Republic, a nation that would greatly influence the surrounding regions including the Empire of the Petrified Child, which succeeded [Sarvara](lore/2nd-realm/sarvara.md).
 ## Etymology
 The name 'Coroth' comes from Ancient Corothic, and descends from the Proto-Morellic root \*Kyolot. Coroth was the name of an early Morellic clan, after whom the city state and the river it was founded upon would be named.
 ## History
