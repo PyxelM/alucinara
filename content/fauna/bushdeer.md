@@ -18,4 +18,4 @@ Bushdeer have a herbivorous diet, consuming mainly leaves, weeds, flowers, and f
 ## Species
 Some species of Bushdeer are large and muscular, living on the ground, in plains, forests, and sometimes rocky habitats. In contrast, some species are smaller, such as the pygmy bushdeer, which is specialised for an arboreal lifestyle, blending in with the canopy.
 ## Hunting
-Bushdeer are hunted by some [minikin](fauna/old/minikin.md) groups where their territories overlap; for example, pygmy bushdeer are an ideal prey animal due to the ease required to hunt them compared to bulkier species. Their 'leaves' are a delicacy in many Minikin cultures, being used in meals such as salads and stews alongside other meats and true leaves.
+Bushdeer are hunted by some [minikin](fauna/minikin.md) groups where their territories overlap; for example, pygmy bushdeer are an ideal prey animal due to the ease required to hunt them compared to bulkier species. Their 'leaves' are a delicacy in many Minikin cultures, being used in meals such as salads and stews alongside other meats and true leaves.

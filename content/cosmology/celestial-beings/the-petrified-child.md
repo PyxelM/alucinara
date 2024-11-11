@@ -9,7 +9,7 @@ tags:
 ## Overview
 The Petrified Child is a semi-corporeal deity which is worshipped by many minikin groups, including the [Morellic](groups/morellic-minikin) minikin. The child's duty is to destroy all evil according to its own moral code, protecting the cosmos[^1] from any living being who wishes to desecrate it. The child inherits its existence from the [second Judge](cosmology/celestial-beings/the-judges.md), serving as its successor and continuation.
 ## Appearance
-The Petrified Child has the appearance of a swaddled infant made from stone, and is very large, about 5 metres in length. Its body has a smooth, bean-like, inverse-teardrop shape, and its face is round, with [minikin](fauna/old/minikin.md)-like features, and eyes which are forever closed. Its body is also defined by swirling creases (A result of the effects of [alucinara](cosmology/alucinara.md) on physical matter) which resemble folds of cloth.
+The Petrified Child has the appearance of a swaddled infant made from stone, and is very large, about 5 metres in length. Its body has a smooth, bean-like, inverse-teardrop shape, and its face is round, with [minikin](fauna/minikin.md)-like features, and eyes which are forever closed. Its body is also defined by swirling creases (A result of the effects of [alucinara](cosmology/alucinara.md) on physical matter) which resemble folds of cloth.
 
 ![](images/the-petrified-child.png)
 ## Behaviour

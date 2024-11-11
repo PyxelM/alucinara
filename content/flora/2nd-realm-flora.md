@@ -5,7 +5,7 @@ tags:
   - second-realm
 ---
 ## Nyuta Bushes
-Nyuta bushes are a type of bush native to the 2nd and 1st realms. They have red leaves and purple berries. Nyuta leaves are dried and consumed in a purple tea by many [minikin](fauna/old/minikin.md) cultures.
+Nyuta bushes are a type of bush native to the 2nd and 1st realms. They have red leaves and purple berries. Nyuta leaves are dried and consumed in a purple tea by many [minikin](fauna/minikin.md) cultures.
 ### Nyutaberries
 Nyutaberries are small, edible, and purple. They have pink stems and near-white mesocarps which contain many small black seeds. They are foraged by some Minikin cultures.
 ### Nyuta Tea
@@ -63,7 +63,7 @@ Dreamberry bushes are used by some Minikin cultures to defend bases and stockpil
 ## Sparkberry Bush
 Sparkberry bushes are a plant native to the 2nd realm. They have vibrant green leaves, and small blue berries.
 ### Sparkberries
-Sparkberries are small, round, blue, and slightly phosphorescent. They are naturally consumed by electric [dragons](fauna/old/dragons.md) in the wild, who fly elsewhere and disperse seeds through their dung.
+Sparkberries are small, round, blue, and slightly phosphorescent. They are naturally consumed by electric [dragons](fauna/dragons.md) in the wild, who fly elsewhere and disperse seeds through their dung.
 
 They are inedible when raw, and send out painful shocks when touched by most animals, including Minikin. They can however be harvested using telekinesis through Alucinara energy, and are edible once cooked.
 ## Elkfruit Trees

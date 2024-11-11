@@ -25,4 +25,4 @@ They begin life in a tadpole-like nymph phase in which they live in their ponds 
 
 Their adult phase is around a few years long; they travel over vast distances in search of food and a mate, eventually returning to their birthplace to lay their own eggs, before they pass away soon after.
 ## Uses
-Dragons are mostly poisonous, if not unpalatable, and are thus not eaten by most groups. However, they are hunted and harvested into dyes by many [minikin](fauna/old/minikin.md) cultures.
+Dragons are mostly poisonous, if not unpalatable, and are thus not eaten by most groups. However, they are hunted and harvested into dyes by many [minikin](fauna/minikin.md) cultures.
