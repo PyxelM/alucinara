@@ -237,14 +237,16 @@ deromanisation:
  {[plosive +voiced], [nasal], [lateralapproximant]} h => [+breathy] *
  {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, {ï̂, ï̂}, {ü̂, ü̂}, {ï, ï}, {ü, ü}} => {aː, eː, iː, oː, uː, ɯː, yː, ɯ, y}
  )
- then: * => h / @vowel _ @vowel
+ then: (
+ h => *
+ * => h / @vowel _ @vowel
+ )
  then: \' => *
 
 assimilation defer:
  [alveolar nasal] => [$Place] / _ @obstruent&[$Place]
 
 lengthening:
- @vowel h => [+long] * // _ @vowel
  []$1 $1 => * [+long]
 
 glomination:
@@ -334,7 +336,7 @@ nasalisation-and-vowel-loss:
  {j, w} @vowel&[-long low] => {e, o} * / @consonant _ $
  {j, w} @vowel&[-long highmid] => {i, u} * / @consonant _ $
  {ih, uh} => {j, w} / @consonant _ @vowel
- @vowel&[-long] => * / @vowel @continuant? @consonant _ $ // {$ @consonant? @continuant? @vowel&[-long] @consonant, @consonant&[+long], [approximant]} _
+ @vowel&[-long] => * / @vowel @continuant? @consonant _ $ // {$ @consonant? @continuant? @vowel&[-long] @consonant, @consonant&[+long], [approximant], [palatal]} _
  [-breathy nasal -long $Place] => * / @vowel _ // _ {@vowel, [plosive $Place]}
  @vowel&[+long] => [-long] / _ $
  )
