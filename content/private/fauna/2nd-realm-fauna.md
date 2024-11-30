@@ -41,7 +41,7 @@ Among Morellic hunter minikin, it is said that it is good luck to cleanly cut a 
 
 Some Minikin groups farm or hunt Snoutgoats, utilising their meat, milk, fur, sinew, and dung for food, dairy, clothing, tools, and fuel. Some groups mount snoutgoats, riding them for transport.
 ## Rat Monkeys
-[Rat monkeys](fauna/rat-monkeys*.md) are an arboreal monkey species native to the 2nd and -1st realms, the only monkey species native to Tséireph below the equatorial rainforest. They are small, similar to squirrels in size and habitat, and eat nuts, leaves, and various small animals. They are hunted by some Minikin cultures, such as the early Sarvaran minikin.
+[Rat monkeys](fauna/Treemice.md) are an arboreal monkey species native to the 2nd and -1st realms, the only monkey species native to Tséireph below the equatorial rainforest. They are small, similar to squirrels in size and habitat, and eat nuts, leaves, and various small animals. They are hunted by some Minikin cultures, such as the early Sarvaran minikin.
 ## Pack Snails
 Pack snails are a gastropod species native to the 2nd realm. They are large, about the same height as Minikin from their foot to the top of their shells. Their diet consists of leaves and vegetables.
 ### Use

@@ -7,7 +7,7 @@ tags:
   - sapient-species
 ---
 ## Overview
-Minikin (spp. *Anthrosciurus sapiens*) are a species of small rodents native to the [2nd realm](lore/2nd-realm.md). They are anthropoid, arboreal omnivores descended from the European Red Squirrel. They are the most populous and intelligent race of the 2nd realm, and are capable of speech, agriculture, and forming civilisations.
+Minikin (spp. *Anthrosciurus sapiens*) are a species of small rodents native to the [2nd realm](lore/2nd-realm.md). They are anthropoid, arboreal omnivores descended from the European Red Squirrel. They are the most populous and intelligent race of the 2nd realm, and are capable of speech, agriculture, [alucinara](cosmology/alucinara.md) use, and civilisation.
 ## Appearance
 There is a lot of variation in terms of Minikin appearances, due to genetic diversity. Generally, they are 25-30cm tall, bipedal and anthropoid, with a snouted face, pointed ears, a long, bushy tail, and 4-fingered hands and digitigrade feet, with sharp claws and specialised teeth for tearing flesh and grinding plant matter.
 
@@ -16,10 +16,12 @@ Fur distributions and skin colour varies with the climate; for example, a Miniki
 Minikin males tend to be taller than women, about 30 cm in height, and more bulky. Women, in contrast, lack as much hair as males (such as nose hair) and reach a stature of about 25 cm.
 ### Children
 Minikin children are small, about 5cm in length, and more squirrel-like than their elders. They are hairless at birth, but quickly grow out a thick coat of fur across the body, which permanently sheds before sexual maturity.
-## Eating Habits
+## Diet
 Minikin are omnivores, mainly eating a diet of small mammals, fruit (and their juice), amphibians, vegetables, fish, leaves, and tree bark; and after the invention of agriculture, minikin began to eat and drink bread, beer, and wine.
 
 Eating is a social experience for Minikin, who mainly do so with family, friends, and lovers. They don't do so with those they don't trust, as it is an experience where one can let down their guard, without fear of being attacked or poisoned.
+## Predators
+Minikin are an ideal prey animal for their small size, but are formidable for their smart intellect and use of [alucinara](cosmology/alucinara.md). They are hunted by various animals, which they often worship and / or venerate, such as [widrens](fauna/widrens.md), [weasels](fauna/weasels.md), and [direwolves](private/fauna/direwolves.md).
 ## Sociology
 Minikin are a very social species, living in familial groups or clans. Due to the mother's importance within Minikin families, many cultures are matriarchal.
 

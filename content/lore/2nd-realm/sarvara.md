@@ -21,11 +21,7 @@ The river Sarav flows from the northern mountains to the Aqhoran delta (the mout
 
 Sarvara is one such city built upon it, as is Aqhor built at it's delta, and Coroth built on it's tributary, the river Coroth. During the Sarvaran golden age, Sarvara also controlled another, adjacent stretch of the river basin to the west.
 ## History
-Sarvara was founded by the Mora clan of the nomadic [Early Morellic Tribes](pre/early-morellic-tribes.md), who migrated into the Sarvaran river basin from the northeastern steppes. They mostly integrated into the native, sedentary cultures, most notably the Diiran minikin, from whom they gained the name for their holy river - the river Sarav[^1].
-
-The founding of the city soon preceded the Minikin Copper Age, also known as the Chalcolithic, a period of time where the Sarvaran city state and it's territories gained a foothold in the river basin through trade and war.
-
-The [Sarvaran Golden Age](lore/sarvaran-golden-age.md), which began at the dawn of the Bronze Age, was a period of time spanning up to 500 years in which the city prospered and its culture was enriched with poetry, pottery, art, technology, and religion.
+Sarvara was founded by the Mora clan of the nomadic [Early Morellic Tribes](pre/early-morellic-tribes.md), who migrated into the Sarvaran river basin from the northeastern steppes. They mostly integrated into the native, sedentary cultures, most notably the [Diiran](lore/diira.md) minikin, from whom they gained the name for their holy river - the river Sarav[^1].
 
 Further Reading: [Sarvaran History](lore/2nd-realm/sarvara/sarvaran-history.md)
 ## Sarvaran Logography
