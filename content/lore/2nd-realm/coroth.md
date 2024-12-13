@@ -4,6 +4,7 @@ tags:
   - coroth
   - morellic
   - locations
+  - civilisations
 ---
 ## Overview
 Coroth was a Morellic city state founded in the Minikin Neolithic Era. It preceeded the Corothic Republic, a nation that would greatly influence the surrounding regions including the Empire of the Petrified Child, which succeeded [Sarvara](lore/2nd-realm/sarvara.md).

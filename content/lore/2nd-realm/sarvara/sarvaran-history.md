@@ -7,13 +7,13 @@ tags:
 ---
 ## Overview
 Ancient Sarvara was a civilisation of southern [Tseireph](lore/2nd-realm/tseireph.md) which was founded by the [early Morellic tribes](lore/2nd-realm/early-morellic-tribes.md) and spanned from the late neolithic era to the end of the Bronze age. The civilisation was centred in the city of Sarvara, which began as a city state built on the river Sarav and flourished into an empire which proved to have great influence on the region contemporarily and for millenia to come.
-## Neolithic Period
+## The Neolithic Period
 Sarvara wasn't concieved until the latter part of the neolithic period, or stone age. In the early to mid neolithic period, the region surrounding the river Sarav was travelled through, settled, abandoned, and forgotten innumerable times by various [minikin](fauna/minikin.md) groups.
-### Diiran Minikin
+### The Diiran Minikin
 It wasn't until the [Diiran](lore/diira) minikin migrated from the west and settled the area that it gained permanent residence. The Diiran hunter-gatherers got to work building simple houses, creating pottery, and hunting in the region.[^1]
 
 While the Diira had not innovated into agriculture, they survived off of the natural flora and fauna of the land, including berries, small mammals, fruit, nuts, insects, leaves, and bark. But their main food source was fish; the yield was so plentiful that the group was able to sustain itself purely off of the Sarav.
-### Mora Minikin
+### The Mora Minikin
 The Mora minikin hadn't yet migrated south into the Sarvaran river basin, but they would serve the most influence genetically and culturally on Sarvaran society. In the neolithic period, the Mora were nomadic pastoralists living in the steppes to the north of the Sanya mountains, who herded animals such as [snoutgoats](fauna/snoutgoats.md) and [woolly hogs](fauna/woolly-hogs.md).
 
 Eventually, the early Morellic tribes were driven out of the steppes due to famine. The steppe was undergoing desertification and soil fertility was poor; and on top of the threat of starvation, the desert-dwelling peoples of the north were pillaging, thieving, and travelling in war parties to survive.
@@ -33,11 +33,11 @@ Another nation to emerge was [Aqhor](lore/aqhor.md), which was made up of seafar
 Aqhor proved to be a beneficial trade partner to Sarvara, and the two entered a trade partnership that would last through to the end of the 1st dynasty. Aqhor mainly exported sweetrice, a rice plant brought over from the southwest that could only grow in the wetlands of the delta.
 #### Coroth
 Coroth was another nation, a Morellic nation that had migrated southeast to the continental forests. Coroth was less of a salient trade partner at this time, but their exports of blue dye and various textiles gained them great wealth during the Sarvaran Golden Age.
-### Founding of Sarvara and the Early Period
+### The Founding of Sarvara and the Early Period
 It was during the 1st dynasty that Sarvara was well and truly founded, marking the beginning of the Early Sarvaran Era. On a hill in a wooded area by the river Sarav, the city was founded on a small fishing settlement, chosen not only for its strategic geography but also for the surrounding lowlands, which were turned into farms, and the optimal location for fishing.
 
 During Coriandra I's lifetime, the Temple of the High Matriarch was constructed on the peak of matriarch's hill, in what would become the royal district. It was here that the High Matriarch and the other members of her dynasty were to live, and the matriarch's nobles in the surrounding areas.
-### Middle Sarvaran Era
+### The Middle Sarvaran Era
 Eventually, all cultural and genetic distinctions between Diira and Mora were eroded into the singular ethnicity of 'Sarvaran,' and the territory of Sarvara expanded beyond the borders of the city state. And as agriculture was mastered by the Middle Sarvaran Era, various other innovations needed to be made.
 
 With the growing complexity of trade, accounting became more important, and thus writing emerged in the form of the Elder Sarvaran Logography, a script which was etched into leaves with a sharp stylus and inked with dark natural pigments or dirt.
@@ -55,7 +55,7 @@ The golden age was a period of great cultural, technological, and religious deve
 The Sarvaran Golden Age saw the emergence of poetry as an art form, and many many poets lived, left their mark, and died; their poems would be read about fires, their songs sung in the temples, and their spells recited and cast for centuries to come. Sarvaran poetry was distinct for its unique metrical structure, influenced by the polysynthetic grammar of the language.
 
 Furthermore, the golden age was marked by a distinct lack of conflict. The civilisation was greatly pacifistic in worship of the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md), and surrounding nations didn't see the use in warring with such a great trade partner and military power.
-### The 2nd Sarvaran Dynasty and the Late Sarvaran Era
+### The Late Sarvaran Era
 The Late Sarvaran Era began with the end of the Sarvaran Golden Age and the emergence of the Great Plague. The plague decimated Sarvaran civilisation, spelling the end of the 1st dynasty. It was High Matriarch Fennel III, a noble, who took leadership over Sarvara as the first high matriarch of the 2nd dynasty after the 1st dynastic family line had all but perished.
 
 It was in this period that the Fennellic wars began. These were a series of battles began not only between Sarvaran nobles vying for power, but also between the nations of the river basin. For example, Aqhor, rather than seeing Sarvara as a trade partner, joined in the battle against the 2nd dynasty in search of wealth, resources, slaves, and power.
@@ -66,9 +66,11 @@ The Lost Era was defined by the fall of the city of Sarvara. It was in this time
 
 In this period the nation of [Coroth](lore/coroth.md) gained greater importance, supporting the remnants of Sarvara out of a sense of sisterhood. The two formed a political, military, and trade relationship.
 
-Eventually, the 2nd dynasty culminated in the last battle of the Fennellic wars between Sarvara and Aqhor. The battle ended with the death of the last high matriarch of the 2nd dynasty, High Matriarch Saffron II. From here, the great Corothic general known as Elephant I was elected High Patriarch (the first Patriarch in Sarvarn history) by the Sarvaran nobles, spelling the beginning of the the 1st Stonechild Dynasty.
-
-Elephant I went on to found the Empire of the Petrified Child, regaining the glory and achievements of Sarvara. Furthermore, this coincided with the end of the Bronze age, as it was with the empire's rise that iron tools began to be created and used.
+Eventually, the 2nd dynasty culminated in the last battle of the Fennellic wars between Sarvara and Aqhor. The battle ended with the death of the last high matriarch of the 2nd dynasty, High Matriarch Saffron II. From here, the great Corothic general known as Elephant I was elected High Patriarch (the first Patriarch in Sarvarn history) by the Sarvaran nobles, spelling the beginning of the the Empire of the Petrified Child and the 1st Stonechild Dynasty.
+## The Iron Age
+The iron age began as minikin began to collect iron in mines and use it in tools. It was Coroth that had begun learning how to smelt the metal down, and they brought this knowledge with them as they entered the Sarvaran River Basin and grew in power under the banner of the Empire of the Petrified Child
+### The Founding of the Empire of the Petrified Child
+The Empire of the Petrified Child was founded by High Patriarch Elephant I, and was headquartered in the northern settlement of Nayura.
 ## Further Reading
 - [The History of the Empire of the Petrified Child](lore/the-empire-of-the-petrified-child/stonechild-history.md)
 

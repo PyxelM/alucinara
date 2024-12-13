@@ -4,6 +4,7 @@ tags:
   - sarvara 
   - morellic
   - locations
+  - civilisations
 ---
 ## Overview
 Sarvara (Sarvaran: '*Sarvárą*' IPA: `/sar.vá.rã/`) was a Morellic city state and a civilisation whose society, territory, and culture extended beyond its original city walls. The Sarvaran city and civilisation were located within the Sarvaran river basin, of southern [Tseireph](lore/2nd-realm/tseireph.md) and the [2nd Realm](lore/2nd-realm.md).
