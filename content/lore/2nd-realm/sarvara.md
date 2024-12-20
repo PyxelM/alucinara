@@ -24,7 +24,7 @@ Sarvara is one such city built upon it, as is Aqhor built at it's delta, and Cor
 ## History
 Sarvara was founded by the Mora clan of the nomadic [Early Morellic Tribes](pre/early-morellic-tribes.md), who migrated into the Sarvaran river basin from the northeastern steppes. They mostly integrated into the native, sedentary cultures, most notably the [Diiran](lore/diira.md) minikin, from whom they gained the name for their holy river - the river Sarav[^1].
 
-Further Reading: [Sarvaran History](lore/2nd-realm/sarvara/sarvaran-history.md)
+Further Reading: [Sarvaran History](private/lore/sarvaran-history.md)
 ## Sarvaran Logography
 The Sarvaran Golden Age was precipitated by the invention of the Sarvaran Logography. The logography was written from top-to-bottom, carved either into wood or stone with bladed styli or chisels.
 

@@ -354,13 +354,10 @@ palatal-vowel-shift:
  [high] => [front high -rounded] / {[palatal] _, _ [palatal]}
 
 stress propagate:
- <syl> => [+stress] / _ <syl> {$, <syl>&[+stress]}
+ <syl> => [+stress] / {$, <syl>&[+stress]} <syl> _ // _ $
 
 romanizer-middle-corothic:
  unchanged
-
-vowel-harmony @vowel propagate:
- @vowel&[+syllabic] => [$Height] / @vowel&[$Height +syllabic] {[low]*}? _
 
 vowel-shift:
  [front low] => [highmid]
