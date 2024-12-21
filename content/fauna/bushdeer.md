@@ -14,7 +14,7 @@ Some species of Bushdeer are large and muscular, living on the ground, in plains
 ## Behaviour
 Bushdeer behaviour is defined by periods of hibernation and apparent death. Not only do they  hibernate in the winter as their metabolism slows down and they are sustained by photosynthesis, but they also play dead when threatened. They are kept safe by their markings that deter would-be predators.
 
-Furthermore, male bushdeer are greatly territorial, using their sharp hooves and antlers to attack mating competition and other animals that trespass into the deer's territory. Females are likewise violent, protecting their young from predators and using [alucinara](cosmology/alucinara.md) to force them from harm's way.
+Furthermore, male bushdeer are greatly territorial, using their sharp hooves and antlers to attack mating competition and other animals that trespass into the deer's territory. Females are likewise violent, protecting their young from predators and using [alucinara](lore/cosmology/alucinara.md) to force them from harm's way.
 ## Hunting
 Bushdeer are hunted by some [minikin](fauna/minikin.md) groups where their territories overlap; for example, pygmy bushdeer are an ideal prey animal due to the ease required to hunt them compared to bulkier species. Their 'leaves' are a delicacy in many Minikin cultures, being used in meals such as salads and stews alongside other meats and true leaves.
 ## Diet

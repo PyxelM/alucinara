@@ -5,7 +5,7 @@ tags:
   - the-petrified-child
 ---
 ## Overview
-Watchstones are stones[^1] with eyes through which the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md) sees, giving the deity a greater visual field and protecting those nearby from evil. They form naturally in rock faces over time due the effects of [alucinara](cosmology/alucinara.md), but some groups carve them into stone.
+Watchstones are stones[^1] with eyes through which the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md) sees, giving the deity a greater visual field and protecting those nearby from evil. They form naturally in rock faces over time due the effects of [alucinara](lore/cosmology/alucinara.md), but some groups carve them into stone.
 ## Appearance
 Watchstones can vary in size, from very small to very large, but the uniting feature is the shape of an open eye. They can appear in cliff faces, pebbles, boulders, and even geodes.
 

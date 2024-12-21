@@ -37,7 +37,7 @@ These market stands were commonly constructed out of wood, with a table, drawer 
 ### Roads and Foundations
 Sarvaran Minikin built roads and foundations out of gravel, sand, clay, and stone slabs. Roads featured gutters, through which water would be channeled, and enter irrigation channels, the ground, wells, catacombs, or sewers.
 #### Arboreal Pathways
-Arboreal pathways were constructed out of clay, which was packed down onto the upside of large treebranches. These would be smoothed over, and had stairs carved into steep areas. These pathways would feature short railings made of carved stone, which would guide the minikin to stay on path; however, they could always realign themselves wth [alucinara](cosmology/alucinara.md).
+Arboreal pathways were constructed out of clay, which was packed down onto the upside of large treebranches. These would be smoothed over, and had stairs carved into steep areas. These pathways would feature short railings made of carved stone, which would guide the minikin to stay on path; however, they could always realign themselves wth [alucinara](lore/cosmology/alucinara.md).
 ### Windows
 Sarvaran buildings would feature unglazed windows with wooden grilles in place of glass; these grilles would be constructed out of Dhajarh wood, and carved into arabesque, intricate, patterns. Often, buildings would be aligned with the sun as to cast patterned shadows through the windows across the floor.
 ### Rooves
@@ -45,7 +45,7 @@ The rooves of some Sarvaran buildings were sloped and made up of three layers; L
 
 Furthermore, the corners of the rooves were notched, serving as gutters to channel water. This water would flow through gargoyles when it reached the rim of the roof, and watchstones would commonly be carved into them.
 
-Due to this, it was uncommon for gargoyles to be carved with their eyes closed, and this was only found around places of systemic inequality where those in power wished to be exempt from the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md)'s law.
+Due to this, it was uncommon for gargoyles to be carved with their eyes closed, and this was only found around places of systemic inequality where those in power wished to be exempt from the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md)'s law.
 ### Wooden Mansions
 Wooden mansions, mainly built as treehouses, are a striking characteristic of Sarvaran architecture. They were commonly built around and tree trunks, specifically of Dhajarh trees, but could also be constructed on the ground.
 

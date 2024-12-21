@@ -8,7 +8,7 @@ Sharadism is a physiological condition that affects organic beings. It causes th
 ## Spiritual Effects
 The effects of contraction of Sharadism on the soul are markedly drastic. Those affected lose possession of their souls, which return to the pond, and rather the Sharadic Angel sends down its own spirit into the bodies of the Sharadith.
 
-As the Sharadith's souls are extensions of the Sharadic Angel, and thus holy in the eyes of the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md), they have the capability of committing evil acts (such as murder, cannibalism, and exsanguination) without alerting the Child to destroy them.
+As the Sharadith's souls are extensions of the Sharadic Angel, and thus holy in the eyes of the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md), they have the capability of committing evil acts (such as murder, cannibalism, and exsanguination) without alerting the Child to destroy them.
 ## Contraction
 Sharadism is contracted when an organic being is exposed to the bodily fluids of a carrier. Only few carriers are largely symptomless, integrating into society without a problem, and without their condition being discovered.
 

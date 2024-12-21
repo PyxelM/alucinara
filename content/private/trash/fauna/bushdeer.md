@@ -7,7 +7,7 @@ tags:
 ## Overview
 Bushdeer (Type Species spp. *Floricervus Floricervus*), native to the steppes of the 2nd and -1st realms, are a type of deer related to the Sika deer of Earth. They are herbivores and browsers, consuming leaves and moss. The most striking difference is their antlers, which feature 'leaves.'
 ## Origins
-At first, the descendents of Sika deer which had undergone essential shift began to experience swift evolution due to the effects of [alucinara](cosmology/alucinara.md) on their bodies. One of these changes was the development of folate, vascularised protrusions on their antlers.
+At first, the descendents of Sika deer which had undergone essential shift began to experience swift evolution due to the effects of [alucinara](lore/cosmology/alucinara.md) on their bodies. One of these changes was the development of folate, vascularised protrusions on their antlers.
 
 These 'leaves' initially served as areas for heat exchange in the steppes. However, due to the increased consumption of photosynthetic organisms aided by the new ecosystem they had found themselves in, these 'leaves' began to also serve as dumps for chlorophytes, which the deer couldn't metabolise.
 ## Appearance

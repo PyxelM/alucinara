@@ -1,9 +1,9 @@
 ## Overview
-Alucinara, also known as magic, is a form of energy that alters the ways in which the natural world can operate. It does this by altering the laws of nature in its vacinity from the third laws of nature to the first. It was created by the [first Judge](cosmology/celestial-beings/the-judges.md), in the form of the first laws of nature.
+Alucinara, also known as magic, is a form of energy that alters the ways in which the natural world can operate. It does this by altering the laws of nature in its vacinity from the third laws of nature to the first. It was created by the [first Judge](lore/cosmology/celestial-beings/the-judges.md), in the form of the first laws of nature.
 ## Appearance
 The energy lacks an appearance, but is physically contained within the crystalline mineral of Alucinarium. Alucinarium is dusty, brittle, dark purple, and shines bright orange, emitting bright orange specks, orbs, and flashes of light when disturbed.
 ## Origins
-Alucinara energy originates as the emminent energy that facilitated the first laws of nature, which were created by the first Judge. When the realms were shattered by the [spirits of darkness](cosmology/celestial-beings/the-spirits-of-darkness.md) and the first was destroyed, new emminent laws of nature were decreed by the second Judge to punish the spirits, but Alucinara was kept, and given physical form in the element of Alucinarium (as were the spirits given physical form in hydrocarbons).
+Alucinara energy originates as the emminent energy that facilitated the first laws of nature, which were created by the first Judge. When the realms were shattered by the [spirits of darkness](lore/cosmology/celestial-beings/the-spirits-of-darkness.md) and the first was destroyed, new emminent laws of nature were decreed by the second Judge to punish the spirits, but Alucinara was kept, and given physical form in the element of Alucinarium (as were the spirits given physical form in hydrocarbons).
 ## Biology
 The presence of Alucinara on living beings has many effects, such as; the development of the fortuitary gland, where Alucinarium is excreted into the bloodstream for use, and the manipulation of evolution in unexpected and fantastical ways.
 ## Uses

@@ -12,7 +12,7 @@ The neolithic set the stage for the bronze age, seeing the dawn of more sophisti
 ## Early Bronze Age
 The Early Bronze Age was triggered by the dawn of agriculture, which was developed by the Sarvarans and Aqhorans in Tseireph. Due to this, many agricultural settlements and farms were founded, such as the initial settlements of Sarvara, Coroth, and Aqhor.
 
-In tandem with the developments in agriculture, magic (the use of [alucinara](cosmology/alucinara.md) energy) was also developed and innovated. Sorcery became a complex art form that aided the Minikin in breaking through frontiers in food, building, and warfare.
+In tandem with the developments in agriculture, magic (the use of [alucinara](lore/cosmology/alucinara.md) energy) was also developed and innovated. Sorcery became a complex art form that aided the Minikin in breaking through frontiers in food, building, and warfare.
 
 For example, without the capability of pyrokinesis, Minikin were too small and feeble to create Fire unaided. But with the help of magic, the Minikin were capable of cooking their food, boiling water, and baking wheat into bread.
 ## Middle Bronze Age

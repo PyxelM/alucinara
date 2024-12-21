@@ -5,7 +5,7 @@ tags:
   - darkness
 ---
 ## Overview
-Soulstones are deposits of bitumen or asphalt where, in the presence of [alucinara](cosmology/alucinara.md) energy, the soul of a deceased organism may be stored after death.
+Soulstones are deposits of bitumen or asphalt where, in the presence of [alucinara](lore/cosmology/alucinara.md) energy, the soul of a deceased organism may be stored after death.
 ## Appearance
 The appearance of a Soulstone is that of a pebble or rock with a matte, rough, or shiny black surface. Over time, the surface of the stone may warp to reflect the visage or form of the soul inside.
 ## Behaviour

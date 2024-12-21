@@ -51,7 +51,7 @@ And so Qherenna disappeared into the dream-ether, and The Judge, Ena, emerged fr
 [^2]: *údrï*, meaning 'The Sun.'
 [^3]: *éną*, meaning 'The Moon.'
 [^4]: *éyolith ménna*, meaning 'The Demon of Life.'
-[^5]: *qherénna,* meaning 'Angel of Qherelh (the Planet),' or 'Angel of Dirt.'
+[^5]: *qherénna,* meaning 'Angel of Kherell (the Planet),' or 'Angel of Dirt.'
 [^7]: *cinrą,* meaning 'Clay.'
 [^8]: *eyórna*, meaning 'Seed.'
 [^9]: *keillę,* meaning 'Life.'

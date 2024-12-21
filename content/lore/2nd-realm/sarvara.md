@@ -13,7 +13,7 @@ Sarvara was founded during the Minikin Neolithic era, reaching its height during
 ## Etymology
 The name for the city, '*Sarvárą*,' is made up of two roots, '*Sarav*,' the name of a river, and '*Rą*,' meaning 'City \[of].' The name of the river Sarav was loaned into Old Sarvaran from the native substrate language Old Diiran.
 ## Location
-Sarvara was built on the Sarav river in the Sarvaran river basin, which was in southern Tseireph, a continent of Qherelh in the 2nd Realm. It had a mediterranean climate, with seasonal floods from the river. Aqhor was to the south, and Coroth to the northeast.
+Sarvara was built on the Sarav river in the Sarvaran river basin, which was in southern Tseireph, a continent of Kherell in the 2nd Realm. It had a mediterranean climate, with seasonal floods from the river. Aqhor was to the south, and Coroth to the northeast.
 
 ![](images/sarvaran-river-basin.png)
 *The Sarvaran River Basin, with the locations of Sarvara, Aqhor, and Coroth.*
@@ -24,7 +24,7 @@ Sarvara is one such city built upon it, as is Aqhor built at it's delta, and Cor
 ## History
 Sarvara was founded by the Mora clan of the nomadic [Early Morellic Tribes](pre/early-morellic-tribes.md), who migrated into the Sarvaran river basin from the northeastern steppes. They mostly integrated into the native, sedentary cultures, most notably the [Diiran](lore/diira.md) minikin, from whom they gained the name for their holy river - the river Sarav[^1].
 
-Further Reading: [Sarvaran History](private/lore/sarvaran-history.md)
+Further Reading: [Sarvaran History](private/trash/lore/sarvaran-history.md)
 ## Sarvaran Logography
 The Sarvaran Golden Age was precipitated by the invention of the Sarvaran Logography. The logography was written from top-to-bottom, carved either into wood or stone with bladed styli or chisels.
 

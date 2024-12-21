@@ -54,7 +54,7 @@ The golden age was a period of great cultural, technological, and religious deve
 
 The Sarvaran Golden Age saw the emergence of poetry as an art form, and many many poets lived, left their mark, and died; their poems would be read about fires, their songs sung in the temples, and their spells recited and cast for centuries to come. Sarvaran poetry was distinct for its unique metrical structure, influenced by the polysynthetic grammar of the language.
 
-Furthermore, the golden age was marked by a distinct lack of conflict. The civilisation was greatly pacifistic in worship of the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md), and surrounding nations didn't see the use in warring with such a great trade partner and military power.
+Furthermore, the golden age was marked by a distinct lack of conflict. The civilisation was greatly pacifistic in worship of the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md), and surrounding nations didn't see the use in warring with such a great trade partner and military power.
 ### The Late Sarvaran Era
 The Late Sarvaran Era began with the end of the Sarvaran Golden Age and the emergence of the Great Plague. The plague decimated Sarvaran civilisation, spelling the end of the 1st dynasty. It was High Matriarch Fennel III, a noble, who took leadership over Sarvara as the first high matriarch of the 2nd dynasty after the 1st dynastic family line had all but perished.
 

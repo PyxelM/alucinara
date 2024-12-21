@@ -1,0 +1,10 @@
+A: 'I heard that our realm was created to keep us safe from the demons outside.'
+B: 'Nonsense. The realms were created as ways to show us all the ways beauty can manifest.'
+C: 'Quiet down; the truth is that the realms are merely remnants of the true beauty of the original creation. The realms were shattered thousands of years ago courtesy of our sin when our ancestors attempted to sieze control of the cosmos.'
+C: 'The Petrified Child - glory on her name - was born not long after to keep us in check. We are not of the beauty we see around us; let that be a reminder to respect the world, to respect one another, and respect our god. *Eyan* protect us.'
+A: 'Well, still, we are kept safe. My grandfather was lost to one of the Owls-*Widrens* of the realms below.'
+B: 'But was *he* kept safe?'
+A: 'No.'
+B: 'See; he was born in this realm, as were we, and he was not protected.'
+C: 'Let that be a reminder that we are not safe, no matter what. And don't profane the beasts that *Eyan* gave dominion over nature, lest you be struck down as your grandfather was.'
+

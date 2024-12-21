@@ -19,9 +19,9 @@ The early Morellic tribes wore clothes made of animal hide, fur, leather, woven 
 
 They would not wear more sophisticated fabrics until the bronze age saw great developments in agriculture, namely the domestication of Lunuth wheat and invention of Lunuth fabric. They would sew their hide and leaves together using bone needles and plant fibre, and would commonly dye their clothing colours such as red or orange.
 ## Religion
-The early Morellic religion was decentralised, [angel](cosmology/celestial-beings/the-angels.md)-worshipping, and polytheistic. The early Morellic Minikin would make prayers, sacrifice, and worship to these deities, whom they could communicate with in dreams. Each tribe, clan, family would have patron deities who were believed to have a level of influence over the good fortune of their worshippers.
+The early Morellic religion was decentralised, [angel](lore/cosmology/celestial-beings/the-angels.md)-worshipping, and polytheistic. The early Morellic Minikin would make prayers, sacrifice, and worship to these deities, whom they could communicate with in dreams. Each tribe, clan, family would have patron deities who were believed to have a level of influence over the good fortune of their worshippers.
 
-The chief deity of the early Morellic religion was the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md), who protected nature, all things holy, and the innocent. It was believed that the petrified child was the firstborn of the god of nature, known as '*Kherelli*[^1],' and that the other deities were her other children.
+The chief deity of the early Morellic religion was the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md), who protected nature, all things holy, and the innocent. It was believed that the petrified child was the firstborn of the god of nature, known as '*Kherelli*[^1],' and that the other deities were her other children.
 ## Calendar
 The early morellic tribes used variations of a lunisolar calendar called the '*kasuumitvirsu*[^8].' Years were made up of 297 days with 8 day weeks, divided 8 months of 36 days (with an extra intercalary month every 4 years), and began around the start of summer. The early morellic tribes counted a person's age from the month they were born, rather than the day.
 ## Cultural Practices
@@ -32,7 +32,7 @@ Women commonly held high-ranking positions with a high amount of influence, symb
 #### Matriarchs
 Early morellic tribes were made up of clans led by Matriarchs, which tended to be grandmothers, wise beyond their years, ex-spiritual leaders, with great knowledge of sorcery. The matriarchs' authority was mutually agreed upon by the members of each clan, and they were cared for by the spiritual leaders of the group.
 
-Furthermore, their lifespans were prolonged through the use of [alucinara](cosmology/alucinara.md), as the spiritual leaders would feed them aluciferous foods. This led to some matriarchs reaching above 40 years in age upon their deaths, which was rare in minikin, whose lifespan usually reached no more than 25.
+Furthermore, their lifespans were prolonged through the use of [alucinara](lore/cosmology/alucinara.md), as the spiritual leaders would feed them aluciferous foods. This led to some matriarchs reaching above 40 years in age upon their deaths, which was rare in minikin, whose lifespan usually reached no more than 25.
 ### Men
 Men were less respected than women, but were not oppressed. Men commonly held laborious positions, being hunters, foragers, and potters, but also had the opportunity to become spiritual leaders, elevating their rank in early Morellic society.
 
@@ -70,7 +70,7 @@ A females's *Areyomittakhar* was a more sophisticated process, where the girl's 
 
 On the first day of the following month was the '\*Osinnelya[^5],' which was a more private event than a *Kulyaanelya*. The *Sinakasudh* required the girl to recite the oral tradition pertaining to the sanctity of womanhood in front of an audience, after which she would retire home to consume Nyuta tea and perform the same requests as boys on their *Kulyaanelya*.
 
-[^1]: Old Sarvaran << Proto-Morellic '\*Kherelh-lhi,' meaning 'god of earth;' Cf. Sarvaran 'Qherélh'
+[^1]: Old Sarvaran << Proto-Morellic '\*Kherell-lhi,' meaning 'god of earth;' Cf. Sarvaran 'Qherélh'
 [^2]: See also: [Watchstones](phenomena/watchstones.md)
 [^3]: Old Sarvaran, << Proto-Morellic '\*Azayom-it-takhal,' meaning 'the month of the years,' or 'month of the age \[of maturity]'
 [^4]: Old Sarvaran << Proto-Morellic '\*Kolyân-nalya,' meaning 'the festival of rejoicing'
