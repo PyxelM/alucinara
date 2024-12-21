@@ -293,6 +293,10 @@ palatalisation:
  then: [back] => [front] / _ [palatal]
  then: [front +rounded highmid] => [high]
 
+velar-vocalisation:
+ {gʱ, gʱː} => {ɯ, ɯː} // {@vowel _, _ @vowel}
+ {j, jː} => {i, iː} // {@vowel _, _ @vowel}
+
 syllables:
  @consonant? [approximant]? {@vowel&[+syllabic] @continuant? @consonant, @vowel&[+syllabic +long]} => [+heavy]
  s? @consonant? @continuant? {@vowel&[+syllabic] @continuant? @consonant, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
@@ -337,7 +341,7 @@ nasalisation-and-vowel-loss:
  {j, w} @vowel&[-long low] => {e, o} * / @consonant _ $
  {j, w} @vowel&[-long highmid] => {i, u} * / @consonant _ $
  {ih, uh} => {j, w} / @consonant _ @vowel
- @vowel&[-long] => * / @vowel @continuant? @consonant _ $ // {$ @consonant? @continuant? @vowel&[-long] @consonant, @consonant&[+long], [approximant], [palatal]} _
+ @vowel&[-long] => * / @vowel @continuant? @consonant _ $ // {$ @consonant? @continuant? @vowel&[-long] @consonant, @consonant&[+long], [approximant]} _
  [-breathy nasal -long $Place] => * / @vowel _ // _ {@vowel, [plosive $Place]}
  @vowel&[+long] => [-long] / _ $
  )
@@ -351,7 +355,6 @@ nasalisation-and-vowel-loss:
  then: @vowel&[+long] => [-long] / @vowel&[+long] @consonant* _
  then: h => * // @vowel _ @vowel
  then: [+breathy nasal] => [-breathy]
- then: {[+voiced velar]&@obstruent, j} => {ɯ, i} // {@vowel _, _ @vowel}
  then: [$voiced $Place fricative] {[plosive], [affricate]}&[$voiced $Place] => * [+long]
 
 syllables:

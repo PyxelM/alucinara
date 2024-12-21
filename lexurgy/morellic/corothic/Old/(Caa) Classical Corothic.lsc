@@ -231,27 +231,24 @@ Element labial {[labiodental], [labial]}
 Element lax @vowel&{[nearfront], [nearhigh], [nearlow central]}
 Element nonlax @vowel&!{[nearfront], [nearhigh], [nearlow central]}
 
-contraction:
- $$ => \- / eyanh _ {@consonant, @vowel}
- $$ => \- / astï _ alvas\-ilh
- {salabha} => {kîlabha}
-
 deromanisation:
  {ng, y, kh} => {ŋ, ɣ, x}
  then: (
  {[plosive +voiced], [nasal], [lateralapproximant]} h => [+breathy] *
  {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, {ï̂, ï̂}, {ü̂, ü̂}, {ï, ï}, {ü, ü}} => {aː, eː, iː, oː, uː, ɯː, yː, ɯ, y}
  )
- then: * => h / @vowel _ @vowel
  then: \' => *
 
 assimilation defer:
  [alveolar nasal] => [$Place] / _ @obstruent&[$Place]
- {[lateralapproximant $breathy $Place] [nasal $breathy $Place], [lateralapproximant $Place] / _ [$Place nasal]} => {* [+long], [nasal]}
 
 lengthening:
- @vowel h => [+long] * // _ @vowel
  []$1 $1 => * [+long]
+
+fortition:
+ [fricative] => [-voiced affricate] / {\-, $} _ @continuant? @vowel
+ [plosive $Place $voiced] [fricative $Place $voiced] => * [-voiced affricate]
+ [plosive labial $voiced] [fricative labiodental $voiced] => * [-voiced affricate]
 
 glomination:
  @vowel&[+long] \- @vowel => [-long] * *
@@ -269,45 +266,40 @@ syllables:
 syllables:
  explicit
 
-lenition:
- {v, {z, l}, ɣ, x, f} => {w, r, j, ç, h}
- {bʱ, dʱ, gʱ} => [-breathy] / _ @continuant
- {bʱ, dʱ, gʱ} => {v, ð, j}
- {mʱ, nʱ, ŋʱ, lʱ} => {w, l, j, w}
+dentalisation:
+ [alveolar plosive] => [dental]
 
-palatalisation:
- [velar !approximant] j => [palatal] *
- [alveolar !trill]&@sonorant j => [palatal] *
+vowel-shift-1:
+ [low front] => [back]
 
-diphthongisation defer:
- @vowel => [+syllabic]
+debuccalisation:
+ [-voiced !alveolar fricative] => [glottal]
+
+voiced-shift:
+ @vowel$1 [+voiced fricative]$2 $1 => [+long] * *
+ [+voiced alveolar fricative] => [trill]
+ [+voiced velar fricative] => [palatal approximant] / _ [back]
+ [+voiced velar fricative] =>  [+labialised approximant]
+ [-breathy lateralapproximant] => [trill]
+
+breathy-shift:
+ [+breathy plosive] => [-breathy -voiced +aspirated]
+ [+breathy labial nasal] => [-breathy velar approximant +labialised]
+ [+breathy alveolar nasal] => [-breathy lateralapproximant]
+ [+breathy nasal]&{[palatal], [velar]} => [-breathy palatal approximant]
+ [+breathy lateralapproximant] => [-breathy nasal] / _ {$, [nasal]}
+ [+breathy] => [-breathy]
+
+assimilation:
+ [nasal !labial] => [$Place] / _ @obstruent&[$Place !glottal]
  then: []$1 $1 => [+long] *
- then: {{i, e}, {u, o}} => {j, w} / _ @vowel // {{$, .} @consonant*2 _, _ @vowel*2}
- then: [high] => [-syllabic] / @vowel&![high] _ // @vowel*2 _
 
-vowel-shift:
- h => *
- then: :diphthongisation
- then: @vowel => [+syllabic]
- then: (
- {ij, uw, ej, ow, uj, iw, oj, ew, aj, aw} => {i, u, e, o, y, ɯ, ø, ɤ, e, o} / _ @vowel
- {ij, uw, ej, ow, uj, iw, oj, ew, aj, aw} => {iː, uː, eː, oː, yː, ɯː, øː, ɤː, eː, oː}
- {ji, wu, je, wo, ju, wi, jo, we, ja, wa} => {i, u, e, o, y, ɯ, ø, ɤ, e, o} / @vowel _
- {ji, wu, je, wo, ju, wi, jo, we, ja, wa} => {iː, uː, eː, oː, yː, ɯː, øː, ɤː, eː, oː}
- )
- then: :diphthongisation
- then: @vowel => [+syllabic]
- then: (
- {ij, uw, ej, ow, uj, iw, oj, ew, aj, aw, ɯw, yj, ɤw, øj, ɯj, yw, ɤj, øw} => {i, u, e, o, y, ɯ, ø, ɤ, e, o, u, i, o, e, i, u, e, o} / _ @vowel
- {ij, uw, ej, ow, uj, iw, oj, ew, aj, aw, ɯw, yj, ɤw, øj, ɯj, yw, ɤj, øw} => {iː, uː, eː, oː, yː, ɯː, øː, ɤː, eː, oː, uː, iː, oː, eː, iː, uː, eː, oː}
- {ji, wu, je, wo, ju, wi, jo, we, ja, wa, wɯ, jy, wɤ, jø, jɯ, wy, jɤ, wø} => {i, u, e, o, y, ɯ, ø, ɤ, e, o, u, i, o, e, i, u, e, o} / @vowel _
- {ji, wu, je, wo, ju, wi, jo, we, ja, wa, wɯ, jy, wɤ, jø, jɯ, wy, jɤ, wø} => {iː, uː, eː, oː, yː, ɯː, øː, ɤː, eː, oː, uː, iː, oː, eː, iː, uː, eː, oː}
- )
- then: :diphthongisation
- then: @vowel => [+syllabic]
- then: @vowel => [-long] / {@vowel _, _ @vowel}
- then: {j, w} => {i, u} / @vowel _ // _ @vowel
- then: :diphthongisation
+final-lenition:
+ @obstruent => [-voiced] / _ {$, .}
+ @vowel => [-long] / _ $
+
+vocalisation:
+ {j, w} => {i, u} // {@vowel _, _ @vowel}
 
 syllables:
  @consonant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
@@ -320,80 +312,86 @@ syllables:
 romanizer-old-corothic:
  unchanged
 
-vowel-harmony:
- [high +syllabic] => [highmid] / _ {![plosive]}* @vowel&{[highmid], [low]}&[+syllabic] {[]*}? $
- [highmid +syllabic] => [low] / _ {![plosive]}* @vowel&[low +syllabic] {[]*}? $
- [highmid +syllabic] => [high] / _ {![plosive]}* @vowel&[high +syllabic] {[]*}? $
- [low +syllabic] => [highmid] / _ {![plosive]}* @vowel&[high +syllabic] {[]*}? $
+frication-and-lenition:
+ [+aspirated] => [-aspirated fricative]
+ [affricate] => [plosive]
+ then: [labiodental plosive] => [labial]
+ then: [labial fricative] => [labiodental]
+
+epenthesis defer:
+ * => $1 / {@vowel&[+syllabic]}$1 {@vowel&[-syllabic]}? @consonant _ $
 
 vowel-loss:
- @vowel&[-long +syllabic] => * / @vowel&[+syllabic] @consonant&![approximant] _ $ // $ @consonant @vowel @consonant _
- [+long] => [-long] / _ $
+ :epenthesis
+ then: @vowel&[-long] => * / @vowel {s? @obstruent&![affricate], [nasal]} _ @sonorant&!{[nasal], [lateralapproximant]} @vowel
+ then: @vowel&[-long] => * / @vowel @consonant _ $
+ then: :epenthesis
+ then: @vowel&[-long] => * / @vowel @continuant&!{[nasal], [lateralapproximant]} _ {@obstruent, [nasal]} @vowel // _ @continuant&![nasal] @vowel&[-long] {@obstruent, $}
+ then: @vowel&[-long] => * / @vowel @obstruent _ @sonorant @vowel
+ then: {[-long], [+long]}&@vowel => {*, [-long]} / @vowel @consonant _ $
+ then: []$1 $1 => [+long] *
 
-vowel-shift-2:
- [low] => [back]
- then: :diphthongisation
- then: {iː, uː} => {ie̯, uo̯} / $ _ // _ @vowel
- then: {eː, oː} => {ie̯, uo̯} / . @consonant _ // _ @vowel
- then: {eː, oː} => {je, wo} / . @consonant _ @vowel
- then: @vowel => [-long]
+palatalisation:
+ [velar]&@obstruent j => [palatal] *
+ @sonorant&![trill] j => [palatal] *
 
-syllables:
- @consonant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
- s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
- @consonant? @vowel&[+syllabic] => [+heavy] / _ @consonant&[+long]
- @consonant? @vowel&[+syllabic] => [-heavy]
- s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant} _ @consonant&[+long]
- s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant} _
+fortition-2:
+ r => dr / @vowel @sonorant _ @vowel
 
-voicing-shift:
- @obstruent => [+voiced] / [nasal] _
- [-voiced plosive] => [+aspirated]
- [+voiced plosive] => [-voiced]
- then: [nasal] => * / @vowel _ @obstruent
+palatal-vowel-shift:
+ [back !high] j => [front highmid -rounded] * // _ @vowel
+ [high back +rounded] j => [highmid] * // _ @vowel
+ [front high -rounded] j => [+long] * // _ @vowel
+ [high] j => [front high -rounded] * // _ @vowel
 
-stress:
- (
- <syl>&[+heavy] => [+stress] / _ {<syl>&![+heavy]}* $
- else: <syl> => [+stress] / $ <syl> _
- )
- then propagate: <syl> => [+stress] / {<syl>&[+stress] <syl>&[-stress] _, _ <syl>&[-stress] <syl>&[+stress]}
- then: <syl> => [-stress] / _ $
+ j [back !high] => * [front highmid -rounded] // @vowel _
+ j [high back +rounded] => * [highmid] // @vowel _
+ j [front high -rounded] => * [+long] // @vowel _
+ j [high] => * [front high -rounded] // @vowel _
+
+ [back !high] => [front highmid -rounded] / {[palatal] _, _ [palatal]}
+ [high back +rounded] => [highmid] / {[palatal] _, _ [palatal]}
+ [high] => [front high -rounded] / {[palatal] _, _ [palatal]}
+
+stress propagate:
+ <syl> => [+stress] / {$, <syl>&[+stress]} <syl> _ // _ $
 
 romanizer-middle-corothic:
  unchanged
 
-coda-devoicing:
- @obstruent => [-voiced] / _ {$, .}
+vowel-shift:
+ [front low] => [highmid]
+ [back low +rounded] => [highmid]
+ then: (
+ [+long highmid] => [-long high]
+ [+long] => [-long]
+ )
 
-early-classical-vowel-shift:
- [low back +rounded] => [high] / _ @sonorant&![nasal]
- then: (
- [low back -rounded] => [+rounded] / _ @sonorant&![nasal]
- [highmid front -rounded] => [low] / _ @sonorant&![nasal]
- [highmid front +rounded] => [-rounded] / _ @sonorant&![nasal]
- )
- then: @vowel&[-rounded] => [+rounded] / _ {m, v, w}
- then: [low back +rounded] => [highmid]
- then: [low back -rounded] => [central]
- then: (
- [back -rounded] => [front] // _ @sonorant&![nasal]
- [back -rounded] => [+rounded]
- [front +rounded] => [-rounded] // _ @sonorant&![nasal]
- [front +rounded] => [back]
- )
- then: @vowel&[+syllabic] => * / @vowel&[+syllabic] _
+uvularisation:
+ [-voiced velar plosive] => [uvular]
+ [+voiced velar plosive] => [-voiced]
+ [alveolar trill] => [uvular]
+ then: [velar nasal] => [uvular] / _ [uvular]
 
 romanizer-classical-corothic:
  unchanged
+
+stress-marking:
+ @vowel&[+syllabic +stress] => [hightone]
 
 syllables:
  clear
 
 romanizer:
- [+long]$1 => $1 $1
+ @vowel&[+long hightone] => [-long lowtone]
+ @vowel&[+long] * => [-long] ̂
+ @consonant&[+long]$1 => $1 $1
  then: [+long] => [-long]
  then: @vowel => [+syllabic]
- then: {[+aspirated], [-aspirated -voiced plosive], * [+voiced plosive]} => {[-aspirated], [+voiced], ' []}
- then: ä => a
- then: {ŋg, ŋ, ɲ, ç, ʝ, j, θ, ð, ɥ} => {n'g, ng, ny, ch, yh, y, th, dh, yw}
+ then: [dental plosive] => [alveolar]
+ then: (
+ [nasal $Place] => m / _ @consonant&[$Place]&{[labial], [labiodental]}
+ [nasal $Place] => n / _ @consonant&[$Place]
+ )
+ then: {θθ, θ, xx, x} => {tth, th, kkh, kh}
+ then: {ʎ, ɲ, ʀ, ng, ŋ, j, y, ø, ɯ, ɤ, ɑ} => {ly, ny, r, n'g, ng, y, ü, ö, ï, ë, a}
