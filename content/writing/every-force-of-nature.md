@@ -4,7 +4,7 @@ tags:
   - writing
   - poetry
 ---
-So, every force of nature showed  
+*So, every force of nature showed  
 the shattered ways the crystal glowed.
 
 A gemstone fit to lose our minds,  
@@ -21,6 +21,6 @@ from days or years as shards about,
 and now all order earth forgot.
 
 And every force of nature showed  
-the shattered ways the crystal glowed.
+the shattered ways the crystal glowed.*
 ### Notes
 This poem was written in 2023, and focusses on the nature of the cosmos in the book; especially musing on the existence of [alucinara](lore/cosmology/alucinara.md) and the shattered realms. It was written in Iambic Tetrameter with a rhyming scheme of AA BABA.

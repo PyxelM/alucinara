@@ -7,10 +7,10 @@ title: If Only You Set Me Free
 - [The Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md)
 - [Sarvara](lore/2nd-realm/sarvara.md)
 - [The Early Morellic Peoples](lore/2nd-realm/early-morellic-tribes.md)
-- [Fauna of the 2nd Realm](private/trash/fauna/2nd-realm-fauna.md)
-- [Flora of the 2nd Realm](flora/2nd-realm-flora.md)
 ## Featured Tags
 - [Prose](tags/prose)
 - [Poetry](tags/poetry)
 - [Cosmology](tags/cosmology)
 - [Locations](tags/locations)
+- [Flora](tags/flora)
+- [Fauna](tags/fauna)

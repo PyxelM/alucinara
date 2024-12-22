@@ -1,3 +1,9 @@
+---
+title: The Sharadith
+tags:
+  - writing
+  - prose
+---
 ## Chapter One
 (In the 33rd year of the reign of High Matriarch Ramsen of the Empire of the Petrified Child)
 

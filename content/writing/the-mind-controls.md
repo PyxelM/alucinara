@@ -4,7 +4,7 @@ tags:
   - writing
   - poetry
 ---
-A rodent sat atop the cliff of an inlet,
+*A rodent sat atop the cliff of an inlet,
 its whole life built upon service to an instinct.
 
 Staring down at the rocks upon which a wave rolls,
@@ -23,7 +23,7 @@ Some will claim that a soul makes you one of a kind,
 The thoughts end, lost to time and the ebb of the tide,
 wisdom lost, now rendered lost ideas brought to nought.
 
-Where to find decent wives, tasty bugs, or berries,
+Where to find pretty wives, tasty bugs, or berries,
 but what of awesome truths, off limits to one’s thought?  
 Things that play on the mind, in grief, deep it buries,  
 left to fend for itself in a sea of tears cried.
@@ -37,6 +37,6 @@ drew them near, close to death, in the wood’s safe charade.
 Near the grave, souls converge, all made one in distress.
 
 The great warmth the gems glow clarifies such soil'd souls,
-'The tide rolls, the world turns, and the mind too controls.'
+'The tide rolls, the world turns, and the mind too controls.'*
 ## Notes
 Written in 2023, this poem reflects on the nature of reality and consciousness within my book, using the medium of a rodent to convey these ideas. It was written in anapestic tetrameter and has a rhyming scheme of AB CBCA.
