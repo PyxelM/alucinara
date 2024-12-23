@@ -13,7 +13,7 @@ Coroth was founded in the late Neolithic period (between 5,700 - 3,200 BS[^1]) b
 
 After the [Fall of Sarvara](lore/2nd-realm/sarvara/fall-of-sarvara), Coroth would go on to become the greatest power then-seen in all of Tseireph. With the advent of the iron age, a Corothic general known as The Elephant (or Elephant I) would found the Empire of the Petrified Child, annexing the remnants of the Sarvaran empire.
 ## Exports
-Coroth's main export was Corothic blue, a pigment used in artwork and dyeing, which was extracted from the native Water Dragons of the river Coroth, a tributary of the river Sarav. Coroth also pioneered the agriculture and trade of fruits and berries, contrasting Sarvara's industry of Lunuth Wheat, and Aqhor's of Sweetrice.
+Coroth's main export was Corothic blue, a pigment used in artwork and dyeing, which was extracted from the native [Water Dragons](fauna/dragons.md) of the river Coroth, a tributary of the river Sarav. Coroth also pioneered the agriculture and trade of fruits and berries, contrasting Sarvara's industry of Lunuth Wheat, and Aqhor's of Sweetrice.
 ## Names
 
 | Term / Languages   | Proto-Morellic     | Sarvaran     | Corothic      | Aqhoran |
