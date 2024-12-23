@@ -1,6 +1,7 @@
 ---
 title: The Petrified Child
 tags:
+  - lore
   - cosmology
   - deities
   - the-petrified-child

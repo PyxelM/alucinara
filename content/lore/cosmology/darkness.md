@@ -1,6 +1,7 @@
 ---
 title: Darkness
 tags:
+  - lore
   - darkness
   - cosmology
 ---

@@ -1,6 +1,7 @@
 ---
 title: The Judges
 tags:
+  - lore
   - cosmology
   - deities
   - the-judges

@@ -1,6 +1,7 @@
 ---
 title: Alucinara Energy
 tags:
+  - lore
   - alucinara
   - cosmology
 ---

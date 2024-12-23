@@ -1,6 +1,7 @@
 ---
 title: The Angels
 tags:
+  - lore
   - cosmology
   - deities
   - the-angels

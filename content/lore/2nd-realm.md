@@ -1,6 +1,7 @@
 ---
 title: The 2nd Realm
 tags:
+  - lore
   - 2nd-realm
   - realms
   - locations
