@@ -368,16 +368,18 @@ syllables:
 stress defer:
  [] => [-stress notone]
  then: (
- <syl> => [+stress] / _ <syl>&[-heavy] $
- else: <syl>&[+heavy] => [+stress] // {<syl>&[+heavy] {<syl>&[-heavy]}* _}
+ <syl>&[+heavy] => [+stress] // {<syl>&[+heavy] {<syl>&[-heavy]}* _, $ _}
+ else: <syl>&[+heavy] => [+stress] / $ <syl>&[+heavy] _
+ else: <syl>&[+heavy] => [+stress] / _ <syl>&[-heavy] $
+ else: <syl>&[+heavy] => [+stress] / _ $
  else: <syl> => [+stress] / _ <syl> $
- else: <syl> => [+stress] / $ _
  )
  then propagate: (
  <syl>&[+heavy] => [+stress] / {<syl>&[+stress] {<syl>&[-stress]}*2 _, _ {<syl>&[-stress]}*2 <syl>&[+stress]} // _ $
- else: <syl> => [+stress] / {<syl>&[+stress] <syl>&[-stress] _, _ <syl>&[-stress] <syl>&[+stress]}
+ else: <syl> => [+stress] / {<syl>&[+stress] <syl>&[-stress] _, _ <syl>&[-stress] <syl>&[+stress]} // {$ _ <syl>*3, _ $}
  )
  then: <syl> => [-stress] / _ $ // $ {<syl>&[-stress]}* _
+ then: <syl> => [-stress] / $ _ $
 
 stress-1:
  :stress
