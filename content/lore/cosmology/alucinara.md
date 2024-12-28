@@ -12,7 +12,7 @@ Alucinara energy itself is invisible, as it is not made up of matter, but rather
 
 Alucinarium is an iridescent purple crystal with a bright orange lustre. It grows in long, razor-sharp, pyramidal shapes, which can be thin or wide. It is a very bristly crystal, breaking off easily into small chunks and dust. Alucinarium dust generally dissapears, but can have a longer lifespan in areas of high alucinon saturation.
 ## Uses
-Alucinara is capable of doing many things. Its use can be unconscious, as in basal organisms and plants, or consciously used as in magic by sapient species. These uses range from allowing users to travel between [realms](lore/cosmology/the-realms.md), levitate objects and themselves, to cook food, to burn or freeze objects, and to commune with [spiritual beings](lore/cosmology/the-angels.md) as in prophecy and prayer; although this is not an exhausive list.
+Alucinara is capable of doing many things. Its use can be unconscious, as in basal organisms and plants, or consciously used as in magic by sapient species. These uses range from allowing users to travel between [realms](lore/cosmology/the-realms.md), levitate objects and themselves, to cook food, to burn or freeze objects, and to commune with [spiritual beings](lore/cosmology/celestial-beings/the-angels.md) as in prophecy and prayer; although this is not an exhausive list.
 ## Sorcerers
 Sorcerers are those who specialise in Alucinara use, and are capable of more difficult, high-complexity spells compared to laypeople and nonsapient animals, which may use Alucinara at a lower level of complexity, or simply as a biological process out of evolutionary instinct.
 ## Consciousness
