@@ -1,6 +1,7 @@
 ---
 title: The Sun Grows Dark
 tags:
+  - sarvara
   - writing
   - poetry
 ---
@@ -26,5 +27,3 @@ and give thanks to the [Petrified Child](lore/cosmology/celestial-beings/the-pet
 `and child petrify-PAS-STV 3.DEI-to 1.PL-thank`
 ## Notes
 Sarvaran poetry often pulls off some trickery. This poem is written in free verse, meaning there is no meter, but there is a rhyming scheme of AABB. Sarvaran poetry also often shifted from SV to VS in intransitive phrases to emphasise the subject and place it at the end of the line in order to rhyme.
-## Further Reading
-- [Sarvara (Tag)](tags/sarvara)
