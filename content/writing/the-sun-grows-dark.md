@@ -5,10 +5,10 @@ tags:
   - poetry
 ---
 ## Sarvaran Text
-*Eyúdhran ikűmma lisi̋nnanis cádra  
-kelh ankéiranith liką́rh musápra.  
-Ámerith íkų̈ lówerith ánïtirh éyïrath,  
-kelh eyán ástïrilh lísï eyápąrath.*
+*Eyúdhran ikűmma lisi̋nnanis cádra*  
+*kelh ankéiranith liką́rh musápra.*  
+*Ámerith íkų̈ lówerith ánïtirh éyïrath,*  
+*kelh eyán ástïrilh lísï eyápąrath.*
 ### Pronunciation
 `eˈjúð.rɐ̃n ɪˈkỹ́.mːɐ lɪˈsɯ̃́.nːɐ̃.nɪs ˈʃád̪.rɐ`  
 `keɬ ɐ̃ŋˈkéi̯.rɐ̃.nɪθ lɪˈkã́r̥ mʊˈsáp.rɐ`  
