@@ -4,7 +4,7 @@ tags:
   - coroth
   - morellic
   - locations
-  - civilisations
+  - nations
 ---
 ## Overview
 Coroth was a Morellic city state and civilisation founded in the Neolithic Era. The land of Coroth was situated in the continental forests of southern [Tseireph](lore/2nd-realm/tseireph.md), to the east of [Sarvara](lore/2nd-realm/sarvara.md). Coroth would go on to be succeeded by the [Empire of the Petrified Child](lore/empire-of-the-petrified-child).

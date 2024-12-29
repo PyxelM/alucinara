@@ -4,12 +4,13 @@ tags:
   - sarvara 
   - morellic
   - locations
-  - civilisations
+  - empires
+  - nations
 ---
 ## Overview
 Sarvara (Sarvaran: '*Sarvárą*' IPA: `/sar.vá.rã/`) was a Morellic city state and a civilisation whose society, territory, and culture extended beyond its original city walls. The Sarvaran city and civilisation were located within the Sarvaran river basin, of southern [Tseireph](lore/2nd-realm/tseireph.md) and the [2nd Realm](lore/2nd-realm.md).
 
-Sarvara was founded during the Minikin Neolithic era, reaching its height during the Bronze Age, and was one of the first great cities, alongside [Coroth](groups-and-places/coroth.md) and [Aqhor](groups-and-places/aqhor.md). It held a great amount of influence over the river basin, and served as the foundation for its successor state, the [Empire of the Petrified Child](lore/the-empire-of-the-petrified-child.md).
+Sarvara was founded during the Minikin Neolithic era, reaching its height during the Bronze Age, and was one of the first great cities, alongside [Coroth](groups-and-places/coroth.md) and [Aqhor](groups-and-places/aqhor.md). It held a great amount of influence over the river basin, and served as the foundation for its successor state, the [Empire of the Petrified Child](lore/2nd-realm/the-empire-of-the-petrified-child.md).
 ## Etymology
 The name for the city, '*Sarvárą*,' is made up of two roots, '*Sarav*,' the name of a river, and '*Rą*,' meaning 'City \[of].' The name of the river Sarav was loaned into Old Sarvaran from the native substrate language Old Diiran.
 ## Location
@@ -29,6 +30,8 @@ Further Reading: [Sarvaran History](private/trash/lore/sarvaran-history.md)
 The Sarvaran Golden Age was precipitated by the invention of the Sarvaran Logography. The logography was written from top-to-bottom, carved either into wood or stone with bladed styli or chisels.
 
 The logography resembled that of etruscan or nordic runes of the 0th Realm, and was initially used on wooden tablets for record keeping in trade, production, etc. Eventually, the Sarvaran Golden age saw it begin to be carved into other, similar materials, such as treetrunks, and only be used by nobles and priests.
+## Political System
+The political system of Sarvara was that of a feudal absolute monarchy, where the state is led by a High Matriarch, serving the role of a monarch or queen. Underneath the high matriarch was the nobles who were allowed fiefs, land held by the matriarch but given to be used by the nobles, which employed and taxed commoners to work the land.
 ## Caste System
 The sarvaran caste system was divided into 5 hereditary castes, derived from the early Morellic cultural structure, which then became reinforced by taboos and the organisation that came with the advent of the Bronze Age.
 ### High-Matriarchs

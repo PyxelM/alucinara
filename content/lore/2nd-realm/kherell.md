@@ -1,7 +1,7 @@
 ---
 title: Kerelh
 tags:
-  - planet
+  - planets
   - locations
 ---
 ## Overview

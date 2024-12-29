@@ -3,7 +3,7 @@ title: Thnayya
 tags:
   - aqhor
   - thnayya
-  - civilisations
+  - nations
 ---
 ## Overview
 Thnayya was a prehistoric civilisation of [minikin](fauna/minikin.md) in the [2nd realm](lore/2nd-realm.md). It was located in south [Tseireph](lore/2nd-realm/tseireph.md), in a time when the sea levels were lower, and is now located in the Aqhoran strait off the coast of the Sarvaran river basin. They are known for their extinction due to rising sea levels.
