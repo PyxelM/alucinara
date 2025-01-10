@@ -6,11 +6,11 @@ tags:
   - sarvara
 ---
 ## Overview
-The architecture of [Sarvara](lore/2nd-realm/sarvara.md) refers to the many styles and methods of building structures within the city state, and further settlements and outposts within its cultural sphere.
+The architecture of [Sarvara](lore/2nd-realm/morellic/sarvara*.md) refers to the many styles and methods of building structures within the city state, and further settlements and outposts within its cultural sphere.
 
 It was defined by intricate dwellings built in the trees or on the ground, with the main materials being [Dhajarh](flora/dhajar-trees.md) wood, bricks of stone taken from the mountains with bitumen used as mortar, fluvial clay, and Lunuth fabric.
 
-Classical Sarvaran architecture is found in the high-class structures of the Sarvaran golden age, and lived on in the neoclassical architecture of the [Empire of the Petrified Child](lore/empire-of-the-petrified-child.md) and the Corothic Republic.
+Classical Sarvaran architecture is found in the high-class structures of the Sarvaran golden age, and lived on in the neoclassical architecture of the [Empire of the Petrified Child](lore/2nd-realm/morellic/stonechild.md) and the Corothic Republic.
 ## Characteristics
 ### Temples
 Temples were grand constructions in Sarvara, serving as the centrepieces of their respective districts and settlements. They were constructed out of many materials, including stone and wood, and were built on (sometimes artificial) mounds of earth.

@@ -15,11 +15,11 @@ There are 7 corporeal realms. The amount of alucinara energy immanent to each re
 
 The terms [Ultra-essent](tags/ultra-essent-realms) and [Infra-essent](tags/infra-essent-realms) refer to the positioning of the realms. Within Sarvaran tradition, the Ultra-essent realms are placed higher, and the infra-essent realms lower, with height corresponding to the percieved impurity and purity of each realm.
 ### The 0th Realm
-The 0th realm contains the least amount of alucinara energy, with only enough to support time and consciousness. This realm contains planets such as Earth, which was one of the only planets capable of supporting life within the realm. Within [Sarvaran](lore/2nd-realm/sarvara.md) tradition, this realm is associated with the colour of dark green.
+The 0th realm contains the least amount of alucinara energy, with only enough to support time and consciousness. This realm contains planets such as Earth, which was one of the only planets capable of supporting life within the realm. Within [Sarvaran](lore/2nd-realm/morellic/sarvara*.md) tradition, this realm is associated with the colour of dark green.
 ### The 1st Realm
 The 1st realm contains planets such as Aandra, which was the home of the sapient species of [Slugfolk](fauna/Slugfolk.md). Within Sarvaran tradition, this realm is associated with the colour of orange-yellow.
 ### The 2nd Realm
-The 2nd realm contains planets such as [Kherell](lore/2nd-realm/kherell.md), which was the home of the sapient species of [Minikin](fauna/minikin.md), which founded the civilisations of [Sarvara](lore/2nd-realm/sarvara.md) and the [Empire of the Petrified Child](lore/2nd-realm/the-empire-of-the-petrified-child.md). Within Sarvaran tradition, this realm is associated with the colour of light green.
+The 2nd realm contains planets such as [Kherell](lore/2nd-realm/kherell.md), which was the home of the sapient species of [Minikin](fauna/minikin.md), which founded the civilisations of [Sarvara](lore/2nd-realm/morellic/sarvara*.md) and the [Empire of the Petrified Child](lore/2nd-realm/morellic/stonechild.md). Within Sarvaran tradition, this realm is associated with the colour of light green.
 ### The 3rd Realm
 The 3rd realm contains the most alucinara energy, alongside the -3rd. Within Sarvaran tradition, this realm is associated with the colour red.
 ### The -1st Realm

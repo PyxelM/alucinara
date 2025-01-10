@@ -15,4 +15,4 @@ Sarkitwara are divided into 3 to 6 segments, with each section featuring a smoot
 Sarkitwara bushes are around 3 metres in height, with a round shape, with many thick, splaying and winding branches. Their bark is brown, and their leaves yellow and palmate, with three points. Sarkitwara flowers feature pointy red leaves, with a dark red centre where the pollen lies.
 ## Uses
 ### Fruit
-Sarkitwara are a common and accessible food source, being used in both [Morellic](groups/morellic-minikin) and [Nethic](lore/neth.md) food. They are often juiced, and this juice is stored long-term. Furthermore, their skin can be shaved into zest and used as a garnish or in soups and sauces.
+Sarkitwara are a common and accessible food source, being used in both [Morellic](lore/2nd-realm/morellic.md) and [Nethic](lore/2nd-realm/nethic.md) food. They are often juiced, and this juice is stored long-term. Furthermore, their skin can be shaved into zest and used as a garnish or in soups and sauces.

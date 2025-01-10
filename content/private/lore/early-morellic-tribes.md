@@ -7,7 +7,7 @@ tags:
 ## Overview
 The early Morellic tribes were made up of nomadic, matrilineal clans living in the south of [Tseireph](lore/2nd-realm/tseireph.md) during the minikin Mesolithic era, or Middle Stone Age. They were united by a common culture and ethnicity, but saw themselves as very disparate.
 
-The early Morellic tribes served as the predecessors of [Sarvara](lore/2nd-realm/sarvara.md) and [Coroth](groups-and-places/coroth.md), and spoke a continuum of Proto-Morellic dialects, including Old Sarvaran and Old Corothic.
+The early Morellic tribes served as the predecessors of [Sarvara](lore/2nd-realm/morellic/sarvara*.md) and [Coroth](groups-and-places/coroth.md), and spoke a continuum of Proto-Morellic dialects, including Old Sarvaran and Old Corothic.
 
 They were contemporary with the pre-aqhoran tribes, but would not make contact with them until they migrated to the southern coast of Tseireph and founded the city-state of Aqhor at the dawn of the minikin Bronze age.
 ## Genetics

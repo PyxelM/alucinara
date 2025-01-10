@@ -6,7 +6,7 @@ tags:
   - cereals
 ---
 ## Overview
-Lunuth wheat is a type of domesticated cereal grain native to the [2nd realm](lore/2nd-realm.md). It is a staple crop for many cultures, especially of [Sarvara](lore/2nd-realm/sarvara.md), by whom it was domesticated. It played an instrumental role in the history of southern [Tseireph](lore/2nd-realm/tseireph.md) and agriculture as a whole.
+Lunuth wheat is a type of domesticated cereal grain native to the [2nd realm](lore/2nd-realm.md). It is a staple crop for many cultures, especially of [Sarvara](lore/2nd-realm/morellic/sarvara*.md), by whom it was domesticated. It played an instrumental role in the history of southern [Tseireph](lore/2nd-realm/tseireph.md) and agriculture as a whole.
 ## Appearance
 Lunuth is beige-green and stalky, and can reach up to a metre in height. It features small, pink grains which are flanked by large, dry leaves, and often grows in vast Lunuth fields and tilled land.
 ## Uses

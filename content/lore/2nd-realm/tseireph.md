@@ -15,7 +15,7 @@ Tseireph is large, spanning across multiple continental plates. It has two saltw
 ## Notable Locations
 - Sarvaran River Basin
 - River Sarav
-- [Sarvara](lore/2nd-realm/sarvara.md)
+- [Sarvara](lore/2nd-realm/morellic/sarvara*.md)
 - River Coroth
 - [Coroth](groups-and-places/coroth)
 - Aqhoran River Delta
@@ -25,4 +25,4 @@ Tseireph is large, spanning across multiple continental plates. It has two saltw
 - [Morellic Republic](groups-and-places/morellic-republic.md)
 - [Oyholiru Republic](groups-and-places/oyholiru-republic.md)
 
-[^1]: See Also: [The Early Morellic Clans](lore/2nd-realm/early-morellic-tribes.md)tribes.md)
+[^1]: See Also: [The Early Morellic Clans](lore/2nd-realm/morellic/early-morellic-tribes.md)tribes.md)

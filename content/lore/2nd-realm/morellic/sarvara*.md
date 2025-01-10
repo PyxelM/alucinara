@@ -8,24 +8,17 @@ tags:
   - nations
 ---
 ## Overview
-Sarvara (Sarvaran: '*Sarvárą*' IPA: `/sar.vá.rã/`) was a Morellic city state and a civilisation whose society, territory, and culture extended beyond its original city walls. The Sarvaran city and civilisation were located within the Sarvaran river basin, of southern [Tseireph](lore/2nd-realm/tseireph.md) and the [2nd Realm](lore/2nd-realm.md).
-
-Sarvara was founded during the Minikin Neolithic era, reaching its height during the Bronze Age, and was one of the first great cities, alongside [Coroth](groups-and-places/coroth.md) and [Aqhor](groups-and-places/aqhor.md). It held a great amount of influence over the river basin, and served as the foundation for its successor state, the [Empire of the Petrified Child](lore/2nd-realm/the-empire-of-the-petrified-child.md).
+Sarvara (Sarvaran: '*Sarvárą*' IPA: `/sar.vá.rã/`) was a Morellic city located on the river Sarav in southern [Tseireph](lore/2nd-realm/tseireph.md). It was founded in the late neolithic by the first [Diiran](lore/2nd-realm/nethic/diira.md) farmers, before being conquered by the [Mora](lore/2nd-realm/morellic/mora*.md).
 ## Etymology
-The name for the city, '*Sarvárą*,' is made up of two roots, '*Sarav*,' the name of a river, and '*Rą*,' meaning 'City \[of].' The name of the river Sarav was loaned into Old Sarvaran from the native substrate language Old Diiran.
+The name of the city, '*Sarvárą*' in [Classical Sarvaran](lore/2nd-realm/morellic/sarvara/sarvaran-language.md), derives itself from the substrate [Nethic](lore/2nd-realm/nethic.md) language of Diiran, in which its name was 'Kaúla sa-Láwa,' meaning 'settlement on the river.' This was partialled calqued into Sarvaran, with the added '*-rą*' element meaning 'city.'
 ## Location
-Sarvara was built on the Sarav river in the Sarvaran river basin, which was in southern Tseireph, a continent of Kherell in the 2nd Realm. It had a mediterranean climate, with seasonal floods from the river. Aqhor was to the south, and Coroth to the northeast.
-
-![](images/sarvaran-river-basin.png)
-*The Sarvaran River Basin, with the locations of Sarvara, Aqhor, and Coroth.*
-### The River Sarav
-The river Sarav flows from the northern mountains to the Aqhoran delta (the mouth of the river basin.) It is placed within a mediterranean biome, surrounded by steppes and humid continental biomes, and experiences seasonal floods that greatly enriched the effectiveness of agriculture in the area.
-
-Sarvara is one such city built upon it, as is Aqhor built at it's delta, and Coroth built on it's tributary, the river Coroth. During the Sarvaran golden age, Sarvara also controlled another, adjacent stretch of the river basin to the west.
+Sarvara was located on the river Sarav, a river of the Sarvaran River Basin, which was named after the city. The river basin itself was located in southern [Tseireph](lore/2nd-realm/tseireph.md), a continent of the habitable planet of [Kherell](lore/2nd-realm/kherell.md), within the 'Cadra' solar system of the [2nd realm](lore/2nd-realm.md).
 ## History
-Sarvara was founded by the Mora clan of the nomadic [Early Morellic Tribes](pre/early-morellic-tribes.md), who migrated into the Sarvaran river basin from the northeastern steppes. They mostly integrated into the native, sedentary cultures, most notably the [Diiran](lore/diira.md) minikin, from whom they gained the name for their holy river - the river Sarav[^1].
+Sarvara was founded in the late neolithic era by early [Diiran](lore/2nd-realm/nethic/diira.md) proto-farmers who had settled in the area due to it's fertile soil and reliable, seasonal floods of the river Sarav. The settlement was a quiet farming village up until the [Late-Neolithic Morellic Migration](lore/2nd-realm/morellic/late-neolithic-migration), when the Mora entered the river basin and conquered the settlement under High Matriarch Coriandra I.
 
-Further Reading: [Sarvaran History](private/trash/lore/sarvaran-history.md)
+By the bronze age, Sarvara would expand in wealth, prominence, and territory. Under High Matriarch Oleandra II, the [Sarvaran Empire](lore/2nd-realm/morellic/sarvara/sarvaran-empire) would be established after the conquering of the [Oyholiric](lore/2nd-realm/oyholiric*.md) city-states of [Aqhor](lore/2nd-realm/oyholiric/aqhor*.md) and [Evelor](lore/2nd-realm/oyholiric/evelor*.md). The empire would go on to see a golden age of prosperity, art, and religion that lasted 500 years.
+
+Ultimately, Sarvaran and the Sarvaran Empire would fall near the end of the bronze age due to the spread of the Sarvaran plague. The empire's population was decimated, some of its cities buried over time, and in its ashes would rise the [Empire of the Petrified Child](lore/2nd-realm/morellic/stonechild.md), which was founded by a [Corothic](lore/2nd-realm/morellic/coroth.md) militia under High Patriarch Elephant I.
 ## Sarvaran Logography
 The Sarvaran Golden Age was precipitated by the invention of the Sarvaran Logography. The logography was written from top-to-bottom, carved either into wood or stone with bladed styli or chisels.
 
@@ -49,5 +42,5 @@ The lowest caste was the wretched. These were the least in Sarvaran society, tho
 ## Calendar
 The date of the city's founding serves as year 0 of the Sarvaran calendar, which was one of the many innovations made by the Sarvaran Minikin. Other notable innovations included pottery, poetry, art, early mass-production, war, and cartography.
 ## See Also:
-- [Sarvaran Architecture](lore/2nd-realm/sarvara/sarvaran-architecture.md)
-- [Early Morellic Tribes](lore/2nd-realm/early-morellic-tribes.md)
+- [Sarvaran Architecture](lore/2nd-realm/morellic/sarvara/sarvaran-architecture.md)
+- [Early Morellic Tribes](lore/2nd-realm/morellic/early-morellic-tribes.md)

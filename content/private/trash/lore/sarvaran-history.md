@@ -6,7 +6,7 @@ tags:
   - sarvara
 ---
 ## Overview
-Ancient Sarvara was a civilisation of southern [Tseireph](lore/2nd-realm/tseireph.md) which was founded by the [early Morellic tribes](lore/2nd-realm/early-morellic-tribes.md) and spanned from the late neolithic era to the end of the Bronze age. The civilisation was centred in the city of Sarvara, which began as a city state built on the river Sarav and flourished into an empire which proved to have great influence on the region contemporarily and for millenia to come.
+Ancient Sarvara was a civilisation of southern [Tseireph](lore/2nd-realm/tseireph.md) which was founded by the [early Morellic tribes](lore/2nd-realm/morellic/early-morellic-tribes.md) and spanned from the late neolithic era to the end of the Bronze age. The civilisation was centred in the city of Sarvara, which began as a city state built on the river Sarav and flourished into an empire which proved to have great influence on the region contemporarily and for millenia to come.
 ## The Neolithic Period
 Sarvara wasn't concieved until the latter part of the neolithic period, or stone age. In the early to mid neolithic period, the region surrounding the river Sarav was travelled through, settled, abandoned, and forgotten innumerable times by various [minikin](fauna/minikin.md) groups.
 ### The Diiran Minikin
@@ -14,7 +14,7 @@ It wasn't until the [Diiran](lore/diira) minikin migrated from the west and sett
 
 While the Diira had not innovated into agriculture, they survived off of the natural flora and fauna of the land, including berries, small mammals, fruit, nuts, insects, leaves, and bark. But their main food source was fish; the yield was so plentiful that the group was able to sustain itself purely off of the Sarav.
 ### The Mora Minikin
-The Mora minikin hadn't yet migrated south into the Sarvaran river basin, but they would serve the most influence genetically and culturally on Sarvaran society. In the neolithic period, the Mora were nomadic pastoralists living in the steppes to the north of the Sanya mountains, who herded animals such as [snoutgoats](fauna/snoutgoats.md) and [woolly hogs](fauna/woolly-hogs.md).
+The Mora minikin hadn't yet migrated south into the Sarvaran river basin, but they would serve the most influence genetically and culturally on Sarvaran society. In the neolithic period, the Mora were nomadic pastoralists living in the steppes to the north of the Sanya mountains, who herded animals such as [yurikhs](fauna/yurikhs.md) and [woolly hogs](fauna/woolly-hogs.md).
 
 Eventually, the early Morellic tribes were driven out of the steppes due to famine. The steppe was undergoing desertification and soil fertility was poor; and on top of the threat of starvation, the desert-dwelling peoples of the north were pillaging, thieving, and travelling in war parties to survive.
 

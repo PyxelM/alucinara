@@ -36,10 +36,10 @@ They are farmed by some Minikin cultures for their robust wool and nutricious po
 Among Morellic hunter minikin, it is said that it is good luck to cleanly cut a wild Wooly Hog's tail off, and bad luck to fail to do this. These tails are often kept as trophies by hunters, and appear in heraldry as a symbol of good skill.
 ## Dragons
 [Dragons](fauna/dragons.md) are a small amphibious species native to the 2nd, 3rd, and -2nd realms. They are omnivorous, consuming berries and insects, and come in many varieties, each differing in colour. Dragons are inedible but are hunted and used in the making of dyes.
-## Snoutgoats
-[Snoutgoats](fauna/snoutgoats.md), also known as Yuriqith (Plural) / Yuriqh (Singular), are a goat species native to the 2nd and 3rd realms. They are half a metre tall, with fur that ranges from light beige to brown.
+## Yurikhs
+[Yurikhs](fauna/yurikhs.md), also known as Yuriqith (Plural) / Yuriqh (Singular), are a goat species native to the 2nd and 3rd realms. They are half a metre tall, with fur that ranges from light beige to brown.
 
-Some Minikin groups farm or hunt Snoutgoats, utilising their meat, milk, fur, sinew, and dung for food, dairy, clothing, tools, and fuel. Some groups mount snoutgoats, riding them for transport.
+Some Minikin groups farm or hunt yurikhs, utilising their meat, milk, fur, sinew, and dung for food, dairy, clothing, tools, and fuel. Some groups mount yurikhs, riding them for transport.
 ## Rat Monkeys
 [Rat monkeys](fauna/Treemice.md) are an arboreal monkey species native to the 2nd and -1st realms, the only monkey species native to Tséireph below the equatorial rainforest. They are small, similar to squirrels in size and habitat, and eat nuts, leaves, and various small animals. They are hunted by some Minikin cultures, such as the early Sarvaran minikin.
 ## Pack Snails

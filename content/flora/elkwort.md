@@ -5,7 +5,7 @@ tags:
   - herbs
 ---
 ## Overview
-Elkwort is a herb native to the continental regions of the [2nd](lore/2nd-realm.md) and -1st realms, related to ferns. It is a common garden plant, used in [Corothic](lore/2nd-realm/coroth.md) and [Stonechild Imperial](lore/empire-of-the-petrified-child) cooking. Its name comes from the food's prevalence in the diets of elk and [other species of deer](fauna/cervids.md).
+Elkwort is a herb native to the continental regions of the [2nd](lore/2nd-realm.md) and -1st realms, related to ferns. It is a common garden plant, used in [Corothic](lore/2nd-realm/morellic/coroth.md) and [Stonechild Imperial](lore/2nd-realm/morellic/stonechild.md) cooking. Its name comes from the food's prevalence in the diets of elk and [other species of deer](fauna/cervids.md).
 ## Appearance
 Elkwort is a small, low-lying plant, with fiddleheads that unfurl into short, wide fronds. Their flesh is dark green, almost black in regions of high radiation. They spread out in wide patches, which are often pruned into garden patches.
 ## Uses
