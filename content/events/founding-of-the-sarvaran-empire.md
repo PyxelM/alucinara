@@ -4,11 +4,11 @@ tags:
   - sarvara
   - events
   - lore
-
 render-enabled: true
 timelines:
 - kherell-history
-fc-date: 01-01-0001
+fc-date: 0001-01-01
+fc-end: 1500-01-01
 fc-calendar: Sarvaran Calendar
 fc-category: founding
 fc-display-name: Founding of the Sarvaran Empire

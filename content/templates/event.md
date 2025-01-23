@@ -3,11 +3,13 @@ title: title
 tags:
   - events
   - lore
-
 render-enabled: true
 timelines:
 - none
-fc-date: 01-01-0001
+fc-date:
+  day:
+  month:
+  year:
 fc-calendar: none
 fc-category: none
 fc-display-name: none
