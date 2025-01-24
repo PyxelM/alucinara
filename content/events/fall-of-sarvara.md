@@ -1,5 +1,5 @@
 ---
-title: Founding of the Sarvaran Empire
+title: The Fall of Sarvara
 tags:
   - sarvara
   - events
@@ -7,10 +7,10 @@ tags:
 render-enabled: true
 timelines:
 - kherell-history
-fc-date: 0001-03-14
+fc-date: 986-06-24
 fc-calendar: Sarvaran Calendar
-fc-category: founding
-fc-display-name: Founding of the Sarvaran Empire
+fc-category: fall
+fc-display-name: The Fall of Sarvara
 body:
  The founding of the Sarvaran Empire was an event that took place in the Bronze Age, triggered by the conquest of Aqhor and Evelor by the city of Sarvara, establishing the first true empire of Southern Tseireph.
 ---
