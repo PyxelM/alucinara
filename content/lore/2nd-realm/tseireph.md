@@ -15,7 +15,7 @@ Tseireph is large, spanning across multiple continental plates. It has two saltw
 ## Notable Locations
 - Sarvaran River Basin
 - River Sarav
-- [Sarvara](lore/2nd-realm/morellic/sarvara*.md)
+- [Sarvara](lore/2nd-realm/morellic/sarvara.md)
 - River Coroth
 - [Coroth](groups-and-places/coroth)
 - Aqhoran River Delta
