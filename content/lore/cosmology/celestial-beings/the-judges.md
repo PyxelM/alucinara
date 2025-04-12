@@ -9,7 +9,7 @@ tags:
 ## Overview
 The Judges were the two uncreated celestial beings who created the universe. They made the original creation, [alucinara](lore/cosmology/alucinara.md) energy, the [angels](lore/cosmology/celestial-beings/the-angels.md), life, and ultimately [darkness](lore/cosmology/darkness.md). They would go on to perish upon the Shattering of the Realms, leaving behind an heir to protect the world they created, which was the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md).
 
-Within [Sarvaran](lore/2nd-realm/morellic/sarvara.md) tradition, the Judges were the two moons of [Kherell](lore/2nd-realm/kherell.md), Ena and Udru.
+Within [Sarvaran](lore/2nd-realm/morellic/sarvara.md) tradition, the Judges were the two moons of [Kherelh](lore/2nd-realm/Kherelh.md), Ena and Udru.
 ## The Shattering
 The Shattering occurred after the second Judge rebelled against the first, secretly creating the energy of Alucinara, which allowed the concepts of time, consciousness, and life to exist. Living beings were originally contained within incorporeal spirits, which required to consume the cosmos to survive. Ultimately, the second Judge's rebellion was discovered by the first, when the living beings would attempt to consume the Judges after destroying the entirety of the original creation.
 

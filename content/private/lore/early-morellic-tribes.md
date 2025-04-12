@@ -21,7 +21,7 @@ They would not wear more sophisticated fabrics until the bronze age saw great de
 ## Religion
 The early Morellic religion was decentralised, [angel](lore/cosmology/celestial-beings/the-angels.md)-worshipping, and polytheistic. The early Morellic Minikin would make prayers, sacrifice, and worship to these deities, whom they could communicate with in dreams. Each tribe, clan, family would have patron deities who were believed to have a level of influence over the good fortune of their worshippers.
 
-The chief deity of the early Morellic religion was the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md), who protected nature, all things holy, and the innocent. It was believed that the petrified child was the firstborn of the god of nature, known as '*Kherelli*[^1],' and that the other deities were her other children.
+The chief deity of the early Morellic religion was the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md), who protected nature, all things holy, and the innocent. It was believed that the petrified child was the firstborn of the god of nature, known as '*Kherelhi*[^1],' and that the other deities were her other children.
 ## Calendar
 The early morellic tribes used variations of a lunisolar calendar called the '*kasuumitvirsu*[^8].' Years were made up of 297 days with 8 day weeks, divided 8 months of 36 days (with an extra intercalary month every 4 years), and began around the start of summer. The early morellic tribes counted a person's age from the month they were born, rather than the day.
 ## Cultural Practices
@@ -70,7 +70,7 @@ A females's *Areyomittakhar* was a more sophisticated process, where the girl's 
 
 On the first day of the following month was the '\*Osinnelya[^5],' which was a more private event than a *Kulyaanelya*. The *Sinakasudh* required the girl to recite the oral tradition pertaining to the sanctity of womanhood in front of an audience, after which she would retire home to consume Nyuta tea and perform the same requests as boys on their *Kulyaanelya*.
 
-[^1]: Old Sarvaran << Proto-Morellic '\*Kherell-lhi,' meaning 'god of earth;' Cf. Sarvaran 'Qherélh'
+[^1]: Old Sarvaran << Proto-Morellic '\*Kherelh-lhi,' meaning 'god of earth;' Cf. Sarvaran 'Qherélh'
 [^2]: See also: [Watchstones](phenomena/watchstones.md)
 [^3]: Old Sarvaran, << Proto-Morellic '\*Azayom-it-takhal,' meaning 'the month of the years,' or 'month of the age \[of maturity]'
 [^4]: Old Sarvaran << Proto-Morellic '\*Kolyân-nalya,' meaning 'the festival of rejoicing'

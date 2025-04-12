@@ -65,7 +65,7 @@ And so Asthara left the temple, and was walking along the river Morassar[^6] to 
 And it came to pass after many years that as Asthara laid down in her bed to sleep, Ceiris called out for her in a dream, saying, 'O good priestess! You believe that Perrelim is an ordinary girl, but you have seen that she is exceeding fair and good amongst the Deshwarites, and I tell you that she is in fact Yahna.' And Asthara awoke, and could not sleep, for she understood that the age of true faith was upon her, and she knelt down and said, 'I do not know if I can handle the responsibility.' And Ceiris responded from the heavens, 'be faithful and listen out for the truth from your daughter, and you will be preserved from fear in true understanding.'
 
 [^1]: Sarvaran '*qáyanith*,' meaning 'souls,' or 'pieces of tar,' (*qayą́* / *qayan-* + *-ith* `soul-PL`.) The dual meaning refers to the nature of the spirits of darkness as being made out of the material that would become tar.
-[^2]: Sarvaran '*décwaqath*,' meaning 'place of rain' (*déccu* / *decw-* + *aqáth* `rain-place`.) This refers not to the weather, but to how the minikin were 'rained' down onto Kherell.
+[^2]: Sarvaran '*décwaqath*,' meaning 'place of rain' (*déccu* / *decw-* + *aqáth* `rain-place`.) This refers not to the weather, but to how the minikin were 'rained' down onto Kherelh.
 [^3]: Sarvaran '*asthárą*,' meaning 'exalted'
 [^4]: Sarvaran '*yáqhna*,' meaning 'righteous one'
 [^5]: Sarvaran '*qeirį́s*,' meaning 'teacher,' or 'explainer' (qeirį + -s `teach-AGNT`.)
