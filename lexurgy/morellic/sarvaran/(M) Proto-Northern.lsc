@@ -237,6 +237,7 @@ deromanisation:
  {[plosive +voiced], [nasal], [lateralapproximant]} h => [+breathy] *
  {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, {ï̂, ï̂}, {ü̂, ü̂}, {ï, ï}, {ü, ü}} => {aː, eː, iː, oː, uː, ɯː, yː, ɯ, y}
  )
+ then: [alveolar plosive] => [dental]
  then: (
  h => *
  * => h / @vowel _ @vowel
@@ -246,13 +247,13 @@ deromanisation:
 assimilation defer:
  [nasal] => [$Place] / _ @obstruent&[$Place]
 
-glomination:
- @vowel \- @vowel&[+long] => * * [-long]
- @vowel \- / _ @vowel => *
- \- => *
-
 lengthening:
  []$1 $1 => * [+long]
+
+glomination:
+ @vowel&[+long] \- @vowel => [-long] * *
+ @vowel \- / _ @vowel => *
+ \- => *
 
 syllables:
  @consonant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
@@ -265,177 +266,50 @@ syllables:
 syllables:
  explicit
 
-dentalisation:
- [alveolar plosive] => [dental]
-
-aspiration:
- [+breathy plosive] => [-breathy -voiced +aspirated]
-
-fricative-lenition:
- [+voiced fricative] => [approximant]
- then: [velar approximant] => [palatal]
- then: [alveolar approximant] => [trill]
- then: [labiodental approximant] => [velar +labialised]
-
-sonorant-shift:
- [+breathy labial nasal] => [-breathy velar approximant +labialised]
- [-breathy alveolar lateralapproximant] => [-breathy trill]
- [+breathy alveolar lateralapproximant] => [-breathy velar approximant]
- [+breathy alveolar nasal] => [-breathy alveolar lateralapproximant]
- [+breathy velar nasal] => [-breathy palatal approximant]
-
-postalveolarisation:
- [alveolar fricative -voiced] => [postalveolar] / {@vowel, $} _ {@vowel, $}
+syllables:
+ @consonant? [approximant]? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
+ s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
+ @consonant? [approximant]? @vowel&[+syllabic] => [+heavy] / _ @consonant&[+long]
+ @consonant? [approximant]? @vowel&[+syllabic] => [-heavy]
+ s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant} _ @consonant&[+long]
+ s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant} _
 
 palatalisation:
- {[velar], [alveolar plosive]} => [palatal] / _ {j, [front]}
- [velar] => [labial] / _ w
- then: [labial fricative] => [labiodental]
-
-metathesis:
- @vowel$1 {[nasal], [trill]}$2 => $2 $1 / @vowel [approximant] _
- then: @vowel$1 {$1, a} => [+long] *
- then: @vowel&[highmid] => [high] / @vowel _
-
-syllables:
- @consonant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
- s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
- @consonant? @vowel&[+syllabic] => [+heavy] / _ @consonant&[+long]
- @consonant? @vowel&[+syllabic] => [-heavy]
- s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant} _ @consonant&[+long]
- s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant} _
-
-vowel-loss:
- @vowel&[-long] => * / @vowel [approximant] _ @sonorant&![approximant] @vowel
- @vowel&[+long] => [-long] / @vowel [approximant] _ @sonorant&![approximant] @vowel
- then: @vowel&[-long] => * / @vowel @consonant _ $
- then: @vowel&[+long] => [-long] / @vowel @consonant _ $
-
-approximant-vowel-shift:
- [high back] => [highmid] / @vowel j _
- [highmid front] => [high] / @vowel j _
- [highmid back] => [front] / @vowel j _
- [low] => [highmid front -rounded] / @vowel j _
-
- [high front] => [back +rounded] / @vowel w _
- [highmid back] => [high +rounded] / @vowel w _
- [highmid front] => [back +rounded] / @vowel w _
- [low] => [highmid back +rounded] / @vowel w _
-
- [high front] => [back -rounded] / @vowel ɰ _
- [highmid back] => [high -rounded] / @vowel ɰ _
- [highmid front] => [back -rounded] / @vowel ɰ _
- [low] => [highmid back -rounded] / @vowel ɰ _
-
- [high back] => [highmid] / _ j @vowel
- [highmid front] => [high] / _ j @vowel
- [highmid back] => [front] / _ j @vowel
- [low] => [highmid front -rounded] / _ j @vowel
-
- [high front] => [back +rounded] / _ w @vowel
- [highmid back] => [high +rounded] / _ w @vowel
- [highmid front] => [back +rounded] / _ w @vowel
- [low] => [highmid back +rounded] / _ w @vowel
-
- [high front] => [back -rounded] / _ ɰ @vowel
- [highmid back] => [high -rounded] / _ ɰ @vowel
- [highmid front] => [back -rounded] / _ ɰ @vowel
- [low] => [highmid back -rounded] / _ ɰ @vowel
-
- j [high front] => * [+long] // @vowel _
- j [high back] => * [highmid] // @vowel _
- j [highmid front] => * [high] // @vowel _
- j [highmid back] => * [front] // @vowel _
- j [low] => * [highmid front -rounded] // @vowel _
-
- w [high back] => * [+long +rounded] // @vowel _
- w [high front] => * [back +rounded] // @vowel _
- w [highmid back] => * [high +rounded] // @vowel _
- w [highmid front] => * [back +rounded] // @vowel _
- w [low] => * [highmid back +rounded] // @vowel _
-
- ɰ [high back] => * [+long -rounded] // @vowel _
- ɰ [high front] => * [back -rounded] // @vowel _
- ɰ [highmid back] => * [high -rounded] // @vowel _
- ɰ [highmid front] => * [back -rounded] // @vowel _
- ɰ [low] => * [highmid back -rounded] // @vowel _
-
- [high front] j => [+long] * // _ @vowel
- [high back] j => [highmid] * // _ @vowel
- [highmid front] j => [high] * // _ @vowel
- [highmid back] j => [front] * // _ @vowel
- [low] j => [highmid front -rounded] * // _ @vowel
-
- [high back] w => [+long +rounded] * // _ @vowel
- [high front] w => [back +rounded] * // _ @vowel
- [highmid back] w => [high +rounded] * // _ @vowel
- [highmid front] w => [back +rounded] * // _ @vowel
- [low] w => [highmid back +rounded] * // _ @vowel
-
- [high back] ɰ => [+long -rounded] * // _ @vowel
- [high front] ɰ => [back -rounded] * // _ @vowel
- [highmid back] ɰ => [high -rounded] * // _ @vowel
- [highmid front] ɰ => [back -rounded] * // _ @vowel
- [low] ɰ => [highmid back -rounded] * // _ @vowel
-
-romanizer-old-corothic:
- unchanged
-
-vocalisation:
- {j, w, ɰ} => {i̯, u̯, ɯ̯} / @vowel _ // _ @vowel
-
-diphthongisation:
- * [high front +long] => e [-long -syllabic]
- * [high back +long +rounded] => o [-long -syllabic]
- * [high back +long -rounded] => ɤ [-long -syllabic]
- [highmid +long] => [high -long]
- [low +long] => [front nearlow -rounded -long]
- [low] => [back +rounded]
-
-vowel-harmony @vowel:
- [high +syllabic] => [highmid] / $ {[low], [highmid]} {[]+}? _
- [highmid] => [low] / $ [low] {[]+}? _
- [highmid] => [high] / $ [high] {[]+}? _
- [low] => [highmid] / $ {[high], [highmid]} {[]+}? _
- then: [low back -rounded] => [front nearlow]
-
-vowel-heightening:
- [highmid] => [high] / _ $
-
-frication:
- [+aspirated plosive] => [fricative -aspirated]
-
-debuccalisation:
- [labial fricative] => [glottal]
- [velar fricative] => [labiodental] / {[+rounded] _, _ [+rounded]}
- then: h => * // _ @vowel
-
-retroflexation:
- [postalveolar] => [retroflex]
- {[dental], [alveolar]} => [retroflex] / {_ r, r _}
- then: r => * / {[retroflex] _, _ [retroflex]}
- then: [alveolar trill] => [retroflex approximant]
-
-syllables:
- @consonant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
- s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
- @consonant? @vowel&[+syllabic] => [+heavy] / _ @consonant&[+long]
- @consonant? @vowel&[+syllabic] => [-heavy]
- s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant} _ @consonant&[+long]
- s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant} _
-
-stress:
- (
- <syl>&[+heavy] => [+stress] / $ _ <syl> $
- else propagate: <syl> => [+stress] / {$, <syl>&[+stress]} <syl>&[-stress] _
+ {ɣ, ɣː} => {j, jː}
+ then: (
+ [plosive dental] j => [postalveolar affricate] *
+ [fricative alveolar] j => [postalveolar] *
+ @sonorant&[alveolar !trill] j => [palatal] *
  )
- then: <syl>&[+stress] => [-stress] / _ $ // <syl>&[+stress] {[]+}? _
+ then: [back] => [front] / _ [palatal]
+ then: [front +rounded highmid] => [high]
 
-romanizer-middle-corothic:
+velar-vocalisation:
+ {gʱ, gʱː} => {ɯ, ɯː} // {@vowel _, _ @vowel}
+ {j, jː} => {i, iː} // {@vowel _, _ @vowel}
+
+syllables:
+ @consonant? [approximant]? {@vowel&[+syllabic] @continuant? @consonant, @vowel&[+syllabic +long]} => [+heavy]
+ s? @consonant? @continuant? {@vowel&[+syllabic] @continuant? @consonant, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
+ @consonant? [approximant]? @vowel&[+syllabic] => [+heavy] / _ @consonant&[+long]
+ @consonant? [approximant]? @vowel&[+syllabic] => [-heavy]
+ s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant} _ @consonant&[+long]
+ s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant} _
+
+approximantisation:
+ {v, vː} => {w, wː}
+ {z, zː} => {r, rː}
+ {l, lː} => {r, rː}
+ then: {rl, lr} => {rː, lː}
+
+breathy-frication:
+ [+breathy plosive] => [fricative -breathy]
+ then: [labial fricative] => [labiodental]
+ then: {ɣ, ɣː} => {j, jː}
+ then: [+breathy !nasal] => [-breathy]
+
+romanizer-proto-northern:
  unchanged
-
-stress-marking:
- @vowel&[+syllabic +stress] => [hightone]
 
 syllables:
  clear
@@ -450,11 +324,11 @@ romanizer:
  [nasal $Place] => n / _ @consonant&[$Place]
  )
  then: [dental plosive] => [alveolar]
+ then: [+breathy] * => [-breathy] h
  then: (
- {ǽ, ɒ́, ý, ɯ́, ǿ, ɤ́} => {a̋, á, ű, i̋, ő, e̋}
- {æ, ɒ, y, ɯ, ø, ɤ} => {ä, a, ü, ï, ö, ë}
+ {x, ŋg, ŋ} => {kh, n'g, ng}
+ {θ, ð} => {th, dh}
  )
- then: {θ, x, ɰ, ng, ŋ, ɻ, ts, s / {@vowel, $} _ {@vowel, $}, ʂ} => {th, kh, ÿ, n'g, ng, r, z, sz, s}
- then: {d͡ʐ, t͡ʂ, ɖ, ʈ} => {dz, ts, rd, rt}
- then: {c, ɟ, ç, ʝ, j, ʎ, ɲ} => {c, j, ch, jh, y, ly, ny}
- then: {h, z, g, y} => * / @consonant$1 _ $1
+ then: {ŷ, y, ɯ̂, ɯ} => {ü̂, ü, ï̂, ï}
+ then: {d͡ʒ, t͡ʃ, ʒ, ʃ, ɲ, ʎ, j} => {dj, tc, j, c, ny, ly, y}
+ then: {j, c, h, y, l, g}$1 => * / []$2 _ $2 $1

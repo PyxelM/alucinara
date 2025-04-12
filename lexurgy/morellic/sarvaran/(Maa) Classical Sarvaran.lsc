@@ -237,6 +237,7 @@ deromanisation:
  {[plosive +voiced], [nasal], [lateralapproximant]} h => [+breathy] *
  {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, {ï̂, ï̂}, {ü̂, ü̂}, {ï, ï}, {ü, ü}} => {aː, eː, iː, oː, uː, ɯː, yː, ɯ, y}
  )
+ then: [alveolar plosive] => [dental]
  then: (
  h => *
  * => h / @vowel _ @vowel
@@ -265,12 +266,6 @@ syllables:
 syllables:
  explicit
 
-lateral-nasal-gemination:
- {[lateralapproximant $breathy $Place] [nasal $breathy $Place], [lateralapproximant $Place] / _ [$Place nasal]} => {* [+long], [nasal]}
-
-dentalisation:
- [alveolar]&!@continuant => [dental]
-
 syllables:
  @consonant? [approximant]? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy]
  s? @consonant? @continuant? {@vowel&[+syllabic] {@vowel&[-syllabic], {@vowel&[-syllabic]}? @continuant? @consonant}, @vowel&[+syllabic +long]} => [+heavy] / {$, @consonant} _
@@ -278,10 +273,6 @@ syllables:
  @consonant? [approximant]? @vowel&[+syllabic] => [-heavy]
  s? @consonant? @continuant? @vowel&[+syllabic] => [+heavy] / {$, @consonant} _ @consonant&[+long]
  s? @consonant? @continuant? @vowel&[+syllabic] => [-heavy] / {$, @consonant} _
-
-length-attribution-assimilation:
- []$1 $1 => [+long] *
- {[nasal], [lateralapproximant]} {[nasal], [lateralapproximant]} => * [+long]
 
 palatalisation:
  {ɣ, ɣː} => {j, jː}
@@ -317,7 +308,7 @@ breathy-frication:
  then: {ɣ, ɣː} => {j, jː}
  then: [+breathy !nasal] => [-breathy]
 
-romanizer-old-sarvaran:
+romanizer-proto-northern:
  unchanged
 
 palatalisation-2:
@@ -341,7 +332,7 @@ nasalisation-and-vowel-loss:
  {j, w} @vowel&[-long low] => {e, o} * / @consonant _ $
  {j, w} @vowel&[-long highmid] => {i, u} * / @consonant _ $
  {ih, uh} => {j, w} / @consonant _ @vowel
- @vowel&[-long] => * / @vowel @continuant? @consonant _ $ // {$ @consonant? @continuant? @vowel&[-long] @consonant, @consonant&[+long], [approximant]} _
+ @vowel&[-long] => * / @vowel @continuant? @consonant _ $ // {$ @consonant? @continuant? @vowel&[-long] @consonant, @consonant&[+long], [approximant], [palatal]} _
  [-breathy nasal -long $Place] => * / @vowel _ // _ {@vowel, [plosive $Place]}
  @vowel&[+long] => [-long] / _ $
  )
@@ -368,23 +359,21 @@ syllables:
 stress defer:
  [] => [-stress notone]
  then: (
- <syl>&[+heavy] => [+stress] // {<syl>&[+heavy] {<syl>&[-heavy]}* _, $ _}
- else: <syl>&[+heavy] => [+stress] / $ <syl>&[+heavy] _
- else: <syl>&[+heavy] => [+stress] / _ <syl>&[-heavy] $
- else: <syl>&[+heavy] => [+stress] / _ $
+ <syl> => [+stress] / _ <syl>&[-heavy] $
+ else: <syl>&[+heavy] => [+stress] // {<syl>&[+heavy] {<syl>&[-heavy]}* _}
  else: <syl> => [+stress] / _ <syl> $
+ else: <syl> => [+stress] / $ _
  )
  then propagate: (
  <syl>&[+heavy] => [+stress] / {<syl>&[+stress] {<syl>&[-stress]}*2 _, _ {<syl>&[-stress]}*2 <syl>&[+stress]} // _ $
- else: <syl> => [+stress] / {<syl>&[+stress] <syl>&[-stress] _, _ <syl>&[-stress] <syl>&[+stress]} // {$ _ <syl>*3, _ $}
+ else: <syl> => [+stress] / {<syl>&[+stress] <syl>&[-stress] _, _ <syl>&[-stress] <syl>&[+stress]}
  )
  then: <syl> => [-stress] / _ $ // $ {<syl>&[-stress]}* _
- then: <syl> => [-stress] / $ _ $
 
 stress-1:
  :stress
 
-romanizer-middle-sarvaran:
+romanizer-old-sarvaran:
  unchanged
 
 long-vowel-shift:
