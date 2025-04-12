@@ -1,5 +1,5 @@
 ---
-title: Kerelh
+title: Kherelh
 tags:
   - planets
   - locations
