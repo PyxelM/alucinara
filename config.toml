@@ -1,11 +1,10 @@
-baseURL = "https://book.pyxelm.xyz/"
+baseURL = "https://book.skuryu.xyz/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
-    "/content/private/*",
-    "/content/lore/2nd-realm/kherell-history.md"
+    "/content/private/*"
 ]
 summaryLength = 20
 paginate = 25
