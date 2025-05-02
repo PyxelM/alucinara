@@ -5,14 +5,14 @@ tags:
   - pseudo-fauna
 ---
 ## Overview
-Cloud Gnats are animal-like apparitions made of [aluciferous](lore/cosmology/alucinara.md) dust. They commonly appear as small animals, standing upright with their abdomen tapering off into a wispy tail. They retain cohesion through the influence of Alucinara, but diffuse once the energy is unable to sustain cohesion.
+Cloud Gnats are animal-like apparitions made of [aluciferous](cosmology/alucinara.md) dust. They commonly appear as small animals, standing upright with their abdomen tapering off into a wispy tail. They retain cohesion through the influence of Alucinara, but diffuse once the energy is unable to sustain cohesion.
 
 They can pose a violent threat, as their crystalline claws or teeth can cause lacerations, infection, and a risk of phantasmarrhoea if a shard of Alucinarium were to break off in the wound.
 
 ![Cloud Gnat](images/cloud-gnat.png)
 
 ## Appearance
-Cloud Gnats appear translucent, dusty and purple, with an average length of 22cm. They take the form of animals due to the [pseudo-fauna principle](phenomena/pseudo-fauna-principle.md), with arms, a head, a torso, and a tail. In addition, they sometimes exhibit dark-purple [Alucinarium](lore/cosmology/alucinara.md) crystals in the place of eyes, claws, or teeth, with a solid appearance which stands out against their bodies' dusty material.
+Cloud Gnats appear translucent, dusty and purple, with an average length of 22cm. They take the form of animals due to the [pseudo-fauna principle](phenomena/pseudo-fauna-principle.md), with arms, a head, a torso, and a tail. In addition, they sometimes exhibit dark-purple [Alucinarium](cosmology/alucinara.md) crystals in the place of eyes, claws, or teeth, with a solid appearance which stands out against their bodies' dusty material.
 
 In addition to their dusty purple appearance, they also exhibit orange sparks of light from within and around their main body. In fact, some cloud gnats may feature floating emissive bulbs in front of where their eyes would be.
 

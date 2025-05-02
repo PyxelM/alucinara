@@ -5,11 +5,11 @@ tags:
   - cosmology
 ---
 ## Overview
-The realms are the planes of existence within which one can exist and manipulate matter, energy, and information. There are 8 realms; the 7 corporeal realms, and the Dreamscape. The realms were originally created in the Shattering - an event early in creation that resulted in the fracture of the original creation into the 7 corporeal realms upon the deaths of the [Judges](lore/cosmology/celestial-beings/the-judges.md).
+The realms are the planes of existence within which one can exist and manipulate matter, energy, and information. There are 8 realms; the 7 corporeal realms, and the Dreamscape. The realms were originally created in the Shattering - an event early in creation that resulted in the fracture of the original creation into the 7 corporeal realms upon the deaths of the [Judges](cosmology/celestial-beings/the-judges.md).
 ## The Dreamscape
-The dreamscape is the incorporeal realm in which the [Angels](lore/cosmology/celestial-beings/the-angels.md) and the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md) reside. It lacks physical form, and can be accessed through the use of [alucinara](lore/cosmology/alucinara.md) energy to store and recall information, also forming the basis of consciousness and the [soul](lore/cosmology/darkness.md).
+The dreamscape is the incorporeal realm in which the [Angels](cosmology/celestial-beings/the-angels.md) and the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md) reside. It lacks physical form, and can be accessed through the use of [alucinara](cosmology/alucinara.md) energy to store and recall information, also forming the basis of consciousness and the [soul](cosmology/darkness.md).
 
-The Dreamscape can be accessed with [alucinara](lore/cosmology/alucinara.md) through spellcasting, ritual hallucination, dreams, and prayer. In some religions, only spiritual leaders are permitted to access it purposefully, and prophets are known to recieve revelations through it.
+The Dreamscape can be accessed with [alucinara](cosmology/alucinara.md) through spellcasting, ritual hallucination, dreams, and prayer. In some religions, only spiritual leaders are permitted to access it purposefully, and prophets are known to recieve revelations through it.
 ## The Realms
 There are 7 corporeal realms. The amount of alucinara energy immanent to each realm differs, increasing with intensity as one travels further from the centre. The central 0th realm contains the least amount of alucinara energy and the 3rd and -3rd contain the most.
 

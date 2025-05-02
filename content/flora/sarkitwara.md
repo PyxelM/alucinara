@@ -8,7 +8,7 @@ tags:
 ## Overview
 Sarkitwara is a type of citron fruit, the fruit of the Sarkitwara tree. Sarkitwara trees are native to the mediterranean and hot wilderness regions of the [2nd](lore/2nd-realm.md) and 1st realms, and are a common food item for their cohabitant fauna.
 ## Appearance
-Sarkitwara are similar to oranges, with a yellow-orange bumpy shape, around 3cm in diameter. When unripe, they are small and green, and emit bright flashes of [alucinariferous](lore/cosmology/alucinara.md) light in order to stun those who may wish to eat them before they are ready to germinate.
+Sarkitwara are similar to oranges, with a yellow-orange bumpy shape, around 3cm in diameter. When unripe, they are small and green, and emit bright flashes of [alucinariferous](cosmology/alucinara.md) light in order to stun those who may wish to eat them before they are ready to germinate.
 
 Sarkitwara are divided into 3 to 6 segments, with each section featuring a smooth, hard, back seed at its centre. The segments are easily separatable, and do not require to be peeled to do so, as they tear at the seams and separate from the flesh without much force.
 

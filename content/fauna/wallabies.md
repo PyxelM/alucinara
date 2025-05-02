@@ -9,6 +9,6 @@ Wallabies are a species of marsupials native to the 1st and [2nd](lore/2nd-realm
 ## Appearance
 Wallabies can reach a length of 45 cm from snout to tial at maturity. They have two large, bulky legs which they use to hop around, a thick, sturdy tail, and two short arms with sharp claws. Their fur is generally short and brown to white in colour to blend into their habitats.
 ## Behaviour
-Wallabies are violent and mate for life. Males often fight one another to assert dominance and impress females, using their powerful legs and sharp claws in battle. Furthermore, [alucinara](lore/cosmology/alucinara.md) use is shown in some individuals who utilise the energy to hurl stones at aggressors.
+Wallabies are violent and mate for life. Males often fight one another to assert dominance and impress females, using their powerful legs and sharp claws in battle. Furthermore, [alucinara](cosmology/alucinara.md) use is shown in some individuals who utilise the energy to hurl stones at aggressors.
 ## Predators
 Wallabies are naturally hunted by [wildcats](fauna/wildcats.md) and sometimes by large packs of [wolfrats](fauna/wolfrats.md) and groups of [minikin](fauna/minikin.md), especially by hunter-gatherers targetting infant wallabies.

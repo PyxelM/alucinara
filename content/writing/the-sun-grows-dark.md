@@ -17,9 +17,9 @@ tags:
 `keɬ eˈjã́n ˈás.t̪ə.rɪɬ ˈlí.sə eˈjá.pɐ̃.rɐθ`
 ### Translation
 We watch as the sun grows dark  
-and the time for [Angels](lore/cosmology/celestial-beings/the-angels.md) arrives.  
-We ponder over all the [Judges](lore/cosmology/celestial-beings/the-judges.md)' works,  
-and give thanks to the [Petrified Child](lore/cosmology/celestial-beings/the-petrified-child.md).
+and the time for [Angels](cosmology/celestial-beings/the-angels.md) arrives.  
+We ponder over all the [Judges](cosmology/celestial-beings/the-judges.md)' works,  
+and give thanks to the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md).
 ### Gloss
 `1.PL-watch all.like 3.DEI-darken-INCH sun`  
 `and angel-PL 3.DEI-time 3.SG-arrive`  
