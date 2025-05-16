@@ -239,7 +239,7 @@ deromanisation:
  )
  then: [alveolar plosive] => [dental]
  then: (
- h => *
+ {h, \(, \)} => *
  * => h / @vowel _ @vowel
  )
  then: \' => *
@@ -281,8 +281,6 @@ palatalisation:
  [fricative alveolar] j => [postalveolar] *
  @sonorant&[alveolar !trill] j => [palatal] *
  )
- then: [back] => [front] / _ [palatal]
- then: [front +rounded highmid] => [high]
 
 velar-vocalisation:
  {gʱ, gʱː} => {ɯ, ɯː} // {@vowel _, _ @vowel}
