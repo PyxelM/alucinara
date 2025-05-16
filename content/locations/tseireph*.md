@@ -2,6 +2,8 @@
 title: Tseireph
 tags:
   - locations
+  - qherelh
+  - 2nd-realm
   - continents
 ---
 ## Overview

@@ -1,7 +1,10 @@
 ---
-title: title
+title: Qherelh
 tags:
-  - meta
+  - locations
+  - qherelh
+  - 2nd-realm
+  - planet
 ---
 ## Overview
 Qherelh is a planet in the [2nd realm](locations/2nd-realm*.md), orbiting around the star Cadra. Qherelh has two moons, the larger Ena, and the smaller Udru. It has 5 continental landmasses, north and south [Tseireph](locations/tseireph*.md), north and south of the eastern continent, and the southwestern continent.
