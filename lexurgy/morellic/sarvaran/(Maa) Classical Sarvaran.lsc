@@ -231,17 +231,21 @@ Element labial {[labiodental], [labial]}
 Element lax @vowel&{[nearfront], [nearhigh], [nearlow central]}
 Element nonlax @vowel&!{[nearfront], [nearhigh], [nearlow central]}
 
-deromanisation:
+deromanisation-1:
  {ng, y, kh} => {ŋ, ɣ, x}
  then: (
  {[plosive +voiced], [nasal], [lateralapproximant]} h => [+breathy] *
  {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, {ï̂, ï̂}, {ü̂, ü̂}, {ï, ï}, {ü, ü}} => {aː, eː, iː, oː, uː, ɯː, yː, ɯ, y}
  )
  then: [alveolar plosive] => [dental]
- then: (
+
+contraction:
+ \-ɣu => \-ɣ / @vowel _
+ \-ne => \-n / @vowel _
+
+deromanisation-2:
  {h, \(, \)} => *
  * => h / @vowel _ @vowel
- )
  then: \' => *
 
 assimilation defer:
@@ -324,14 +328,14 @@ assimilation-1:
  :assimilation
 
 nasalisation-and-vowel-loss:
- @vowel* => [+nasalised] / _ [nasal]
+ @vowel* [approximant]? => [+nasalised] [] / _ [nasal]
  then: (
  {ji, wu} => {iː, uː} / @consonant _ $
  {j, w} @vowel&[-long low] => {e, o} * / @consonant _ $
  {j, w} @vowel&[-long highmid] => {i, u} * / @consonant _ $
  {ih, uh} => {j, w} / @consonant _ @vowel
  @vowel&[-long] => * / @vowel @continuant? @consonant _ $ // {$ @consonant? @continuant? @vowel&[-long] @consonant, @consonant&[+long], [approximant], [palatal]} _
- [-breathy nasal -long $Place] => * / @vowel _ // _ {@vowel, [plosive $Place]}
+ [-breathy nasal -long $Place] => * / @vowel&[+nasalised] [approximant]? _ // _ {@vowel, [plosive $Place]}
  @vowel&[+long] => [-long] / _ $
  )
  then: (
