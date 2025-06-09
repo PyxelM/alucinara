@@ -230,22 +230,23 @@ Element laryngeal {[glottal], [epiglottal], [pharyngeal]}
 Element labial {[labiodental], [labial]}
 Element lax @vowel&{[nearfront], [nearhigh], [nearlow central]}
 Element nonlax @vowel&!{[nearfront], [nearhigh], [nearlow central]}
+Element vowelglyph {{a, â, â}, {e, ê, ê}, {i, î, î}, {o, ô, ô}, {u, û, û}, {ï̂, ï̂}, {ü̂, ü̂}, {ï, ï}, {ü, ü}}
+
+contraction:
+ \-yu => \-y / @vowelglyph _
+ \-ne => \-n / @vowelglyph _
+ sayamu => sayam
 
 deromanisation-1:
- {ng, y, kh} => {ŋ, ɣ, x}
+ {ng, y} => {ŋ, ɣ}
  then: (
  {[plosive +voiced], [nasal], [lateralapproximant]} h => [+breathy] *
  {{â, â}, {ê, ê}, {î, î}, {ô, ô}, {û, û}, {ï̂, ï̂}, {ü̂, ü̂}, {ï, ï}, {ü, ü}} => {aː, eː, iː, oː, uː, ɯː, yː, ɯ, y}
  )
+ then: h => x
  then: [alveolar plosive] => [dental]
-
-contraction:
- \-ɣu => \-ɣ / @vowel _
- \-ne => \-n / @vowel _
-
-deromanisation-2:
- {h, \(, \)} => *
- * => h / @vowel _ @vowel
+ then: {\(, \)} => *
+ then: * => h / @vowel _ @vowel
  then: \' => *
 
 assimilation defer:
