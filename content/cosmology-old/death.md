@@ -5,9 +5,9 @@ tags:
   - death
 ---
 ## Overview
-Death is the ceasing of life, resulting in the shutting down of the body and the ascention of the [soul](cosmology/darkness.md). It occurs as a result of age, illness, or any other fatal cause, such as thirst or starvation. Death is often feared or venerated, and is an inevitability of life in every living being.
+Death is the ceasing of life, resulting in the shutting down of the body and the ascention of the [soul](cosmology-1/darkness.md). It occurs as a result of age, illness, or any other fatal cause, such as thirst or starvation. Death is often feared or venerated, and is an inevitability of life in every living being.
 ## The Soul
-Upon death, the soul 'ascends.' Ascension is a process that causes the soul to be shifted into the [Dreamscape](cosmology/the-realms.md), where its consciousness will be contained for eternity, and the body is left devoid of the soul that once gave it life.
+Upon death, the soul 'ascends.' Ascension is a process that causes the soul to be shifted into the [Dreamscape](cosmology-1/the-realms.md), where its consciousness will be contained for eternity, and the body is left devoid of the soul that once gave it life.
 ### Soulstones
 [Soulstones](phenomena/soulstones.md) are objects made of asphalt or bitumen which are used to contain the soul shortly after death, circumventing the process of ascention. They are used in many cultures as a keepsake of the departed's life.
 ### Alucinara and Departed Souls

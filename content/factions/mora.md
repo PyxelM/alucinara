@@ -6,7 +6,7 @@ tags:
   - morellic
 ---
 ## Overview
-The Mora were a late neolithic tribe of pastoralist-nomadic [minikin](fauna/minikin.md) native to the steppes of [Tseireph](locations/tseireph*.md) in the [2nd realm](locations/2nd-realm*.md), belonging to the [Morellic](groups/morellic*.md) culture. They had brown skin and were largely hairless with an eye colour ranging from emerald to hazel, lived in matriarchal communities, and spoke a language reconstructed as [Proto-Morellic](languages/proto-morellic.md).
+The Mora were a late neolithic tribe of pastoralist-nomadic [minikin](fauna/minikin.md) native to the steppes of [Tseireph](locations/tseireph*.md) in the [2nd realm](locations/2nd-realm*.md), belonging to the [Morellic](factions/morellic*.md) culture. They had brown skin and were largely hairless with an eye colour ranging from emerald to hazel, lived in matriarchal communities, and spoke a language reconstructed as [Proto-Morellic](languages/proto-morellic.md).
 ## Societal Structure
 The Mora lived in matriarchal communities, led by the matriarch - an elder woman who had usually proven herself in battle or a similar great feat, and been chosen by the consensus of her group. These communities were largely familial, with males leaving at maturity to marry into other communities.
 ### Gender Roles

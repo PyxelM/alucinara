@@ -23,4 +23,4 @@ and now all order earth forgot.
 And every force of nature showed  
 the shattered ways the crystal glowed.*
 ### Notes
-This poem was written in 2023, and focusses on the nature of the cosmos in the book; especially musing on the existence of [alucinara](cosmology/alucinara.md) and the shattered realms. It was written in Iambic Tetrameter with a rhyming scheme of AA BABA.
+This poem was written in 2023, and focusses on the nature of the cosmos in the book; especially musing on the existence of [alucinara](cosmology-1/alucinara.md) and the shattered realms. It was written in Iambic Tetrameter with a rhyming scheme of AA BABA.

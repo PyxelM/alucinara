@@ -1,15 +1,12 @@
 ---
-title: Darkness
+title: darkness
 tags:
-  - lore
   - darkness
+  - alucinara
   - cosmology
+  - phenomena
 ---
 ## Overview
-Darkness is an extraneous form of energy which forms the foundation of the soul alongside [alucinara](cosmology/alucinara.md) energy. Darkness is contained within organic compounds (hydrocarbons, tar, amino acids, etc.) and makes up an essential part of living beings, contained within the very fabric of carbon-based life.
+Darkness is a form of energy used to give life to inanimate matter. It is vital in the existence of life and the soul. Without Darkness, a being cannot be alive, and without [alucinara](cosmology/alucinara.md), a being cannot be conscious. It can be stored within hydrocarbons, such as tar, amino acids, and other organic compounds.
 ## The Soul
-Darkness interacts with [alucinara](cosmology/alucinara.md) energy to create the soul. Alucinara allows the dreamscape to store and recall information to manipulate reality, and Darkness bridges the dreamscape through alucinara to the body. Without either of the two elements, the soul cannot exist, and so a living being cannot be conscious.
-## Appearance
-Darkness lacks a solid appearance, as it is made up of metaphysical particles known as Darknons. However, in high enough concentrations, Darknons absorb light, resulting in a shadowy appearance. Darknons alone are unstable, and evaporate into thermal energy when not contained.
-## See Also
-- [Alucinara Energy](cosmology/alucinara.md)
+'The Soul' is the term given to the phenomena of Darkness creating the thoughts, identity, and lived experience of a living being. Darkness is most volatile when stored within the body of living things, through amino acids and proteins, in which state it can assume control of the bodily vessel. It is most inert when stored in non-living hydrocarbons, such as naturally occurring tar or bitumen.

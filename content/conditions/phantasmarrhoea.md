@@ -7,7 +7,7 @@ tags:
 ## Overview
 Phantasmarrhoea (**Sarvaran**: *Fantasmeyolh* ) is a physiological condition that affects living beings. It causes those affected, known as Phantasms, to experience irreversable physical and mental effects, leading to the growth of Alucinarium on the body and psychosis.
 ## Contraction
-Phantasmarrhoea is contracted through exposure to more [Alucinara energy](cosmology/alucinara.md) than the body can handle, varying depending on the levels of exposure and one's immunity to the adverse effects of Alucinara.
+Phantasmarrhoea is contracted through exposure to more [Alucinara energy](cosmology-1/alucinara.md) than the body can handle, varying depending on the levels of exposure and one's immunity to the adverse effects of Alucinara.
 ## Symptoms
 The many symptoms of Phantasmarrhoea are marked by:
 - The accumulation of Alucinarium in the body and on the skin
