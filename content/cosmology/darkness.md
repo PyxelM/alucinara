@@ -1,5 +1,5 @@
 ---
-title: darkness
+title: Darkness
 tags:
   - darkness
   - cosmology
