@@ -7,7 +7,7 @@ tags:
 ## Overview
 The realms are the planes of existence within which one can exist and manipulate matter, energy, and information. There are 8 realms; the 7 corporeal realms, and the Dreamscape. The realms were originally created in the Shattering - an event early in creation that resulted in the fracture of the original creation into the 7 corporeal realms upon the deaths of the [Judges](cosmology-1/celestial-beings/the-judges.md).
 ## The Dreamscape
-The dreamscape is the incorporeal realm in which the [Angels](cosmology-1/celestial-beings/the-angels.md) and the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md) reside. It lacks physical form, and can be accessed through the use of [alucinara](cosmology-1/alucinara.md) energy to store and recall information, also forming the basis of consciousness and the [soul](cosmology-1/darkness.md).
+The dreamscape is the incorporeal realm in which the [Angels](cosmology-1/celestial-beings/the-angels.md) and the [Petrified Child](cosmology/deities/the-petrified-child.md) reside. It lacks physical form, and can be accessed through the use of [alucinara](cosmology-1/alucinara.md) energy to store and recall information, also forming the basis of consciousness and the [soul](cosmology-1/darkness.md).
 
 The Dreamscape can be accessed with [alucinara](cosmology-1/alucinara.md) through spellcasting, ritual hallucination, dreams, and prayer. In some religions, only spiritual leaders are permitted to access it purposefully, and prophets are known to recieve revelations through it.
 ## Cross-realm Travel

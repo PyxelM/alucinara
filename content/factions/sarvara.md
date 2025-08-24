@@ -11,11 +11,11 @@ Sarvara was a [Morellic](factions/morellic*.md) [city](locations/sarvara-(city).
 ## History
 The earliest records of habitation in the surrounding region of the city of Sarvara come from the [Diira](factions/diira*.md), who established an early farming community and religious centre known as Sabelin. The settlement was abandoned during the conflicts of the [Morellic Migration](events/morellic-migration*.md), and ultimately resettled by the Sarvarans.
 
-Sarvara became the most prominent and innovative power of Bronze Age [Tseireph](locations/tseireph*.md), a centre of science, art, and religion for centuries until its collapse 2 millenia after being founded. The civilisation of Sarvara was succeeded by the [Corothic](factions/coroth.md) [Empire of the Petrified Child](factions/empire-of-the-petrified-child.md).
+Sarvara became the most prominent and innovative power of Bronze Age [Tseireph](locations/tseireph*.md), a centre of science, art, and religion for centuries until it was burnt by the [Aqhorans](factions/aqhor). The civilisation of Sarvara was succeeded by the [Corothic](factions/coroth.md) [Empire of the Petrified Child](factions/empire-of-the-petrified-child.md).
 ## Societal Structure
 The Sarvarans lived in semi-arboreal cities and villages led by noble matriarchs, who were given power and influence over certain regions by their suzerains. The society was led by the High Matriarch, who held the monarchal, hereditary role of power over the whole of Sarvaran civilisation.
 ### Religion
-The religion of Sarvara was largely monotheistic, centred around the deity of the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md). However, the [Angels](cosmology-1/celestial-beings/the-angels.md) were also venerated, and often called upon in times of need. The nobles of Sarvara often held priestly roles, with power centralised in the temples.
+The religion of Sarvara was largely monotheistic, centred around the deity of the [Petrified Child](cosmology/deities/the-petrified-child.md). However, the [Angels](cosmology-1/celestial-beings/the-angels.md) were also venerated, and often called upon in times of need. The nobles of Sarvara often held priestly roles, with power centralised in the temples.
 ### Gender Roles
 Women held an almost sacred role in Sarvaran society, with adult women required to shave their heads and perform ritual ablutions twice a day; women performed the roles of spiritual leaders, weavers, and artists. Men were often farmers and labourers, letting their long hair down or tied into buns. Both male and female Sarvaran nobles could dedicate themselves to science and innovation for the sake of their society.
 ### Caste System

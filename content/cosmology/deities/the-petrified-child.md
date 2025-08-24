@@ -5,7 +5,6 @@ tags:
   - cosmology
   - deities
   - the-petrified-child
-  - the-judges
 ---
 ## Overview
 The Petrified Child is a semi-corporeal deity which is worshipped in many monotheistic and polytheistic religions, and can reside within both the corporeal realms and the dreamscape. The child inherits its existence from the [Judges](cosmology-1/celestial-beings/the-judges.md), serving as their heir and the protector of all things natural and holy, destroying all things that would desecrate the cosmos[^1], which it sees as evil.

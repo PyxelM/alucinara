@@ -13,4 +13,4 @@ Upon death, the soul 'ascends.' Ascension is a process that causes the soul to b
 ### Alucinara and Departed Souls
 Alucinara can be used in order to access the memories contained within the dreamscape or soulstones. This can occur spontaneously in areas of high alucinarium content, or through purposeful magic use, resulting in apparitions of light or particulate matter that reenact the information being recalled.
 ## The Body
-Upon death, the body will decay or rot. Similar to [Baby Meadows](cosmology/celestial-beings/the-petrified-child.md), this allows for the body of a living being to be incorporated back into the natural world and allow it to proliferate and thrive. Decay is an essential part of ecosystems, resulting in processes such as soil formation and land fertilisation.
+Upon death, the body will decay or rot. Similar to [Baby Meadows](cosmology/deities/the-petrified-child.md), this allows for the body of a living being to be incorporated back into the natural world and allow it to proliferate and thrive. Decay is an essential part of ecosystems, resulting in processes such as soil formation and land fertilisation.

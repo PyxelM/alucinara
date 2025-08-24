@@ -18,6 +18,6 @@ They use [alucinara](cosmology-1/alucinara.md) to induce hallucinations and flas
 ## Use
 Widren feathers are often collected and used as decoration in textiles and high-class clothing, and are commonly seen in the clothes of royals and nobles. Their talons are also used in tools for slicing and cutting in the textiles and farming industries.
 ## Veneration
-Many [minikin](fauna/minikin.md) cultures revere, worship, venerate, and fear widrens, as minikin are a prey animal of the black owls. It has been seen that some Minikin cultures adapted their perception of the [Petrified Child](cosmology/celestial-beings/the-petrified-child.md) to align better with their perception of Widrens, seeing it rather as a black owl than a stone child.
+Many [minikin](fauna/minikin.md) cultures revere, worship, venerate, and fear widrens, as minikin are a prey animal of the black owls. It has been seen that some Minikin cultures adapted their perception of the [Petrified Child](cosmology/deities/the-petrified-child.md) to align better with their perception of Widrens, seeing it rather as a black owl than a stone child.
 ## Diet
 Widren are carnivores, consuming a diet of medium to small sized aniamals, including young minikin, other rodents and mammals, amphibians, lizards, and other birds' eggs and young.
