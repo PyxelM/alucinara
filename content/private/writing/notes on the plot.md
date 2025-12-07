@@ -1,7 +1,7 @@
 ## Main Characters
 ### Blueberry
 Name: Blueberry
-Species: [Slugfolk](fauna/slugfolk.md)
+Species: [Slugfolk](private/fauna-old/slugfolk.md)
 Age: Elder
 Status: Alive
 Gender: Neuter (they / it)

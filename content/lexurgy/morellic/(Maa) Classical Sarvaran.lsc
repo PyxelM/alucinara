@@ -235,7 +235,7 @@ Element vowelglyph {{a, â, â}, {e, ê, ê}, {i, î, î}, {o, ô, ô}, {u, 
 contraction:
  \-yu => \-y / @vowelglyph _
  \-ne => \-n / @vowelglyph _
- sayam\(u\) => sayam
+ syamu => *
 
 deromanisation-1:
  {ng, y, r} => {ŋ, ɣ, z}
@@ -255,6 +255,7 @@ assimilation defer:
 
 lengthening defer:
  []$1 $1 => * [+long]
+ [nasal] [nasal] => * [+long]
 
 lengthening:
  :lengthening
@@ -314,17 +315,21 @@ romanizer-proto-northern:
 palatalisation-2:
  [alveolar fricative] => [postalveolar] / @sonorant&![nasal] _ @vowel
  then: (
- [dental plosive +long] [front high -long -rounded] => [postalveolar affricate] [highmid] / _ $
- [alveolar fricative +long] [front high -long -rounded] => [postalveolar] [highmid] / _ $
- [alveolar !trill +long] [front high -long -rounded] => [palatal] [highmid] / _ $
- [dental plosive -long] => [postalveolar affricate] / _ [front high -long -rounded] $
- [alveolar fricative -long] => [postalveolar] / _ [front high -long -rounded] $
- [alveolar !trill -long] => [palatal] / _ [front high -long -rounded] $
+ [dental plosive +long] [front high -long -rounded] => [postalveolar affricate] [highmid] / _ $ // $ {@vowel*}? _
+ [alveolar fricative +long] [front high -long -rounded] => [postalveolar] [highmid] / _ $ // $ {@vowel*}? _
+ [alveolar !trill +long] [front high -long -rounded] => [palatal] [highmid] / _ $ // $ {@vowel*}? _
+ [dental plosive -long] => [postalveolar affricate] / _ [front high -long -rounded] $ // $ {@vowel*}? _
+ [alveolar fricative -long] => [postalveolar] / _ [front high -long -rounded] $ // $ {@vowel*}? _
+ [alveolar !trill -long] => [palatal] / _ [front high -long -rounded] $ // $ {@vowel*}? _
  )
 
 assimilation-1:
  :assimilation
  then: :lengthening
+
+labialisation:
+ [velar fricative] [velar +labialised approximant] => [labiodental] *
+ [velar] [velar +labialised approximant] => [labial] *
 
 nasalisation-and-vowel-loss:
  @vowel* [approximant]? => [+nasalised] [] / _ [nasal]
@@ -448,7 +453,6 @@ romanizer-preclassical-sarvaran:
 
 dissimilation:
  {[alveolar nasal], [alveolar trill]}$1 => [lateralapproximant] / _ @vowel* $1 // $ {@vowel*}? _
- then: [palatal !approximant] => [alveolar] / _ [high front]
 
 delengthening:
  @vowel&[+long] => [-long]

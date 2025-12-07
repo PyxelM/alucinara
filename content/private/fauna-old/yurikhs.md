@@ -12,6 +12,6 @@ Yurikhs are 30-45cm tall at the shoulder when mature, with a saiga/tapir-like sn
 ## Behaviour
 Yurikhs travel in herds, and protect their young with their lives. They use their large nasal cavity as a resonance chamber, allowing them to amplify their calls across mountainous areas and vast steppes. Furthermore, they use their sharp antlers to challenge mating opponents and predators, but are more likely to flee when given the option.
 ## Domestication
-Some yurikhs were domesticated by some [minikin](fauna/minikin.md) and [Slugfolk](fauna/Slugfolk.md) groups, and kept as livestock, with their fur used as wool in textiles and their meat used in food. Furthermore, they were sometimes used as mounts, allowing those they trust to ride them.
+Some yurikhs were domesticated by some [minikin](fauna/minikin.md) and [slugfolk](private/fauna-old/slugfolk.md) groups, and kept as livestock, with their fur used as wool in textiles and their meat used in food. Furthermore, they were sometimes used as mounts, allowing those they trust to ride them.
 ## Diet
 Yurikhs are herbivores, subsisting on grass, leaves, bark, nuts, weeds, moss, and fruit. They are allowed to graze by their farmers, and otherwise fed a diet of nuts, moss, and bark.

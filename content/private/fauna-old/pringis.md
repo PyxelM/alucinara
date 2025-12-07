@@ -9,6 +9,6 @@ Pringis, also known as Pygmy Antelopes, are a species of antelope native to the 
 ## Appearance
 Pringis are small, around 25cm in height. They are covered in a thick coat of brown, black, and white fur. Male pringis grow two thin, black antlers for display and defence.
 ## Diet and Predators
-Pringis are herbivorous, consuming a diet of berries, leaves, and grass. Their natural predators include [wildcats](fauna/wildcats.md), [minikin](fauna/minikin.md), and [wolfrats](fauna/wolfrats.md).
+Pringis are herbivorous, consuming a diet of berries, leaves, and grass. Their natural predators include [wildcats](private/fauna-old/wildcats.md), [minikin](fauna/minikin.md), and [wolfrats](private/fauna-old/wolfrats.md).
 ## Husbandry
 Pringis are kept as livestock for their fur, milk, and meat. Pringi fur is commonly used in weaving tunics and trousers, and their milk is often seen as valuable due to the difficulty in attaining large amounts of it.

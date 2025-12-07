@@ -6,7 +6,7 @@ tags:
   - nethic
 ---
 ## Overview
-The Diira were a late neolithic tribe of semi-nomadic [minikin](fauna/minikin.md) native to the mediterranean regions of southern [Tseireph](locations/tseireph*.md) in the [2nd realm](locations/2nd-realm*.md), belonging to the [Nethic](groups/nethic.md) culture. They had light brown skin and lacked much hair, with an eye colour of hazel. They lived in matriarchal communities and spoke a language reconstructed as [Proto-Nethic](languages/proto-nethic.md).
+The Diira were a late neolithic tribe of semi-nomadic [minikin](fauna/minikin.md) native to the mediterranean regions of southern [Tseireph](locations/tseireph.md) in the [2nd realm](locations/2nd-realm*.md), belonging to the [Nethic](groups/nethic.md) culture. They had light brown skin and lacked much hair, with an eye colour of hazel. They lived in matriarchal communities and spoke a language reconstructed as [Proto-Nethic](languages/proto-nethic.md).
 ## Societal Structure
 The Diira lived in familial, migratory comunities led by a matriarchal elder woman who would command, judge, represent, and aid the group in survival and diplomacy. Eunuch shamans would also lead each group in worship, following a form of polytheistic animism.
 ### Gender Roles
