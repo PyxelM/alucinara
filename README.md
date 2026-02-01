@@ -1,1 +1,0 @@
-Copyright Mylo Hodges 2021 - 2024

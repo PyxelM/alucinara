@@ -1,1 +1,0 @@
-{"patterns":[{"name":"V","pattern":"a/e/i/o/u"},{"name":"C","pattern":"p/t/k/b/d/g/v/dh/gh/r/l/w/y/m/n"},{"name":"N","pattern":"v/dh/gh/r/l/u/i/m/n"},{"name":"main","pattern":"(({V}){N}){C}{V}({N})({C}{V})"}],"settings":{"numWords":1000,"newLineEach":true,"filterDuplicates":true}}
