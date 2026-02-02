@@ -11,14 +11,10 @@
             "id": "a8c03f8998eac42e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/coriandra-i.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "coriandra-i"
+              "title": "New tab"
             }
           }
         ]
@@ -146,8 +142,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           },
           {
