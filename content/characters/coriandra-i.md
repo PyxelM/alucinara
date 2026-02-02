@@ -8,29 +8,22 @@ tags:
 
 Coriandra I (Kuryandaran Nêrû) is a semi-mythologised figure of Morellic history. She was a priestess and matriarch of the Moreillu clan of the Mora tribe, and the founder of the House of Coriander. She was born at the end of the neolithic revolution as Minikin began to utilise bronze, farm crops, and keep livestock.
 ## Bio
-Full Name:
-- Old Sarvaran: Morêllun Kuryandaran Pûrunaquiyon eyana
-- Classical Sarvaran: Moréillų Kúryądárą Páurunapíyǫ eyán
-- English: Moreillu Coriandra, daughter of Elkwort
-
-Titles:
-- Coriandra I
-- Priestess and Matriarch of Moreillu
-- High Matriarch of the House of Coriander
-
-Gender: Female
-
-Born: c. 12 PC (Prior to the Coriandric era)
-
-Died: c. 34 YC (Year of the Coriandric era) (aged ~46)
-
-Caste: Priestess Noble
-
-Reign: c. 1 YC - c. 34 YC
-
-Predecessor:
-- Priestess and Matriarch of Moreillu: Elkwort
-- High Matriarch of the House of Coriander: *role established*
+- Full Name:
+	- Old Sarvaran: Morêllun Kuryandaran Pûrunaquiyon eyana
+	- Classical Sarvaran: Moréillų Kúryądárą Páurunapíyǫ eyán
+	- English: Moreillu Coriandra, daughter of Elkwort
+- Titles:
+	- Coriandra I
+	- Priestess and Matriarch of Moreillu
+	- High Matriarch of the House of Coriander
+- Gender: Female
+- Born: c. 12 PC (Prior to the Coriandric era)
+- Died: c. 34 YC (Year of the Coriandric era) (aged ~46)
+- Caste: Priestess Noble
+- Reign: c. 1 YC - c. 34 YC
+- Predecessor:
+	- Priestess and Matriarch of Moreillu: Elkwort
+	- High Matriarch of the House of Coriander: *role established*
 ## Life
 ### Birth
 Coriandra was born in the Autumn of 12 PC to her mother, Priestess and Matriarch of the **Moreillu** clan of the **Mora** tribe, Elkwort (Paurunapiyo), who was aged 16 (24 in human years).
