@@ -22,8 +22,8 @@ Died: c. 34 YC (Year of the Coriandric era) (aged ~46)
 Caste: Priestess Noble
 Reign: c. 1 YC - c. 34 YC
 Predecessor:
-	Priestess and Matriarch of Moreillu: Elkwort
-	High Matriarch of the House of Coriander: *role established*
+- Priestess and Matriarch of Moreillu: Elkwort
+- High Matriarch of the House of Coriander: *role established*
 ## Life
 ### Birth
 Coriandra was born in the Autumn of 12 PC to her mother, Priestess and Matriarch of the **Moreillu** clan of the **Mora** tribe, Elkwort (Paurunapiyo), who was aged 16 (24 in human years).
