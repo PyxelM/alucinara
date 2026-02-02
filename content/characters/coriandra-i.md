@@ -12,10 +12,12 @@ Full Name:
 - Old Sarvaran: Morêllun Kuryandaran Pûrunaquiyon eyana
 - Classical Sarvaran: Moréillų Kúryądárą Páurunapíyǫ eyán
 - English: Moreillu Coriandra, daughter of Elkwort
+
 Titles:
 - Coriandra I
 - Priestess and Matriarch of Moreillu
 - High Matriarch of the House of Coriander
+
 Gender: Female
 Born: c. 12 PC (Prior to the Coriandric era)
 Died: c. 34 YC (Year of the Coriandric era) (aged ~46)
