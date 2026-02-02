@@ -19,10 +19,15 @@ Titles:
 - High Matriarch of the House of Coriander
 
 Gender: Female
+
 Born: c. 12 PC (Prior to the Coriandric era)
+
 Died: c. 34 YC (Year of the Coriandric era) (aged ~46)
+
 Caste: Priestess Noble
+
 Reign: c. 1 YC - c. 34 YC
+
 Predecessor:
 - Priestess and Matriarch of Moreillu: Elkwort
 - High Matriarch of the House of Coriander: *role established*
