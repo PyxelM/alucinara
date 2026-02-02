@@ -1,0 +1,32 @@
+name: Anastasia Hodges
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: true
+enableGitHubEdit: false
+enableMermaid: true
+GitHubLink: https://github.com/pyxelm/alucinara/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  "'Fate' is a dark hard fantasy book and world building project created by Anastasia Hodges."
+page_title:
+  "🪨 Fate"
+links:
+  - link_name: Website
+    link: https://www.skuryu.xyz/
+  - link_name: Youtube
+    link: https://www.youtube.com/channel/UC-83oShBjl-0oR57dzvza2g
+  - link_name: Bandcamp
+    link: https://pyxelm.bandcamp.com
+  - link_name: GitHub
+    link: https://github.com/pyxelm/alucinara
