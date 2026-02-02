@@ -5,9 +5,9 @@ tags:
   - matriarch
   - morellic
 ---
-
-Coriandra I (Kuryandaran Nêrû) is a semi-mythologised figure of Morellic history. She was a priestess and matriarch of the Moreillu clan of the Mora tribe, and the founder of the House of Coriander. She was born at the end of the neolithic revolution as Minikin began to utilise bronze, farm crops, and keep livestock.
 ## Bio
+Coriandra I (Kuryandaran Nêrû) is a semi-mythologised figure of Morellic history. She was a priestess and matriarch of the Moreillu clan of the Mora tribe, and the founder of the House of Coriander. She was born at the end of the neolithic revolution as Minikin began to utilise bronze, farm crops, and keep livestock.
+
 - Full Name:
 	- Old Sarvaran: Morêllun Kuryandaran Pûrunaquiyon eyana
 	- Classical Sarvaran: Moréillų Kúryądárą Páurunapíyǫ eyán
