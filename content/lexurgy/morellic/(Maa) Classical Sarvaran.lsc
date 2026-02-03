@@ -341,6 +341,7 @@ nasalisation-and-vowel-loss:
  [-breathy nasal -long] => * / @vowel&[+nasalised] [approximant]? _ // _ @vowel
  @vowel&[+long] => [-long] / _ $
  )
+ then: [palatal nasal -breathy] => [approximant] / _ $
  then: @vowel&[+long] => [-long] / @vowel&[+long] @consonant* _
  then: h => * // @vowel _ @vowel
  then: [+breathy nasal] => [-breathy]
@@ -375,7 +376,7 @@ romanizer-old-sarvaran:
  unchanged
 
 long-vowel-shift:
- @vowel => [-long] / _ [approximant]
+ @vowel => [-long] / _ {[approximant], @vowel&[-syllabic]}
  then: * @vowel&[+long high] => a [-long -syllabic] // _ {@vowel, [fricative] .}
  then: (
  [front !high +long] * {j, w} => [-long] j {e, u} // _ @vowel
